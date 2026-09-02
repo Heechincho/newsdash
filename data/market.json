@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T20:08:08.417Z",
+  "updatedAt": "2026-09-02T22:38:15.811Z",
   "instruments": [
     {
       "key": "sp500",
@@ -11,6 +11,7 @@
       "currency": "USD",
       "history": [
         7730.990234375,
+        7711.759765625,
         7686.14013671875,
         7631.47021484375,
         7666.60009765625
@@ -43,6 +44,7 @@
       "currency": "USD",
       "history": [
         53569.44140625,
+        53559.98828125,
         53185.8984375,
         52766.87890625,
         53061.94921875
@@ -54,7 +56,7 @@
       "label": "WTI유가",
       "symbol": "CL=F",
       "price": 90.74,
-      "changePercent": 0.576,
+      "changePercent": -0.297,
       "previousClose": 83.4,
       "currency": "USD",
       "history": [
@@ -69,15 +71,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4434.3,
-      "changePercent": 0.862,
+      "price": 4435.3,
+      "changePercent": 0.469,
       "previousClose": 4478.1,
       "currency": "USD",
       "history": [
         4478.10009765625,
         4431.10009765625,
         4348,
-        4434.2998046875
+        4435.2998046875
       ],
       "ok": true
     },
@@ -85,14 +87,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.568,
-      "changePercent": -0.109,
+      "price": 99.577,
+      "changePercent": -0.1,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
-        99.56800079345703
+        99.5770034790039
       ],
       "ok": true
     },
@@ -100,109 +102,109 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.31,
-      "changePercent": -6.304,
+      "price": 15.2,
+      "changePercent": -6.977,
       "previousClose": 14.51,
       "currency": "USD",
       "history": [
         14.510000228881836,
         14.920000076293945,
         16.34000015258789,
-        15.3100004196167
+        15.199999809265137
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "구글, 美법무부의 광고거래소 강제 매각명령 면해",
-      "link": "https://www.hankyung.com/article/202609030659i",
-      "pubDate": "Thu, 03 Sep 2026 00:25:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "윌리엄스 뉴욕연은총재 \"국채금리 급등은 강한 경제의 결과\"",
-      "link": "https://www.hankyung.com/article/202609020648i",
-      "pubDate": "Thu, 03 Sep 2026 00:17:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 추론 시대 열리자 3배 뛴 '이 회사'…월가 \"40% 더 오른다\" [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609020647i",
-      "pubDate": "Wed, 02 Sep 2026 23:48:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유가 하락에 국채 수익률 소폭 내리자…뉴욕증시 반등",
-      "link": "https://www.hankyung.com/article/202609020640i",
-      "pubDate": "Wed, 02 Sep 2026 23:15:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "글로벌 국채금리 '연쇄 쇼크'",
-      "link": "https://www.hankyung.com/article/2026090206161",
-      "pubDate": "Wed, 02 Sep 2026 22:56:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "8월 美 민간고용 눈에 띄게 둔화",
-      "link": "https://www.hankyung.com/article/2026090206121",
-      "pubDate": "Wed, 02 Sep 2026 22:53:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 30년물 국채 5.29%·10년물 4.8%…베선트 '바이백' 약발 끝나",
-      "link": "https://www.hankyung.com/article/202609020581i",
-      "pubDate": "Wed, 02 Sep 2026 22:23:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 8월 민간고용 3만8천명증가 그쳐…예상 밑돌아",
-      "link": "https://www.hankyung.com/article/202609020606i",
-      "pubDate": "Wed, 02 Sep 2026 22:17:21 +0900"
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260903014300011",
+      "pubDate": "Thu, 3 Sep 2026 07:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "직원 등 명의로 110억 차명 예금 새마을금고 이사장 경찰 수사",
-      "link": "https://www.yna.co.kr/view/AKR20260902177900004",
-      "pubDate": "Wed, 2 Sep 2026 22:12:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "러트닉 \"수입 반도체 관세 부과 방안 검토 중\"…또 대미투자 압박",
-      "link": "https://www.hankyung.com/article/202609020591i",
-      "pubDate": "Wed, 02 Sep 2026 21:50:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 서버 '불티'…델, 올해 매출·이익 전망 대폭 상향",
-      "link": "https://www.hankyung.com/article/202609020556i",
-      "pubDate": "Wed, 02 Sep 2026 20:43:26 +0900"
+      "title": "[게시판] 하이브, 콘텐츠 제작 교육 '하이, 하이' 입과식",
+      "link": "https://www.yna.co.kr/view/AKR20260903014100005",
+      "pubDate": "Thu, 3 Sep 2026 07:19:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260902164752002",
-      "pubDate": "Wed, 2 Sep 2026 20:08:56 +0900"
+      "title": "울주군, 55~64세 미취업 신중년 500명에 자격증 취득 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260902149700057",
+      "pubDate": "Thu, 3 Sep 2026 07:07:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[우분투칼럼] 세우타의 파도에 잠긴 모로코 청년들의 미래",
+      "link": "https://www.yna.co.kr/view/AKR20260818029500898",
+      "pubDate": "Thu, 3 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
+      "link": "https://www.yna.co.kr/view/AKR20260902147800030",
+      "pubDate": "Thu, 3 Sep 2026 06:30:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"가성비로 딱 좋아\"…'900원 커피' 제대로 반응 왔다",
-      "link": "https://www.hankyung.com/article/202609029839g",
-      "pubDate": "Wed, 02 Sep 2026 20:06:22 +0900"
+      "title": "임단협 부결 뒤 첫 메시지…SK하이닉스 \"불이익 없도록 할 것\"",
+      "link": "https://www.hankyung.com/article/2026090307317",
+      "pubDate": "Thu, 03 Sep 2026 06:26:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공공임대 1가구당 LH 빚 2.9억…임대확대에 재무부담 커지나",
+      "link": "https://www.yna.co.kr/view/AKR20260902158500003",
+      "pubDate": "Thu, 3 Sep 2026 06:07:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수\"",
-      "link": "https://www.hankyung.com/article/202609020518i",
-      "pubDate": "Wed, 02 Sep 2026 20:03:14 +0900"
+      "title": "\"이젠 회도 못 먹겠네\"…폭염에 '국민 횟감' 금값됐다 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202609020654i",
+      "pubDate": "Thu, 03 Sep 2026 06:01:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'전기차 안 팔려도 웃었다'…車시장 변화에도 끄떡없는 이유",
-      "link": "https://www.hankyung.com/article/2026090202191",
-      "pubDate": "Wed, 02 Sep 2026 20:00:02 +0900"
+      "title": "'국민 아빠차' 쏘렌토 턱밑까지 쫓아왔다…기아 '전기차 돌풍'",
+      "link": "https://www.hankyung.com/article/202609029781g",
+      "pubDate": "Thu, 03 Sep 2026 06:00:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "사람 손 닿기 전에 포장까지 '척척'…고창 상하치즈 공장의 로봇 군단 [현장+]",
+      "link": "https://www.hankyung.com/article/202609029794i",
+      "pubDate": "Thu, 03 Sep 2026 06:00:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "상반기 수산식품 수출 21.9% 늘어 역대 최대…7월 누적 22억달러",
+      "link": "https://www.yna.co.kr/view/AKR20260902153000030",
+      "pubDate": "Thu, 3 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업부, 추석 앞두고 가격표시제·안전관리 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260902164400003",
+      "pubDate": "Thu, 3 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성·LG 낳은 '전설의 바위' 입소문…165억 대박 난 '부자 성지'",
+      "link": "https://www.hankyung.com/article/2026090202011",
+      "pubDate": "Thu, 03 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
+      "link": "https://www.yna.co.kr/view/AKR20260902157200002",
+      "pubDate": "Thu, 3 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전세사기 피해 부결 97%는 '보증금 미반환 의도 불분명'",
+      "link": "https://www.yna.co.kr/view/AKR20260902152500003",
+      "pubDate": "Thu, 3 Sep 2026 05:55:02 +0900"
     }
   ]
 }
