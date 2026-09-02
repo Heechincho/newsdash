@@ -37,10 +37,13 @@ async function fetchInstrument({ key, label, symbol }) {
   try {
     const text = await fetchText(url);
     const json = JSON.parse(text);
-    const meta = json?.chart?.result?.[0]?.meta;
+    const result = json?.chart?.result?.[0];
+    const meta = result?.meta;
     if (!meta || typeof meta.regularMarketPrice !== 'number') {
       throw new Error('가격 정보 없음');
     }
+    const closes = result?.indicators?.quote?.[0]?.close ?? [];
+    const history = closes.filter((v) => typeof v === 'number');
     return {
       key,
       label,
@@ -49,6 +52,7 @@ async function fetchInstrument({ key, label, symbol }) {
       changePercent: meta.regularMarketChangePercent ?? null,
       previousClose: meta.chartPreviousClose ?? null,
       currency: meta.currency ?? null,
+      history,
       ok: true,
     };
   } catch (err) {

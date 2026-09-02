@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:37:49.315Z",
+  "updatedAt": "2026-09-02T03:50:33.427Z",
   "instruments": [
     {
       "key": "sp500",
@@ -9,6 +9,12 @@
       "changePercent": -0.711,
       "previousClose": 7677.28,
       "currency": "USD",
+      "history": [
+        7675.7001953125,
+        7730.990234375,
+        7686.14013671875,
+        7631.47021484375
+      ],
       "ok": true
     },
     {
@@ -19,46 +25,78 @@
       "changePercent": -1.028,
       "previousClose": 26151.3,
       "currency": "USD",
+      "history": [
+        26130.19921875,
+        26541.349609375,
+        26370.890625,
+        26099.7734375
+      ],
       "ok": true
     },
     {
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52766.88,
+      "price": 52766.9,
       "changePercent": -0.788,
       "previousClose": 53577.4,
       "currency": "USD",
+      "history": [
+        53463.87890625,
+        53569.44140625,
+        53185.8984375,
+        52766.8984375
+      ],
       "ok": true
     },
     {
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.79,
-      "changePercent": 0.632,
+      "price": 90.67,
+      "changePercent": 0.499,
       "previousClose": 83.53,
       "currency": "USD",
+      "history": [
+        83.52999877929688,
+        83.4000015258789,
+        85.76000213623047,
+        90.22000122070312,
+        90.66999816894531
+      ],
       "ok": true
     },
     {
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4374.8,
-      "changePercent": -0.491,
+      "price": 4336.4,
+      "changePercent": -1.365,
       "previousClose": 4609.7,
       "currency": "USD",
+      "history": [
+        4609.7001953125,
+        4478.10009765625,
+        4431.10009765625,
+        4348,
+        4336.39990234375
+      ],
       "ok": true
     },
     {
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.654,
-      "changePercent": -0.023,
+      "price": 99.774,
+      "changePercent": 0.097,
       "previousClose": 99.16,
       "currency": "USD",
+      "history": [
+        99.16000366210938,
+        99.43000030517578,
+        99.66999816894531,
+        99.77400207519531
+      ],
       "ok": true
     },
     {
@@ -69,99 +107,105 @@
       "changePercent": 9.517,
       "previousClose": 15.21,
       "currency": "USD",
+      "history": [
+        15.210000038146973,
+        14.510000228881836,
+        14.920000076293945,
+        16.34000015258789
+      ],
       "ok": true
     }
   ],
   "news": [
     {
       "source": "연합뉴스",
-      "title": "인천 구월2 공공주택지구 토지거래허가구역 1년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260902025900065",
-      "pubDate": "Wed, 2 Sep 2026 08:31:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산서 건축취업박람회…진로·기업 정보 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260902020000051",
-      "pubDate": "Wed, 2 Sep 2026 08:28:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대한민국 안전산업 박람회 개막…재난관리 AI·로봇 전시",
-      "link": "https://www.yna.co.kr/view/AKR20260902019900051",
-      "pubDate": "Wed, 2 Sep 2026 08:25:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한투증권, 조선 '비중 확대'…\"해양오염방지협약 개정안 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902025300008",
-      "pubDate": "Wed, 2 Sep 2026 08:20:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "식의약안전평가원 글로벌센터, WHO 협력센터로 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260902025200017",
-      "pubDate": "Wed, 2 Sep 2026 08:20:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "공정거래법 위반 의혹에…공정위, 철수 8일 만에 쿠팡 현장조사",
-      "link": "https://www.yna.co.kr/view/AKR20260902024400002",
-      "pubDate": "Wed, 2 Sep 2026 08:16:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "IBK증권, 삼성전기 1조원대 계약에 \"MLCC 선점 경쟁 본격화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902023900008",
-      "pubDate": "Wed, 2 Sep 2026 08:12:31 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "불장에 자신감 얻은 개미 앞다퉈 전문투자…7개월새 3천800명↑",
-      "link": "https://www.yna.co.kr/view/AKR20260901183600008",
-      "pubDate": "Wed, 2 Sep 2026 08:11:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부 \"휴대전화비 할인 기저효과 없었으면 8월 물가상승률 2.5%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902023700002",
-      "pubDate": "Wed, 2 Sep 2026 08:09:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[2보] 8월 소비자물가 상승률 3.1%…작년 통신요금 인하 기저효과",
-      "link": "https://www.yna.co.kr/view/AKR20260902017451002",
-      "pubDate": "Wed, 2 Sep 2026 08:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[1보] 8월 소비자물가 상승률 3.1%…두 달 만에 다시 3%대",
-      "link": "https://www.yna.co.kr/view/AKR20260902017400002",
-      "pubDate": "Wed, 2 Sep 2026 08:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "채권시장 호재 없다…30년물 입찰 부진에 재정·물가 경계도",
-      "link": "https://www.yna.co.kr/view/AKR20260901164600008",
-      "pubDate": "Wed, 2 Sep 2026 07:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260902015200011",
-      "pubDate": "Wed, 2 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블코인 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260902012300009",
-      "pubDate": "Wed, 2 Sep 2026 07:01:43 +0900"
+      "title": "경총, 국민연금 개선방안 제시…\"기여한 만큼 보장받아야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902093200003",
+      "pubDate": "Wed, 2 Sep 2026 12:15:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'20년 글로벌 저축 과잉' 시대 끝…AI·방산 투자전쟁에 국채 금리도 뛴다",
-      "link": "https://www.hankyung.com/article/202609016889i",
-      "pubDate": "Wed, 02 Sep 2026 07:00:11 +0900"
+      "title": "[포토] 롯데리아, 매콤달콤 '리아 불고기 레드' 출시",
+      "link": "https://www.hankyung.com/article/202609029330i",
+      "pubDate": "Wed, 02 Sep 2026 12:11:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "골든블루, 추석 선물세트 출시…위스키별 전용잔 차별화",
+      "link": "https://www.hankyung.com/article/202609029323i",
+      "pubDate": "Wed, 02 Sep 2026 12:03:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"차량 고박 부실에 추락 위험도\"…소비자원, 로로선 실태 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260901129700030",
+      "pubDate": "Wed, 2 Sep 2026 12:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 3일 기후에너지환경 창업 대전 최종 경연·시상식 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260902050100530",
+      "pubDate": "Wed, 2 Sep 2026 12:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'AI 활용'·'집중력 향상 제품' 광고하려면 실증 의무 생긴다",
+      "link": "https://www.yna.co.kr/view/AKR20260902048700002",
+      "pubDate": "Wed, 2 Sep 2026 12:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"국민연금 못 믿는다\" 가입자 불만 폭발하더니…'충격 전망'",
+      "link": "https://www.hankyung.com/article/202609029243g",
+      "pubDate": "Wed, 02 Sep 2026 12:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 영남대서 탄소국경제도 대응 강화 '정부 합동 설명회'",
+      "link": "https://www.yna.co.kr/view/AKR20260902067800030",
+      "pubDate": "Wed, 2 Sep 2026 12:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기중앙회, 기후부·DB손보와 '中企 환경책임보험료 지원' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260902048800030",
+      "pubDate": "Wed, 2 Sep 2026 12:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "자동차보험 '8주룰' 안내 체계 정비…가입부터 사고처리까지",
+      "link": "https://www.yna.co.kr/view/AKR20260902078800002",
+      "pubDate": "Wed, 2 Sep 2026 12:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2분기 외국인 국내 카드사용 48.6억달러 '역대 최대'…36% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260902067700002",
+      "pubDate": "Wed, 2 Sep 2026 12:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유럽 수출하려면 '이것' 필수…정부, 검증 비용까지 지원",
+      "link": "https://www.hankyung.com/article/202609028707i",
+      "pubDate": "Wed, 02 Sep 2026 12:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주식 등 해외금융계좌 신고액 3년만에 100조대…해외신탁 3.8조",
+      "link": "https://www.yna.co.kr/view/AKR20260902040300002",
+      "pubDate": "Wed, 2 Sep 2026 12:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지방공기업 작년 순손실 3.5조…전년보다 31% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260902087400530",
+      "pubDate": "Wed, 2 Sep 2026 12:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "31살 된 BBQ의 파격 선언…치킨·AI 결합한 미래 매장",
+      "link": "https://www.hankyung.com/article/202609028769i",
+      "pubDate": "Wed, 02 Sep 2026 11:57:06 +0900"
     }
   ]
 }
