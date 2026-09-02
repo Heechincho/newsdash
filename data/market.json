@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T03:50:33.427Z",
+  "updatedAt": "2026-09-02T05:08:45.513Z",
   "instruments": [
     {
       "key": "sp500",
@@ -29,7 +29,7 @@
         26130.19921875,
         26541.349609375,
         26370.890625,
-        26099.7734375
+        26099.76953125
       ],
       "ok": true
     },
@@ -37,7 +37,7 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52766.9,
+      "price": 52766.88,
       "changePercent": -0.788,
       "previousClose": 53577.4,
       "currency": "USD",
@@ -45,7 +45,7 @@
         53463.87890625,
         53569.44140625,
         53185.8984375,
-        52766.8984375
+        52766.87890625
       ],
       "ok": true
     },
@@ -53,16 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.67,
-      "changePercent": 0.499,
-      "previousClose": 83.53,
+      "price": 90.56,
+      "changePercent": 0.377,
+      "previousClose": 83.4,
       "currency": "USD",
       "history": [
-        83.52999877929688,
         83.4000015258789,
         85.76000213623047,
         90.22000122070312,
-        90.66999816894531
+        90.55999755859375
       ],
       "ok": true
     },
@@ -70,16 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4336.4,
-      "changePercent": -1.365,
-      "previousClose": 4609.7,
+      "price": 4353.6,
+      "changePercent": -0.974,
+      "previousClose": 4478.1,
       "currency": "USD",
       "history": [
-        4609.7001953125,
         4478.10009765625,
         4431.10009765625,
         4348,
-        4336.39990234375
+        4353.60009765625
       ],
       "ok": true
     },
@@ -87,15 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.774,
-      "changePercent": 0.097,
-      "previousClose": 99.16,
+      "price": 99.79,
+      "changePercent": 0.113,
+      "previousClose": 99.43,
       "currency": "USD",
       "history": [
-        99.16000366210938,
         99.43000030517578,
         99.66999816894531,
-        99.77400207519531
+        99.79000091552734
       ],
       "ok": true
     },
@@ -119,6 +116,78 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "경남 유일 화교 학교건물 '옛 마산화교소학교' 73년 만에 철거",
+      "link": "https://www.yna.co.kr/view/AKR20260902103900052",
+      "pubDate": "Wed, 2 Sep 2026 13:58:32 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "알테오젠, 노바티스와 피하주사 개발 계약…최대 4.4조원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260902101400017",
+      "pubDate": "Wed, 2 Sep 2026 13:39:58 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "노동부 'K-디지털 트레이닝 해커톤' 개최…AI활용 아이디어 겨뤄",
+      "link": "https://www.yna.co.kr/view/AKR20260902055200530",
+      "pubDate": "Wed, 2 Sep 2026 13:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 대한주택관리사협회, 통계의 날 대통령 표창",
+      "link": "https://www.yna.co.kr/view/AKR20260902098400003",
+      "pubDate": "Wed, 2 Sep 2026 13:25:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "오픈AI 잡으려 55억달러 워런트…SB에너지 IPO 승부수",
+      "link": "https://www.hankyung.com/article/202609029366i",
+      "pubDate": "Wed, 02 Sep 2026 13:10:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"돼지고기 회사가 인도엔 왜?\"…선진의 '젖소 사료' 승부수",
+      "link": "https://www.hankyung.com/article/202609029377g",
+      "pubDate": "Wed, 02 Sep 2026 13:07:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "전기차에서 지게차로 번진 中 배터리 굴기",
+      "link": "https://www.hankyung.com/article/202608248162i",
+      "pubDate": "Wed, 02 Sep 2026 13:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "LH, 보상인력 344명 투입…신규지구 보상기간 44→24개월 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260902038300003",
+      "pubDate": "Wed, 2 Sep 2026 13:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'짠테크'와 '헬시플레저'…남양유업의 이중전략 통했다",
+      "link": "https://www.hankyung.com/article/202609028504i",
+      "pubDate": "Wed, 02 Sep 2026 13:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"8·13 주택공급 금융대책, 실제 착공·준공 전환이 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902079900003",
+      "pubDate": "Wed, 2 Sep 2026 13:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902034800030",
+      "pubDate": "Wed, 2 Sep 2026 13:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'차세대 호텔' 만드는 곳이 LG전자?…객실 TV로 '대변신'",
+      "link": "https://www.hankyung.com/article/202609029344g",
+      "pubDate": "Wed, 02 Sep 2026 12:51:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "경총, 국민연금 개선방안 제시…\"기여한 만큼 보장받아야\"",
       "link": "https://www.yna.co.kr/view/AKR20260902093200003",
       "pubDate": "Wed, 2 Sep 2026 12:15:58 +0900"
@@ -134,78 +203,6 @@
       "title": "골든블루, 추석 선물세트 출시…위스키별 전용잔 차별화",
       "link": "https://www.hankyung.com/article/202609029323i",
       "pubDate": "Wed, 02 Sep 2026 12:03:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"차량 고박 부실에 추락 위험도\"…소비자원, 로로선 실태 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260901129700030",
-      "pubDate": "Wed, 2 Sep 2026 12:00:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 3일 기후에너지환경 창업 대전 최종 경연·시상식 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260902050100530",
-      "pubDate": "Wed, 2 Sep 2026 12:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'AI 활용'·'집중력 향상 제품' 광고하려면 실증 의무 생긴다",
-      "link": "https://www.yna.co.kr/view/AKR20260902048700002",
-      "pubDate": "Wed, 2 Sep 2026 12:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"국민연금 못 믿는다\" 가입자 불만 폭발하더니…'충격 전망'",
-      "link": "https://www.hankyung.com/article/202609029243g",
-      "pubDate": "Wed, 02 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기부, 영남대서 탄소국경제도 대응 강화 '정부 합동 설명회'",
-      "link": "https://www.yna.co.kr/view/AKR20260902067800030",
-      "pubDate": "Wed, 2 Sep 2026 12:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회, 기후부·DB손보와 '中企 환경책임보험료 지원' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260902048800030",
-      "pubDate": "Wed, 2 Sep 2026 12:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "자동차보험 '8주룰' 안내 체계 정비…가입부터 사고처리까지",
-      "link": "https://www.yna.co.kr/view/AKR20260902078800002",
-      "pubDate": "Wed, 2 Sep 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "2분기 외국인 국내 카드사용 48.6억달러 '역대 최대'…36% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260902067700002",
-      "pubDate": "Wed, 2 Sep 2026 12:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유럽 수출하려면 '이것' 필수…정부, 검증 비용까지 지원",
-      "link": "https://www.hankyung.com/article/202609028707i",
-      "pubDate": "Wed, 02 Sep 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주식 등 해외금융계좌 신고액 3년만에 100조대…해외신탁 3.8조",
-      "link": "https://www.yna.co.kr/view/AKR20260902040300002",
-      "pubDate": "Wed, 2 Sep 2026 12:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "지방공기업 작년 순손실 3.5조…전년보다 31% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260902087400530",
-      "pubDate": "Wed, 2 Sep 2026 12:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "31살 된 BBQ의 파격 선언…치킨·AI 결합한 미래 매장",
-      "link": "https://www.hankyung.com/article/202609028769i",
-      "pubDate": "Wed, 02 Sep 2026 11:57:06 +0900"
     }
   ]
 }
