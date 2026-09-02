@@ -1,20 +1,19 @@
 {
-  "updatedAt": "2026-09-02T09:37:36.925Z",
+  "updatedAt": "2026-09-02T13:52:22.991Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7631.47,
-      "changePercent": -0.711,
-      "previousClose": 7677.28,
+      "price": 7637.5,
+      "changePercent": 0.079,
+      "previousClose": 7675.7,
       "currency": "USD",
       "history": [
-        7675.7001953125,
         7730.990234375,
-        7711.759765625,
         7686.14013671875,
-        7631.47021484375
+        7631.47021484375,
+        7637.5
       ],
       "ok": true
     },
@@ -22,16 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26099.773,
-      "changePercent": -1.028,
-      "previousClose": 26151.3,
+      "price": 26087.926,
+      "changePercent": -0.045,
+      "previousClose": 26130.2,
       "currency": "USD",
       "history": [
-        26130.19921875,
         26541.349609375,
-        26402.419921875,
         26370.890625,
-        26099.76953125
+        26099.76953125,
+        26087.92578125
       ],
       "ok": true
     },
@@ -39,16 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52766.88,
-      "changePercent": -0.788,
-      "previousClose": 53577.4,
+      "price": 52970.09,
+      "changePercent": 0.385,
+      "previousClose": 53463.88,
       "currency": "USD",
       "history": [
-        53463.87890625,
         53569.44140625,
-        53559.98828125,
         53185.8984375,
-        52766.87890625
+        52766.87890625,
+        52970.08984375
       ],
       "ok": true
     },
@@ -56,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.57,
-      "changePercent": 0.388,
+      "price": 89.37,
+      "changePercent": -0.942,
       "previousClose": 83.4,
       "currency": "USD",
       "history": [
         83.4000015258789,
         85.76000213623047,
         90.22000122070312,
-        90.56999969482422
+        89.37000274658203
       ],
       "ok": true
     },
@@ -72,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4353.1,
-      "changePercent": -0.985,
+      "price": 4417.6,
+      "changePercent": 0.482,
       "previousClose": 4478.1,
       "currency": "USD",
       "history": [
         4478.10009765625,
         4431.10009765625,
         4348,
-        4353.10009765625
+        4417.60009765625
       ],
       "ok": true
     },
@@ -88,15 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.8,
-      "changePercent": 0.123,
-      "previousClose": 99.7,
+      "price": 99.568,
+      "changePercent": -0.109,
+      "previousClose": 99.43,
       "currency": "USD",
       "history": [
-        99.69999694824219,
         99.43000030517578,
         99.66999816894531,
-        99.80000305175781
+        99.56800079345703
       ],
       "ok": true
     },
@@ -104,21 +100,86 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.68,
-      "changePercent": 2.08,
+      "price": 16.09,
+      "changePercent": -1.529,
       "previousClose": 14.51,
       "currency": "USD",
       "history": [
         14.510000228881836,
-        14.430000305175781,
         14.920000076293945,
         16.34000015258789,
-        16.68000030517578
+        16.09000015258789
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "직원 등 명의로 110억 차명 예금 새마을금고 이사장 경찰 수사",
+      "link": "https://www.yna.co.kr/view/AKR20260902177900004",
+      "pubDate": "Wed, 2 Sep 2026 22:12:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "러트닉,\"수입 반도체 관세부과방안 검토중\"…또 대미투자 압박",
+      "link": "https://www.hankyung.com/article/202609020591i",
+      "pubDate": "Wed, 02 Sep 2026 21:50:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 서버 '불티'…델, 올해 매출·이익 전망 대폭 상향",
+      "link": "https://www.hankyung.com/article/202609020556i",
+      "pubDate": "Wed, 02 Sep 2026 20:43:26 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260902164752002",
+      "pubDate": "Wed, 2 Sep 2026 20:08:56 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"가성비로 딱 좋아\"…'900원 커피' 제대로 반응 왔다",
+      "link": "https://www.hankyung.com/article/202609029839g",
+      "pubDate": "Wed, 02 Sep 2026 20:06:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수\"",
+      "link": "https://www.hankyung.com/article/202609020518i",
+      "pubDate": "Wed, 02 Sep 2026 20:03:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'전기차 안 팔려도 웃었다'…車시장 변화에도 끄떡없는 이유",
+      "link": "https://www.hankyung.com/article/2026090202191",
+      "pubDate": "Wed, 02 Sep 2026 20:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "글로벌 국채 큰손 日, 해외국채 매도 나서자…채권시장 '긴장'",
+      "link": "https://www.hankyung.com/article/202609020492i",
+      "pubDate": "Wed, 02 Sep 2026 19:39:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "의료기기 제조업체 스카이랩스, 4일 코스닥 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260902168700008",
+      "pubDate": "Wed, 2 Sep 2026 18:53:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260902164751002",
+      "pubDate": "Wed, 2 Sep 2026 18:49:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "덕산네오룩스 \"카노푸스홀딩스 주식 715억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902160900008",
+      "pubDate": "Wed, 2 Sep 2026 18:42:47 +0900"
+    },
     {
       "source": "한국경제",
       "title": "신세계·MCM…마케팅 무대된 프리즈 서울",
@@ -133,7 +194,7 @@
     },
     {
       "source": "한국경제",
-      "title": "유니클로 자매 브랜드 GU, 韓 재진출하나",
+      "title": "\"한국서 철수했었는데\"…6년 만에 성수동 나타난 日 브랜드",
       "link": "https://www.hankyung.com/article/2026090203361",
       "pubDate": "Wed, 02 Sep 2026 18:25:57 +0900"
     },
@@ -142,72 +203,6 @@
       "title": "CJ온스타일 '온트너' 선보인다…크리에이터·브랜드 연결 플랫폼",
       "link": "https://www.hankyung.com/article/2026090203391",
       "pubDate": "Wed, 02 Sep 2026 18:25:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "8월 물가 3.1% '쑥'…두 달 만에 반등",
-      "link": "https://www.hankyung.com/article/2026090202871",
-      "pubDate": "Wed, 02 Sep 2026 18:17:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신현송 \"AI가 이끄는 투자 호황, 인구구조 변화에 대비할 기회\"",
-      "link": "https://www.hankyung.com/article/2026090202881",
-      "pubDate": "Wed, 02 Sep 2026 18:17:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이형일 \"부동산 세제 큰틀 유지…국회 지적 있으면 수용할 것\"",
-      "link": "https://www.hankyung.com/article/2026090202441",
-      "pubDate": "Wed, 02 Sep 2026 18:13:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "보유세 부담 상한 원상복귀에…반포자이, 677만원 줄었다",
-      "link": "https://www.hankyung.com/article/2026090202421",
-      "pubDate": "Wed, 02 Sep 2026 18:11:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치",
-      "link": "https://www.yna.co.kr/view/AKR20260902164700002",
-      "pubDate": "Wed, 2 Sep 2026 18:04:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260902156900011",
-      "pubDate": "Wed, 2 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 2026 한국웰니스지수 1위 인증 수여식",
-      "link": "https://www.hankyung.com/article/2026090202931",
-      "pubDate": "Wed, 02 Sep 2026 17:59:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "홈플러스 회생계획안 인가…\"채권자 3분의 2 이상 동의\"",
-      "link": "https://www.hankyung.com/article/2026090203401",
-      "pubDate": "Wed, 02 Sep 2026 17:59:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대엘리베이터, 생명나눔 캠페인 진행",
-      "link": "https://www.hankyung.com/article/2026090202981",
-      "pubDate": "Wed, 02 Sep 2026 17:58:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한국앤컴퍼니, 저소득층에 전기차 지원",
-      "link": "https://www.hankyung.com/article/2026090202991",
-      "pubDate": "Wed, 02 Sep 2026 17:58:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데, 추석 앞두고 9495억 납품대금 조기지급",
-      "link": "https://www.hankyung.com/article/2026090202921",
-      "pubDate": "Wed, 02 Sep 2026 17:54:54 +0900"
     }
   ]
 }
