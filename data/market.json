@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:08:45.513Z",
+  "updatedAt": "2026-09-02T09:37:36.925Z",
   "instruments": [
     {
       "key": "sp500",
@@ -12,6 +12,7 @@
       "history": [
         7675.7001953125,
         7730.990234375,
+        7711.759765625,
         7686.14013671875,
         7631.47021484375
       ],
@@ -28,6 +29,7 @@
       "history": [
         26130.19921875,
         26541.349609375,
+        26402.419921875,
         26370.890625,
         26099.76953125
       ],
@@ -44,6 +46,7 @@
       "history": [
         53463.87890625,
         53569.44140625,
+        53559.98828125,
         53185.8984375,
         52766.87890625
       ],
@@ -53,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.56,
-      "changePercent": 0.377,
+      "price": 90.57,
+      "changePercent": 0.388,
       "previousClose": 83.4,
       "currency": "USD",
       "history": [
         83.4000015258789,
         85.76000213623047,
         90.22000122070312,
-        90.55999755859375
+        90.56999969482422
       ],
       "ok": true
     },
@@ -69,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4353.6,
-      "changePercent": -0.974,
+      "price": 4353.1,
+      "changePercent": -0.985,
       "previousClose": 4478.1,
       "currency": "USD",
       "history": [
         4478.10009765625,
         4431.10009765625,
         4348,
-        4353.60009765625
+        4353.10009765625
       ],
       "ok": true
     },
@@ -85,14 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.79,
-      "changePercent": 0.113,
-      "previousClose": 99.43,
+      "price": 99.8,
+      "changePercent": 0.123,
+      "previousClose": 99.7,
       "currency": "USD",
       "history": [
+        99.69999694824219,
         99.43000030517578,
         99.66999816894531,
-        99.79000091552734
+        99.80000305175781
       ],
       "ok": true
     },
@@ -100,109 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.34,
-      "changePercent": 9.517,
-      "previousClose": 15.21,
+      "price": 16.68,
+      "changePercent": 2.08,
+      "previousClose": 14.51,
       "currency": "USD",
       "history": [
-        15.210000038146973,
         14.510000228881836,
+        14.430000305175781,
         14.920000076293945,
-        16.34000015258789
+        16.34000015258789,
+        16.68000030517578
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "경남 유일 화교 학교건물 '옛 마산화교소학교' 73년 만에 철거",
-      "link": "https://www.yna.co.kr/view/AKR20260902103900052",
-      "pubDate": "Wed, 2 Sep 2026 13:58:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "알테오젠, 노바티스와 피하주사 개발 계약…최대 4.4조원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260902101400017",
-      "pubDate": "Wed, 2 Sep 2026 13:39:58 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "노동부 'K-디지털 트레이닝 해커톤' 개최…AI활용 아이디어 겨뤄",
-      "link": "https://www.yna.co.kr/view/AKR20260902055200530",
-      "pubDate": "Wed, 2 Sep 2026 13:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 대한주택관리사협회, 통계의 날 대통령 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260902098400003",
-      "pubDate": "Wed, 2 Sep 2026 13:25:21 +0900"
+      "source": "한국경제",
+      "title": "신세계·MCM…마케팅 무대된 프리즈 서울",
+      "link": "https://www.hankyung.com/article/2026090203371",
+      "pubDate": "Wed, 02 Sep 2026 18:29:30 +0900"
     },
     {
       "source": "한국경제",
-      "title": "오픈AI 잡으려 55억달러 워런트…SB에너지 IPO 승부수",
-      "link": "https://www.hankyung.com/article/202609029366i",
-      "pubDate": "Wed, 02 Sep 2026 13:10:37 +0900"
+      "title": "생산·포장 '척척'…치즈 스마트공장 풀가동",
+      "link": "https://www.hankyung.com/article/2026090203381",
+      "pubDate": "Wed, 02 Sep 2026 18:26:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"돼지고기 회사가 인도엔 왜?\"…선진의 '젖소 사료' 승부수",
-      "link": "https://www.hankyung.com/article/202609029377g",
-      "pubDate": "Wed, 02 Sep 2026 13:07:14 +0900"
+      "title": "유니클로 자매 브랜드 GU, 韓 재진출하나",
+      "link": "https://www.hankyung.com/article/2026090203361",
+      "pubDate": "Wed, 02 Sep 2026 18:25:57 +0900"
     },
     {
       "source": "한국경제",
-      "title": "전기차에서 지게차로 번진 中 배터리 굴기",
-      "link": "https://www.hankyung.com/article/202608248162i",
-      "pubDate": "Wed, 02 Sep 2026 13:00:11 +0900"
+      "title": "CJ온스타일 '온트너' 선보인다…크리에이터·브랜드 연결 플랫폼",
+      "link": "https://www.hankyung.com/article/2026090203391",
+      "pubDate": "Wed, 02 Sep 2026 18:25:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "8월 물가 3.1% '쑥'…두 달 만에 반등",
+      "link": "https://www.hankyung.com/article/2026090202871",
+      "pubDate": "Wed, 02 Sep 2026 18:17:33 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "신현송 \"AI가 이끄는 투자 호황, 인구구조 변화에 대비할 기회\"",
+      "link": "https://www.hankyung.com/article/2026090202881",
+      "pubDate": "Wed, 02 Sep 2026 18:17:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "이형일 \"부동산 세제 큰틀 유지…국회 지적 있으면 수용할 것\"",
+      "link": "https://www.hankyung.com/article/2026090202441",
+      "pubDate": "Wed, 02 Sep 2026 18:13:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "보유세 부담 상한 원상복귀에…반포자이, 677만원 줄었다",
+      "link": "https://www.hankyung.com/article/2026090202421",
+      "pubDate": "Wed, 02 Sep 2026 18:11:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LH, 보상인력 344명 투입…신규지구 보상기간 44→24개월 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260902038300003",
-      "pubDate": "Wed, 2 Sep 2026 13:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'짠테크'와 '헬시플레저'…남양유업의 이중전략 통했다",
-      "link": "https://www.hankyung.com/article/202609028504i",
-      "pubDate": "Wed, 02 Sep 2026 13:00:01 +0900"
+      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치",
+      "link": "https://www.yna.co.kr/view/AKR20260902164700002",
+      "pubDate": "Wed, 2 Sep 2026 18:04:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"8·13 주택공급 금융대책, 실제 착공·준공 전환이 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902079900003",
-      "pubDate": "Wed, 2 Sep 2026 13:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902034800030",
-      "pubDate": "Wed, 2 Sep 2026 13:00:00 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260902156900011",
+      "pubDate": "Wed, 2 Sep 2026 18:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'차세대 호텔' 만드는 곳이 LG전자?…객실 TV로 '대변신'",
-      "link": "https://www.hankyung.com/article/202609029344g",
-      "pubDate": "Wed, 02 Sep 2026 12:51:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경총, 국민연금 개선방안 제시…\"기여한 만큼 보장받아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902093200003",
-      "pubDate": "Wed, 2 Sep 2026 12:15:58 +0900"
+      "title": "[포토] 2026 한국웰니스지수 1위 인증 수여식",
+      "link": "https://www.hankyung.com/article/2026090202931",
+      "pubDate": "Wed, 02 Sep 2026 17:59:51 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 롯데리아, 매콤달콤 '리아 불고기 레드' 출시",
-      "link": "https://www.hankyung.com/article/202609029330i",
-      "pubDate": "Wed, 02 Sep 2026 12:11:50 +0900"
+      "title": "홈플러스 회생계획안 인가…\"채권자 3분의 2 이상 동의\"",
+      "link": "https://www.hankyung.com/article/2026090203401",
+      "pubDate": "Wed, 02 Sep 2026 17:59:30 +0900"
     },
     {
       "source": "한국경제",
-      "title": "골든블루, 추석 선물세트 출시…위스키별 전용잔 차별화",
-      "link": "https://www.hankyung.com/article/202609029323i",
-      "pubDate": "Wed, 02 Sep 2026 12:03:16 +0900"
+      "title": "현대엘리베이터, 생명나눔 캠페인 진행",
+      "link": "https://www.hankyung.com/article/2026090202981",
+      "pubDate": "Wed, 02 Sep 2026 17:58:54 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한국앤컴퍼니, 저소득층에 전기차 지원",
+      "link": "https://www.hankyung.com/article/2026090202991",
+      "pubDate": "Wed, 02 Sep 2026 17:58:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "롯데, 추석 앞두고 9495억 납품대금 조기지급",
+      "link": "https://www.hankyung.com/article/2026090202921",
+      "pubDate": "Wed, 02 Sep 2026 17:54:54 +0900"
     }
   ]
 }
