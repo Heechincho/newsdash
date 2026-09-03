@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-03T09:55:37.542Z",
+  "updatedAt": "2026-09-03T14:15:36.656Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.6,
-      "changePercent": 0.46,
-      "previousClose": 7675.7,
+      "price": 7701.95,
+      "changePercent": 0.461,
+      "previousClose": 7730.99,
       "currency": "USD",
       "history": [
-        7730.990234375,
         7711.759765625,
         7686.14013671875,
         7631.47021484375,
-        7666.60009765625
+        7666.60009765625,
+        7701.9501953125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26217.828,
-      "changePercent": 0.452,
-      "previousClose": 26130.2,
+      "price": 26432.875,
+      "changePercent": 0.82,
+      "previousClose": 26541.35,
       "currency": "USD",
       "history": [
-        26541.349609375,
         26402.419921875,
         26370.890625,
         26099.76953125,
-        26217.830078125
+        26217.830078125,
+        26432.875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53061.95,
-      "changePercent": 0.559,
-      "previousClose": 53463.88,
+      "price": 53347.5,
+      "changePercent": 0.538,
+      "previousClose": 53569.44,
       "currency": "USD",
       "history": [
-        53569.44140625,
         53559.98828125,
         53185.8984375,
         52766.87890625,
-        53061.94921875
+        53061.94921875,
+        53347.5
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.66,
-      "changePercent": 0.714,
+      "price": 92.23,
+      "changePercent": 1.341,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.66000366210938
+        92.2300033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4475.1,
-      "changePercent": 1.37,
+      "price": 4512.5,
+      "changePercent": 2.218,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4475.10009765625
+        4512.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.217,
-      "changePercent": -0.381,
+      "price": 99.017,
+      "changePercent": -0.581,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        99.21700286865234
+        99.01699829101562
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "changePercent": 0.329,
+      "price": 15.04,
+      "changePercent": -1.052,
       "previousClose": 14.43,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         14.920000076293945,
         16.34000015258789,
         15.199999809265137,
-        15.25
+        15.039999961853027
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "광주고용노동청, 임금체불 조사 불응 건설사무소 대표 체포",
-      "link": "https://www.yna.co.kr/view/AKR20260903168400054",
-      "pubDate": "Thu, 3 Sep 2026 18:22:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "추미애 \"1차 추경서 예산 누락분 보강했어야…도의회도 책임\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903168300061",
-      "pubDate": "Thu, 3 Sep 2026 18:19:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "구윤철, 후임 지명 이형일에 \"아주 훌륭…李정부 철학 잘 알아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903166700002",
-      "pubDate": "Thu, 3 Sep 2026 18:11:16 +0900"
+      "source": "한국경제",
+      "title": "\"눈 가리고도 피자 맞히더니\"…'성덕 모델' 된 대세 아이돌 [셀럽픽]",
+      "link": "https://www.hankyung.com/article/202609031166g",
+      "pubDate": "Thu, 03 Sep 2026 22:03:48 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'천사의 몫'에도 88년 버틴 위스키의 비결",
-      "link": "https://www.hankyung.com/article/2026090329711",
-      "pubDate": "Thu, 03 Sep 2026 18:08:52 +0900"
+      "title": "\"회의만 하다 하루 다 간다\"…3300명 구조조정 발표한 회사",
+      "link": "https://www.hankyung.com/article/2026090329651",
+      "pubDate": "Thu, 03 Sep 2026 21:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 치폴레 亞 1호 매장, 미국인도 줄 섰다",
-      "link": "https://www.hankyung.com/article/2026090329701",
-      "pubDate": "Thu, 03 Sep 2026 18:07:23 +0900"
+      "title": "\"엄정화 와인 사러 갑니다\"…1년 공들인 정체에 '들썩' [갓신상]",
+      "link": "https://www.hankyung.com/article/202609032670g",
+      "pubDate": "Thu, 03 Sep 2026 20:20:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "폭염에 참돔 가격 오를 줄 알았는데…수산시장 갔다가 '화들짝'",
-      "link": "https://www.hankyung.com/article/2026090329681",
-      "pubDate": "Thu, 03 Sep 2026 18:06:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한섬 '시스템 파리' 英 해러즈에 팝업 연다",
-      "link": "https://www.hankyung.com/article/2026090329691",
-      "pubDate": "Thu, 03 Sep 2026 18:05:32 +0900"
+      "title": "\"3일 만에 옷 뚝딱\"…스파오 6500억 대박 매출의 '숨은 비밀'",
+      "link": "https://www.hankyung.com/article/2026090329721",
+      "pubDate": "Thu, 03 Sep 2026 20:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경마공원 이어 법무부도 이전…과천시 \"도시 공동화 작정했나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903164500061",
-      "pubDate": "Thu, 3 Sep 2026 18:05:18 +0900"
+      "title": "김석봉 씨티 부사장, 모건스탠리 韓 IB 공동대표로 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260903175200008",
+      "pubDate": "Thu, 3 Sep 2026 19:53:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "인텔리빅스·에이엔에이치스트럭쳐, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260903174900008",
+      "pubDate": "Thu, 3 Sep 2026 19:52:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "라이나손보 신임 대표에 김일평 전 삼성화재 부사장",
+      "link": "https://www.yna.co.kr/view/AKR20260903174300002",
+      "pubDate": "Thu, 3 Sep 2026 19:39:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "삼성전자 2분기 HBM 점유율 33%…'50%' SK하이닉스 맹추격",
-      "link": "https://www.hankyung.com/article/202609032786i",
-      "pubDate": "Thu, 03 Sep 2026 18:03:19 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[동정] 농식품부 장관, 경북 구미 공동영농 우수 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260903111900030",
-      "pubDate": "Thu, 3 Sep 2026 18:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903146500002",
-      "pubDate": "Thu, 3 Sep 2026 18:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260903160200011",
-      "pubDate": "Thu, 3 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "티빙 대표 공식 사과…\"보안투자 4배로 늘리고 고객 보상\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260903106051017",
-      "pubDate": "Thu, 3 Sep 2026 17:57:21 +0900"
+      "title": "\"성수동 지금 위험해\" 발칵…사장님들 우르르 탈출하는 까닭 [벼랑 끝 사장님]",
+      "link": "https://www.hankyung.com/article/202609016018H",
+      "pubDate": "Thu, 03 Sep 2026 19:30:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "달러 헤지 10년만에 최저…기관, 대규모 '환손실' 직면",
-      "link": "https://www.hankyung.com/article/2026090329631",
-      "pubDate": "Thu, 03 Sep 2026 17:54:43 +0900"
+      "title": "설상 '가산' 금리, 기준금리 연 3%에 가산금리 치솟아…이자 부담 커져",
+      "link": "https://www.hankyung.com/article/2026090329411",
+      "pubDate": "Thu, 03 Sep 2026 19:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "무한 증식한 공공기관 대수술…비효율 없애고 '규모의 경제' 달성",
-      "link": "https://www.hankyung.com/article/2026090328921",
-      "pubDate": "Thu, 03 Sep 2026 17:52:20 +0900"
+      "title": "\"대출 연장하러 은행 갔다가 화들짝\"…1억 빌린 직장인 '날벼락'",
+      "link": "https://www.hankyung.com/article/2026090329281",
+      "pubDate": "Thu, 03 Sep 2026 19:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김태희 \"은행 신탁은 상속 고민 해결하는 최고 플랫폼\"",
+      "link": "https://www.hankyung.com/article/2026090329061",
+      "pubDate": "Thu, 03 Sep 2026 18:32:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "우오현 SM그룹 회장, 여주대에 70억 쾌척",
+      "link": "https://www.hankyung.com/article/2026090329111",
+      "pubDate": "Thu, 03 Sep 2026 18:30:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "배송 중 차량 화재 진압한 '쿠팡맨'",
+      "link": "https://www.hankyung.com/article/2026090329151",
+      "pubDate": "Thu, 03 Sep 2026 18:29:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "우리금융, 미혼 한부모 자립 지원 간담회",
+      "link": "https://www.hankyung.com/article/2026090329071",
+      "pubDate": "Thu, 03 Sep 2026 18:29:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농협銀, 저탄소 농가 탄소배출권 매입",
+      "link": "https://www.hankyung.com/article/2026090329081",
+      "pubDate": "Thu, 03 Sep 2026 18:28:18 +0900"
     }
   ]
 }
