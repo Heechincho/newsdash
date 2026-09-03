@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-03T17:54:09.865Z",
+  "updatedAt": "2026-09-03T20:42:19.879Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7749.6,
-      "changePercent": 1.083,
+      "price": 7747.71,
+      "changePercent": 1.058,
       "previousClose": 7730.99,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7686.14013671875,
         7631.47021484375,
         7666.60009765625,
-        7749.60009765625
+        7747.7099609375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26606.574,
-      "changePercent": 1.483,
+      "price": 26584.06,
+      "changePercent": 1.397,
       "previousClose": 26541.35,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26370.890625,
         26099.76953125,
         26217.830078125,
-        26606.57421875
+        26584.060546875
       ],
       "ok": true
     },
@@ -39,15 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53689.35,
-      "changePercent": 1.182,
+      "price": 53686.11,
+      "changePercent": 1.176,
       "previousClose": 53569.44,
       "currency": "USD",
       "history": [
+        53559.98828125,
         53185.8984375,
         52766.87890625,
         53061.94921875,
-        53689.3515625
+        53686.109375
       ],
       "ok": true
     },
@@ -55,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.48,
-      "changePercent": 0.516,
+      "price": 91.69,
+      "changePercent": 0.747,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.4800033569336
+        91.69000244140625
       ],
       "ok": true
     },
@@ -71,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4539.8,
-      "changePercent": 2.836,
+      "price": 4519.6,
+      "changePercent": 2.378,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4539.7998046875
+        4519.60009765625
       ],
       "ok": true
     },
@@ -87,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.879,
-      "changePercent": -0.72,
+      "price": 98.987,
+      "changePercent": -0.611,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        98.87899780273438
+        98.98699951171875
       ],
       "ok": true
     },
@@ -103,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.52,
-      "changePercent": -4.474,
+      "price": 14.32,
+      "changePercent": -5.789,
       "previousClose": 14.43,
       "currency": "USD",
       "history": [
@@ -112,12 +113,24 @@
         14.920000076293945,
         16.34000015258789,
         15.199999809265137,
-        14.520000457763672
+        14.319999694824219
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "중동 긴장 지속에 WTI 나흘 연속 상승…브렌트유는 소폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260904005500072",
+      "pubDate": "Fri, 4 Sep 2026 05:13:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업부·코트라, 미국 첨단기업 4곳 2.8조원 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260903183100003",
+      "pubDate": "Fri, 4 Sep 2026 04:00:01 +0900"
+    },
     {
       "source": "한국경제",
       "title": "월러 이사, 금리 동결 시사...워시와 엇박자",
@@ -195,18 +208,6 @@
       "title": "우오현 SM그룹 회장, 여주대에 70억 쾌척",
       "link": "https://www.hankyung.com/article/2026090329111",
       "pubDate": "Thu, 03 Sep 2026 18:30:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "배송 중 차량 화재 진압한 '쿠팡맨'",
-      "link": "https://www.hankyung.com/article/2026090329151",
-      "pubDate": "Thu, 03 Sep 2026 18:29:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리금융, 미혼 한부모 자립 지원 간담회",
-      "link": "https://www.hankyung.com/article/2026090329071",
-      "pubDate": "Thu, 03 Sep 2026 18:29:10 +0900"
     }
   ]
 }
