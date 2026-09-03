@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:38:15.811Z",
+  "updatedAt": "2026-09-03T00:41:36.660Z",
   "instruments": [
     {
       "key": "sp500",
@@ -11,7 +11,6 @@
       "currency": "USD",
       "history": [
         7730.990234375,
-        7711.759765625,
         7686.14013671875,
         7631.47021484375,
         7666.60009765625
@@ -44,7 +43,6 @@
       "currency": "USD",
       "history": [
         53569.44140625,
-        53559.98828125,
         53185.8984375,
         52766.87890625,
         53061.94921875
@@ -71,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4435.3,
-      "changePercent": 0.469,
+      "price": 4430.7,
+      "changePercent": 0.365,
       "previousClose": 4478.1,
       "currency": "USD",
       "history": [
         4478.10009765625,
         4431.10009765625,
         4348,
-        4435.2998046875
+        4430.7001953125
       ],
       "ok": true
     },
@@ -87,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.577,
-      "changePercent": -0.1,
+      "price": 99.561,
+      "changePercent": -0.035,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
-        99.5770034790039
+        99.56099700927734
       ],
       "ok": true
     },
@@ -118,93 +116,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260903014300011",
-      "pubDate": "Thu, 3 Sep 2026 07:30:00 +0900"
+      "title": "횡성군, 9일 일자리박람회…12개 기업 100명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260903037100062",
+      "pubDate": "Thu, 3 Sep 2026 09:33:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 하이브, 콘텐츠 제작 교육 '하이, 하이' 입과식",
-      "link": "https://www.yna.co.kr/view/AKR20260903014100005",
-      "pubDate": "Thu, 3 Sep 2026 07:19:30 +0900"
+      "title": "[게시판] NH농협은행, 저탄소 농가에 탄소배출권 구매대금",
+      "link": "https://www.yna.co.kr/view/AKR20260903043900002",
+      "pubDate": "Thu, 3 Sep 2026 09:30:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울주군, 55~64세 미취업 신중년 500명에 자격증 취득 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260902149700057",
-      "pubDate": "Thu, 3 Sep 2026 07:07:00 +0900"
+      "title": "수은 행장, 호남 반도체 기업 방문…\"맞춤형 금융지원 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260903042700002",
+      "pubDate": "Thu, 3 Sep 2026 09:29:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 세우타의 파도에 잠긴 모로코 청년들의 미래",
-      "link": "https://www.yna.co.kr/view/AKR20260818029500898",
-      "pubDate": "Thu, 3 Sep 2026 07:00:04 +0900"
+      "title": "하나은행, 부동산 전문기업과 업무협약…부동산 밸류업 플랫폼",
+      "link": "https://www.yna.co.kr/view/AKR20260903039100002",
+      "pubDate": "Thu, 3 Sep 2026 09:28:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260902147800030",
-      "pubDate": "Thu, 3 Sep 2026 06:30:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "임단협 부결 뒤 첫 메시지…SK하이닉스 \"불이익 없도록 할 것\"",
-      "link": "https://www.hankyung.com/article/2026090307317",
-      "pubDate": "Thu, 03 Sep 2026 06:26:03 +0900"
+      "title": "[전남광주소식] 주택건설협회 전남광주시회, 복지시설에 후원금",
+      "link": "https://www.yna.co.kr/view/AKR20260903039400054",
+      "pubDate": "Thu, 3 Sep 2026 09:27:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "공공임대 1가구당 LH 빚 2.9억…임대확대에 재무부담 커지나",
-      "link": "https://www.yna.co.kr/view/AKR20260902158500003",
-      "pubDate": "Thu, 3 Sep 2026 06:07:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이젠 회도 못 먹겠네\"…폭염에 '국민 횟감' 금값됐다 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202609020654i",
-      "pubDate": "Thu, 03 Sep 2026 06:01:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'국민 아빠차' 쏘렌토 턱밑까지 쫓아왔다…기아 '전기차 돌풍'",
-      "link": "https://www.hankyung.com/article/202609029781g",
-      "pubDate": "Thu, 03 Sep 2026 06:00:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "사람 손 닿기 전에 포장까지 '척척'…고창 상하치즈 공장의 로봇 군단 [현장+]",
-      "link": "https://www.hankyung.com/article/202609029794i",
-      "pubDate": "Thu, 03 Sep 2026 06:00:19 +0900"
+      "title": "[특징주] 삼성전자, 장 초반 0.8% 상승 중…SK하이닉스도 0.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260903041800008",
+      "pubDate": "Thu, 3 Sep 2026 09:25:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상반기 수산식품 수출 21.9% 늘어 역대 최대…7월 누적 22억달러",
-      "link": "https://www.yna.co.kr/view/AKR20260902153000030",
-      "pubDate": "Thu, 3 Sep 2026 06:00:09 +0900"
+      "title": "안산시, '동남아 해외시장 개척단' 참가기업 12곳 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260903042200061",
+      "pubDate": "Thu, 3 Sep 2026 09:25:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업부, 추석 앞두고 가격표시제·안전관리 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260902164400003",
-      "pubDate": "Thu, 3 Sep 2026 06:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성·LG 낳은 '전설의 바위' 입소문…165억 대박 난 '부자 성지'",
-      "link": "https://www.hankyung.com/article/2026090202011",
-      "pubDate": "Thu, 03 Sep 2026 06:00:03 +0900"
+      "title": "용산구, '에어컨 설치·보수 기술인력 양성과정' 교육생 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260903040700004",
+      "pubDate": "Thu, 3 Sep 2026 09:24:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
-      "link": "https://www.yna.co.kr/view/AKR20260902157200002",
-      "pubDate": "Thu, 3 Sep 2026 06:00:01 +0900"
+      "title": "대우건설, 글로벌 조경설계사와 신월시영 재건축 수주 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260903039300003",
+      "pubDate": "Thu, 3 Sep 2026 09:24:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전세사기 피해 부결 97%는 '보증금 미반환 의도 불분명'",
-      "link": "https://www.yna.co.kr/view/AKR20260902152500003",
-      "pubDate": "Thu, 3 Sep 2026 05:55:02 +0900"
+      "title": "현대글로비스, 하반기 신입사원 채용…AI 역량검사 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260903038400003",
+      "pubDate": "Thu, 3 Sep 2026 09:23:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"장애 있다고 임대 거부는 차별\"…법원 \"위자료 300만원 지급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260903035100053",
+      "pubDate": "Thu, 3 Sep 2026 09:21:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "1990년부터 이어진 삼성-아산 인연…메가프로젝트로 '업그레이드'",
+      "link": "https://www.yna.co.kr/view/AKR20260903035300063",
+      "pubDate": "Thu, 3 Sep 2026 09:17:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "오리온, '포카칩 황치즈맛' 출시…황치즈 제품군 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260903027900030",
+      "pubDate": "Thu, 3 Sep 2026 09:16:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB증권, 취약계층 자립지원 '베이커리 굿니스' 개소식",
+      "link": "https://www.yna.co.kr/view/AKR20260903037400008",
+      "pubDate": "Thu, 3 Sep 2026 09:15:35 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성물산, 목동13단지 재건축 수주 나서…미국 SMDP와 설계 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260903033700003",
+      "pubDate": "Thu, 3 Sep 2026 09:09:37 +0900"
     }
   ]
 }
