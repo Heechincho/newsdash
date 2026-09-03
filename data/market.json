@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:42:19.879Z",
+  "updatedAt": "2026-09-03T22:51:03.496Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.69,
-      "changePercent": 0.747,
+      "price": 91.77,
+      "changePercent": 0.515,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.69000244140625
+        91.7699966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4519.6,
-      "changePercent": 2.378,
+      "price": 4523,
+      "changePercent": -0.372,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4519.60009765625
+        4523
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.987,
-      "changePercent": -0.611,
+      "price": 99.003,
+      "changePercent": -0.595,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        98.98699951171875
+        99.00299835205078
       ],
       "ok": true
     },
@@ -119,6 +119,48 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260904014300011",
+      "pubDate": "Fri, 4 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[머니톡스] 외국인 소문의 진실…다음 파티가 열리기 전 해야 할 일",
+      "link": "https://www.yna.co.kr/view/AKR20260903031200546",
+      "pubDate": "Fri, 4 Sep 2026 07:07:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "5대 커피 프랜차이즈 매장만 1.3만 곳…실적은 쓰다",
+      "link": "https://www.hankyung.com/article/2026090329521",
+      "pubDate": "Fri, 04 Sep 2026 07:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼전닉스에 25조 손 벌린 한전…전력망 투자 이대로 괜찮나 [여기는 논설실]",
+      "link": "https://www.hankyung.com/article/202609033160i",
+      "pubDate": "Fri, 04 Sep 2026 06:00:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"카리나도 쓰더라\"…촌스럽다고 외면받더니 대반전 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609032696g",
+      "pubDate": "Fri, 04 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "中企 제조AI 인력 1천600명 양성…취업인턴십 12개월로 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260903158600030",
+      "pubDate": "Fri, 4 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "통합 17년만에 다시 쪼개지는 LH…'공적주택' 공급 속도낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260903140100003",
+      "pubDate": "Fri, 4 Sep 2026 05:59:00 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "중동 긴장 지속에 WTI 나흘 연속 상승…브렌트유는 소폭 하락",
@@ -166,48 +208,6 @@
       "title": "김석봉 씨티 부사장, 모건스탠리 韓 IB 공동대표로 선임",
       "link": "https://www.yna.co.kr/view/AKR20260903175200008",
       "pubDate": "Thu, 3 Sep 2026 19:53:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인텔리빅스·에이엔에이치스트럭쳐, 코스닥 상장예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260903174900008",
-      "pubDate": "Thu, 3 Sep 2026 19:52:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "라이나손보 신임 대표에 김일평 전 삼성화재 부사장",
-      "link": "https://www.yna.co.kr/view/AKR20260903174300002",
-      "pubDate": "Thu, 3 Sep 2026 19:39:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"성수동 지금 위험해\" 발칵…사장님들 우르르 탈출하는 까닭 [벼랑 끝 사장님]",
-      "link": "https://www.hankyung.com/article/202609016018H",
-      "pubDate": "Thu, 03 Sep 2026 19:30:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "설상 '가산' 금리, 기준금리 연 3%에 가산금리 치솟아…이자 부담 커져",
-      "link": "https://www.hankyung.com/article/2026090329411",
-      "pubDate": "Thu, 03 Sep 2026 19:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"대출 연장하러 은행 갔다가 화들짝\"…1억 빌린 직장인 '날벼락'",
-      "link": "https://www.hankyung.com/article/2026090329281",
-      "pubDate": "Thu, 03 Sep 2026 19:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김태희 \"은행 신탁은 상속 고민 해결하는 최고 플랫폼\"",
-      "link": "https://www.hankyung.com/article/2026090329061",
-      "pubDate": "Thu, 03 Sep 2026 18:32:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우오현 SM그룹 회장, 여주대에 70억 쾌척",
-      "link": "https://www.hankyung.com/article/2026090329111",
-      "pubDate": "Thu, 03 Sep 2026 18:30:34 +0900"
     }
   ]
 }
