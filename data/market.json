@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:41:36.660Z",
+  "updatedAt": "2026-09-03T05:12:31.388Z",
   "instruments": [
     {
       "key": "sp500",
@@ -11,6 +11,7 @@
       "currency": "USD",
       "history": [
         7730.990234375,
+        7711.759765625,
         7686.14013671875,
         7631.47021484375,
         7666.60009765625
@@ -29,7 +30,7 @@
         26541.349609375,
         26370.890625,
         26099.76953125,
-        26217.828125
+        26217.830078125
       ],
       "ok": true
     },
@@ -53,15 +54,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.74,
-      "changePercent": -0.297,
-      "previousClose": 83.4,
+      "price": 90.57,
+      "changePercent": -0.483,
+      "previousClose": 85.76,
       "currency": "USD",
       "history": [
-        83.4000015258789,
         85.76000213623047,
         90.22000122070312,
-        90.73999786376953
+        91.01000213623047,
+        90.56999969482422
       ],
       "ok": true
     },
@@ -69,15 +70,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4430.7,
-      "changePercent": 0.365,
-      "previousClose": 4478.1,
+      "price": 4483.1,
+      "changePercent": 1.552,
+      "previousClose": 4431.1,
       "currency": "USD",
       "history": [
-        4478.10009765625,
         4431.10009765625,
         4348,
-        4430.7001953125
+        4366.2998046875,
+        4483.10009765625
       ],
       "ok": true
     },
@@ -85,14 +86,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.561,
-      "changePercent": -0.035,
+      "price": 99.419,
+      "changePercent": -0.178,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
-        99.56099700927734
+        99.55999755859375,
+        99.41899871826172
       ],
       "ok": true
     },
@@ -106,6 +108,7 @@
       "currency": "USD",
       "history": [
         14.510000228881836,
+        14.430000305175781,
         14.920000076293945,
         16.34000015258789,
         15.199999809265137
@@ -116,93 +119,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "횡성군, 9일 일자리박람회…12개 기업 100명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260903037100062",
-      "pubDate": "Thu, 3 Sep 2026 09:33:34 +0900"
+      "title": "강원의료기기전시회 원주서 개막…147개 기업·기관 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260903107200062",
+      "pubDate": "Thu, 3 Sep 2026 14:02:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, 저탄소 농가에 탄소배출권 구매대금",
-      "link": "https://www.yna.co.kr/view/AKR20260903043900002",
-      "pubDate": "Thu, 3 Sep 2026 09:30:11 +0900"
+      "title": "노란봉투법 쟁의범위 선 그었지만…법적구속력 없는 시행지침 한계",
+      "link": "https://www.yna.co.kr/view/AKR20260903093600530",
+      "pubDate": "Thu, 3 Sep 2026 14:01:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은 행장, 호남 반도체 기업 방문…\"맞춤형 금융지원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903042700002",
-      "pubDate": "Thu, 3 Sep 2026 09:29:31 +0900"
+      "title": "청소년 '미혼 한부모' 자립 지원…장학·취업 축하 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260903049400530",
+      "pubDate": "Thu, 3 Sep 2026 14:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "하나은행, 부동산 전문기업과 업무협약…부동산 밸류업 플랫폼",
-      "link": "https://www.yna.co.kr/view/AKR20260903039100002",
-      "pubDate": "Thu, 3 Sep 2026 09:28:27 +0900"
+      "title": "국가 인적자원 개발 공동 훈련센터 한데 모였다…우수사례 시상",
+      "link": "https://www.yna.co.kr/view/AKR20260903071200530",
+      "pubDate": "Thu, 3 Sep 2026 14:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[전남광주소식] 주택건설협회 전남광주시회, 복지시설에 후원금",
-      "link": "https://www.yna.co.kr/view/AKR20260903039400054",
-      "pubDate": "Thu, 3 Sep 2026 09:27:05 +0900"
+      "title": "'N% 성과급·호남반도체 반대' 파업·의무교섭 불가…노동부 지침",
+      "link": "https://www.yna.co.kr/view/AKR20260903088700530",
+      "pubDate": "Thu, 3 Sep 2026 14:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 삼성전자, 장 초반 0.8% 상승 중…SK하이닉스도 0.7%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260903041800008",
-      "pubDate": "Thu, 3 Sep 2026 09:25:39 +0900"
+      "title": "울주군 기업인상 지역경제대상에 김학준·산업평화대상에 서인혁",
+      "link": "https://www.yna.co.kr/view/AKR20260903105200057",
+      "pubDate": "Thu, 3 Sep 2026 13:55:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "안산시, '동남아 해외시장 개척단' 참가기업 12곳 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260903042200061",
-      "pubDate": "Thu, 3 Sep 2026 09:25:07 +0900"
+      "title": "[게시판] IBK증권, 유튜브 구독 'OX 퀴즈' 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260903103500008",
+      "pubDate": "Thu, 3 Sep 2026 13:54:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "용산구, '에어컨 설치·보수 기술인력 양성과정' 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260903040700004",
-      "pubDate": "Thu, 3 Sep 2026 09:24:49 +0900"
+      "title": "[게시판] 수출플러스지원단, 강원 원주 의료기기업체 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260903081800002",
+      "pubDate": "Thu, 3 Sep 2026 13:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대우건설, 글로벌 조경설계사와 신월시영 재건축 수주 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260903039300003",
-      "pubDate": "Thu, 3 Sep 2026 09:24:24 +0900"
+      "title": "경찰·노동부, '3명 사망 화재' 천안 대원산업 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260903097900530",
+      "pubDate": "Thu, 3 Sep 2026 13:28:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "현대글로비스, 하반기 신입사원 채용…AI 역량검사 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260903038400003",
-      "pubDate": "Thu, 3 Sep 2026 09:23:25 +0900"
+      "title": "경북 예천 소 농장서 구제역 발생…중수본, 위기경보 격상",
+      "link": "https://www.yna.co.kr/view/AKR20260903090300030",
+      "pubDate": "Thu, 3 Sep 2026 13:16:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "매년 2% '천사의 몫'…88년 묵은 위스키 어떻게 살아남았나 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609031221i",
+      "pubDate": "Thu, 03 Sep 2026 13:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "카스·하이트가 장악한 '제로맥주'…롯데, 레몬라임으로 반격",
+      "link": "https://www.hankyung.com/article/202609031399i",
+      "pubDate": "Thu, 03 Sep 2026 13:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"장애 있다고 임대 거부는 차별\"…법원 \"위자료 300만원 지급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903035100053",
-      "pubDate": "Thu, 3 Sep 2026 09:21:22 +0900"
+      "title": "농식품 수출 7월까지 82억달러 '역대 최대'…포도 1억달러 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260903085200030",
+      "pubDate": "Thu, 3 Sep 2026 13:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "1990년부터 이어진 삼성-아산 인연…메가프로젝트로 '업그레이드'",
-      "link": "https://www.yna.co.kr/view/AKR20260903035300063",
-      "pubDate": "Thu, 3 Sep 2026 09:17:53 +0900"
+      "title": "\"재건축·재개발 규제 100개 개선한다\"…노원구 '규제혁신 100'",
+      "link": "https://www.yna.co.kr/view/AKR20260903094700004",
+      "pubDate": "Thu, 3 Sep 2026 12:39:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "오리온, '포카칩 황치즈맛' 출시…황치즈 제품군 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260903027900030",
-      "pubDate": "Thu, 3 Sep 2026 09:16:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB증권, 취약계층 자립지원 '베이커리 굿니스' 개소식",
-      "link": "https://www.yna.co.kr/view/AKR20260903037400008",
-      "pubDate": "Thu, 3 Sep 2026 09:15:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "삼성물산, 목동13단지 재건축 수주 나서…미국 SMDP와 설계 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260903033700003",
-      "pubDate": "Thu, 3 Sep 2026 09:09:37 +0900"
+      "title": "LH, 택지·주택건설과 주거복지·자산비축 두 공사로 쪼갠다",
+      "link": "https://www.yna.co.kr/view/AKR20260903091700003",
+      "pubDate": "Thu, 3 Sep 2026 12:09:10 +0900"
     }
   ]
 }
