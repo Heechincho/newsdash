@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-03T14:15:36.656Z",
+  "updatedAt": "2026-09-03T17:54:09.865Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7701.95,
-      "changePercent": 0.461,
+      "price": 7749.6,
+      "changePercent": 1.083,
       "previousClose": 7730.99,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7686.14013671875,
         7631.47021484375,
         7666.60009765625,
-        7701.9501953125
+        7749.60009765625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26432.875,
-      "changePercent": 0.82,
+      "price": 26606.574,
+      "changePercent": 1.483,
       "previousClose": 26541.35,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26370.890625,
         26099.76953125,
         26217.830078125,
-        26432.875
+        26606.57421875
       ],
       "ok": true
     },
@@ -39,16 +39,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53347.5,
-      "changePercent": 0.538,
+      "price": 53689.35,
+      "changePercent": 1.182,
       "previousClose": 53569.44,
       "currency": "USD",
       "history": [
-        53559.98828125,
         53185.8984375,
         52766.87890625,
         53061.94921875,
-        53347.5
+        53689.3515625
       ],
       "ok": true
     },
@@ -56,15 +55,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.23,
-      "changePercent": 1.341,
+      "price": 91.48,
+      "changePercent": 0.516,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        92.2300033569336
+        91.4800033569336
       ],
       "ok": true
     },
@@ -72,15 +71,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4512.5,
-      "changePercent": 2.218,
+      "price": 4539.8,
+      "changePercent": 2.836,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4512.5
+        4539.7998046875
       ],
       "ok": true
     },
@@ -88,15 +87,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.017,
-      "changePercent": -0.581,
+      "price": 98.879,
+      "changePercent": -0.72,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        99.01699829101562
+        98.87899780273438
       ],
       "ok": true
     },
@@ -104,8 +103,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.04,
-      "changePercent": -1.052,
+      "price": 14.52,
+      "changePercent": -4.474,
       "previousClose": 14.43,
       "currency": "USD",
       "history": [
@@ -113,12 +112,18 @@
         14.920000076293945,
         16.34000015258789,
         15.199999809265137,
-        15.039999961853027
+        14.520000457763672
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "월러 이사, 금리 동결 시사...워시와 엇박자",
+      "link": "https://www.hankyung.com/article/202609033213i",
+      "pubDate": "Thu, 03 Sep 2026 23:33:14 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"눈 가리고도 피자 맞히더니\"…'성덕 모델' 된 대세 아이돌 [셀럽픽]",
@@ -202,12 +207,6 @@
       "title": "우리금융, 미혼 한부모 자립 지원 간담회",
       "link": "https://www.hankyung.com/article/2026090329071",
       "pubDate": "Thu, 03 Sep 2026 18:29:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "농협銀, 저탄소 농가 탄소배출권 매입",
-      "link": "https://www.hankyung.com/article/2026090329081",
-      "pubDate": "Thu, 03 Sep 2026 18:28:18 +0900"
     }
   ]
 }
