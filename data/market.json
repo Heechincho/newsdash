@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:38:05.714Z",
+  "updatedAt": "2026-09-04T09:56:03.416Z",
   "instruments": [
     {
       "key": "sp500",
@@ -13,7 +13,8 @@
         7711.759765625,
         7686.14013671875,
         7631.47021484375,
-        7666.60009765625
+        7666.60009765625,
+        7747.7099609375
       ],
       "ok": true
     },
@@ -29,7 +30,8 @@
         26402.419921875,
         26370.890625,
         26099.76953125,
-        26217.830078125
+        26217.830078125,
+        26584.060546875
       ],
       "ok": true
     },
@@ -45,7 +47,8 @@
         53559.98828125,
         53185.8984375,
         52766.87890625,
-        53061.94921875
+        53061.94921875,
+        53686.109375
       ],
       "ok": true
     },
@@ -53,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.44,
-      "changePercent": 0.153,
+      "price": 90.94,
+      "changePercent": -0.394,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.44000244140625
+        91.30000305175781,
+        90.94000244140625
       ],
       "ok": true
     },
@@ -69,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4516.4,
-      "changePercent": -0.518,
+      "price": 4514.4,
+      "changePercent": -0.562,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4516.39990234375
+        4491.7001953125,
+        4514.39990234375
       ],
       "ok": true
     },
@@ -85,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.029,
-      "changePercent": 0.122,
+      "price": 99.108,
+      "changePercent": 0.202,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        99.02899932861328
+        99,
+        99.10800170898438
       ],
       "ok": true
     },
@@ -101,15 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.32,
-      "changePercent": -5.789,
-      "previousClose": 14.43,
+      "price": 14.24,
+      "changePercent": -0.559,
+      "previousClose": 14.92,
       "currency": "USD",
       "history": [
-        14.430000305175781,
         14.920000076293945,
         16.34000015258789,
-        15.199999809265137
+        15.199999809265137,
+        14.319999694824219,
+        14.239999771118164
       ],
       "ok": true
     }
@@ -117,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "전북농협·기보, 전북 중소기업에 200억원 대출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260904105300055",
-      "pubDate": "Fri, 4 Sep 2026 14:32:11 +0900"
+      "title": "하겐다즈, 성수에 '크루즈' 띄운다…13일까지 팝업스토어",
+      "link": "https://www.yna.co.kr/view/AKR20260904155800030",
+      "pubDate": "Fri, 4 Sep 2026 18:26:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 공정위·한국소비자법학회 등 6개 기관 공동 학술대회",
-      "link": "https://www.yna.co.kr/view/AKR20260904036400002",
-      "pubDate": "Fri, 4 Sep 2026 14:30:01 +0900"
+      "title": "[부고] 이종렬(전 한국은행 부총재보)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260904160100002",
+      "pubDate": "Fri, 4 Sep 2026 18:14:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260904102200011",
-      "pubDate": "Fri, 4 Sep 2026 14:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "HUG, 부산 강서구·충남 천안 미분양관리지역 신규 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260904102700003",
-      "pubDate": "Fri, 4 Sep 2026 14:14:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스피200 변동성지수, 장중 40선 아래로…6개월여만 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260904100800008",
-      "pubDate": "Fri, 4 Sep 2026 14:13:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "가덕신공항건설공단 \"임시이주 대상 주택 238가구 확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904100700051",
-      "pubDate": "Fri, 4 Sep 2026 14:07:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금융위, 강원특별자치도와 서민금융 복합지원 강화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260904097100002",
-      "pubDate": "Fri, 4 Sep 2026 14:00:01 +0900"
+      "title": "\"홍지선, 주택담보대출에 처가 돈 빌려 산 아파트 1년 새 4억↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904157900001",
+      "pubDate": "Fri, 4 Sep 2026 18:08:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 금융노조 총파업…“국책은행 지방이전 반대·주 4.5일제 도입”",
-      "link": "https://www.hankyung.com/article/202609044442i",
-      "pubDate": "Fri, 04 Sep 2026 13:49:01 +0900"
+      "title": "해외서 자금줄 뚫은 현대캐피탈…통화 포트폴리오 다변화로 방파제 구축",
+      "link": "https://www.hankyung.com/article/202609045214i",
+      "pubDate": "Fri, 04 Sep 2026 18:07:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산은행, 자유시장서 장금이 결연…금융사기 예방 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260904094800051",
-      "pubDate": "Fri, 4 Sep 2026 13:48:36 +0900"
+      "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904156100008",
+      "pubDate": "Fri, 4 Sep 2026 18:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노원구 '청년창업기업 인증제' 도입…\"자금·판로·홍보 연계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904093500004",
-      "pubDate": "Fri, 4 Sep 2026 13:43:43 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260904149800011",
+      "pubDate": "Fri, 4 Sep 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] '1600억 정산분쟁' 부른 석유 최고가격제…결국 소송 간다",
+      "link": "https://www.hankyung.com/article/2026090451831",
+      "pubDate": "Fri, 04 Sep 2026 17:54:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "화장품을 샀더니 젤리백이…조선미녀, 다이닛과 손잡아",
+      "link": "https://www.hankyung.com/article/202609045145g",
+      "pubDate": "Fri, 04 Sep 2026 17:49:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "퇴직연금 적립금 500조, 75%는 '원리금 보장형'",
+      "link": "https://www.hankyung.com/article/2026090451251",
+      "pubDate": "Fri, 04 Sep 2026 17:45:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "BNK투자증권, 연 4.5% 신용공여 고객 금리우대 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260904090600051",
-      "pubDate": "Fri, 4 Sep 2026 13:39:39 +0900"
+      "title": "제주 리조트 노동자 오래 일할 수 있게…정부·원하청 힘 모은다",
+      "link": "https://www.yna.co.kr/view/AKR20260904094500530",
+      "pubDate": "Fri, 4 Sep 2026 17:40:01 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "코스닥 활성화하려면…\"상장부담 낮추고 퇴출기준 정교하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904037600030",
-      "pubDate": "Fri, 4 Sep 2026 13:30:01 +0900"
+      "source": "한국경제",
+      "title": "삼성·LG전자, '스마트 빌트인' 앞세워 유럽 공략",
+      "link": "https://www.hankyung.com/article/2026090451061",
+      "pubDate": "Fri, 04 Sep 2026 17:39:19 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "광주상생카드 특별할인율 15%…판매 이틀만에 종료",
-      "link": "https://www.yna.co.kr/view/AKR20260904089600054",
-      "pubDate": "Fri, 4 Sep 2026 13:27:28 +0900"
+      "source": "한국경제",
+      "title": "한화에어로, 크로아티아 '천무' 수출 임박",
+      "link": "https://www.hankyung.com/article/2026090451101",
+      "pubDate": "Fri, 04 Sep 2026 17:38:05 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "다이슨, AI 입은 신제품 10종 공개…\"지능형 가전시대로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904087400003",
-      "pubDate": "Fri, 4 Sep 2026 13:27:24 +0900"
+      "source": "한국경제",
+      "title": "HD현대·롯데 '석유화학 사업재편 1호' 공식 출범",
+      "link": "https://www.hankyung.com/article/2026090451081",
+      "pubDate": "Fri, 04 Sep 2026 17:37:39 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, 5급 신규직원 120명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260904079900002",
-      "pubDate": "Fri, 4 Sep 2026 13:10:00 +0900"
+      "source": "한국경제",
+      "title": "SKC, 앱솔릭스에 2810억 출자…반도체 유리기판 상업화 속도",
+      "link": "https://www.hankyung.com/article/2026090451091",
+      "pubDate": "Fri, 04 Sep 2026 17:37:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"멀티탭 하나로 하루 만에 인스타 200만뷰\"",
+      "link": "https://www.hankyung.com/article/2026090450901",
+      "pubDate": "Fri, 04 Sep 2026 17:37:02 +0900"
     }
   ]
 }
