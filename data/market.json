@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T14:06:41.174Z",
+  "updatedAt": "2026-09-04T17:35:16.945Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7735.9,
-      "changePercent": -0.152,
+      "price": 7711.81,
+      "changePercent": -0.463,
       "previousClose": 7711.76,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7631.47021484375,
         7666.60009765625,
         7747.7099609375,
-        7735.89990234375
+        7711.81005859375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26608.793,
-      "changePercent": 0.093,
+      "price": 26459.549,
+      "changePercent": -0.468,
       "previousClose": 26402.42,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26099.76953125,
         26217.830078125,
         26584.060546875,
-        26608.79296875
+        26459.548828125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53454.49,
-      "changePercent": -0.431,
+      "price": 53392.16,
+      "changePercent": -0.548,
       "previousClose": 53559.99,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52766.87890625,
         53061.94921875,
         53686.109375,
-        53454.48828125
+        53392.16015625
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.85,
-      "changePercent": -2.683,
+      "price": 90.77,
+      "changePercent": -0.581,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         90.22000122070312,
         91.01000213623047,
         91.30000305175781,
-        88.8499984741211
+        90.7699966430664
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4472.5,
-      "changePercent": -1.485,
+      "price": 4480.2,
+      "changePercent": -1.315,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4348,
         4366.2998046875,
         4491.7001953125,
-        4472.5
+        4480.2001953125
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.129,
-      "changePercent": 0.223,
+      "price": 99.134,
+      "changePercent": 0.229,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.66999816894531,
         99.55999755859375,
         99,
-        99.12899780273438
+        99.13400268554688
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.12,
-      "changePercent": -1.397,
+      "price": 14.09,
+      "changePercent": -1.606,
       "previousClose": 14.92,
       "currency": "USD",
       "history": [
@@ -116,12 +116,18 @@
         16.34000015258789,
         15.199999809265137,
         14.319999694824219,
-        14.119999885559082
+        14.09000015258789
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609055462i",
+      "pubDate": "Sat, 05 Sep 2026 01:04:40 +0900"
+    },
     {
       "source": "한국경제",
       "title": "뉴욕도 파리도 아닌 '서울' 택한 하겐다즈…성수서 즐기는 '크루즈' 콘셉트 [현장+]",
@@ -142,7 +148,7 @@
     },
     {
       "source": "한국경제",
-      "title": "'69만원 식사권' 모두 팔렸다…예약 폭주한 '핫플' 어디길래",
+      "title": "69만원 식사권도 완판…유통가 '불꽃 특수'",
       "link": "https://www.hankyung.com/article/2026090450621",
       "pubDate": "Fri, 04 Sep 2026 20:00:02 +0900"
     },
@@ -205,12 +211,6 @@
       "title": "왓슨스도 실패한 드러그스토어…뷰티 입은 K약국이 해냈다",
       "link": "https://www.hankyung.com/article/2026090451661",
       "pubDate": "Fri, 04 Sep 2026 18:18:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "약도 카트 끌고 골라담는 시대…창고형 약국 1년새 70곳 늘어",
-      "link": "https://www.hankyung.com/article/2026090451651",
-      "pubDate": "Fri, 04 Sep 2026 18:16:43 +0900"
     }
   ]
 }
