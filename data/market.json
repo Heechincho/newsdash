@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-04T09:56:03.416Z",
+  "updatedAt": "2026-09-04T14:06:41.174Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7747.71,
-      "changePercent": 1.058,
-      "previousClose": 7730.99,
+      "price": 7735.9,
+      "changePercent": -0.152,
+      "previousClose": 7711.76,
       "currency": "USD",
       "history": [
-        7711.759765625,
         7686.14013671875,
         7631.47021484375,
         7666.60009765625,
-        7747.7099609375
+        7747.7099609375,
+        7735.89990234375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26584.06,
-      "changePercent": 1.397,
-      "previousClose": 26541.35,
+      "price": 26608.793,
+      "changePercent": 0.093,
+      "previousClose": 26402.42,
       "currency": "USD",
       "history": [
-        26402.419921875,
         26370.890625,
         26099.76953125,
         26217.830078125,
-        26584.060546875
+        26584.060546875,
+        26608.79296875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53686.11,
-      "changePercent": 1.176,
-      "previousClose": 53569.44,
+      "price": 53454.49,
+      "changePercent": -0.431,
+      "previousClose": 53559.99,
       "currency": "USD",
       "history": [
-        53559.98828125,
         53185.8984375,
         52766.87890625,
         53061.94921875,
-        53686.109375
+        53686.109375,
+        53454.48828125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.94,
-      "changePercent": -0.394,
+      "price": 88.85,
+      "changePercent": -2.683,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         90.22000122070312,
         91.01000213623047,
         91.30000305175781,
-        90.94000244140625
+        88.8499984741211
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4514.4,
-      "changePercent": -0.562,
+      "price": 4472.5,
+      "changePercent": -1.485,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4348,
         4366.2998046875,
         4491.7001953125,
-        4514.39990234375
+        4472.5
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.108,
-      "changePercent": 0.202,
+      "price": 99.129,
+      "changePercent": 0.223,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.66999816894531,
         99.55999755859375,
         99,
-        99.10800170898438
+        99.12899780273438
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.24,
-      "changePercent": -0.559,
+      "price": 14.12,
+      "changePercent": -1.397,
       "previousClose": 14.92,
       "currency": "USD",
       "history": [
@@ -116,12 +116,84 @@
         16.34000015258789,
         15.199999809265137,
         14.319999694824219,
-        14.239999771118164
+        14.119999885559082
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "뉴욕도 파리도 아닌 '서울' 택한 하겐다즈…성수서 즐기는 '크루즈' 콘셉트 [현장+]",
+      "link": "https://www.hankyung.com/article/202609044831g",
+      "pubDate": "Fri, 04 Sep 2026 21:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "에이피알, '짝퉁' 피해자였나…국내에서도 \"수단레드 불검출\"",
+      "link": "https://www.hankyung.com/article/2026090453677",
+      "pubDate": "Fri, 04 Sep 2026 20:24:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "하반기 코스피 -21% 찍을때 은행주는 11% '쑥'…주가방어에 배당 매력",
+      "link": "https://www.hankyung.com/article/202609044945i",
+      "pubDate": "Fri, 04 Sep 2026 20:04:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'69만원 식사권' 모두 팔렸다…예약 폭주한 '핫플' 어디길래",
+      "link": "https://www.hankyung.com/article/2026090450621",
+      "pubDate": "Fri, 04 Sep 2026 20:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "검증된 CEO 다시 쓴다…PEF 인재 활용법",
+      "link": "https://www.hankyung.com/article/2026090453271",
+      "pubDate": "Fri, 04 Sep 2026 19:40:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'농심 3세' 신상열 부사장, SK텔레콤 평사원과 13일 결혼",
+      "link": "https://www.yna.co.kr/view/AKR20260904165600030",
+      "pubDate": "Fri, 4 Sep 2026 19:10:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중국산 모델Y 무서운 질주…'年판매 1위'까지 내주나",
+      "link": "https://www.hankyung.com/article/2026090451701",
+      "pubDate": "Fri, 04 Sep 2026 19:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "수입차에 안방 4분의 1 내줬다",
+      "link": "https://www.hankyung.com/article/2026090451521",
+      "pubDate": "Fri, 04 Sep 2026 19:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, '제32차 APEC 中企 장관회의'서 한국 AI 정책 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260904049100030",
+      "pubDate": "Fri, 4 Sep 2026 19:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농심 3세, SK텔레콤 평사원과 결혼하나…\"사생활 확인 불가\"",
+      "link": "https://www.hankyung.com/article/2026090452517",
+      "pubDate": "Fri, 04 Sep 2026 18:50:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "독일차 팔던 딜러사, 中유통망 대거 합류",
+      "link": "https://www.hankyung.com/article/2026090451691",
+      "pubDate": "Fri, 04 Sep 2026 18:31:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "세계 3위 산업용 가스社 에어프로덕츠, 韓에 조단위 투자",
+      "link": "https://www.hankyung.com/article/2026090451671",
+      "pubDate": "Fri, 04 Sep 2026 18:31:05 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "하겐다즈, 성수에 '크루즈' 띄운다…13일까지 팝업스토어",
@@ -129,88 +201,16 @@
       "pubDate": "Fri, 4 Sep 2026 18:26:36 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[부고] 이종렬(전 한국은행 부총재보)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260904160100002",
-      "pubDate": "Fri, 4 Sep 2026 18:14:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"홍지선, 주택담보대출에 처가 돈 빌려 산 아파트 1년 새 4억↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904157900001",
-      "pubDate": "Fri, 4 Sep 2026 18:08:02 +0900"
+      "source": "한국경제",
+      "title": "왓슨스도 실패한 드러그스토어…뷰티 입은 K약국이 해냈다",
+      "link": "https://www.hankyung.com/article/2026090451661",
+      "pubDate": "Fri, 04 Sep 2026 18:18:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "해외서 자금줄 뚫은 현대캐피탈…통화 포트폴리오 다변화로 방파제 구축",
-      "link": "https://www.hankyung.com/article/202609045214i",
-      "pubDate": "Fri, 04 Sep 2026 18:07:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904156100008",
-      "pubDate": "Fri, 4 Sep 2026 18:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260904149800011",
-      "pubDate": "Fri, 4 Sep 2026 18:00:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] '1600억 정산분쟁' 부른 석유 최고가격제…결국 소송 간다",
-      "link": "https://www.hankyung.com/article/2026090451831",
-      "pubDate": "Fri, 04 Sep 2026 17:54:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "화장품을 샀더니 젤리백이…조선미녀, 다이닛과 손잡아",
-      "link": "https://www.hankyung.com/article/202609045145g",
-      "pubDate": "Fri, 04 Sep 2026 17:49:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "퇴직연금 적립금 500조, 75%는 '원리금 보장형'",
-      "link": "https://www.hankyung.com/article/2026090451251",
-      "pubDate": "Fri, 04 Sep 2026 17:45:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "제주 리조트 노동자 오래 일할 수 있게…정부·원하청 힘 모은다",
-      "link": "https://www.yna.co.kr/view/AKR20260904094500530",
-      "pubDate": "Fri, 4 Sep 2026 17:40:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성·LG전자, '스마트 빌트인' 앞세워 유럽 공략",
-      "link": "https://www.hankyung.com/article/2026090451061",
-      "pubDate": "Fri, 04 Sep 2026 17:39:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화에어로, 크로아티아 '천무' 수출 임박",
-      "link": "https://www.hankyung.com/article/2026090451101",
-      "pubDate": "Fri, 04 Sep 2026 17:38:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HD현대·롯데 '석유화학 사업재편 1호' 공식 출범",
-      "link": "https://www.hankyung.com/article/2026090451081",
-      "pubDate": "Fri, 04 Sep 2026 17:37:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "SKC, 앱솔릭스에 2810억 출자…반도체 유리기판 상업화 속도",
-      "link": "https://www.hankyung.com/article/2026090451091",
-      "pubDate": "Fri, 04 Sep 2026 17:37:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"멀티탭 하나로 하루 만에 인스타 200만뷰\"",
-      "link": "https://www.hankyung.com/article/2026090450901",
-      "pubDate": "Fri, 04 Sep 2026 17:37:02 +0900"
+      "title": "약도 카트 끌고 골라담는 시대…창고형 약국 1년새 70곳 늘어",
+      "link": "https://www.hankyung.com/article/2026090451651",
+      "pubDate": "Fri, 04 Sep 2026 18:16:43 +0900"
     }
   ]
 }
