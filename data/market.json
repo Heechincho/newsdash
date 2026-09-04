@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:50:54.820Z",
+  "updatedAt": "2026-09-04T05:38:05.714Z",
   "instruments": [
     {
       "key": "sp500",
@@ -13,8 +13,7 @@
         7711.759765625,
         7686.14013671875,
         7631.47021484375,
-        7666.60009765625,
-        7747.7099609375
+        7666.60009765625
       ],
       "ok": true
     },
@@ -30,8 +29,7 @@
         26402.419921875,
         26370.890625,
         26099.76953125,
-        26217.830078125,
-        26584.060546875
+        26217.830078125
       ],
       "ok": true
     },
@@ -47,8 +45,7 @@
         53559.98828125,
         53185.8984375,
         52766.87890625,
-        53061.94921875,
-        53686.109375
+        53061.94921875
       ],
       "ok": true
     },
@@ -56,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.53,
-      "changePercent": 0.252,
+      "price": 91.44,
+      "changePercent": 0.153,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.52999877929688
+        91.44000244140625
       ],
       "ok": true
     },
@@ -72,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4523.8,
-      "changePercent": -0.355,
+      "price": 4516.4,
+      "changePercent": -0.518,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4523.7998046875
+        4516.39990234375
       ],
       "ok": true
     },
@@ -88,15 +85,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.993,
-      "changePercent": 0.086,
+      "price": 99.029,
+      "changePercent": 0.122,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        98.99299621582031
+        99.02899932861328
       ],
       "ok": true
     },
@@ -112,8 +109,7 @@
         14.430000305175781,
         14.920000076293945,
         16.34000015258789,
-        15.199999809265137,
-        14.319999694824219
+        15.199999809265137
       ],
       "ok": true
     }
@@ -121,93 +117,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] KB금융 골든라이프 챔피언십 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260904047200002",
-      "pubDate": "Fri, 4 Sep 2026 09:46:03 +0900"
+      "title": "전북농협·기보, 전북 중소기업에 200억원 대출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904105300055",
+      "pubDate": "Fri, 4 Sep 2026 14:32:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "與박해철 \"尹정부 4년간 청년일자리사업 예산 6천718억 불용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903176600001",
-      "pubDate": "Fri, 4 Sep 2026 09:45:20 +0900"
+      "title": "[게시판] 공정위·한국소비자법학회 등 6개 기관 공동 학술대회",
+      "link": "https://www.yna.co.kr/view/AKR20260904036400002",
+      "pubDate": "Fri, 4 Sep 2026 14:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 한투증권, 카카오뱅크 제휴 7주년 고객 감사 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260904045500008",
-      "pubDate": "Fri, 4 Sep 2026 09:43:42 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260904102200011",
+      "pubDate": "Fri, 4 Sep 2026 14:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "추석 맞이 관세청 '24시간 특별통관'…성수품 수입가격도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260904042000002",
-      "pubDate": "Fri, 4 Sep 2026 09:43:41 +0900"
+      "title": "HUG, 부산 강서구·충남 천안 미분양관리지역 신규 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260904102700003",
+      "pubDate": "Fri, 4 Sep 2026 14:14:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "李대통령, '노조 불법에 건설사 피해' 지적에 \"사례 보내달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904042400001",
-      "pubDate": "Fri, 4 Sep 2026 09:43:18 +0900"
+      "title": "코스피200 변동성지수, 장중 40선 아래로…6개월여만 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260904100800008",
+      "pubDate": "Fri, 4 Sep 2026 14:13:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 미 금리동결 가능성 부각되자 보험주 장초반 약세",
-      "link": "https://www.yna.co.kr/view/AKR20260904044100008",
-      "pubDate": "Fri, 4 Sep 2026 09:42:48 +0900"
+      "title": "가덕신공항건설공단 \"임시이주 대상 주택 238가구 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904100700051",
+      "pubDate": "Fri, 4 Sep 2026 14:07:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기술특례상장 제도 도입 21년 만에 상장사 300개 달성",
-      "link": "https://www.yna.co.kr/view/AKR20260904043200008",
-      "pubDate": "Fri, 4 Sep 2026 09:41:51 +0900"
+      "title": "금융위, 강원특별자치도와 서민금융 복합지원 강화 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260904097100002",
+      "pubDate": "Fri, 4 Sep 2026 14:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 금융노조 총파업…“국책은행 지방이전 반대·주 4.5일제 도입”",
+      "link": "https://www.hankyung.com/article/202609044442i",
+      "pubDate": "Fri, 04 Sep 2026 13:49:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정용진 \"한미 힘 합쳐 시너지\"…美 '파운드리스쿨 출범식' 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260904042500030",
-      "pubDate": "Fri, 4 Sep 2026 09:39:27 +0900"
+      "title": "부산은행, 자유시장서 장금이 결연…금융사기 예방 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260904094800051",
+      "pubDate": "Fri, 4 Sep 2026 13:48:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 빗썸, '2026 청년 채용설명회' 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260904043900002",
-      "pubDate": "Fri, 4 Sep 2026 09:37:47 +0900"
+      "title": "노원구 '청년창업기업 인증제' 도입…\"자금·판로·홍보 연계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904093500004",
+      "pubDate": "Fri, 4 Sep 2026 13:43:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "애플 첫 폴더블 아이폰 온다…갤럭시 Z 폴드8과 정면승부",
-      "link": "https://www.yna.co.kr/view/AKR20260904033800017",
-      "pubDate": "Fri, 4 Sep 2026 09:35:19 +0900"
+      "title": "BNK투자증권, 연 4.5% 신용공여 고객 금리우대 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260904090600051",
+      "pubDate": "Fri, 4 Sep 2026 13:39:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260904041900054",
-      "pubDate": "Fri, 4 Sep 2026 09:33:35 +0900"
+      "title": "코스닥 활성화하려면…\"상장부담 낮추고 퇴출기준 정교하게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904037600030",
+      "pubDate": "Fri, 4 Sep 2026 13:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "설화수, 추석 맞아 '자음생크림 60주년 기획 세트' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260904033600030",
-      "pubDate": "Fri, 4 Sep 2026 09:31:56 +0900"
+      "title": "광주상생카드 특별할인율 15%…판매 이틀만에 종료",
+      "link": "https://www.yna.co.kr/view/AKR20260904089600054",
+      "pubDate": "Fri, 4 Sep 2026 13:27:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "진보당 전남광주시당 \"노동쟁의 대상 시행지침은 위법·폐기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904041200054",
-      "pubDate": "Fri, 4 Sep 2026 09:31:13 +0900"
+      "title": "다이슨, AI 입은 신제품 10종 공개…\"지능형 가전시대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904087400003",
+      "pubDate": "Fri, 4 Sep 2026 13:27:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "배달의민족, '마감할인' 참여 매장 저녁 주문 11.7% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260904033200030",
-      "pubDate": "Fri, 4 Sep 2026 09:30:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"김성수, 처남 도곡동 아파트 '보증금 차액' 2천700만원도 안내\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904029800001",
-      "pubDate": "Fri, 4 Sep 2026 09:29:19 +0900"
+      "title": "[게시판] NH농협은행, 5급 신규직원 120명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260904079900002",
+      "pubDate": "Fri, 4 Sep 2026 13:10:00 +0900"
     }
   ]
 }
