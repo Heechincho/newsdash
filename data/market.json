@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:51:03.496Z",
+  "updatedAt": "2026-09-04T00:50:54.820Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.77,
-      "changePercent": 0.515,
+      "price": 91.53,
+      "changePercent": 0.252,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
         85.76000213623047,
         90.22000122070312,
         91.01000213623047,
-        91.7699966430664
+        91.52999877929688
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4523,
-      "changePercent": -0.372,
+      "price": 4523.8,
+      "changePercent": -0.355,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
         4431.10009765625,
         4348,
         4366.2998046875,
-        4523
+        4523.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.003,
-      "changePercent": -0.595,
+      "price": 98.993,
+      "changePercent": 0.086,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
         99.43000030517578,
         99.66999816894531,
         99.55999755859375,
-        99.00299835205078
+        98.99299621582031
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260904014300011",
-      "pubDate": "Fri, 4 Sep 2026 07:30:00 +0900"
+      "title": "[게시판] KB금융 골든라이프 챔피언십 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260904047200002",
+      "pubDate": "Fri, 4 Sep 2026 09:46:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[머니톡스] 외국인 소문의 진실…다음 파티가 열리기 전 해야 할 일",
-      "link": "https://www.yna.co.kr/view/AKR20260903031200546",
-      "pubDate": "Fri, 4 Sep 2026 07:07:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "5대 커피 프랜차이즈 매장만 1.3만 곳…실적은 쓰다",
-      "link": "https://www.hankyung.com/article/2026090329521",
-      "pubDate": "Fri, 04 Sep 2026 07:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼전닉스에 25조 손 벌린 한전…전력망 투자 이대로 괜찮나 [여기는 논설실]",
-      "link": "https://www.hankyung.com/article/202609033160i",
-      "pubDate": "Fri, 04 Sep 2026 06:00:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"카리나도 쓰더라\"…촌스럽다고 외면받더니 대반전 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202609032696g",
-      "pubDate": "Fri, 04 Sep 2026 06:00:04 +0900"
+      "title": "與박해철 \"尹정부 4년간 청년일자리사업 예산 6천718억 불용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260903176600001",
+      "pubDate": "Fri, 4 Sep 2026 09:45:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "中企 제조AI 인력 1천600명 양성…취업인턴십 12개월로 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260903158600030",
-      "pubDate": "Fri, 4 Sep 2026 06:00:02 +0900"
+      "title": "[게시판] 한투증권, 카카오뱅크 제휴 7주년 고객 감사 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260904045500008",
+      "pubDate": "Fri, 4 Sep 2026 09:43:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "통합 17년만에 다시 쪼개지는 LH…'공적주택' 공급 속도낼까",
-      "link": "https://www.yna.co.kr/view/AKR20260903140100003",
-      "pubDate": "Fri, 4 Sep 2026 05:59:00 +0900"
+      "title": "추석 맞이 관세청 '24시간 특별통관'…성수품 수입가격도 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260904042000002",
+      "pubDate": "Fri, 4 Sep 2026 09:43:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중동 긴장 지속에 WTI 나흘 연속 상승…브렌트유는 소폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260904005500072",
-      "pubDate": "Fri, 4 Sep 2026 05:13:22 +0900"
+      "title": "李대통령, '노조 불법에 건설사 피해' 지적에 \"사례 보내달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904042400001",
+      "pubDate": "Fri, 4 Sep 2026 09:43:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업부·코트라, 미국 첨단기업 4곳 2.8조원 투자 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260903183100003",
-      "pubDate": "Fri, 4 Sep 2026 04:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "월러 이사, 금리 동결 시사...워시와 엇박자",
-      "link": "https://www.hankyung.com/article/202609033213i",
-      "pubDate": "Thu, 03 Sep 2026 23:33:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"눈 가리고도 피자 맞히더니\"…'성덕 모델' 된 대세 아이돌 [셀럽픽]",
-      "link": "https://www.hankyung.com/article/202609031166g",
-      "pubDate": "Thu, 03 Sep 2026 22:03:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"회의만 하다 하루 다 간다\"…3300명 구조조정 발표한 회사",
-      "link": "https://www.hankyung.com/article/2026090329651",
-      "pubDate": "Thu, 03 Sep 2026 21:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"엄정화 와인 사러 갑니다\"…1년 공들인 정체에 '들썩' [갓신상]",
-      "link": "https://www.hankyung.com/article/202609032670g",
-      "pubDate": "Thu, 03 Sep 2026 20:20:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"3일 만에 옷 뚝딱\"…스파오 6500억 대박 매출의 '숨은 비밀'",
-      "link": "https://www.hankyung.com/article/2026090329721",
-      "pubDate": "Thu, 03 Sep 2026 20:00:01 +0900"
+      "title": "[특징주] 미 금리동결 가능성 부각되자 보험주 장초반 약세",
+      "link": "https://www.yna.co.kr/view/AKR20260904044100008",
+      "pubDate": "Fri, 4 Sep 2026 09:42:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "김석봉 씨티 부사장, 모건스탠리 韓 IB 공동대표로 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260903175200008",
-      "pubDate": "Thu, 3 Sep 2026 19:53:11 +0900"
+      "title": "기술특례상장 제도 도입 21년 만에 상장사 300개 달성",
+      "link": "https://www.yna.co.kr/view/AKR20260904043200008",
+      "pubDate": "Fri, 4 Sep 2026 09:41:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "정용진 \"한미 힘 합쳐 시너지\"…美 '파운드리스쿨 출범식' 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260904042500030",
+      "pubDate": "Fri, 4 Sep 2026 09:39:27 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 빗썸, '2026 청년 채용설명회' 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260904043900002",
+      "pubDate": "Fri, 4 Sep 2026 09:37:47 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "애플 첫 폴더블 아이폰 온다…갤럭시 Z 폴드8과 정면승부",
+      "link": "https://www.yna.co.kr/view/AKR20260904033800017",
+      "pubDate": "Fri, 4 Sep 2026 09:35:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "광주은행, '전남광주통합특별시 사랑적금' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260904041900054",
+      "pubDate": "Fri, 4 Sep 2026 09:33:35 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "설화수, 추석 맞아 '자음생크림 60주년 기획 세트' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260904033600030",
+      "pubDate": "Fri, 4 Sep 2026 09:31:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "진보당 전남광주시당 \"노동쟁의 대상 시행지침은 위법·폐기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904041200054",
+      "pubDate": "Fri, 4 Sep 2026 09:31:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "배달의민족, '마감할인' 참여 매장 저녁 주문 11.7% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260904033200030",
+      "pubDate": "Fri, 4 Sep 2026 09:30:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"김성수, 처남 도곡동 아파트 '보증금 차액' 2천700만원도 안내\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904029800001",
+      "pubDate": "Fri, 4 Sep 2026 09:29:19 +0900"
     }
   ]
 }
