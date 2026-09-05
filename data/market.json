@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:10:42.853Z",
+  "updatedAt": "2026-09-05T04:39:08.917Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.22,
-      "changePercent": -0.088,
+      "price": 91.48,
+      "changePercent": 0.197,
       "previousClose": 85.76,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         90.22000122070312,
         91.01000213623047,
         91.30000305175781,
-        91.22000122070312
+        91.4800033569336
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4477.2,
-      "changePercent": -1.381,
+      "price": 4476.6,
+      "changePercent": -1.394,
       "previousClose": 4431.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4348,
         4366.2998046875,
         4491.7001953125,
-        4477.2001953125
+        4429.7998046875
       ],
       "ok": true
     },
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 99.157,
-      "changePercent": 0.252,
+      "changePercent": -0.019,
       "previousClose": 99.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.66999816894531,
         99.55999755859375,
         99,
-        99.15699768066406
+        99.16000366210938
       ],
       "ok": true
     },
@@ -122,6 +122,60 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "홍지선, '영끌 주택구입' 지적에 \"시세차익 목적 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905030500003",
+      "pubDate": "Sat, 5 Sep 2026 13:29:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"거제 야호\" 한 마디가 이 정도일 줄은…'역주행 아이돌'에 줄 섰다 [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202609043388g",
+      "pubDate": "Sat, 05 Sep 2026 13:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "정의선 \"美 생산 철강, 아틀라스 적용 추진…스페이스X에도 납품되길\"",
+      "link": "https://www.hankyung.com/article/202609055487i",
+      "pubDate": "Sat, 05 Sep 2026 12:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“우유회사가 왜 호텔까지?”…3만평 농장서 벌어진 10년 실험 [현장+]",
+      "link": "https://www.hankyung.com/article/202609017560i",
+      "pubDate": "Sat, 05 Sep 2026 12:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260904147800062",
+      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260905021600011",
+      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“위스키 열풍 끝났다더니”…불황에도 더 비싸지고 늙어간다 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609031470i",
+      "pubDate": "Sat, 05 Sep 2026 10:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "새도약기금이 탕감한 빚 2.3조…60대가 가장 많았다",
+      "link": "https://www.hankyung.com/article/202609033046i",
+      "pubDate": "Sat, 05 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中 최대 자동차그룹 SAIC의 변신…'합작 2.0'으로 생존전략 재편",
+      "link": "https://www.hankyung.com/article/202608252536i",
+      "pubDate": "Sat, 05 Sep 2026 09:00:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[민선9기 서울] 김길성 중구청장 \"깜깜한 정동길에 경관조명 비춰 명소화\"",
@@ -157,60 +211,6 @@
       "title": "익산역 개발·원도심 발전 방향은…익산시청서 16일 타운홀미팅",
       "link": "https://www.yna.co.kr/view/AKR20260904093200055",
       "pubDate": "Sat, 5 Sep 2026 08:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
-      "link": "https://www.hankyung.com/article/202609055528i",
-      "pubDate": "Sat, 05 Sep 2026 07:53:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
-      "pubDate": "Sat, 5 Sep 2026 07:17:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
-      "pubDate": "Sat, 5 Sep 2026 07:11:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
-      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
-      "pubDate": "Sat, 5 Sep 2026 07:10:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
-      "link": "https://www.yna.co.kr/view/AKR20260904119500003",
-      "pubDate": "Sat, 5 Sep 2026 07:01:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
-      "link": "https://www.yna.co.kr/view/AKR20260903167500030",
-      "pubDate": "Sat, 5 Sep 2026 07:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
-      "link": "https://www.yna.co.kr/view/AKR20260904058700030",
-      "pubDate": "Sat, 5 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
-      "link": "https://www.hankyung.com/article/2026090446956",
-      "pubDate": "Sat, 05 Sep 2026 07:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
-      "link": "https://www.hankyung.com/article/202609033212i",
-      "pubDate": "Sat, 05 Sep 2026 07:00:02 +0900"
     }
   ]
 }
