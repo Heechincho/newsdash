@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T21:23:07.847Z",
+  "updatedAt": "2026-09-05T23:10:04.441Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
-      "link": "https://www.yna.co.kr/view/AKR20260904157200530",
-      "pubDate": "Sun, 6 Sep 2026 06:06:02 +0900"
+      "title": "4년간 식중독 1천254건…살모넬라 매년 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260903178900017",
+      "pubDate": "Sun, 6 Sep 2026 08:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"부산병 걸렸어요\"…대만 관광객 재방문 행렬에 항공업계 '미소'",
+      "link": "https://www.hankyung.com/article/2026090661977",
+      "pubDate": "Sun, 06 Sep 2026 07:49:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상폐기준 강화에 '소액주주 300만명·보유액 8조원' 영향권",
-      "link": "https://www.yna.co.kr/view/AKR20260904177000008",
-      "pubDate": "Sun, 6 Sep 2026 06:05:00 +0900"
+      "title": "수도권 공공기관 본사 168곳…지방이전 후 주택공급 활용될까",
+      "link": "https://www.yna.co.kr/view/AKR20260906005400003",
+      "pubDate": "Sun, 6 Sep 2026 07:45:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "4인 가족 차례상 비용 30만원 넘어…작년보다 또 올랐다",
+      "link": "https://www.hankyung.com/article/2026090661847",
+      "pubDate": "Sun, 06 Sep 2026 07:33:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한국선 못 구해요\"…日 '당일치기 여행' 가는 직장인들 [박수림의 요즘 여기]",
+      "link": "https://www.hankyung.com/article/202609044327g",
+      "pubDate": "Sun, 06 Sep 2026 07:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓인사이트] 오픈AI발 인공지능 혁신…韓반도체 다시 뛰나",
-      "link": "https://www.yna.co.kr/view/AKR20260905021700008",
-      "pubDate": "Sun, 6 Sep 2026 06:00:07 +0900"
+      "title": "\"기차역 음식값 5년 새 24%↑…김밥 4천78원·돈가스 1만26원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906000200003",
+      "pubDate": "Sun, 6 Sep 2026 07:25:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이마트, '호주산 LA식 꽃갈비 세트' 9만9천원대 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260905017400030",
-      "pubDate": "Sun, 6 Sep 2026 06:00:02 +0900"
+      "title": "[머니톡스] 미 국채금리의 경고…'안전지대는 없다'",
+      "link": "https://www.yna.co.kr/view/AKR20260904059600546",
+      "pubDate": "Sun, 6 Sep 2026 07:22:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "트로이의 성문은 안에서 열렸다…이사의 감시의무와 내부통제 [서이헌의 법과 기업]",
+      "link": "https://www.hankyung.com/article/202609045253i",
+      "pubDate": "Sun, 06 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 프리미엄 메탈카드 글로벌 2위 코나아이 \"美 공장 인수로 5년 내 매출 1조 간다\"",
+      "link": "https://www.hankyung.com/article/202609044267i",
+      "pubDate": "Sun, 06 Sep 2026 07:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "추석 앞두고 한우 가격 고공행진…등심 소비자가 22% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260905017000030",
-      "pubDate": "Sun, 6 Sep 2026 06:00:01 +0900"
+      "title": "\"추석 차례상 비용 전통시장서 30만원대…작년보다 소폭 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905013100030",
+      "pubDate": "Sun, 6 Sep 2026 07:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"국세청 해외계좌 미신고 제보포상 11년간 3건뿐…유명무실\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905019100002",
-      "pubDate": "Sun, 6 Sep 2026 05:59:12 +0900"
+      "title": "추석 앞둔 9월 크레딧 시장…수급 우려 속 '선별적 흥행' 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260905020600008",
+      "pubDate": "Sun, 6 Sep 2026 06:35:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'빚투' 속에 50대 이상 보험계약대출·카드론 늘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260905046700002",
-      "pubDate": "Sun, 6 Sep 2026 05:57:00 +0900"
+      "title": "실적 호조에도 패션 기업 고용 양극화…무신사만 '대규모 증원'",
+      "link": "https://www.yna.co.kr/view/AKR20260905048400030",
+      "pubDate": "Sun, 6 Sep 2026 06:31:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시 '달빛야장' 키워 야간경제 살린다…도로점용 등 제도화",
-      "link": "https://www.yna.co.kr/view/AKR20260905023000004",
-      "pubDate": "Sun, 6 Sep 2026 05:55:05 +0900"
+      "title": "내년초까지 슈퍼 엘니뇨…\"수혜주 일괄 매수보다 가격 전가력 봐야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905018100008",
+      "pubDate": "Sun, 6 Sep 2026 06:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서민금융안정기금 내년 도입 사실상 무산…출연 연장만",
-      "link": "https://www.yna.co.kr/view/AKR20260905049400002",
-      "pubDate": "Sun, 6 Sep 2026 05:55:02 +0900"
+      "title": "대형주 중심으로 쏠리는 증권사 기업분석…신규 상장사 '소외'",
+      "link": "https://www.yna.co.kr/view/AKR20260905001300008",
+      "pubDate": "Sun, 6 Sep 2026 06:25:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260905048200002",
-      "pubDate": "Sun, 6 Sep 2026 05:53:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260905028800002",
-      "pubDate": "Sun, 6 Sep 2026 05:51:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "반도체 특수에 韓 경상 흑자율 20% 근접할 듯…대만 바짝 추격",
-      "link": "https://www.yna.co.kr/view/AKR20260905026200002",
-      "pubDate": "Sun, 6 Sep 2026 05:49:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "무디스 \"9년 만에 재정흑자…미래대응기금 신용에 우호적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905024300002",
-      "pubDate": "Sun, 6 Sep 2026 05:47:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "2030년 적자성 채무 1천300조대…나랏빚 이자비용 50조 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260905042200002",
-      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국가보증·공공기관 부채 눈덩이…'그림자 부채' 4년뒤 1천155조",
-      "link": "https://www.yna.co.kr/view/AKR20260905039500002",
-      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
+      "title": "코스피 불장에 주택도시기금도 '쏠쏠'…올 상반기 1.2조 수익",
+      "link": "https://www.yna.co.kr/view/AKR20260904116300003",
+      "pubDate": "Sun, 6 Sep 2026 06:21:01 +0900"
     }
   ]
 }
