@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:18:50.671Z",
+  "updatedAt": "2026-09-05T21:23:07.847Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"두 개에 1000원이라고?\"…SNS서 난리난 다이소 '찹쌀떡'",
-      "link": "https://www.hankyung.com/article/2026090560437",
-      "pubDate": "Sat, 05 Sep 2026 21:44:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "17억 '로또 대박' 주인공 16명 나왔다…행운의 번호는",
-      "link": "https://www.hankyung.com/article/2026090560367",
-      "pubDate": "Sat, 05 Sep 2026 21:02:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"지금이라도 사야하나\" 비명 쏟아지는데…삼전닉스 '미소'",
-      "link": "https://www.hankyung.com/article/2026090559947",
-      "pubDate": "Sat, 05 Sep 2026 20:13:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"비트코인 덕분에 짭짤했는데\"…새로운 '큰손' 등장에 들썩 [류은혁의 유통기한]",
-      "link": "https://www.hankyung.com/article/202609045408i",
-      "pubDate": "Sat, 05 Sep 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "백화점 앞 잔디광장 '바글바글'…이틀만에 6만명 몰린 잠실",
-      "link": "https://www.hankyung.com/article/202609055944g",
-      "pubDate": "Sat, 05 Sep 2026 19:54:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"하룻밤 불꽃에 130억\"…한화가 20년 넘게 축제 여는 이유",
-      "link": "https://www.hankyung.com/article/2026090559847",
-      "pubDate": "Sat, 05 Sep 2026 19:43:48 +0900"
+      "source": "연합뉴스",
+      "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+      "link": "https://www.yna.co.kr/view/AKR20260904157200530",
+      "pubDate": "Sun, 6 Sep 2026 06:06:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905034151002",
-      "pubDate": "Sat, 5 Sep 2026 16:25:09 +0900"
+      "title": "상폐기준 강화에 '소액주주 300만명·보유액 8조원' 영향권",
+      "link": "https://www.yna.co.kr/view/AKR20260904177000008",
+      "pubDate": "Sun, 6 Sep 2026 06:05:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260905034100002",
-      "pubDate": "Sat, 5 Sep 2026 15:03:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"100인치 TV 골라줘\" 말하자 척척…삼성, 독일서 'AI 직원' 공개",
-      "link": "https://www.hankyung.com/article/2026090558347",
-      "pubDate": "Sat, 05 Sep 2026 14:28:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"급해서 500만원 빌렸는데 이자 95만원\"…서민들 날벼락",
-      "link": "https://www.hankyung.com/article/2026090558247",
-      "pubDate": "Sat, 05 Sep 2026 14:16:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"돈 쏟아부어도 이건 힘들어\"…TSMC 이어 삼성전자도 '비상' [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026090442456",
-      "pubDate": "Sat, 05 Sep 2026 14:00:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "강남 자산가들이 가족법인에 주목하는 이유",
-      "link": "https://www.hankyung.com/article/202609016745i",
-      "pubDate": "Sat, 05 Sep 2026 14:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "가지급금 끄려다 형사처벌까지… '자사주 매입'의 숨은 덫 [대륙아주의 세무전략]",
-      "link": "https://www.hankyung.com/article/202609045234i",
-      "pubDate": "Sat, 05 Sep 2026 14:00:06 +0900"
+      "title": "[마켓인사이트] 오픈AI발 인공지능 혁신…韓반도체 다시 뛰나",
+      "link": "https://www.yna.co.kr/view/AKR20260905021700008",
+      "pubDate": "Sun, 6 Sep 2026 06:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노동장관, 제주 팝업스토어 방문…\"청년 도전·성장 적극 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905030900530",
-      "pubDate": "Sat, 5 Sep 2026 13:45:24 +0900"
+      "title": "이마트, '호주산 LA식 꽃갈비 세트' 9만9천원대 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260905017400030",
+      "pubDate": "Sun, 6 Sep 2026 06:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "홍지선, '영끌 주택구입' 지적에 \"시세차익 목적 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905030500003",
-      "pubDate": "Sat, 5 Sep 2026 13:29:07 +0900"
+      "title": "추석 앞두고 한우 가격 고공행진…등심 소비자가 22% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260905017000030",
+      "pubDate": "Sun, 6 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국세청 해외계좌 미신고 제보포상 11년간 3건뿐…유명무실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905019100002",
+      "pubDate": "Sun, 6 Sep 2026 05:59:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'빚투' 속에 50대 이상 보험계약대출·카드론 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260905046700002",
+      "pubDate": "Sun, 6 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시 '달빛야장' 키워 야간경제 살린다…도로점용 등 제도화",
+      "link": "https://www.yna.co.kr/view/AKR20260905023000004",
+      "pubDate": "Sun, 6 Sep 2026 05:55:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서민금융안정기금 내년 도입 사실상 무산…출연 연장만",
+      "link": "https://www.yna.co.kr/view/AKR20260905049400002",
+      "pubDate": "Sun, 6 Sep 2026 05:55:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260905048200002",
+      "pubDate": "Sun, 6 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260905028800002",
+      "pubDate": "Sun, 6 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "반도체 특수에 韓 경상 흑자율 20% 근접할 듯…대만 바짝 추격",
+      "link": "https://www.yna.co.kr/view/AKR20260905026200002",
+      "pubDate": "Sun, 6 Sep 2026 05:49:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "무디스 \"9년 만에 재정흑자…미래대응기금 신용에 우호적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905024300002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2030년 적자성 채무 1천300조대…나랏빚 이자비용 50조 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260905042200002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국가보증·공공기관 부채 눈덩이…'그림자 부채' 4년뒤 1천155조",
+      "link": "https://www.yna.co.kr/view/AKR20260905039500002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
     }
   ]
 }
