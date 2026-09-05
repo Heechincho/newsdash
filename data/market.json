@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:36:47.413Z",
+  "updatedAt": "2026-09-05T12:03:57.670Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,16 +123,34 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"노트북 지금 사야 하나\"…AI가 메모리 쓸어가자 가격 '비상'",
+      "link": "https://www.hankyung.com/article/2026090559947",
+      "pubDate": "Sat, 05 Sep 2026 20:13:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"비트코인 덕분에 짭짤했는데\"…새로운 '큰손' 등장에 들썩 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202609045408i",
+      "pubDate": "Sat, 05 Sep 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "백화점 앞 잔디광장 '바글바글'…이틀만에 6만명 몰린 잠실",
+      "link": "https://www.hankyung.com/article/202609055944g",
+      "pubDate": "Sat, 05 Sep 2026 19:54:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"하룻밤 불꽃에 130억\"…한화가 20년 넘게 축제 여는 이유",
+      "link": "https://www.hankyung.com/article/2026090559847",
+      "pubDate": "Sat, 05 Sep 2026 19:43:48 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260905034151002",
       "pubDate": "Sat, 5 Sep 2026 16:25:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"위대한 제품 사람으로부터\"…삼성 노조, 뉴욕서 띄운 15초 광고",
-      "link": "https://www.hankyung.com/article/2026090559067",
-      "pubDate": "Sat, 05 Sep 2026 16:05:30 +0900"
     },
     {
       "source": "연합뉴스",
@@ -193,24 +211,6 @@
       "title": "정의선 \"美 생산 철강, 아틀라스 적용 추진…스페이스X에도 납품되길\"",
       "link": "https://www.hankyung.com/article/202609055487i",
       "pubDate": "Sat, 05 Sep 2026 12:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "평범한 농장인 줄 알았는데 '반전'…10년간 조용히 판 키웠다 [현장+]",
-      "link": "https://www.hankyung.com/article/202609017560i",
-      "pubDate": "Sat, 05 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260904147800062",
-      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260905021600011",
-      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
     }
   ]
 }
