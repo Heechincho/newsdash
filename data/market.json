@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:09:35.391Z",
+  "updatedAt": "2026-09-05T17:21:08.070Z",
   "instruments": [
     {
       "key": "sp500",
@@ -159,6 +159,18 @@
       "pubDate": "Sat, 05 Sep 2026 19:43:48 +0900"
     },
     {
+      "source": "연합뉴스",
+      "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260905034151002",
+      "pubDate": "Sat, 5 Sep 2026 16:25:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260905034100002",
+      "pubDate": "Sat, 5 Sep 2026 15:03:21 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "\"100인치 TV 골라줘\" 말하자 척척…삼성, 독일서 'AI 직원' 공개",
       "link": "https://www.hankyung.com/article/2026090558347",
@@ -189,28 +201,16 @@
       "pubDate": "Sat, 05 Sep 2026 14:00:06 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"소녀시대·원더걸스 이후 처음\"…'거제 야호' 효과 이 정도였나 [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202609043388g",
-      "pubDate": "Sat, 05 Sep 2026 13:00:02 +0900"
+      "source": "연합뉴스",
+      "title": "노동장관, 제주 팝업스토어 방문…\"청년 도전·성장 적극 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905030900530",
+      "pubDate": "Sat, 5 Sep 2026 13:45:24 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "정의선 \"美 생산 철강, 아틀라스 적용 추진…스페이스X에도 납품되길\"",
-      "link": "https://www.hankyung.com/article/202609055487i",
-      "pubDate": "Sat, 05 Sep 2026 12:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "평범한 농장인 줄 알았는데 '반전'…10년간 조용히 판 키웠다 [현장+]",
-      "link": "https://www.hankyung.com/article/202609017560i",
-      "pubDate": "Sat, 05 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“위스키 열풍 끝났다더니”…불황에도 더 비싸지고 늙어간다 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609031470i",
-      "pubDate": "Sat, 05 Sep 2026 10:00:01 +0900"
+      "source": "연합뉴스",
+      "title": "홍지선, '영끌 주택구입' 지적에 \"시세차익 목적 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905030500003",
+      "pubDate": "Sat, 5 Sep 2026 13:29:07 +0900"
     }
   ]
 }
