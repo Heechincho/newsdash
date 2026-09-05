@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:13:00.556Z",
+  "updatedAt": "2026-09-05T00:10:42.853Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,66 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "[민선9기 서울] 김길성 중구청장 \"깜깜한 정동길에 경관조명 비춰 명소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904092200004",
+      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"공공임대주택으로 주거 안정화…한국형 '빈 모델' 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904166500002",
+      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 취업자 얼마나 늘었을까…2분기 GDP 성장률 잠정치 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260905014100002",
+      "pubDate": "Sat, 5 Sep 2026 08:55:39 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "울산시, 중소기업·소상공인에 760억 경영안정자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904157500057",
+      "pubDate": "Sat, 5 Sep 2026 08:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904132400003",
+      "pubDate": "Sat, 5 Sep 2026 08:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "익산역 개발·원도심 발전 방향은…익산시청서 16일 타운홀미팅",
+      "link": "https://www.yna.co.kr/view/AKR20260904093200055",
+      "pubDate": "Sat, 5 Sep 2026 08:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
+      "link": "https://www.hankyung.com/article/202609055528i",
+      "pubDate": "Sat, 05 Sep 2026 07:53:32 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
+      "pubDate": "Sat, 5 Sep 2026 07:17:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
+      "pubDate": "Sat, 5 Sep 2026 07:11:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
+      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
+      "pubDate": "Sat, 5 Sep 2026 07:10:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
       "link": "https://www.yna.co.kr/view/AKR20260904119500003",
       "pubDate": "Sat, 5 Sep 2026 07:01:01 +0900"
@@ -142,7 +202,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"60억짜리 집 살아도 현금 없는데…\" 복잡해진 1주택자 셈법 [고정삼의 절세GPT]",
+      "title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "link": "https://www.hankyung.com/article/2026090446956",
       "pubDate": "Sat, 05 Sep 2026 07:00:04 +0900"
     },
@@ -151,66 +211,6 @@
       "title": "'국채 금리 격차' 중국은 1%대, 미국은 5%대…중국 기업의 '뜻밖의 무기'",
       "link": "https://www.hankyung.com/article/202609033212i",
       "pubDate": "Sat, 05 Sep 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260904115700063",
-      "pubDate": "Sat, 5 Sep 2026 06:05:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 서울 성북 브라운스톤월곡센트럴 등 2천852가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260904126400003",
-      "pubDate": "Sat, 5 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美서 쇳물 뽑는다\"…현대제철, HPLS 전기로 제철소 착공",
-      "link": "https://www.hankyung.com/article/202609055485i",
-      "pubDate": "Sat, 05 Sep 2026 06:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“먹던 어묵을 입고 닦는다”… 2030 홀린 70년 노포의 변신 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609045036i",
-      "pubDate": "Sat, 05 Sep 2026 06:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "바브엘만데브 해협까지 불안…국제유가 상승세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260905005600072",
-      "pubDate": "Sat, 5 Sep 2026 05:16:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609055462i",
-      "pubDate": "Sat, 05 Sep 2026 01:04:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "뉴욕도 파리도 아닌 '서울' 택한 하겐다즈…성수서 즐기는 '크루즈' 콘셉트 [현장+]",
-      "link": "https://www.hankyung.com/article/202609044831g",
-      "pubDate": "Fri, 04 Sep 2026 21:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "에이피알, '짝퉁' 피해자였나…국내에서도 \"수단레드 불검출\"",
-      "link": "https://www.hankyung.com/article/2026090453677",
-      "pubDate": "Fri, 04 Sep 2026 20:24:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "하반기 코스피 -21% 찍을때 은행주는 11% '쑥'…주가방어에 배당 매력",
-      "link": "https://www.hankyung.com/article/202609044945i",
-      "pubDate": "Fri, 04 Sep 2026 20:04:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'69만원' 식사권도 완판…'불꽃축제 명당' 예약 폭주한 핫플",
-      "link": "https://www.hankyung.com/article/2026090450621",
-      "pubDate": "Fri, 04 Sep 2026 20:00:02 +0900"
     }
   ]
 }
