@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:42:37.248Z",
+  "updatedAt": "2026-09-06T13:12:06.617Z",
   "instruments": [
     {
       "key": "sp500",
@@ -80,7 +80,7 @@
         4348,
         4366.2998046875,
         4491.7001953125,
-        4429.7998046875
+        4476.60009765625
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
-      "link": "https://www.hankyung.com/article/2026090669511",
-      "pubDate": "Sun, 06 Sep 2026 17:43:58 +0900"
+      "source": "연합뉴스",
+      "title": "주진우 \"김승원 자녀, 아내 원장인 기관 취업\"…金측 \"가족폄훼\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260906033552001",
+      "pubDate": "Sun, 6 Sep 2026 21:38:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "지배구조 새판짜기…키워드는 인적분할",
-      "link": "https://www.hankyung.com/article/2026090669231",
-      "pubDate": "Sun, 06 Sep 2026 17:42:55 +0900"
+      "title": "\"20억원 집 팔고 미국 주식 올인\"…연봉 2.5억 부부의 결심",
+      "link": "https://www.hankyung.com/article/2026090670997",
+      "pubDate": "Sun, 06 Sep 2026 21:27:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美서 쇳물 뽑는 현대제철…\"아틀라스에 적용\"",
-      "link": "https://www.hankyung.com/article/2026090669221",
-      "pubDate": "Sun, 06 Sep 2026 17:42:09 +0900"
+      "title": "노량진서 암꽃게 1kg 사고 1만원 냈는데…'이게 맞아' 깜짝 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202609066796i",
+      "pubDate": "Sun, 06 Sep 2026 21:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부고] 강윤진(재정경제부 개발금융국장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260906049000002",
+      "pubDate": "Sun, 6 Sep 2026 20:39:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "中, 국유 은행·보험사에 대규모 자본 확충…금융권 안정성 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260906048400083",
+      "pubDate": "Sun, 6 Sep 2026 20:32:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주진우 \"김승원 자녀, 아내 원장인 복지기관 취업…정부에 빨대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260906033551001",
+      "pubDate": "Sun, 6 Sep 2026 20:06:55 +0900"
     },
     {
       "source": "한국경제",
-      "title": "화학섬유社, 옷감 대신 'AI센터 전력망' 짠다",
-      "link": "https://www.hankyung.com/article/2026090668671",
-      "pubDate": "Sun, 06 Sep 2026 17:40:26 +0900"
+      "title": "힘 세진 소액주주…기업분할 철회도 속출",
+      "link": "https://www.hankyung.com/article/2026090669501",
+      "pubDate": "Sun, 06 Sep 2026 18:31:21 +0900"
     },
     {
       "source": "한국경제",
-      "title": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
-      "link": "https://www.hankyung.com/article/2026090668691",
-      "pubDate": "Sun, 06 Sep 2026 17:40:01 +0900"
+      "title": "'경험부족' 5년 미만 감독관 급증…작년 사건 78% 아직 '수사중'",
+      "link": "https://www.hankyung.com/article/2026090669781",
+      "pubDate": "Sun, 06 Sep 2026 18:31:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "다이슨, 전동칫솔·공기청정기 등 'AI가전' 10종 쏟아내",
-      "link": "https://www.hankyung.com/article/2026090668711",
-      "pubDate": "Sun, 06 Sep 2026 17:39:46 +0900"
+      "title": "192시간→12시간 신규 실습교육 축소",
+      "link": "https://www.hankyung.com/article/2026090669771",
+      "pubDate": "Sun, 06 Sep 2026 18:30:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "이사 수 줄이고 임기 조정…집중투표제 앞두고 '분주'",
-      "link": "https://www.hankyung.com/article/2026090668681",
-      "pubDate": "Sun, 06 Sep 2026 17:39:28 +0900"
+      "title": "\"中企 기술 베끼면 기업 생존 흔들\"…100억 과징금에 연구개발비 물어내야",
+      "link": "https://www.hankyung.com/article/2026090669791",
+      "pubDate": "Sun, 06 Sep 2026 18:30:23 +0900"
     },
     {
       "source": "한국경제",
-      "title": "SK \"제조 AI 대전환, 울산서 논의\"",
-      "link": "https://www.hankyung.com/article/2026090668701",
-      "pubDate": "Sun, 06 Sep 2026 17:39:13 +0900"
+      "title": "완성차·부품 이어 강판까지…현대차그룹, 美서 제조 밸류체인 완성",
+      "link": "https://www.hankyung.com/article/2026090669561",
+      "pubDate": "Sun, 06 Sep 2026 18:29:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"로봇용 전고체 배터리 소재 내년 양산\"",
-      "link": "https://www.hankyung.com/article/2026090668721",
-      "pubDate": "Sun, 06 Sep 2026 17:39:01 +0900"
+      "title": "\"美서 생산한 철강, 로봇·우주기업에도 공급\"",
+      "link": "https://www.hankyung.com/article/2026090669551",
+      "pubDate": "Sun, 06 Sep 2026 18:29:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "수출, 이미 작년 실적 돌파…첫 1조 달러 '눈앞'",
-      "link": "https://www.hankyung.com/article/2026090669251",
-      "pubDate": "Sun, 06 Sep 2026 17:38:22 +0900"
+      "title": "'철강 라이벌' 현대제철·포스코 원팀됐다",
+      "link": "https://www.hankyung.com/article/2026090669541",
+      "pubDate": "Sun, 06 Sep 2026 18:28:54 +0900"
     },
     {
       "source": "한국경제",
-      "title": "EU 新포장 규제 한달…中企 수출현장 혼란",
-      "link": "https://www.hankyung.com/article/2026090668481",
-      "pubDate": "Sun, 06 Sep 2026 17:35:42 +0900"
+      "title": "AI 열풍에…세계 4번째 '수출 1조달러 클럽' 보인다",
+      "link": "https://www.hankyung.com/article/2026090669271",
+      "pubDate": "Sun, 06 Sep 2026 18:26:57 +0900"
     },
     {
       "source": "한국경제",
-      "title": "윤지용 대표 \"리포좀 건기식 제품 난립…품질 검증 엄격하게 해야\"",
-      "link": "https://www.hankyung.com/article/2026090668501",
-      "pubDate": "Sun, 06 Sep 2026 17:35:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "플라스틱 포장, 종이로 대체되나…新포장규제에 제지업계는 '반색'",
-      "link": "https://www.hankyung.com/article/2026090668511",
-      "pubDate": "Sun, 06 Sep 2026 17:34:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "1년 새 45% 폭등했는데…\"더 오를 수도\" 산업계 '초긴장'",
-      "link": "https://www.hankyung.com/article/2026090668551",
-      "pubDate": "Sun, 06 Sep 2026 17:28:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막",
-      "link": "https://www.hankyung.com/article/2026090668581",
-      "pubDate": "Sun, 06 Sep 2026 17:27:41 +0900"
+      "title": "집값 이대로 오르면 강북·금천·도봉 뺀 서울 전역에 종부세",
+      "link": "https://www.hankyung.com/article/2026090669261",
+      "pubDate": "Sun, 06 Sep 2026 18:26:13 +0900"
     }
   ]
 }
