@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:47:39.631Z",
+  "updatedAt": "2026-09-06T09:42:37.248Z",
   "instruments": [
     {
       "key": "sp500",
@@ -80,7 +80,7 @@
         4348,
         4366.2998046875,
         4491.7001953125,
-        4476.60009765625
+        4429.7998046875
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "[단독] '전력기기 빅4' 일진전기 유상석 대표 “호황 10년 더 간다…2030년 매출 4조·시총 10조 시대 열 것”",
-      "link": "https://www.hankyung.com/article/202609066614i",
-      "pubDate": "Sun, 06 Sep 2026 13:17:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주 청년정책 핵심가치 '삶의 질'…권역별 수요는 제각각",
-      "link": "https://www.yna.co.kr/view/AKR20260906026500054",
-      "pubDate": "Sun, 6 Sep 2026 13:10:31 +0900"
+      "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
+      "link": "https://www.hankyung.com/article/2026090669511",
+      "pubDate": "Sun, 06 Sep 2026 17:43:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "사전증여, 세금 계산기만 두드렸다간 '가족 분쟁' 부른다",
-      "link": "https://www.hankyung.com/article/202609020056i",
-      "pubDate": "Sun, 06 Sep 2026 13:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"국세청 해외계좌 미신고 제보포상 11년간 3건뿐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905019151002",
-      "pubDate": "Sun, 6 Sep 2026 12:52:34 +0900"
+      "title": "지배구조 새판짜기…키워드는 인적분할",
+      "link": "https://www.hankyung.com/article/2026090669231",
+      "pubDate": "Sun, 06 Sep 2026 17:42:55 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[공모주 분석] '타입캐스트' 네오사피엔스, AI 음성 넘어 '대화형 AI'로 코스닥 도전",
-      "link": "https://www.hankyung.com/article/202609044536i",
-      "pubDate": "Sun, 06 Sep 2026 12:26:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "지식재산처, 한국 상표 심사 노하우 아세안 11개국에 전수",
-      "link": "https://www.yna.co.kr/view/AKR20260904073500063",
-      "pubDate": "Sun, 6 Sep 2026 12:00:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회, 올해 '참 괜찮은 강소기업' 1만3천여곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260905033500030",
-      "pubDate": "Sun, 6 Sep 2026 12:00:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'아이돌이 판매' 장터 참여할 소기업·소상공인 10일까지 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260905036100030",
-      "pubDate": "Sun, 6 Sep 2026 12:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금감원, 펀드 설명 의무 강화…대출 중단 시 사전 안내도",
-      "link": "https://www.yna.co.kr/view/AKR20260905041500002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "사망 신고 다음날 금융거래 즉시 차단…'신속차단 시스템' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260905043100002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금감원, 全 금융권과 '보이스피싱 예방 주간'",
-      "link": "https://www.yna.co.kr/view/AKR20260905043500002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:05 +0900"
+      "title": "美서 쇳물 뽑는 현대제철…\"아틀라스에 적용\"",
+      "link": "https://www.hankyung.com/article/2026090669221",
+      "pubDate": "Sun, 06 Sep 2026 17:42:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"수리비 유독 비싸다는데\" 오명 쓴 '이 車' 알고 보니… [현장+]",
-      "link": "https://www.hankyung.com/article/202609044548g",
-      "pubDate": "Sun, 06 Sep 2026 12:00:05 +0900"
+      "title": "화학섬유社, 옷감 대신 'AI센터 전력망' 짠다",
+      "link": "https://www.hankyung.com/article/2026090668671",
+      "pubDate": "Sun, 06 Sep 2026 17:40:26 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "국세청, '호우 피해' 세금 납기 2년 연장 통영시 전체로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260905049200002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:04 +0900"
+      "source": "한국경제",
+      "title": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
+      "link": "https://www.hankyung.com/article/2026090668691",
+      "pubDate": "Sun, 06 Sep 2026 17:40:01 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "금융 인허가·등록 사전협의 절차 개선…서류제출 부담 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260905050800002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:03 +0900"
+      "source": "한국경제",
+      "title": "다이슨, 전동칫솔·공기청정기 등 'AI가전' 10종 쏟아내",
+      "link": "https://www.hankyung.com/article/2026090668711",
+      "pubDate": "Sun, 06 Sep 2026 17:39:46 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "K팝 아이돌이 '1일 영업사원'으로…중기중앙회, 소상공인 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260906014000030",
-      "pubDate": "Sun, 6 Sep 2026 12:00:02 +0900"
+      "source": "한국경제",
+      "title": "이사 수 줄이고 임기 조정…집중투표제 앞두고 '분주'",
+      "link": "https://www.hankyung.com/article/2026090668681",
+      "pubDate": "Sun, 06 Sep 2026 17:39:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "SK \"제조 AI 대전환, 울산서 논의\"",
+      "link": "https://www.hankyung.com/article/2026090668701",
+      "pubDate": "Sun, 06 Sep 2026 17:39:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"로봇용 전고체 배터리 소재 내년 양산\"",
+      "link": "https://www.hankyung.com/article/2026090668721",
+      "pubDate": "Sun, 06 Sep 2026 17:39:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "수출, 이미 작년 실적 돌파…첫 1조 달러 '눈앞'",
+      "link": "https://www.hankyung.com/article/2026090669251",
+      "pubDate": "Sun, 06 Sep 2026 17:38:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "EU 新포장 규제 한달…中企 수출현장 혼란",
+      "link": "https://www.hankyung.com/article/2026090668481",
+      "pubDate": "Sun, 06 Sep 2026 17:35:42 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "윤지용 대표 \"리포좀 건기식 제품 난립…품질 검증 엄격하게 해야\"",
+      "link": "https://www.hankyung.com/article/2026090668501",
+      "pubDate": "Sun, 06 Sep 2026 17:35:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "플라스틱 포장, 종이로 대체되나…新포장규제에 제지업계는 '반색'",
+      "link": "https://www.hankyung.com/article/2026090668511",
+      "pubDate": "Sun, 06 Sep 2026 17:34:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "1년 새 45% 폭등했는데…\"더 오를 수도\" 산업계 '초긴장'",
+      "link": "https://www.hankyung.com/article/2026090668551",
+      "pubDate": "Sun, 06 Sep 2026 17:28:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막",
+      "link": "https://www.hankyung.com/article/2026090668581",
+      "pubDate": "Sun, 06 Sep 2026 17:27:41 +0900"
     }
   ]
 }
