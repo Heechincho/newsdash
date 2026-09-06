@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:20:13.051Z",
+  "updatedAt": "2026-09-06T18:32:38.984Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,12 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
+      "link": "https://www.yna.co.kr/view/AKR20260907001200071",
+      "pubDate": "Mon, 7 Sep 2026 01:38:33 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "주진우 \"김승원 자녀, 아내 원장인 기관 취업\"…金측 \"가족폄훼\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260906033552001",
       "pubDate": "Sun, 6 Sep 2026 21:38:27 +0900"
@@ -175,7 +181,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"中企 기술 베끼면 기업 생존 흔들\"…100억 과징금에 연구개발비 물어내야",
+      "title": "\"中企 기술 베끼면 기업 생존 위협\"…100억 과징금에 연구개발비 물어내야",
       "link": "https://www.hankyung.com/article/2026090669791",
       "pubDate": "Sun, 06 Sep 2026 18:30:23 +0900"
     },
@@ -202,12 +208,6 @@
       "title": "AI 열풍에…세계 4번째 '수출 1조달러 클럽' 보인다",
       "link": "https://www.hankyung.com/article/2026090669271",
       "pubDate": "Sun, 06 Sep 2026 18:26:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "집값 이대로 오르면 강북·금천·도봉 뺀 서울 전역에 종부세",
-      "link": "https://www.hankyung.com/article/2026090669261",
-      "pubDate": "Sun, 06 Sep 2026 18:26:13 +0900"
     }
   ]
 }
