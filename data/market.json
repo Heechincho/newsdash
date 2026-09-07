@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:16:55.755Z",
+  "updatedAt": "2026-09-07T04:55:47.247Z",
   "instruments": [
     {
       "key": "sp500",
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.154,
-      "changePercent": -0.022,
+      "price": 99.179,
+      "changePercent": 0.003,
       "previousClose": 99.67,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.55999755859375,
         99,
         99.16000366210938,
-        99.15399932861328
+        99.17900085449219
       ],
       "ok": true
     },
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "CJ제일제당, 싱가포르에 조미소재 기술센터…아태 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260907028700030",
-      "pubDate": "Mon, 7 Sep 2026 09:08:50 +0900"
+      "title": "경남교육청·김해시, 직업계고 취업 지원 '내-일 꿈드림 페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260907093000052",
+      "pubDate": "Mon, 7 Sep 2026 13:47:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "하동군, 매출 100억 기업 100개 키운다…밀착지원 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260907031700052",
-      "pubDate": "Mon, 7 Sep 2026 09:08:42 +0900"
+      "title": "익산시, '농식품 창년 창업도시' 조성 박차…식품기업들과 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260907091200055",
+      "pubDate": "Mon, 7 Sep 2026 13:46:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한미글로벌·희림, 대치 은마아파트 건설사업관리 맡는다",
-      "link": "https://www.yna.co.kr/view/AKR20260907030600003",
-      "pubDate": "Mon, 7 Sep 2026 09:04:50 +0900"
+      "title": "[게시판] 한투증권, 4주간 국내주식 실전투자대회",
+      "link": "https://www.yna.co.kr/view/AKR20260907088800008",
+      "pubDate": "Mon, 7 Sep 2026 13:29:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "손해보험협회, 전주지부 개소... 전북권 대응 강화",
+      "link": "https://www.hankyung.com/article/202609078400i",
+      "pubDate": "Mon, 07 Sep 2026 13:27:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "충남도, 기업은행 등 경제·산업 공공기관 14곳 유치 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260907029600063",
-      "pubDate": "Mon, 7 Sep 2026 09:04:35 +0900"
+      "title": "[IPO챗] 네오사피엔스 \"음성 생성 넘어 대화형 AI로\"…코스닥 출사표",
+      "link": "https://www.yna.co.kr/view/AKR20260907085000008",
+      "pubDate": "Mon, 7 Sep 2026 13:17:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "서부발전, 인니·말레이서 1876만 달러 수출 상담… 동남아 발전시장 공략",
+      "link": "https://www.hankyung.com/article/202609078503i",
+      "pubDate": "Mon, 07 Sep 2026 13:15:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "독일상의, 아태 독일 비즈니스 콘퍼런스 내달 서울서 공동 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260907028800003",
-      "pubDate": "Mon, 7 Sep 2026 09:04:08 +0900"
+      "title": "[게시판] 강태영 NH농협은행장, 추석맞이 '윤리공감 우체통' 1호 손편지",
+      "link": "https://www.yna.co.kr/view/AKR20260907086900002",
+      "pubDate": "Mon, 7 Sep 2026 13:06:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기술보증기금, 김남재 상임이사 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260907029500051",
-      "pubDate": "Mon, 7 Sep 2026 09:03:00 +0900"
+      "title": "전남광주 산정지구 주민들 \"반도체 배후주거단지 조성 속도내야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907086500054",
+      "pubDate": "Mon, 7 Sep 2026 13:02:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "주한 덴마크대사, 울산 방문해 친환경에너지 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260906034300057",
-      "pubDate": "Mon, 7 Sep 2026 09:02:01 +0900"
+      "title": "미래에셋운용, S&P500·美단기국채 50%씩 담은 ETF 8일 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260907084000008",
+      "pubDate": "Mon, 7 Sep 2026 13:00:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산·광주, 로봇 기반 제조 AI전환 공동 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260906034400057",
-      "pubDate": "Mon, 7 Sep 2026 09:00:04 +0900"
+      "title": "이형일 후보자 \"이번주 추석 민생대책 추가 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907065600002",
+      "pubDate": "Mon, 7 Sep 2026 13:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'한국형 카나리아 대시보드' 새 이름 찾는다…AI 고용충격 감지",
-      "link": "https://www.yna.co.kr/view/AKR20260904164800530",
-      "pubDate": "Mon, 7 Sep 2026 09:00:03 +0900"
+      "title": "법무부·성평등부 이전 앞둔 세종시장 \"아파트 특공 재개돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907083500063",
+      "pubDate": "Mon, 7 Sep 2026 12:35:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "모란은 화장품, 아자오는 간식…달라진 산둥 소비 지도 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609055789i",
+      "pubDate": "Mon, 07 Sep 2026 12:19:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "화장품 지재권 허위표시 634건…탈모 방지용 헤어제품에 집중",
-      "link": "https://www.yna.co.kr/view/AKR20260905025400030",
-      "pubDate": "Mon, 7 Sep 2026 09:00:02 +0900"
+      "title": "성평등부, 기관 최초 시간선택제 공무원 사무관 승진",
+      "link": "https://www.yna.co.kr/view/AKR20260907034700530",
+      "pubDate": "Mon, 7 Sep 2026 12:00:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SM벡셀 배터리사업부문, 건전지 첫 수출…태국 유통채널 납품",
-      "link": "https://www.yna.co.kr/view/AKR20260907026800003",
-      "pubDate": "Mon, 7 Sep 2026 08:58:11 +0900"
+      "title": "생보협회, 민원 관리·광고심의 AI 시스템 도입…서비스 고도화",
+      "link": "https://www.yna.co.kr/view/AKR20260907051100002",
+      "pubDate": "Mon, 7 Sep 2026 12:00:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "쿠팡, '가구 안심케어' 보험 서비스 도입…보증 종료 후 보상",
-      "link": "https://www.yna.co.kr/view/AKR20260907023200030",
-      "pubDate": "Mon, 7 Sep 2026 08:52:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "직방 \"최근 1년간 아파트값 가장 많이 오른 지역은 분당\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907025200003",
-      "pubDate": "Mon, 7 Sep 2026 08:50:45 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "세븐일레븐, 15일까지 '채용 전제형 인턴' 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260907022400030",
-      "pubDate": "Mon, 7 Sep 2026 08:50:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중진공, 청년주간 맞아 창업학교서 맞춤형 프로그램 24개 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260907022500030",
-      "pubDate": "Mon, 7 Sep 2026 08:48:01 +0900"
+      "title": "KDI \"AI 관련 투자 중심 개선 흐름 유지…소비 개선세는 완만\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907057600002",
+      "pubDate": "Mon, 7 Sep 2026 12:00:12 +0900"
     }
   ]
 }
