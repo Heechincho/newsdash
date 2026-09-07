@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T15:49:20.549Z",
+  "updatedAt": "2026-09-07T19:26:24.926Z",
   "instruments": [
     {
       "key": "sp500",
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.878,
-      "changePercent": -0.3,
+      "price": 98.92,
+      "changePercent": -0.258,
       "previousClose": 99.67,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.55999755859375,
         99,
         99.16000366210938,
-        98.87799835205078
+        98.91999816894531
       ],
       "ok": true
     },
@@ -123,6 +123,12 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908001000071",
+      "pubDate": "Tue, 8 Sep 2026 02:13:03 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
       "link": "https://www.hankyung.com/article/202609078679i",
@@ -136,7 +142,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"금리 연 10% 준다\"…30만명 '우르르' 몰린 적금 정체",
+      "title": "\"하루 5000원, 연 10% 준다\"…30만명 '우르르' 몰린 적금",
       "link": "https://www.hankyung.com/article/2026090794611",
       "pubDate": "Mon, 07 Sep 2026 21:00:05 +0900"
     },
@@ -205,12 +211,6 @@
       "title": "오세훈, '친선결연 30주년' 하노이 인민위원장 면담…협력 논의",
       "link": "https://www.yna.co.kr/view/AKR20260907148900004",
       "pubDate": "Mon, 7 Sep 2026 18:13:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LMR 배터리 난제 해결한 LG엔솔",
-      "link": "https://www.hankyung.com/article/2026090794541",
-      "pubDate": "Mon, 07 Sep 2026 18:06:07 +0900"
     }
   ]
 }
