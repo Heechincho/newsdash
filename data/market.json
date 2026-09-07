@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:28:09.073Z",
+  "updatedAt": "2026-09-07T00:16:55.755Z",
   "instruments": [
     {
       "key": "sp500",
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.161,
-      "changePercent": -0.015,
+      "price": 99.154,
+      "changePercent": -0.022,
       "previousClose": 99.67,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.55999755859375,
         99,
         99.16000366210938,
-        99.16100311279297
+        99.15399932861328
       ],
       "ok": true
     },
@@ -123,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "[단독] 대형마트가 마라톤까지…롯데마트, 업계 첫 3000명 '통큰런'",
-      "link": "https://www.hankyung.com/article/202609066759i",
-      "pubDate": "Mon, 07 Sep 2026 07:00:06 +0900"
+      "source": "연합뉴스",
+      "title": "CJ제일제당, 싱가포르에 조미소재 기술센터…아태 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260907028700030",
+      "pubDate": "Mon, 7 Sep 2026 09:08:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 시대 '전력 확보' 경쟁…정부, 에너지 R&D 48% 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260904114900017",
-      "pubDate": "Mon, 7 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "러시아 男心 사로잡더니…샴푸로 부활 날갯짓하는 애경산업 [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202609067059i",
-      "pubDate": "Mon, 07 Sep 2026 07:00:04 +0900"
+      "title": "하동군, 매출 100억 기업 100개 키운다…밀착지원 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260907031700052",
+      "pubDate": "Mon, 7 Sep 2026 09:08:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"이소영 모친, 딸 부부에 전세금 2억 빌리며 증여세 누락\"",
-      "link": "https://www.yna.co.kr/view/AKR20260906040700001",
-      "pubDate": "Mon, 7 Sep 2026 07:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"나중에 큰 돈 든다\" 공포 확산…사람들 눈 돌린 '이 보험' [불신 청구서]",
-      "link": "https://www.hankyung.com/article/202609032558H",
-      "pubDate": "Mon, 07 Sep 2026 06:28:01 +0900"
+      "title": "한미글로벌·희림, 대치 은마아파트 건설사업관리 맡는다",
+      "link": "https://www.yna.co.kr/view/AKR20260907030600003",
+      "pubDate": "Mon, 7 Sep 2026 09:04:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'한도는 많이 금리는 낮게'…정부지침 어긴 LH 사내 주택대출",
-      "link": "https://www.yna.co.kr/view/AKR20260906049200003",
-      "pubDate": "Mon, 7 Sep 2026 06:03:05 +0900"
+      "title": "충남도, 기업은행 등 경제·산업 공공기관 14곳 유치 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260907029600063",
+      "pubDate": "Mon, 7 Sep 2026 09:04:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"실업 청년 2명 중 1명 '번아웃' 경험…진로 불안 완화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260906024000003",
-      "pubDate": "Mon, 7 Sep 2026 06:00:08 +0900"
+      "title": "독일상의, 아태 독일 비즈니스 콘퍼런스 내달 서울서 공동 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260907028800003",
+      "pubDate": "Mon, 7 Sep 2026 09:04:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금감원, 21∼22일 부산·대구서 기업공시 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260905051500002",
-      "pubDate": "Mon, 7 Sep 2026 06:00:03 +0900"
+      "title": "기술보증기금, 김남재 상임이사 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260907029500051",
+      "pubDate": "Mon, 7 Sep 2026 09:03:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데온, 7∼8일 앱 전용 할인 행사 '퍼스트앱더블데이'",
-      "link": "https://www.yna.co.kr/view/AKR20260906038500030",
-      "pubDate": "Mon, 7 Sep 2026 06:00:02 +0900"
+      "title": "주한 덴마크대사, 울산 방문해 친환경에너지 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260906034300057",
+      "pubDate": "Mon, 7 Sep 2026 09:02:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데슈퍼, 쿠팡이츠와 손잡고 전국 170여개 점포서 퀵커머스",
-      "link": "https://www.yna.co.kr/view/AKR20260906036100030",
-      "pubDate": "Mon, 7 Sep 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"햇반 절반만 살게요\"…편의점서 불티나게 팔린 까닭이 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609066776i",
-      "pubDate": "Mon, 07 Sep 2026 06:00:01 +0900"
+      "title": "울산·광주, 로봇 기반 제조 AI전환 공동 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260906034400057",
+      "pubDate": "Mon, 7 Sep 2026 09:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "공짜 수수료로 반짝 흥행…알고보니 속 빈 '스테이블코인 잔치'",
-      "link": "https://www.yna.co.kr/view/AKR20260905041000002",
-      "pubDate": "Mon, 7 Sep 2026 05:57:00 +0900"
+      "title": "'한국형 카나리아 대시보드' 새 이름 찾는다…AI 고용충격 감지",
+      "link": "https://www.yna.co.kr/view/AKR20260904164800530",
+      "pubDate": "Mon, 7 Sep 2026 09:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상위 20개 저축銀 상반기 순이익 3배로↑…유동성비율 \"정상화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905040400002",
-      "pubDate": "Mon, 7 Sep 2026 05:55:00 +0900"
+      "title": "화장품 지재권 허위표시 634건…탈모 방지용 헤어제품에 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260905025400030",
+      "pubDate": "Mon, 7 Sep 2026 09:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 전문가 뽑는 은행들…신입 공채는 갈수록 '바늘구멍'",
-      "link": "https://www.yna.co.kr/view/AKR20260906012500002",
-      "pubDate": "Mon, 7 Sep 2026 05:53:00 +0900"
+      "title": "SM벡셀 배터리사업부문, 건전지 첫 수출…태국 유통채널 납품",
+      "link": "https://www.yna.co.kr/view/AKR20260907026800003",
+      "pubDate": "Mon, 7 Sep 2026 08:58:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부동산 임대소득 올린 5세 이하 179명…기저귀도 못 뗀 아기도",
-      "link": "https://www.yna.co.kr/view/AKR20260904164400002",
-      "pubDate": "Mon, 7 Sep 2026 05:51:00 +0900"
+      "title": "쿠팡, '가구 안심케어' 보험 서비스 도입…보증 종료 후 보상",
+      "link": "https://www.yna.co.kr/view/AKR20260907023200030",
+      "pubDate": "Mon, 7 Sep 2026 08:52:27 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "직방 \"최근 1년간 아파트값 가장 많이 오른 지역은 분당\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907025200003",
+      "pubDate": "Mon, 7 Sep 2026 08:50:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "세븐일레븐, 15일까지 '채용 전제형 인턴' 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260907022400030",
+      "pubDate": "Mon, 7 Sep 2026 08:50:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중진공, 청년주간 맞아 창업학교서 맞춤형 프로그램 24개 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260907022500030",
+      "pubDate": "Mon, 7 Sep 2026 08:48:01 +0900"
     }
   ]
 }
