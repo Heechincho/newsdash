@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:01:30.292Z",
+  "updatedAt": "2026-09-07T15:49:20.549Z",
   "instruments": [
     {
       "key": "sp500",
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.946,
-      "changePercent": -0.232,
+      "price": 98.878,
+      "changePercent": -0.3,
       "previousClose": 99.67,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.55999755859375,
         99,
         99.16000366210938,
-        98.94599914550781
+        98.87799835205078
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.04,
-      "changePercent": 3.51,
+      "price": 15.3,
+      "changePercent": 5.299,
       "previousClose": 16.34,
       "currency": "USD",
       "history": [
@@ -116,12 +116,54 @@
         15.199999809265137,
         14.319999694824219,
         14.529999732971191,
-        15.039999961853027
+        15.300000190734863
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
+      "link": "https://www.hankyung.com/article/202609078679i",
+      "pubDate": "Mon, 07 Sep 2026 22:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260907072651073",
+      "pubDate": "Mon, 7 Sep 2026 21:17:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"금리 연 10% 준다\"…30만명 '우르르' 몰린 적금 정체",
+      "link": "https://www.hankyung.com/article/2026090794611",
+      "pubDate": "Mon, 07 Sep 2026 21:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "술병 만드는 데만 1주일…요즘 日서 뜨는 '수백만원짜리 고급술'",
+      "link": "https://www.hankyung.com/article/202609043451g",
+      "pubDate": "Mon, 07 Sep 2026 21:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"성과급 6억 받으면서 70만원까지?\"…삼성 '발칵' 뒤집혔다",
+      "link": "https://www.hankyung.com/article/2026090797077",
+      "pubDate": "Mon, 07 Sep 2026 20:49:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "수억짜리 차 샀더니…\"딱 6명 초청\" 프라이빗 와인클래스 열렸다 [현장+]",
+      "link": "https://www.hankyung.com/article/202609078808g",
+      "pubDate": "Mon, 07 Sep 2026 20:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "경영권 분쟁 속 고려아연 주총 'D-2'…국민연금도 최윤범 회장 측 추천후보 '찬성'",
+      "link": "https://www.hankyung.com/article/202609079647g",
+      "pubDate": "Mon, 07 Sep 2026 19:45:29 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "대미투자 1호 텍사스 가스발전소 유력…대형 원전 8기도 검토",
@@ -169,48 +211,6 @@
       "title": "LMR 배터리 난제 해결한 LG엔솔",
       "link": "https://www.hankyung.com/article/2026090794541",
       "pubDate": "Mon, 07 Sep 2026 18:06:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] LG디스플레이, 日 샤프에 OLED 독점 공급",
-      "link": "https://www.hankyung.com/article/2026090794511",
-      "pubDate": "Mon, 07 Sep 2026 18:05:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 쏟아지는 빅테크 발주에…LS일렉 美공장 증설 검토",
-      "link": "https://www.hankyung.com/article/2026090794521",
-      "pubDate": "Mon, 07 Sep 2026 18:04:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대제철 \"美 철강 게임체인저 될 것…연 5조원 매출 목표\"",
-      "link": "https://www.hankyung.com/article/2026090794531",
-      "pubDate": "Mon, 07 Sep 2026 18:03:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "제네시스 마그마 레이싱팀…'론스타 르망'서 최고 성적 달성",
-      "link": "https://www.hankyung.com/article/2026090794561",
-      "pubDate": "Mon, 07 Sep 2026 18:02:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화·현대로템·LIG, 동유럽 최대 방산전시회 총출동",
-      "link": "https://www.hankyung.com/article/2026090794581",
-      "pubDate": "Mon, 07 Sep 2026 18:02:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 현대위아, 무인 지게차 공급",
-      "link": "https://www.hankyung.com/article/2026090794571",
-      "pubDate": "Mon, 07 Sep 2026 18:02:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "400만가구 받은 근로장려금…\"근로의욕 높이고 분배개선 효과\"",
-      "link": "https://www.hankyung.com/article/2026090795081",
-      "pubDate": "Mon, 07 Sep 2026 18:01:13 +0900"
     }
   ]
 }
