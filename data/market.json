@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T19:26:24.926Z",
+  "updatedAt": "2026-09-07T22:13:52.656Z",
   "instruments": [
     {
       "key": "sp500",
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.92,
-      "changePercent": -0.258,
+      "price": 99.176,
+      "changePercent": 0,
       "previousClose": 99.67,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.55999755859375,
         99,
         99.16000366210938,
-        98.91999816894531
+        99.1760025024414
       ],
       "ok": true
     },
@@ -124,6 +124,84 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "[우분투칼럼] '스무 살' 코아펙, 아프리카의 다음 도약을 함께 쓴다",
+      "link": "https://www.yna.co.kr/view/AKR20260901136600898",
+      "pubDate": "Tue, 8 Sep 2026 07:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "고령자 계속고용장려금, 50인미만 사업장 지원 3년새 33% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260907132400530",
+      "pubDate": "Tue, 8 Sep 2026 06:03:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"발망치 소리 들릴라\"…다이소서 불티나게 팔린 '이 제품' [권 기자의 장바구니]",
+      "link": "https://www.hankyung.com/article/202609077936i",
+      "pubDate": "Tue, 08 Sep 2026 06:00:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "뷔페 대박나더니…\"인당 20만원\" 특급호텔 맞먹는 '랍스터 뷔페' 등장",
+      "link": "https://www.hankyung.com/article/202609079071g",
+      "pubDate": "Tue, 08 Sep 2026 06:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 하반기 'FSS 시니어 금융 아카데미' 신청…18일 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260907120300002",
+      "pubDate": "Tue, 8 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 'K-수출전략품목' 육성 중소기업 188곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260907128700030",
+      "pubDate": "Tue, 8 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907120500003",
+      "pubDate": "Tue, 8 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "5천억원 규모 수도권 유휴부지 비축 공모…\"주택수요 대비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907116100003",
+      "pubDate": "Tue, 8 Sep 2026 06:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[인터뷰] 이더리움 \"韓 기관들과 연결고리 만들 것…조직 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907150800002",
+      "pubDate": "Tue, 8 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코빗·코인원에 '개점휴업' 코인만 100여개…푼돈 거래에 급등락",
+      "link": "https://www.yna.co.kr/view/AKR20260907155700002",
+      "pubDate": "Tue, 8 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"포용금융, 차주 맞춤형 접근해야…건전성과 보완 여지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907154800002",
+      "pubDate": "Tue, 8 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "소상공인 매출 늘었지만 이익률 2분기째 하락…연체도 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260907151700002",
+      "pubDate": "Tue, 8 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
+      "link": "https://www.yna.co.kr/view/AKR20260907148200002",
+      "pubDate": "Tue, 8 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
       "link": "https://www.yna.co.kr/view/AKR20260908001000071",
       "pubDate": "Tue, 8 Sep 2026 02:13:03 +0900"
@@ -133,84 +211,6 @@
       "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
       "link": "https://www.hankyung.com/article/202609078679i",
       "pubDate": "Mon, 07 Sep 2026 22:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260907072651073",
-      "pubDate": "Mon, 7 Sep 2026 21:17:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"하루 5000원, 연 10% 준다\"…30만명 '우르르' 몰린 적금",
-      "link": "https://www.hankyung.com/article/2026090794611",
-      "pubDate": "Mon, 07 Sep 2026 21:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "술병 만드는 데만 1주일…요즘 日서 뜨는 '수백만원짜리 고급술'",
-      "link": "https://www.hankyung.com/article/202609043451g",
-      "pubDate": "Mon, 07 Sep 2026 21:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"성과급 6억 받으면서 70만원까지?\"…삼성 '발칵' 뒤집혔다",
-      "link": "https://www.hankyung.com/article/2026090797077",
-      "pubDate": "Mon, 07 Sep 2026 20:49:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "수억짜리 차 샀더니…\"딱 6명 초청\" 프라이빗 와인클래스 열렸다 [현장+]",
-      "link": "https://www.hankyung.com/article/202609078808g",
-      "pubDate": "Mon, 07 Sep 2026 20:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "경영권 분쟁 속 고려아연 주총 'D-2'…국민연금도 최윤범 회장 측 추천후보 '찬성'",
-      "link": "https://www.hankyung.com/article/202609079647g",
-      "pubDate": "Mon, 07 Sep 2026 19:45:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대미투자 1호 텍사스 가스발전소 유력…대형 원전 8기도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260907152200003",
-      "pubDate": "Mon, 7 Sep 2026 18:53:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "나란히 과학기술 국가 훈장 받은 '삼전닉스' 연구진",
-      "link": "https://www.hankyung.com/article/2026090795411",
-      "pubDate": "Mon, 07 Sep 2026 18:36:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "대상, 중소 협력사 결제대금 조기 지급",
-      "link": "https://www.hankyung.com/article/2026090795431",
-      "pubDate": "Mon, 07 Sep 2026 18:33:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "KB손보, 자립준비청년 연주 봉사단 창단",
-      "link": "https://www.hankyung.com/article/2026090795511",
-      "pubDate": "Mon, 07 Sep 2026 18:31:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데에너지머티리얼즈, 고교생 멘토링",
-      "link": "https://www.hankyung.com/article/2026090795481",
-      "pubDate": "Mon, 07 Sep 2026 18:30:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국거래소 \"무신사, 유가증권시장 상장예심 신청\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260907147251008",
-      "pubDate": "Mon, 7 Sep 2026 18:27:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오세훈, '친선결연 30주년' 하노이 인민위원장 면담…협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260907148900004",
-      "pubDate": "Mon, 7 Sep 2026 18:13:10 +0900"
     }
   ]
 }
