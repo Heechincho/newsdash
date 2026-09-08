@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T20:22:03.253Z",
+  "updatedAt": "2026-09-08T22:54:13.699Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.08,
-      "changePercent": 2.842,
+      "price": 94.23,
+      "changePercent": 1.29,
       "previousClose": 91.01,
       "currency": "USD",
       "history": [
         91.01000213623047,
         91.30000305175781,
         91.4800033569336,
-        94.08000183105469
+        94.2300033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4404.5,
-      "changePercent": -1.611,
+      "price": 4394.8,
+      "changePercent": -0.996,
       "previousClose": 4366.3,
       "currency": "USD",
       "history": [
         4366.2998046875,
         4491.7001953125,
         4429.7998046875,
-        4404.5
+        4394.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.865,
-      "changePercent": -0.314,
+      "price": 98.836,
+      "changePercent": -0.343,
       "previousClose": 99.56,
       "currency": "USD",
       "history": [
         99.55999755859375,
         99,
         99.16000366210938,
-        98.86499786376953
+        98.83599853515625
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.77,
-      "changePercent": 3.07,
+      "price": 15.72,
+      "changePercent": 2.745,
       "previousClose": 15.2,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         14.319999694824219,
         14.529999732971191,
         15.300000190734863,
-        15.770000457763672
+        15.720000267028809
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "후티, 사우디 정유시설 폭격…브렌트유 100달러 목전",
-      "link": "https://www.yna.co.kr/view/AKR20260909006100072",
-      "pubDate": "Wed, 9 Sep 2026 04:29:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자",
-      "link": "https://www.hankyung.com/article/2026090823501",
-      "pubDate": "Wed, 09 Sep 2026 01:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 현대백화점 “추석 감사는 리빙 선물로”",
-      "link": "https://www.hankyung.com/article/2026090819071",
-      "pubDate": "Wed, 09 Sep 2026 00:53:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美,이란 항공사 등 '특별지정국민'지정 제재 추가",
-      "link": "https://www.hankyung.com/article/202609092377i",
-      "pubDate": "Wed, 09 Sep 2026 00:48:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 이호성 하나은행장, '사람 살리는 금융' 캠페인 참여",
-      "link": "https://www.hankyung.com/article/2026090820401",
-      "pubDate": "Wed, 09 Sep 2026 00:19:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "퀄컴,아마존과 10년간 81조원 데이터센터 칩 공급 계약",
-      "link": "https://www.hankyung.com/article/202609092372i",
-      "pubDate": "Wed, 09 Sep 2026 00:17:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "6800억 규모 태국 호위함…한화오션, 사업자로 선정",
-      "link": "https://www.hankyung.com/article/2026090823391",
-      "pubDate": "Wed, 09 Sep 2026 00:14:55 +0900"
+      "title": "넥사다이내믹스, 300억원 유상증자…시원이노텍에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260909019200008",
+      "pubDate": "Wed, 9 Sep 2026 07:44:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[부고] 최운열(한국공인회계사회 회장)씨 부인상",
-      "link": "https://www.yna.co.kr/view/AKR20260908173300002",
-      "pubDate": "Tue, 8 Sep 2026 23:42:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유가급등,무역긴장에 뉴욕증시 하락…반도체주는 반등",
-      "link": "https://www.hankyung.com/article/202609082357i",
-      "pubDate": "Tue, 08 Sep 2026 23:30:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "숙제에 AI 많이 쓸수록 공부 못해…한국학생 학업능력 동아시아 최저로 전락",
-      "link": "https://www.hankyung.com/article/202609082340i",
-      "pubDate": "Tue, 08 Sep 2026 22:42:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "중국이 또…\"'반도체 최상단' 장비까지 손댔다\" 초비상 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026090823216",
-      "pubDate": "Tue, 08 Sep 2026 22:23:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금리인상 가시화에 엔화 강세…\"엔캐리 트레이드 이번엔 달라\"",
-      "link": "https://www.hankyung.com/article/202609082236i",
-      "pubDate": "Tue, 08 Sep 2026 21:33:46 +0900"
+      "title": "중동 확전 우려에 브렌트유 100달러 근접…IB들 전망 상향(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260909006151072",
+      "pubDate": "Wed, 9 Sep 2026 07:39:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "李대통령, 韓佛 비즈니스라운드테이블…이재용 등 재계 집결",
-      "link": "https://www.yna.co.kr/view/AKR20260908166200001",
-      "pubDate": "Tue, 8 Sep 2026 21:07:50 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260909014300011",
+      "pubDate": "Wed, 9 Sep 2026 07:30:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "소금 핥고 원샷? 이젠 음미하며 마신다…초밥·튀김과 '의외의 꿀조합'",
-      "link": "https://www.hankyung.com/article/202609066495g",
-      "pubDate": "Tue, 08 Sep 2026 21:00:06 +0900"
+      "title": "빵집 대신 '떡지순례'…트렌드 입은 떡에 MZ·외국인 줄섰다",
+      "link": "https://www.hankyung.com/article/202609081769g",
+      "pubDate": "Wed, 09 Sep 2026 07:04:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "기업승계, 세금만 줄이면 끝일까? [조웅규의 상속인사이트]",
-      "link": "https://www.hankyung.com/article/202609078568i",
-      "pubDate": "Tue, 08 Sep 2026 20:00:14 +0900"
+      "title": "[단독] 돌려차기 피해자 \"내 돈 1800만원 썼다\"…또 '분통' [불신 청구서]",
+      "link": "https://www.hankyung.com/article/202609080943H",
+      "pubDate": "Wed, 09 Sep 2026 07:02:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "일본 15조엔·인도 150억달러…'환율 전쟁'이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609081439i",
+      "pubDate": "Wed, 09 Sep 2026 07:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"급할 때 찾았는데\"…은행 이어 편의점 ATM까지 사라진다",
+      "link": "https://www.hankyung.com/article/202609092486i",
+      "pubDate": "Wed, 09 Sep 2026 06:38:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "쿠팡, 유출 사태후 더 커졌다…결제액 5조원대·이용자도 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260908131500017",
+      "pubDate": "Wed, 9 Sep 2026 06:13:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "최수진 \"공영홈쇼핑, 외국산 홍어를 국산으로 속여 3억원 팔아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908141200030",
+      "pubDate": "Wed, 9 Sep 2026 06:11:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대출한도 높이려 '업계약' 불사…부동산 교란행위 5년반만 1천건",
+      "link": "https://www.yna.co.kr/view/AKR20260908159000003",
+      "pubDate": "Wed, 9 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 농식품부, 대국민 농업·농촌 R&D 아이디어 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260908121900030",
+      "pubDate": "Wed, 9 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“어릴 때 즐겨 마셨는데”…30살 요구르트의 화려한 귀환 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609080575i",
+      "pubDate": "Wed, 09 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 산업부·우리은행 \"중견기업 45개사에 5천480억원 금융 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908124000003",
+      "pubDate": "Wed, 9 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
+      "link": "https://www.hankyung.com/article/202609081698g",
+      "pubDate": "Wed, 09 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[소셜＋] \"마지막 말 미리 적어봐요\"…일상 돌아보는 유언장 쓰기 모임",
+      "link": "https://www.yna.co.kr/view/AKR20260907119400505",
+      "pubDate": "Wed, 9 Sep 2026 06:00:04 +0900"
     }
   ]
 }
