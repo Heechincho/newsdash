@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T17:49:12.694Z",
+  "updatedAt": "2026-09-08T20:22:03.253Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7690.79,
-      "changePercent": -0.36,
+      "price": 7673.52,
+      "changePercent": -0.584,
       "previousClose": 7686.14,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7666.60009765625,
         7747.7099609375,
         7718.60009765625,
-        7690.7900390625
+        7673.52001953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26471.09,
-      "changePercent": -0.135,
+      "price": 26421.412,
+      "changePercent": -0.323,
       "previousClose": 26370.89,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26217.830078125,
         26584.060546875,
         26506.990234375,
-        26471.08984375
+        26421.412109375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52881.14,
-      "changePercent": -0.998,
+      "price": 52786.07,
+      "changePercent": -1.176,
       "previousClose": 53185.9,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53061.94921875,
         53686.109375,
         53414.25,
-        52881.140625
+        52786.0703125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.14,
-      "changePercent": 0.721,
+      "price": 94.08,
+      "changePercent": 2.842,
       "previousClose": 91.01,
       "currency": "USD",
       "history": [
         91.01000213623047,
         91.30000305175781,
         91.4800033569336,
-        92.13999938964844
+        94.08000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4435.5,
-      "changePercent": -0.918,
+      "price": 4404.5,
+      "changePercent": -1.611,
       "previousClose": 4366.3,
       "currency": "USD",
       "history": [
         4366.2998046875,
         4491.7001953125,
         4429.7998046875,
-        4435.5
+        4404.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.879,
-      "changePercent": -0.299,
+      "price": 98.865,
+      "changePercent": -0.314,
       "previousClose": 99.56,
       "currency": "USD",
       "history": [
         99.55999755859375,
         99,
         99.16000366210938,
-        98.87899780273438
+        98.86499786376953
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.29,
-      "changePercent": -0.065,
+      "price": 15.77,
+      "changePercent": 3.07,
       "previousClose": 15.2,
       "currency": "USD",
       "history": [
@@ -113,12 +113,18 @@
         14.319999694824219,
         14.529999732971191,
         15.300000190734863,
-        15.289999961853027
+        15.770000457763672
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "후티, 사우디 정유시설 폭격…브렌트유 100달러 목전",
+      "link": "https://www.yna.co.kr/view/AKR20260909006100072",
+      "pubDate": "Wed, 9 Sep 2026 04:29:57 +0900"
+    },
     {
       "source": "한국경제",
       "title": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자",
@@ -202,12 +208,6 @@
       "title": "기업승계, 세금만 줄이면 끝일까? [조웅규의 상속인사이트]",
       "link": "https://www.hankyung.com/article/202609078568i",
       "pubDate": "Tue, 08 Sep 2026 20:00:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"계란 두 판에 9990원\" 파격 반값…대형마트 대신 쫙 깔린 곳 [박상경의 영수증 리뷰]",
-      "link": "https://www.hankyung.com/article/202609080283g",
-      "pubDate": "Tue, 08 Sep 2026 20:00:08 +0900"
     }
   ]
 }
