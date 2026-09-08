@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-08T09:40:29.564Z",
+  "updatedAt": "2026-09-08T13:55:06.338Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7718.6,
-      "changePercent": -0.376,
-      "previousClose": 7711.76,
+      "price": 7688.8,
+      "changePercent": -0.386,
+      "previousClose": 7686.14,
       "currency": "USD",
       "history": [
-        7686.14013671875,
         7631.47021484375,
         7666.60009765625,
         7747.7099609375,
-        7718.60009765625
+        7718.60009765625,
+        7688.7998046875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26506.99,
-      "changePercent": -0.29,
-      "previousClose": 26402.42,
+      "price": 26398.336,
+      "changePercent": -0.41,
+      "previousClose": 26370.89,
       "currency": "USD",
       "history": [
-        26370.890625,
         26099.76953125,
         26217.830078125,
         26584.060546875,
-        26506.990234375
+        26506.990234375,
+        26398.3359375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53414.25,
-      "changePercent": -0.506,
-      "previousClose": 53559.99,
+      "price": 52904.12,
+      "changePercent": -0.955,
+      "previousClose": 53185.9,
       "currency": "USD",
       "history": [
-        53185.8984375,
         52766.87890625,
         53061.94921875,
         53686.109375,
-        53414.25
+        53414.25,
+        52904.12109375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.17,
-      "changePercent": 2.941,
+      "price": 93.36,
+      "changePercent": 2.055,
       "previousClose": 91.01,
       "currency": "USD",
       "history": [
         91.01000213623047,
         91.30000305175781,
         91.4800033569336,
-        94.16999816894531
+        93.36000061035156
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4436.5,
-      "changePercent": -0.896,
+      "price": 4441,
+      "changePercent": -0.795,
       "previousClose": 4366.3,
       "currency": "USD",
       "history": [
         4366.2998046875,
         4491.7001953125,
         4429.7998046875,
-        4436.5
+        4441
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.964,
-      "changePercent": -0.214,
+      "price": 98.857,
+      "changePercent": -0.322,
       "previousClose": 99.56,
       "currency": "USD",
       "history": [
         99.55999755859375,
         99,
         99.16000366210938,
-        98.96399688720703
+        98.85700225830078
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.74,
-      "changePercent": 2.876,
+      "price": 15.53,
+      "changePercent": 1.504,
       "previousClose": 15.2,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         14.319999694824219,
         14.529999732971191,
         15.300000190734863,
-        15.739999771118164
+        15.529999732971191
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "산업통상부, 내주 '대미투자 1호' 세부사항 국회에 비공개 보고",
-      "link": "https://www.yna.co.kr/view/AKR20260908157300001",
-      "pubDate": "Tue, 8 Sep 2026 18:11:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260908149200011",
-      "pubDate": "Tue, 8 Sep 2026 18:00:00 +0900"
+      "source": "한국경제",
+      "title": "숙제에 AI 많이 쓸수록 공부 못해…한국학생 학업능력 동아시아 최저로 전락",
+      "link": "https://www.hankyung.com/article/202609082340i",
+      "pubDate": "Tue, 08 Sep 2026 22:42:13 +0900"
     },
     {
       "source": "한국경제",
-      "title": "반도체의 힘…올해 국민소득 4만弗 넘어선다",
-      "link": "https://www.hankyung.com/article/2026090820651",
-      "pubDate": "Tue, 08 Sep 2026 17:58:43 +0900"
+      "title": "'반도체 최상단' 장비까지 손댔다…삼전닉스 위협하는 中의 질주 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026090823216",
+      "pubDate": "Tue, 08 Sep 2026 22:23:48 +0900"
     },
     {
       "source": "한국경제",
-      "title": "김상규·김윤희 교수, 도레이 과학기술상",
-      "link": "https://www.hankyung.com/article/2026090820981",
-      "pubDate": "Tue, 08 Sep 2026 17:57:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "명목GDP 26.4% 증가…47년 만에 최고",
-      "link": "https://www.hankyung.com/article/2026090820751",
-      "pubDate": "Tue, 08 Sep 2026 17:56:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 현대차그룹, 자율주행 내연車 개발…中이 못 넘을 성벽 쌓는다",
-      "link": "https://www.hankyung.com/article/2026090819621",
-      "pubDate": "Tue, 08 Sep 2026 17:54:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 현대차그룹 역발상…'기름 넣는 자율차' 만든다",
-      "link": "https://www.hankyung.com/article/2026090820761",
-      "pubDate": "Tue, 08 Sep 2026 17:51:31 +0900"
+      "title": "금리인상 가시화에 엔화 강세…\"엔캐리 트레이드 이번엔 달라\"",
+      "link": "https://www.hankyung.com/article/202609082236i",
+      "pubDate": "Tue, 08 Sep 2026 21:33:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성 반도체 일부 직원, 주거지원금 부정수급 의혹…조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260908153400003",
-      "pubDate": "Tue, 8 Sep 2026 17:45:45 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미국 '3천500억달러 초과' 대미투자 요구…정부, 한도 방어 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260908150800003",
-      "pubDate": "Tue, 8 Sep 2026 17:43:22 +0900"
+      "title": "李대통령, 韓佛 비즈니스라운드테이블…이재용 등 재계 집결",
+      "link": "https://www.yna.co.kr/view/AKR20260908166200001",
+      "pubDate": "Tue, 8 Sep 2026 21:07:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"1200%룰 우회 말라\"…금감원, 보험사에 경고",
-      "link": "https://www.hankyung.com/article/2026090820411",
-      "pubDate": "Tue, 08 Sep 2026 17:41:36 +0900"
+      "title": "소금 핥고 원샷? 이젠 음미하며 마신다…초밥·튀김과 '의외의 꿀조합'",
+      "link": "https://www.hankyung.com/article/202609066495g",
+      "pubDate": "Tue, 08 Sep 2026 21:00:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 이호성 하나은행장, '사람 살리는 금융' 캠페인 참여",
-      "link": "https://www.hankyung.com/article/2026090820401",
-      "pubDate": "Tue, 08 Sep 2026 17:40:35 +0900"
+      "title": "기업승계, 세금만 줄이면 끝일까? [조웅규의 상속인사이트]",
+      "link": "https://www.hankyung.com/article/202609078568i",
+      "pubDate": "Tue, 08 Sep 2026 20:00:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "퇴직연금 디폴트옵션 운용자금 첫 감소",
-      "link": "https://www.hankyung.com/article/2026090820391",
-      "pubDate": "Tue, 08 Sep 2026 17:39:48 +0900"
+      "title": "\"계란 두 판에 9990원\" 파격 반값…대형마트 대신 쫙 깔린 곳 [박상경의 영수증 리뷰]",
+      "link": "https://www.hankyung.com/article/202609080283g",
+      "pubDate": "Tue, 08 Sep 2026 20:00:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "주담대 20% 늘 때 연체는 120% 급증",
-      "link": "https://www.hankyung.com/article/2026090820381",
-      "pubDate": "Tue, 08 Sep 2026 17:39:37 +0900"
+      "title": "\"한우값 왜 이래\" 장보다 한숨…그래도 '이것'만은 싸졌다",
+      "link": "https://www.hankyung.com/article/2026090819061",
+      "pubDate": "Tue, 08 Sep 2026 20:00:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "신한라이프케어 '시니어 주거'…日 최대 건축설계업체와 MOU",
-      "link": "https://www.hankyung.com/article/2026090820371",
-      "pubDate": "Tue, 08 Sep 2026 17:39:05 +0900"
+      "title": "순식간에 4300억 증발…비트코인 블록체인 또 털려",
+      "link": "https://www.hankyung.com/article/202609082211i",
+      "pubDate": "Tue, 08 Sep 2026 19:48:33 +0900"
     },
     {
       "source": "한국경제",
-      "title": "이소영 \"공공배달앱 대책 개선\"",
-      "link": "https://www.hankyung.com/article/2026090820261",
-      "pubDate": "Tue, 08 Sep 2026 17:37:55 +0900"
+      "title": "'더는 못 참아' 칼 빼든 캐나다…美에 보복관세 '초강수'",
+      "link": "https://www.hankyung.com/article/202609082202i",
+      "pubDate": "Tue, 08 Sep 2026 19:14:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "포스코, 난항 빠진 임금협상…9일 파업 눈앞",
+      "link": "https://www.hankyung.com/article/2026090820051",
+      "pubDate": "Tue, 08 Sep 2026 18:43:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "필리핀에 공들이는 정기선 \"조선·방산 분야 협력 확대\"",
+      "link": "https://www.hankyung.com/article/2026090820111",
+      "pubDate": "Tue, 08 Sep 2026 18:41:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HMM, 브라질 광산업체와 4.7조 장기운송계약",
+      "link": "https://www.hankyung.com/article/2026090820081",
+      "pubDate": "Tue, 08 Sep 2026 18:41:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 韓·日 기술로 띄운 '대형 돛' LNG 운반선",
+      "link": "https://www.hankyung.com/article/2026090820091",
+      "pubDate": "Tue, 08 Sep 2026 18:40:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성전자 \"차세대 ASML 노광장비로 D램 만든다\"",
+      "link": "https://www.hankyung.com/article/2026090820061",
+      "pubDate": "Tue, 08 Sep 2026 18:37:27 +0900"
     }
   ]
 }
