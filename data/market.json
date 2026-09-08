@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T22:13:52.656Z",
+  "updatedAt": "2026-09-08T00:30:04.496Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.48,
-      "changePercent": 0.197,
+      "price": 92.54,
+      "changePercent": 1.159,
       "previousClose": 90.22,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         91.01000213623047,
         91.30000305175781,
         91.4800033569336,
-        91.4800033569336
+        92.54000091552734
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4476.6,
-      "changePercent": -1.394,
+      "price": 4471.4,
+      "changePercent": -0.116,
       "previousClose": 4348,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4366.2998046875,
         4491.7001953125,
         4429.7998046875,
-        4476.60009765625
+        4471.39990234375
       ],
       "ok": true
     },
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] '스무 살' 코아펙, 아프리카의 다음 도약을 함께 쓴다",
-      "link": "https://www.yna.co.kr/view/AKR20260901136600898",
-      "pubDate": "Tue, 8 Sep 2026 07:00:06 +0900"
+      "title": "[속보] 한은 \"올해 1인당 GNI 4만달러 넘을 가능성 매우 커져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908036700002",
+      "pubDate": "Tue, 8 Sep 2026 09:22:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "고령자 계속고용장려금, 50인미만 사업장 지원 3년새 33% 급감",
-      "link": "https://www.yna.co.kr/view/AKR20260907132400530",
-      "pubDate": "Tue, 8 Sep 2026 06:03:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"발망치 소리 들릴라\"…다이소서 불티나게 팔린 '이 제품' [권 기자의 장바구니]",
-      "link": "https://www.hankyung.com/article/202609077936i",
-      "pubDate": "Tue, 08 Sep 2026 06:00:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "뷔페 대박나더니…\"인당 20만원\" 특급호텔 맞먹는 '랍스터 뷔페' 등장",
-      "link": "https://www.hankyung.com/article/202609079071g",
-      "pubDate": "Tue, 08 Sep 2026 06:00:13 +0900"
+      "title": "[게시판] 유안타증권, MTS 티레이더M에 '통합검색' 서비스 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260908036500008",
+      "pubDate": "Tue, 8 Sep 2026 09:22:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 하반기 'FSS 시니어 금융 아카데미' 신청…18일 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260907120300002",
-      "pubDate": "Tue, 8 Sep 2026 06:00:10 +0900"
+      "title": "흥국운용, 목표수익률 달성시 채권형 전환되는 혼합형펀드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260908034300008",
+      "pubDate": "Tue, 8 Sep 2026 09:20:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 'K-수출전략품목' 육성 중소기업 188곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260907128700030",
-      "pubDate": "Tue, 8 Sep 2026 06:00:10 +0900"
+      "title": "오뚜기, 추석 앞두고 협력사 대금 129억원 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260908022800030",
+      "pubDate": "Tue, 8 Sep 2026 09:16:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907120500003",
-      "pubDate": "Tue, 8 Sep 2026 06:00:07 +0900"
+      "title": "SK하이닉스, 기업 리뷰 기반 '일하기 좋은 기업' 종합 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260908032600003",
+      "pubDate": "Tue, 8 Sep 2026 09:14:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "5천억원 규모 수도권 유휴부지 비축 공모…\"주택수요 대비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907116100003",
-      "pubDate": "Tue, 8 Sep 2026 06:00:06 +0900"
+      "title": "기아, 신입·경력 대규모 채용…AI 문제해결력 검증 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260908031200003",
+      "pubDate": "Tue, 8 Sep 2026 09:13:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인터뷰] 이더리움 \"韓 기관들과 연결고리 만들 것…조직 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907150800002",
-      "pubDate": "Tue, 8 Sep 2026 06:00:01 +0900"
+      "title": "박홍근 \"김승원 억울한 점…용혜인, 욕심이 국민 정서에 반해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908029500002",
+      "pubDate": "Tue, 8 Sep 2026 09:12:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코빗·코인원에 '개점휴업' 코인만 100여개…푼돈 거래에 급등락",
-      "link": "https://www.yna.co.kr/view/AKR20260907155700002",
-      "pubDate": "Tue, 8 Sep 2026 05:57:00 +0900"
+      "title": "강원도, 민선 9기 첫 조직개편…평화발전국·지역성장국 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260908033100062",
+      "pubDate": "Tue, 8 Sep 2026 09:12:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"포용금융, 차주 맞춤형 접근해야…건전성과 보완 여지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907154800002",
-      "pubDate": "Tue, 8 Sep 2026 05:55:00 +0900"
+      "title": "8월 편의점 4사 결제추정액 총 3조7천억원…역대 최대 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260908023900030",
+      "pubDate": "Tue, 8 Sep 2026 09:11:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소상공인 매출 늘었지만 이익률 2분기째 하락…연체도 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260907151700002",
-      "pubDate": "Tue, 8 Sep 2026 05:53:01 +0900"
+      "title": "화성시, 내년도 생활임금 1만2천750원…올해보다 5.5% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260908032300061",
+      "pubDate": "Tue, 8 Sep 2026 09:09:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
-      "link": "https://www.yna.co.kr/view/AKR20260907148200002",
-      "pubDate": "Tue, 8 Sep 2026 05:51:01 +0900"
+      "title": "공사채 시장 최대 발행주체 부상한 LH…\"수급 좌우 전망\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260907121651008",
+      "pubDate": "Tue, 8 Sep 2026 09:08:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908001000071",
-      "pubDate": "Tue, 8 Sep 2026 02:13:03 +0900"
+      "title": "K-콘텐츠 보호 국제협력 강화…문체부, 태국 경찰과 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260908028000005",
+      "pubDate": "Tue, 8 Sep 2026 09:07:33 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
-      "link": "https://www.hankyung.com/article/202609078679i",
-      "pubDate": "Mon, 07 Sep 2026 22:30:01 +0900"
+      "source": "연합뉴스",
+      "title": "소진공, 혁신 소상공업체 11곳 선발해 최대 4천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260908021100030",
+      "pubDate": "Tue, 8 Sep 2026 09:04:39 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "울산시·경찰청, 체납 차량 합동 단속…현장서 즉시 처분",
+      "link": "https://www.yna.co.kr/view/AKR20260907154000057",
+      "pubDate": "Tue, 8 Sep 2026 09:01:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "쌍용건설, 574가구 성북구 돈암동 지역주택사업 공사 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260908029600003",
+      "pubDate": "Tue, 8 Sep 2026 09:00:37 +0900"
     }
   ]
 }
