@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-09T15:10:00.971Z",
+  "updatedAt": "2026-09-09T18:37:55.139Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7636.28,
-      "changePercent": -0.485,
+      "price": 7642.81,
+      "changePercent": -0.4,
       "previousClose": 7631.47,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7747.7099609375,
         7718.60009765625,
         7673.52001953125,
-        7636.27978515625
+        7642.81005859375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26247.998,
-      "changePercent": -0.656,
+      "price": 26261.111,
+      "changePercent": -0.607,
       "previousClose": 26099.77,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26584.060546875,
         26506.990234375,
         26421.41015625,
-        26247.998046875
+        26261.111328125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52395.17,
-      "changePercent": -0.741,
+      "price": 52479.13,
+      "changePercent": -0.581,
       "previousClose": 52766.88,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53686.109375,
         53414.25,
         52786.0703125,
-        52395.171875
+        52479.12890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.24,
-      "changePercent": 3.45,
+      "price": 95.86,
+      "changePercent": 3.042,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        96.23999786376953
+        95.86000061035156
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4463.2,
-      "changePercent": 0.545,
+      "price": 4462.6,
+      "changePercent": 0.532,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4463.2001953125
+        4462.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.647,
-      "changePercent": -0.142,
+      "price": 98.755,
+      "changePercent": -0.032,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.64700317382812
+        98.75499725341797
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.06,
-      "changePercent": 2.163,
+      "price": 16.22,
+      "changePercent": 3.177,
       "previousClose": 14.32,
       "currency": "USD",
       "history": [
@@ -113,12 +113,36 @@
         14.529999732971191,
         15.300000190734863,
         15.720000267028809,
-        16.059999465942383
+        16.219999313354492
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
+      "link": "https://www.hankyung.com/article/202609105070i",
+      "pubDate": "Thu, 10 Sep 2026 00:57:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 경제학자 70% \"9월 금리 동결\"…시장 예상과 반대",
+      "link": "https://www.hankyung.com/article/202609105067i",
+      "pubDate": "Thu, 10 Sep 2026 00:32:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"트럼프, 전쟁 기간 중 에너지주식 매매로 최대 59억 벌어\"",
+      "link": "https://www.hankyung.com/article/202609095058i",
+      "pubDate": "Wed, 09 Sep 2026 23:58:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "베선트, 금리는 \"나에게 베팅\"…엔화 강세에 발목 잡힌 반도체 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609095052i",
+      "pubDate": "Wed, 09 Sep 2026 23:44:09 +0900"
+    },
     {
       "source": "한국경제",
       "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
@@ -184,30 +208,6 @@
       "title": "홍라희 삼전 지분 1.9조, 이재용 회장이 사들인다",
       "link": "https://www.hankyung.com/article/2026090949171",
       "pubDate": "Wed, 09 Sep 2026 19:41:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금융위, 동양생명 '신정법 위반' 과징금 1천400억→70억 감경",
-      "link": "https://www.yna.co.kr/view/AKR20260909177700002",
-      "pubDate": "Wed, 9 Sep 2026 19:14:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美·이란 공습 확대…브렌트유 또 100달러 넘었다.",
-      "link": "https://www.hankyung.com/article/202609094888i",
-      "pubDate": "Wed, 09 Sep 2026 19:08:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국민銀, '한손 한책' 동참…육군훈련소에 책 5400권 기증",
-      "link": "https://www.hankyung.com/article/2026090947541",
-      "pubDate": "Wed, 09 Sep 2026 18:47:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LG전자, 미얀마 청소년 교육환경 개선",
-      "link": "https://www.hankyung.com/article/2026090947551",
-      "pubDate": "Wed, 09 Sep 2026 18:46:18 +0900"
     }
   ]
 }
