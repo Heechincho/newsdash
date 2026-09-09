@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:57:24.430Z",
+  "updatedAt": "2026-09-09T11:10:50.337Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 93.85,
-      "changePercent": 0.881,
+      "price": 94.9,
+      "changePercent": 2.01,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        93.8499984741211
+        94.9000015258789
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4437.8,
-      "changePercent": -0.027,
+      "price": 4446,
+      "changePercent": 0.158,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4437.7998046875
+        4446
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.743,
-      "changePercent": -0.045,
+      "price": 98.789,
+      "changePercent": 0.002,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.74299621582031
+        98.78900146484375
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.72,
-      "changePercent": 2.745,
-      "previousClose": 15.2,
+      "price": 16.49,
+      "changePercent": 4.892,
+      "previousClose": 14.32,
       "currency": "USD",
       "history": [
-        15.199999809265137,
         14.319999694824219,
         14.529999732971191,
         15.300000190734863,
-        15.720000267028809
+        15.720000267028809,
+        16.489999771118164
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "“연 6% 적금 나왔다”…NH저축은행, 선착순 800좌 판매",
-      "link": "https://www.hankyung.com/article/202609093991i",
-      "pubDate": "Wed, 09 Sep 2026 14:53:55 +0900"
-    },
-    {
       "source": "연합뉴스",
-      "title": "롯데, 인도네시아 자카르타서 '글로벌 잡페어'…연내 300명 채용(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909035151030",
-      "pubDate": "Wed, 9 Sep 2026 14:46:31 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 신한은행 하반기 신입행원 등 130여명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260909122800002",
-      "pubDate": "Wed, 9 Sep 2026 14:41:20 +0900"
+      "title": "금융위, 동양생명 '신정법 위반' 과징금 1천400억→70억 감경",
+      "link": "https://www.yna.co.kr/view/AKR20260909177700002",
+      "pubDate": "Wed, 9 Sep 2026 19:14:32 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"일반 폰보다 가벼운 갤럭시 폴더블\"…'폴더블 아이폰 D-1', 삼성의 견제구",
-      "link": "https://www.hankyung.com/article/202609093654g",
-      "pubDate": "Wed, 09 Sep 2026 14:39:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, '2026 농식품 금융투자 로드쇼' 농식품부 장관상",
-      "link": "https://www.yna.co.kr/view/AKR20260909122400002",
-      "pubDate": "Wed, 9 Sep 2026 14:37:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 우리카드·나이스디앤알 맞손…기업카드 모집 다변화",
-      "link": "https://www.yna.co.kr/view/AKR20260909115800002",
-      "pubDate": "Wed, 9 Sep 2026 14:36:15 +0900"
+      "title": "美·이란 공습 확대…브렌트유 또 100달러 넘었다.",
+      "link": "https://www.hankyung.com/article/202609094888i",
+      "pubDate": "Wed, 09 Sep 2026 19:08:43 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"고추도 고기도 비싸졌네\"…추석 장보기가 겁난다 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202609081635i",
-      "pubDate": "Wed, 09 Sep 2026 14:36:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부동산원, 정비사업 초기 사업성 판단 지원사업 올해도 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260909120900003",
-      "pubDate": "Wed, 9 Sep 2026 14:35:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부 \"피치·무디스, 내년 예산안 재정건전성 제고 긍정 평가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909120300002",
-      "pubDate": "Wed, 9 Sep 2026 14:34:35 +0900"
+      "title": "국민銀, '한손 한책' 동참…육군훈련소에 책 5400권 기증",
+      "link": "https://www.hankyung.com/article/2026090947541",
+      "pubDate": "Wed, 09 Sep 2026 18:47:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "명품 매장이 도서관으로?…서울 '한정판'까지 내놓은 루이비통 [영상]",
-      "link": "https://www.hankyung.com/article/202609093673g",
-      "pubDate": "Wed, 09 Sep 2026 14:30:27 +0900"
+      "title": "LG전자, 미얀마 청소년 교육환경 개선",
+      "link": "https://www.hankyung.com/article/2026090947551",
+      "pubDate": "Wed, 09 Sep 2026 18:46:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"한미 방산협력, 공동개발·공급망으로 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908130600003",
-      "pubDate": "Wed, 9 Sep 2026 14:30:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"소규모 사업장 안전사고 줄이려면 원청 책임·역할 강화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909110200030",
-      "pubDate": "Wed, 9 Sep 2026 14:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260909115900011",
-      "pubDate": "Wed, 9 Sep 2026 14:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "울산 농산물품질관리원, 추석 대비 전통시장 원산지 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260909114900057",
-      "pubDate": "Wed, 9 Sep 2026 14:27:10 +0900"
+      "title": "[게시판] 공인중개사협회 '법정단체 출범·창립 40주년 기념식'",
+      "link": "https://www.yna.co.kr/view/AKR20260909175800003",
+      "pubDate": "Wed, 9 Sep 2026 18:43:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"지디가 쏘아 올린 K버거\"…맥도날드, 아시아 뒤흔들 고추장 맛",
-      "link": "https://www.hankyung.com/article/202609093939g",
-      "pubDate": "Wed, 09 Sep 2026 14:24:40 +0900"
+      "title": "김익환 \"K패션 인재 육성 적극 지원\"",
+      "link": "https://www.hankyung.com/article/2026090947631",
+      "pubDate": "Wed, 09 Sep 2026 18:34:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "김승원 의혹'에 들춰진 주식 불공정거래 실태…개미들 피눈물",
+      "link": "https://www.yna.co.kr/view/AKR20260909159000008",
+      "pubDate": "Wed, 9 Sep 2026 18:30:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 미래 모빌리티 한자리에",
+      "link": "https://www.hankyung.com/article/2026090947391",
+      "pubDate": "Wed, 09 Sep 2026 18:30:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'매출 조작' 덱스터스튜디오 과징금 9억…전 대표 2명엔 1.7억",
+      "link": "https://www.yna.co.kr/view/AKR20260909174100002",
+      "pubDate": "Wed, 9 Sep 2026 18:28:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"IMF 겪은 세대가 빚 다 갚자\"…30년만에 약속 지켰다",
+      "link": "https://www.hankyung.com/article/2026090945851",
+      "pubDate": "Wed, 09 Sep 2026 18:27:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "수천건 결제내역 해킹…금감원 '정보유출' 토스 등 PG사 검사",
+      "link": "https://www.yna.co.kr/view/AKR20260909167300002",
+      "pubDate": "Wed, 9 Sep 2026 18:26:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "올 韓 GDP 3000조…1997년 대비 5배 성장",
+      "link": "https://www.hankyung.com/article/2026090945841",
+      "pubDate": "Wed, 09 Sep 2026 18:25:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "행안장관 \"경기도 재정위기, 부동산 거래감소·코로나 등 원인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909170900001",
+      "pubDate": "Wed, 9 Sep 2026 18:13:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "동양생명 과징금, 1400억 → 70억 된 까닭",
+      "link": "https://www.hankyung.com/article/2026090947071",
+      "pubDate": "Wed, 09 Sep 2026 18:13:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'현금 대체 어디서 뽑아요?'…ATM 사라진 이유 보니 '깜짝'",
+      "link": "https://www.hankyung.com/article/2026090947061",
+      "pubDate": "Wed, 09 Sep 2026 18:12:15 +0900"
     }
   ]
 }
