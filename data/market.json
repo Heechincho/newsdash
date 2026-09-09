@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:54:13.699Z",
+  "updatedAt": "2026-09-09T01:05:39.242Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.23,
-      "changePercent": 1.29,
+      "price": 94.56,
+      "changePercent": 1.645,
       "previousClose": 91.01,
       "currency": "USD",
       "history": [
         91.01000213623047,
         91.30000305175781,
         91.4800033569336,
-        94.2300033569336
+        94.55999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4394.8,
-      "changePercent": -0.996,
+      "price": 4403.6,
+      "changePercent": -0.797,
       "previousClose": 4366.3,
       "currency": "USD",
       "history": [
         4366.2998046875,
         4491.7001953125,
         4429.7998046875,
-        4394.7998046875
+        4403.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.836,
-      "changePercent": -0.343,
+      "price": 98.782,
+      "changePercent": -0.005,
       "previousClose": 99.56,
       "currency": "USD",
       "history": [
         99.55999755859375,
         99,
         99.16000366210938,
-        98.83599853515625
+        98.78199768066406
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "넥사다이내믹스, 300억원 유상증자…시원이노텍에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260909019200008",
-      "pubDate": "Wed, 9 Sep 2026 07:44:05 +0900"
+      "title": "BBQ, 올해 취약계층·국가대표선수촌에 치킨 1만7천마리 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260909055000030",
+      "pubDate": "Wed, 9 Sep 2026 09:56:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중동 확전 우려에 브렌트유 100달러 근접…IB들 전망 상향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909006151072",
-      "pubDate": "Wed, 9 Sep 2026 07:39:48 +0900"
+      "title": "신한카드, 차세대 AI 엔진 개발…금융상품 추천에 우선 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260909057300002",
+      "pubDate": "Wed, 9 Sep 2026 09:55:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260909014300011",
-      "pubDate": "Wed, 9 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "빵집 대신 '떡지순례'…트렌드 입은 떡에 MZ·외국인 줄섰다",
-      "link": "https://www.hankyung.com/article/202609081769g",
-      "pubDate": "Wed, 09 Sep 2026 07:04:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 돌려차기 피해자 \"내 돈 1800만원 썼다\"…또 '분통' [불신 청구서]",
-      "link": "https://www.hankyung.com/article/202609080943H",
-      "pubDate": "Wed, 09 Sep 2026 07:02:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "일본 15조엔·인도 150억달러…'환율 전쟁'이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609081439i",
-      "pubDate": "Wed, 09 Sep 2026 07:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"급할 때 찾았는데\"…은행 이어 편의점 ATM까지 사라진다",
-      "link": "https://www.hankyung.com/article/202609092486i",
-      "pubDate": "Wed, 09 Sep 2026 06:38:28 +0900"
+      "title": "삼성생명, '가족대표건강보험 Plus+' 출시…치료 횟수로 보장",
+      "link": "https://www.yna.co.kr/view/AKR20260909048700002",
+      "pubDate": "Wed, 9 Sep 2026 09:54:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "쿠팡, 유출 사태후 더 커졌다…결제액 5조원대·이용자도 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260908131500017",
-      "pubDate": "Wed, 9 Sep 2026 06:13:00 +0900"
+      "title": "[게시판] 현대카드, 프리미엄 카드 2종 리뉴얼…일상 혜택 더해",
+      "link": "https://www.yna.co.kr/view/AKR20260909049400002",
+      "pubDate": "Wed, 9 Sep 2026 09:54:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "최수진 \"공영홈쇼핑, 외국산 홍어를 국산으로 속여 3억원 팔아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908141200030",
-      "pubDate": "Wed, 9 Sep 2026 06:11:11 +0900"
+      "title": "업비트·OG·비트고 등 'KBW2026' 핵심 파트너 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260909057400002",
+      "pubDate": "Wed, 9 Sep 2026 09:53:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대출한도 높이려 '업계약' 불사…부동산 교란행위 5년반만 1천건",
-      "link": "https://www.yna.co.kr/view/AKR20260908159000003",
-      "pubDate": "Wed, 9 Sep 2026 06:01:01 +0900"
+      "title": "농심, 청소년 요리 경연대회 '고등셰프 시즌2' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260909047800030",
+      "pubDate": "Wed, 9 Sep 2026 09:53:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 농식품부, 대국민 농업·농촌 R&D 아이디어 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260908121900030",
-      "pubDate": "Wed, 9 Sep 2026 06:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“어릴 때 즐겨 마셨는데”…30살 요구르트의 화려한 귀환 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609080575i",
-      "pubDate": "Wed, 09 Sep 2026 06:00:10 +0900"
+      "title": "신복위·법무사협회, 취약채무자 법률지원 위해 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260909047100002",
+      "pubDate": "Wed, 9 Sep 2026 09:52:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 산업부·우리은행 \"중견기업 45개사에 5천480억원 금융 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908124000003",
-      "pubDate": "Wed, 9 Sep 2026 06:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
-      "link": "https://www.hankyung.com/article/202609081698g",
-      "pubDate": "Wed, 09 Sep 2026 06:00:08 +0900"
+      "title": "착공 시한 임박 전주 옛 대한방직 개발…국힘 \"특혜 연장 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909054500055",
+      "pubDate": "Wed, 9 Sep 2026 09:50:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[소셜＋] \"마지막 말 미리 적어봐요\"…일상 돌아보는 유언장 쓰기 모임",
-      "link": "https://www.yna.co.kr/view/AKR20260907119400505",
-      "pubDate": "Wed, 9 Sep 2026 06:00:04 +0900"
+      "title": "원주시, 스마트시티 엑스포서 'AI 특화 시범도시' 청사진",
+      "link": "https://www.yna.co.kr/view/AKR20260909053400062",
+      "pubDate": "Wed, 9 Sep 2026 09:41:58 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 대신증권, 크레온 신규 고객에 최대 6만원 지원금",
+      "link": "https://www.yna.co.kr/view/AKR20260909052100008",
+      "pubDate": "Wed, 9 Sep 2026 09:39:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼척시, 착한가격업소 인센티브 최대 25%…추석 소비 진작 겨냥",
+      "link": "https://www.yna.co.kr/view/AKR20260909051600062",
+      "pubDate": "Wed, 9 Sep 2026 09:37:49 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "토스·PFCT, 신용평가 모형 고도화…대안신용평가 활용 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260909035800017",
+      "pubDate": "Wed, 9 Sep 2026 09:36:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "괴산군 \"외국인 계절근로자 안정적 관리\"…무단이탈률 0%대",
+      "link": "https://www.yna.co.kr/view/AKR20260909039100064",
+      "pubDate": "Wed, 9 Sep 2026 09:35:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스맥스·로레알, 업무협약…차세대 화장품·혁신원료 공동개발",
+      "link": "https://www.yna.co.kr/view/AKR20260909046500030",
+      "pubDate": "Wed, 9 Sep 2026 09:31:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전남광주 22개 시군 택시 기본요금 4천800원으로 인상 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260909046200054",
+      "pubDate": "Wed, 9 Sep 2026 09:30:46 +0900"
     }
   ]
 }
