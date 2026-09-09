@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-09T18:37:55.139Z",
+  "updatedAt": "2026-09-09T21:11:29.396Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7642.81,
-      "changePercent": -0.4,
+      "price": 7636.36,
+      "changePercent": -0.484,
       "previousClose": 7631.47,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7747.7099609375,
         7718.60009765625,
         7673.52001953125,
-        7642.81005859375
+        7636.35986328125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26261.111,
-      "changePercent": -0.607,
+      "price": 26253.34,
+      "changePercent": -0.636,
       "previousClose": 26099.77,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26584.060546875,
         26506.990234375,
         26421.41015625,
-        26261.111328125
+        26253.33984375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52479.13,
-      "changePercent": -0.581,
+      "price": 52380.66,
+      "changePercent": -0.768,
       "previousClose": 52766.88,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53686.109375,
         53414.25,
         52786.0703125,
-        52479.12890625
+        52380.66015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.86,
-      "changePercent": 3.042,
+      "price": 96.67,
+      "changePercent": 3.913,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        95.86000061035156
+        96.66999816894531
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4462.6,
-      "changePercent": 0.532,
+      "price": 4447.2,
+      "changePercent": 0.185,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4462.60009765625
+        4447.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.755,
-      "changePercent": -0.032,
+      "price": 98.789,
+      "changePercent": 0.002,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.75499725341797
+        98.78900146484375
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.22,
-      "changePercent": 3.177,
+      "price": 16.46,
+      "changePercent": 4.707,
       "previousClose": 14.32,
       "currency": "USD",
       "history": [
@@ -113,12 +113,72 @@
         14.529999732971191,
         15.300000190734863,
         15.720000267028809,
-        16.219999313354492
+        16.459999084472656
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "끊이지 않는 설계공모 '로비' 논란…징계받고도 심사위원으로",
+      "link": "https://www.yna.co.kr/view/AKR20260909159700003",
+      "pubDate": "Thu, 10 Sep 2026 06:03:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "검역본부, 아태 12개국 참여 동물질병 진단·항생제 내성 워크숍",
+      "link": "https://www.yna.co.kr/view/AKR20260909128800030",
+      "pubDate": "Thu, 10 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 농식품부, 동물복지기본법 제정 토론회 내일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260909118800030",
+      "pubDate": "Thu, 10 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국내 생산·청년 고용 늘리려면 세제지원 실효성 높여야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909142700003",
+      "pubDate": "Thu, 10 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2분기 증시 '불장'에…증권사 순이익 5조 돌파, 또 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260909180200002",
+      "pubDate": "Thu, 10 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "토큰증권 시행 앞두고 '상품 부족' 풀릴까…與 법안 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260909177000002",
+      "pubDate": "Thu, 10 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"전세난·집값 불안\" 서울 생애최초 주택 구입 비중 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260909170300003",
+      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
+      "link": "https://www.yna.co.kr/view/AKR20260909186300002",
+      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2030대 8명 중 1명 \"주식·채권으로 노후준비\"…14년새 5배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260909155100002",
+      "pubDate": "Thu, 10 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"사업자대출 받아 부동산 매매\"…용도 외 유용 5년여간 1천167건",
+      "link": "https://www.yna.co.kr/view/AKR20260909181800002",
+      "pubDate": "Thu, 10 Sep 2026 05:51:01 +0900"
+    },
     {
       "source": "한국경제",
       "title": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
@@ -148,66 +208,6 @@
       "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
       "link": "https://www.hankyung.com/article/202609095050i",
       "pubDate": "Wed, 09 Sep 2026 23:31:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축",
-      "link": "https://www.hankyung.com/article/202609094965i",
-      "pubDate": "Wed, 09 Sep 2026 22:05:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최태원 제안에 키옥시아 '거절'…한일 낸드 동맹 '엇박자' [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026090944836",
-      "pubDate": "Wed, 09 Sep 2026 22:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부고] 장지연(건영씨앤피 대표)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260909185200003",
-      "pubDate": "Wed, 9 Sep 2026 21:35:18 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "법원, 공정위의 '한화 내부거래' 조사중 자료제출명령 효력정지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909155551004",
-      "pubDate": "Wed, 9 Sep 2026 21:31:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "베선트 \"내가 곧 하우스\"…엔 공매도 세력에 경고",
-      "link": "https://www.hankyung.com/article/202609094973i",
-      "pubDate": "Wed, 09 Sep 2026 21:29:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"먹고 싶어서 편의점 싹 털었다\"…SNS 인증 쏟아진 '디저트' [셀럽픽]",
-      "link": "https://www.hankyung.com/article/202609092819g",
-      "pubDate": "Wed, 09 Sep 2026 21:00:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美, 캐나다 관세 부과→캐나다 보복관세→美 수입금지로 또 보복",
-      "link": "https://www.hankyung.com/article/202609094929i",
-      "pubDate": "Wed, 09 Sep 2026 20:32:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"피노누아 즐기는 50대에 딱\"…200년 셰리 명가의 '한정판\" [현장+]",
-      "link": "https://www.hankyung.com/article/202609093243g",
-      "pubDate": "Wed, 09 Sep 2026 20:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'AI가 10년내 전 인류 죽일 가능성 10%\"…앤트로픽 전 연구원 경고",
-      "link": "https://www.hankyung.com/article/202609094905i",
-      "pubDate": "Wed, 09 Sep 2026 19:46:22 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "홍라희 삼전 지분 1.9조, 이재용 회장이 사들인다",
-      "link": "https://www.hankyung.com/article/2026090949171",
-      "pubDate": "Wed, 09 Sep 2026 19:41:20 +0900"
     }
   ]
 }
