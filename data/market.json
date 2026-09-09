@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:11:29.396Z",
+  "updatedAt": "2026-09-09T23:20:08.828Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.67,
-      "changePercent": 3.913,
+      "price": 97.06,
+      "changePercent": 1.052,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        96.66999816894531
+        97.05999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4447.2,
-      "changePercent": 0.185,
+      "price": 4445.1,
+      "changePercent": -0.35,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4447.2001953125
+        4445.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.789,
-      "changePercent": 0.002,
+      "price": 98.783,
+      "changePercent": -0.034,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.78900146484375
+        98.78299713134766
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "끊이지 않는 설계공모 '로비' 논란…징계받고도 심사위원으로",
-      "link": "https://www.yna.co.kr/view/AKR20260909159700003",
-      "pubDate": "Thu, 10 Sep 2026 06:03:00 +0900"
+      "title": "공정위, 하도급 대금 제때 안 준 건설사 등 18개 기업 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260909172500002",
+      "pubDate": "Thu, 10 Sep 2026 08:03:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "검역본부, 아태 12개국 참여 동물질병 진단·항생제 내성 워크숍",
-      "link": "https://www.yna.co.kr/view/AKR20260909128800030",
-      "pubDate": "Thu, 10 Sep 2026 06:00:09 +0900"
+      "title": "'인신공격·사적 지시'…익명신고로 드러난 식약처 비위",
+      "link": "https://www.yna.co.kr/view/AKR20260909137900017",
+      "pubDate": "Thu, 10 Sep 2026 08:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 농식품부, 동물복지기본법 제정 토론회 내일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260909118800030",
-      "pubDate": "Thu, 10 Sep 2026 06:00:08 +0900"
+      "title": "단일 레버리지 '음의 괴리율' 기준 초과했지만…72일만에 규정 정비",
+      "link": "https://www.yna.co.kr/view/AKR20260909184400008",
+      "pubDate": "Thu, 10 Sep 2026 08:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"국내 생산·청년 고용 늘리려면 세제지원 실효성 높여야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909142700003",
-      "pubDate": "Thu, 10 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "2분기 증시 '불장'에…증권사 순이익 5조 돌파, 또 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260909180200002",
-      "pubDate": "Thu, 10 Sep 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "토큰증권 시행 앞두고 '상품 부족' 풀릴까…與 법안 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260909177000002",
-      "pubDate": "Thu, 10 Sep 2026 05:57:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"전세난·집값 불안\" 서울 생애최초 주택 구입 비중 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260909170300003",
-      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
-      "link": "https://www.yna.co.kr/view/AKR20260909186300002",
-      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "2030대 8명 중 1명 \"주식·채권으로 노후준비\"…14년새 5배로↑",
-      "link": "https://www.yna.co.kr/view/AKR20260909155100002",
-      "pubDate": "Thu, 10 Sep 2026 05:53:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"사업자대출 받아 부동산 매매\"…용도 외 유용 5년여간 1천167건",
-      "link": "https://www.yna.co.kr/view/AKR20260909181800002",
-      "pubDate": "Thu, 10 Sep 2026 05:51:01 +0900"
+      "title": "부산시, 차세대 항공 기체부품 첨단제조 공모 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260910019400051",
+      "pubDate": "Thu, 10 Sep 2026 07:53:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
-      "link": "https://www.hankyung.com/article/202609105070i",
-      "pubDate": "Thu, 10 Sep 2026 00:57:39 +0900"
+      "title": "\"반도체 매출 2012조원\" 파격 전망…메모리가 '왕좌' 차지",
+      "link": "https://www.hankyung.com/article/2026091052457",
+      "pubDate": "Thu, 10 Sep 2026 07:53:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "수도권 공실 지식산업센터, 청년·신혼부부 보금자리로 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260909173000003",
+      "pubDate": "Thu, 10 Sep 2026 07:40:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "무역실적 부풀려 주가 부양, '국산 둔갑' 조달…범부처 합동단속",
+      "link": "https://www.yna.co.kr/view/AKR20260909171600002",
+      "pubDate": "Thu, 10 Sep 2026 07:40:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서대문구, 홍은13구역 준공인가…\"17년 만에 정비사업 완료\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910017600004",
+      "pubDate": "Thu, 10 Sep 2026 07:32:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260910014000011",
+      "pubDate": "Thu, 10 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"아프리카 지속가능 발전에 한국 정책자문 KSP 사업이 촉매제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909172100898",
+      "pubDate": "Thu, 10 Sep 2026 07:01:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美 경제학자 70% \"9월 금리 동결\"…시장 예상과 반대",
-      "link": "https://www.hankyung.com/article/202609105067i",
-      "pubDate": "Thu, 10 Sep 2026 00:32:40 +0900"
+      "title": "\"이 조합은 못 참겠다\"…SNS 뒤집어진 '노란 케이크' 정체 [먹킷리스트]",
+      "link": "https://www.hankyung.com/article/202609093826g",
+      "pubDate": "Thu, 10 Sep 2026 07:00:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"트럼프, 전쟁 기간 중 에너지주식 매매로 최대 59억 벌어\"",
-      "link": "https://www.hankyung.com/article/202609095058i",
-      "pubDate": "Wed, 09 Sep 2026 23:58:40 +0900"
+      "title": "아마존·구글·메타가 주식매수권까지 요구하는 이유…AI 공급망 판이 바뀐다 [김주완의 글로벌 머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609094176i",
+      "pubDate": "Thu, 10 Sep 2026 07:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "해외직구 식품 10개중 1개서 위해성분…의약·마약성분도",
+      "link": "https://www.yna.co.kr/view/AKR20260909149500017",
+      "pubDate": "Thu, 10 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[우분투칼럼] 아프리카의 한류, 이제는 함께 만들어 보자",
+      "link": "https://www.yna.co.kr/view/AKR20260827158800898",
+      "pubDate": "Thu, 10 Sep 2026 07:00:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "베선트, 금리는 \"나에게 베팅\"…엔화 강세에 발목 잡힌 반도체 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609095052i",
-      "pubDate": "Wed, 09 Sep 2026 23:44:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
-      "link": "https://www.hankyung.com/article/202609095050i",
-      "pubDate": "Wed, 09 Sep 2026 23:31:49 +0900"
+      "title": "\"이러다 공장 문 닫아야 할 판\"…추석 앞두고 '초유의 상황'",
+      "link": "https://www.hankyung.com/article/2026090947411",
+      "pubDate": "Thu, 10 Sep 2026 07:00:04 +0900"
     }
   ]
 }
