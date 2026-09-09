@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-09T11:10:50.337Z",
+  "updatedAt": "2026-09-09T15:10:00.971Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7673.52,
-      "changePercent": -0.584,
-      "previousClose": 7686.14,
+      "price": 7636.28,
+      "changePercent": -0.485,
+      "previousClose": 7631.47,
       "currency": "USD",
       "history": [
-        7631.47021484375,
         7666.60009765625,
         7747.7099609375,
         7718.60009765625,
-        7673.52001953125
+        7673.52001953125,
+        7636.27978515625
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26421.412,
-      "changePercent": -0.323,
-      "previousClose": 26370.89,
+      "price": 26247.998,
+      "changePercent": -0.656,
+      "previousClose": 26099.77,
       "currency": "USD",
       "history": [
-        26099.76953125,
         26217.830078125,
         26584.060546875,
         26506.990234375,
-        26421.41015625
+        26421.41015625,
+        26247.998046875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52786.07,
-      "changePercent": -1.176,
-      "previousClose": 53185.9,
+      "price": 52395.17,
+      "changePercent": -0.741,
+      "previousClose": 52766.88,
       "currency": "USD",
       "history": [
-        52766.87890625,
         53061.94921875,
         53686.109375,
         53414.25,
-        52786.0703125
+        52786.0703125,
+        52395.171875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.9,
-      "changePercent": 2.01,
+      "price": 96.24,
+      "changePercent": 3.45,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        94.9000015258789
+        96.23999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4446,
-      "changePercent": 0.158,
+      "price": 4463.2,
+      "changePercent": 0.545,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4446
+        4463.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.789,
-      "changePercent": 0.002,
+      "price": 98.647,
+      "changePercent": -0.142,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.78900146484375
+        98.64700317382812
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.49,
-      "changePercent": 4.892,
+      "price": 16.06,
+      "changePercent": 2.163,
       "previousClose": 14.32,
       "currency": "USD",
       "history": [
@@ -113,12 +113,78 @@
         14.529999732971191,
         15.300000190734863,
         15.720000267028809,
-        16.489999771118164
+        16.059999465942383
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
+      "link": "https://www.hankyung.com/article/202609095050i",
+      "pubDate": "Wed, 09 Sep 2026 23:31:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축",
+      "link": "https://www.hankyung.com/article/202609094965i",
+      "pubDate": "Wed, 09 Sep 2026 22:05:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "최태원 제안에 키옥시아 '거절'…한일 낸드 동맹 '엇박자' [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026090944836",
+      "pubDate": "Wed, 09 Sep 2026 22:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부고] 장지연(건영씨앤피 대표)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260909185200003",
+      "pubDate": "Wed, 9 Sep 2026 21:35:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "법원, 공정위의 '한화 내부거래' 조사중 자료제출명령 효력정지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260909155551004",
+      "pubDate": "Wed, 9 Sep 2026 21:31:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "베선트 \"내가 곧 하우스\"…엔 공매도 세력에 경고",
+      "link": "https://www.hankyung.com/article/202609094973i",
+      "pubDate": "Wed, 09 Sep 2026 21:29:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"먹고 싶어서 편의점 싹 털었다\"…SNS 인증 쏟아진 '디저트' [셀럽픽]",
+      "link": "https://www.hankyung.com/article/202609092819g",
+      "pubDate": "Wed, 09 Sep 2026 21:00:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美, 캐나다 관세 부과→캐나다 보복관세→美 수입금지로 또 보복",
+      "link": "https://www.hankyung.com/article/202609094929i",
+      "pubDate": "Wed, 09 Sep 2026 20:32:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"피노누아 즐기는 50대에 딱\"…200년 셰리 명가의 '한정판\" [현장+]",
+      "link": "https://www.hankyung.com/article/202609093243g",
+      "pubDate": "Wed, 09 Sep 2026 20:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'AI가 10년내 전 인류 죽일 가능성 10%\"…앤트로픽 전 연구원 경고",
+      "link": "https://www.hankyung.com/article/202609094905i",
+      "pubDate": "Wed, 09 Sep 2026 19:46:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "홍라희 삼전 지분 1.9조, 이재용 회장이 사들인다",
+      "link": "https://www.hankyung.com/article/2026090949171",
+      "pubDate": "Wed, 09 Sep 2026 19:41:20 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "금융위, 동양생명 '신정법 위반' 과징금 1천400억→70억 감경",
@@ -142,72 +208,6 @@
       "title": "LG전자, 미얀마 청소년 교육환경 개선",
       "link": "https://www.hankyung.com/article/2026090947551",
       "pubDate": "Wed, 09 Sep 2026 18:46:18 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 공인중개사협회 '법정단체 출범·창립 40주년 기념식'",
-      "link": "https://www.yna.co.kr/view/AKR20260909175800003",
-      "pubDate": "Wed, 9 Sep 2026 18:43:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김익환 \"K패션 인재 육성 적극 지원\"",
-      "link": "https://www.hankyung.com/article/2026090947631",
-      "pubDate": "Wed, 09 Sep 2026 18:34:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "김승원 의혹'에 들춰진 주식 불공정거래 실태…개미들 피눈물",
-      "link": "https://www.yna.co.kr/view/AKR20260909159000008",
-      "pubDate": "Wed, 9 Sep 2026 18:30:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 미래 모빌리티 한자리에",
-      "link": "https://www.hankyung.com/article/2026090947391",
-      "pubDate": "Wed, 09 Sep 2026 18:30:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'매출 조작' 덱스터스튜디오 과징금 9억…전 대표 2명엔 1.7억",
-      "link": "https://www.yna.co.kr/view/AKR20260909174100002",
-      "pubDate": "Wed, 9 Sep 2026 18:28:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"IMF 겪은 세대가 빚 다 갚자\"…30년만에 약속 지켰다",
-      "link": "https://www.hankyung.com/article/2026090945851",
-      "pubDate": "Wed, 09 Sep 2026 18:27:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "수천건 결제내역 해킹…금감원 '정보유출' 토스 등 PG사 검사",
-      "link": "https://www.yna.co.kr/view/AKR20260909167300002",
-      "pubDate": "Wed, 9 Sep 2026 18:26:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "올 韓 GDP 3000조…1997년 대비 5배 성장",
-      "link": "https://www.hankyung.com/article/2026090945841",
-      "pubDate": "Wed, 09 Sep 2026 18:25:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "행안장관 \"경기도 재정위기, 부동산 거래감소·코로나 등 원인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909170900001",
-      "pubDate": "Wed, 9 Sep 2026 18:13:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "동양생명 과징금, 1400억 → 70억 된 까닭",
-      "link": "https://www.hankyung.com/article/2026090947071",
-      "pubDate": "Wed, 09 Sep 2026 18:13:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'현금 대체 어디서 뽑아요?'…ATM 사라진 이유 보니 '깜짝'",
-      "link": "https://www.hankyung.com/article/2026090947061",
-      "pubDate": "Wed, 09 Sep 2026 18:12:15 +0900"
     }
   ]
 }
