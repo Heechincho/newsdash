@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:20:08.828Z",
+  "updatedAt": "2026-09-10T01:12:47.291Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.06,
-      "changePercent": 1.052,
+      "price": 96.55,
+      "changePercent": 0.521,
       "previousClose": 91.3,
       "currency": "USD",
       "history": [
         91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        97.05999755859375
+        96.55000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4445.1,
-      "changePercent": -0.35,
+      "price": 4453.5,
+      "changePercent": -0.161,
       "previousClose": 4491.7,
       "currency": "USD",
       "history": [
         4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4445.10009765625
+        4453.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.783,
-      "changePercent": -0.034,
+      "price": 98.802,
+      "changePercent": -0.015,
       "previousClose": 99,
       "currency": "USD",
       "history": [
         99,
         99.16000366210938,
         98.83999633789062,
-        98.78299713134766
+        98.802001953125
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "공정위, 하도급 대금 제때 안 준 건설사 등 18개 기업 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260909172500002",
-      "pubDate": "Thu, 10 Sep 2026 08:03:01 +0900"
+      "source": "한국경제",
+      "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결",
+      "link": "https://www.hankyung.com/article/2026091057807",
+      "pubDate": "Thu, 10 Sep 2026 09:56:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'인신공격·사적 지시'…익명신고로 드러난 식약처 비위",
-      "link": "https://www.yna.co.kr/view/AKR20260909137900017",
-      "pubDate": "Thu, 10 Sep 2026 08:00:04 +0900"
+      "title": "우리은행, 알뜰폰 '우리WON모바일' 통신비 면제 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260910049200002",
+      "pubDate": "Thu, 10 Sep 2026 09:53:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "단일 레버리지 '음의 괴리율' 기준 초과했지만…72일만에 규정 정비",
-      "link": "https://www.yna.co.kr/view/AKR20260909184400008",
-      "pubDate": "Thu, 10 Sep 2026 08:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산시, 차세대 항공 기체부품 첨단제조 공모 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260910019400051",
-      "pubDate": "Thu, 10 Sep 2026 07:53:58 +0900"
+      "title": "부산 7월 제조업 생산 13.2% 증가…수출 증가세는 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260910045600051",
+      "pubDate": "Thu, 10 Sep 2026 09:52:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"반도체 매출 2012조원\" 파격 전망…메모리가 '왕좌' 차지",
-      "link": "https://www.hankyung.com/article/2026091052457",
-      "pubDate": "Thu, 10 Sep 2026 07:53:18 +0900"
+      "title": "보험료 한번에 내고 10년 동안 굴린다.. 삼성생명, '굴려받는연금보험' 출시",
+      "link": "https://www.hankyung.com/article/202609105681i",
+      "pubDate": "Thu, 10 Sep 2026 09:52:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수도권 공실 지식산업센터, 청년·신혼부부 보금자리로 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260909173000003",
-      "pubDate": "Thu, 10 Sep 2026 07:40:01 +0900"
+      "title": "삼성운용, 한국부동산리츠인프라 ETF 연말까지 분배금 조정 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260910045900008",
+      "pubDate": "Thu, 10 Sep 2026 09:50:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "무역실적 부풀려 주가 부양, '국산 둔갑' 조달…범부처 합동단속",
-      "link": "https://www.yna.co.kr/view/AKR20260909171600002",
-      "pubDate": "Thu, 10 Sep 2026 07:40:00 +0900"
+      "title": "파주시, 11일 시민회관서 '남북기후협력 포럼'",
+      "link": "https://www.yna.co.kr/view/AKR20260910046000060",
+      "pubDate": "Thu, 10 Sep 2026 09:48:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서대문구, 홍은13구역 준공인가…\"17년 만에 정비사업 완료\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910017600004",
-      "pubDate": "Thu, 10 Sep 2026 07:32:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260910014000011",
-      "pubDate": "Thu, 10 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"아프리카 지속가능 발전에 한국 정책자문 KSP 사업이 촉매제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909172100898",
-      "pubDate": "Thu, 10 Sep 2026 07:01:01 +0900"
+      "title": "8월 국고채 금리 전 구간 상승…한은 연속 금리인상 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260910046200008",
+      "pubDate": "Thu, 10 Sep 2026 09:48:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"이 조합은 못 참겠다\"…SNS 뒤집어진 '노란 케이크' 정체 [먹킷리스트]",
-      "link": "https://www.hankyung.com/article/202609093826g",
-      "pubDate": "Thu, 10 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "아마존·구글·메타가 주식매수권까지 요구하는 이유…AI 공급망 판이 바뀐다 [김주완의 글로벌 머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609094176i",
-      "pubDate": "Thu, 10 Sep 2026 07:00:09 +0900"
+      "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수",
+      "link": "https://www.hankyung.com/article/202609105765i",
+      "pubDate": "Thu, 10 Sep 2026 09:47:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해외직구 식품 10개중 1개서 위해성분…의약·마약성분도",
-      "link": "https://www.yna.co.kr/view/AKR20260909149500017",
-      "pubDate": "Thu, 10 Sep 2026 07:00:07 +0900"
+      "title": "농심 \"신라면×에스파 2차 글로벌 광고, 2주 만에 1억뷰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910036300030",
+      "pubDate": "Thu, 10 Sep 2026 09:45:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 아프리카의 한류, 이제는 함께 만들어 보자",
-      "link": "https://www.yna.co.kr/view/AKR20260827158800898",
-      "pubDate": "Thu, 10 Sep 2026 07:00:06 +0900"
+      "title": "[게시판] 람다256, 블록체인 노드 운영 신입 개발자 채용 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260910046300002",
+      "pubDate": "Thu, 10 Sep 2026 09:44:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 민간아파트 전용 59㎡ 분양가 15.9억원…84㎡는 19.4억원",
+      "link": "https://www.yna.co.kr/view/AKR20260910043800003",
+      "pubDate": "Thu, 10 Sep 2026 09:44:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"이러다 공장 문 닫아야 할 판\"…추석 앞두고 '초유의 상황'",
-      "link": "https://www.hankyung.com/article/2026090947411",
-      "pubDate": "Thu, 10 Sep 2026 07:00:04 +0900"
+      "title": "선거 끝나자 매출 90% '뚝'…\"29년 1월 20일만 기다린다\"",
+      "link": "https://www.hankyung.com/article/202609105601i",
+      "pubDate": "Thu, 10 Sep 2026 09:40:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서부발전, 녹색채권 500억원 발행…\"탄소중립 재원 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910040900063",
+      "pubDate": "Thu, 10 Sep 2026 09:37:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[바이오스냅] 식약처, 다회용기 세척업소 인증사업 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260910027800017",
+      "pubDate": "Thu, 10 Sep 2026 09:34:59 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 관세청, '할당관세 악용 단속' 특별 성과 직원 4명에 포상",
+      "link": "https://www.yna.co.kr/view/AKR20260910039800002",
+      "pubDate": "Thu, 10 Sep 2026 09:32:25 +0900"
     }
   ]
 }
