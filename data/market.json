@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T21:05:39.596Z",
+  "updatedAt": "2026-09-10T23:07:52.542Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.84,
-      "changePercent": 8.11,
+      "price": 103.96,
+      "changePercent": 1.444,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        103.83999633789062
+        103.95999908447266
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4360.5,
-      "changePercent": -2.246,
+      "price": 4358.7,
+      "changePercent": -1.103,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4360.5
+        4358.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.086,
-      "changePercent": 0.272,
+      "price": 99.09,
+      "changePercent": 0.276,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        99.08599853515625
+        99.08999633789062
       ],
       "ok": true
     },
@@ -119,6 +119,60 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[마켓뷰] 유가·금리 고공행진 악재…코스피, 7000선 지켜낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260911017500008",
+      "pubDate": "Fri, 11 Sep 2026 07:53:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"세무사가 구민 곁으로\"…강남구 '찾아가는 세금 상담회'",
+      "link": "https://www.yna.co.kr/view/AKR20260911016400004",
+      "pubDate": "Fri, 11 Sep 2026 07:36:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260911013200011",
+      "pubDate": "Fri, 11 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "고작 0.5%p 격차…삼성, 파운드리 2위 자리도 '흔들'",
+      "link": "https://www.hankyung.com/article/202609107434i",
+      "pubDate": "Fri, 11 Sep 2026 07:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"삼성·SK 가자\" 대학생들 난리…떴다 하면 순식간에 '완판'",
+      "link": "https://www.hankyung.com/article/2026091073231",
+      "pubDate": "Fri, 11 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "도산공원 옆 들어선 거대한 텐트…내부엔 '웨어러블 기어' 천국",
+      "link": "https://www.hankyung.com/article/202609107693i",
+      "pubDate": "Fri, 11 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김정관, 美 도착…\"대미 투자 협상 마무리하기 위해 왔다\"",
+      "link": "https://www.hankyung.com/article/2026091177877",
+      "pubDate": "Fri, 11 Sep 2026 06:50:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"이러다 제주 경제 폭망한다\"…'범죄의 섬' 낙인에 '초비상' [불신 청구서]",
+      "link": "https://www.hankyung.com/article/202609107125H",
+      "pubDate": "Fri, 11 Sep 2026 06:30:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI프리즘] 국가전략기술 투자 45.9조인데…AIDC 심의 통과 '0건'",
+      "link": "https://www.yna.co.kr/view/AKR20260910128000017",
+      "pubDate": "Fri, 11 Sep 2026 06:30:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "농식품부, 농어촌 기본소득 연계 사회연대경제 활성화 포럼 개최",
@@ -145,69 +199,15 @@
     },
     {
       "source": "한국경제",
-      "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다?[박신영의 개장전 요것만]",
+      "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다? [박신영의 개장전 요것만]",
       "link": "https://www.hankyung.com/article/202609107697i",
       "pubDate": "Fri, 11 Sep 2026 00:36:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"스카이넷 현실화되나\"…\"인류의 파멸 위험\"경고 늘어난다",
+      "title": "\"스카이넷 현실화되나\"…\"인류의 파멸 위험\" 경고 늘어난다",
       "link": "https://www.hankyung.com/article/202609107601i",
       "pubDate": "Fri, 11 Sep 2026 00:28:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "사우디,8월 산유량 급감…26년만에 최저 수준",
-      "link": "https://www.hankyung.com/article/202609117705i",
-      "pubDate": "Fri, 11 Sep 2026 00:24:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유가 급등·채권 수익률 급등에 S&P500 4일 연속 하락",
-      "link": "https://www.hankyung.com/article/202609107672i",
-      "pubDate": "Thu, 10 Sep 2026 23:04:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] 美 30년물 국채금리 5.35%로 급등…2007년 이후 최고",
-      "link": "https://www.hankyung.com/article/2026091076667",
-      "pubDate": "Thu, 10 Sep 2026 22:21:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "WTI 100달러 넘자 10년물 미국채 수익률 4.9% 돌파",
-      "link": "https://www.hankyung.com/article/202609107646i",
-      "pubDate": "Thu, 10 Sep 2026 22:15:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "ECB 올해 두번째 금리 인상…\"중동전쟁 물가 압박 계속\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260910169652085",
-      "pubDate": "Thu, 10 Sep 2026 22:14:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] 두바이·브렌트유 이어 WTI도 배럴당 100달러 돌파",
-      "link": "https://www.hankyung.com/article/2026091076407",
-      "pubDate": "Thu, 10 Sep 2026 21:46:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美, 8월 생산자물가 0.4%p 상승…전년 대비 5.4%↑",
-      "link": "https://www.hankyung.com/article/202609107628i",
-      "pubDate": "Thu, 10 Sep 2026 21:43:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "ECB, 전쟁 이후 두번째 0.25%p 금리 인상…기준금리 2.5%로",
-      "link": "https://www.hankyung.com/article/202609107631i",
-      "pubDate": "Thu, 10 Sep 2026 21:38:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "방산시장 갔다가…\"여보, 1000만원 아꼈어\" 이유 알고보니",
-      "link": "https://www.hankyung.com/article/2026091072421",
-      "pubDate": "Thu, 10 Sep 2026 21:00:02 +0900"
     }
   ]
 }
