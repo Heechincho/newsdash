@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:12:47.291Z",
+  "updatedAt": "2026-09-10T06:04:36.815Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.55,
-      "changePercent": 0.521,
-      "previousClose": 91.3,
+      "price": 95.68,
+      "changePercent": -0.385,
+      "previousClose": 91.48,
       "currency": "USD",
       "history": [
-        91.30000305175781,
         91.4800033569336,
         93.02999877929688,
-        96.55000305175781
+        96.05000305175781,
+        95.68000030517578
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4453.5,
-      "changePercent": -0.161,
-      "previousClose": 4491.7,
+      "price": 4471.2,
+      "changePercent": 0.235,
+      "previousClose": 4429.8,
       "currency": "USD",
       "history": [
-        4491.7001953125,
         4429.7998046875,
         4393.89990234375,
-        4453.5
+        4416,
+        4471.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.802,
-      "changePercent": -0.015,
-      "previousClose": 99,
+      "price": 98.74,
+      "changePercent": -0.078,
+      "previousClose": 99.16,
       "currency": "USD",
       "history": [
-        99,
         99.16000366210938,
         98.83999633789062,
-        98.802001953125
+        98.7699966430664,
+        98.73999786376953
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결",
-      "link": "https://www.hankyung.com/article/2026091057807",
-      "pubDate": "Thu, 10 Sep 2026 09:56:28 +0900"
+      "source": "연합뉴스",
+      "title": "코오롱FnC, 도산공원에 '헬리녹스 웨어' 첫 플래그십 매장",
+      "link": "https://www.yna.co.kr/view/AKR20260910116700030",
+      "pubDate": "Thu, 10 Sep 2026 14:57:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우리은행, 알뜰폰 '우리WON모바일' 통신비 면제 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260910049200002",
-      "pubDate": "Thu, 10 Sep 2026 09:53:04 +0900"
+      "title": "수은, 중견련과 스마트 제조혁신 컨설팅 지원사업 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260910116100002",
+      "pubDate": "Thu, 10 Sep 2026 14:54:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산 7월 제조업 생산 13.2% 증가…수출 증가세는 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260910045600051",
-      "pubDate": "Thu, 10 Sep 2026 09:52:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "보험료 한번에 내고 10년 동안 굴린다.. 삼성생명, '굴려받는연금보험' 출시",
-      "link": "https://www.hankyung.com/article/202609105681i",
-      "pubDate": "Thu, 10 Sep 2026 09:52:34 +0900"
+      "title": "가상자산 업계 \"과세 준비 부족…내년 1월 시행 미뤄달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910105900002",
+      "pubDate": "Thu, 10 Sep 2026 14:45:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성운용, 한국부동산리츠인프라 ETF 연말까지 분배금 조정 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260910045900008",
-      "pubDate": "Thu, 10 Sep 2026 09:50:02 +0900"
+      "title": "[게시판] 기획처·중장기전략위, 복합위기 대응 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260910112300002",
+      "pubDate": "Thu, 10 Sep 2026 14:41:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "파주시, 11일 시민회관서 '남북기후협력 포럼'",
-      "link": "https://www.yna.co.kr/view/AKR20260910046000060",
-      "pubDate": "Thu, 10 Sep 2026 09:48:57 +0900"
+      "title": "'전문건설의 날' 기념행사…업계 유공자 포상",
+      "link": "https://www.yna.co.kr/view/AKR20260910111900003",
+      "pubDate": "Thu, 10 Sep 2026 14:40:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "8월 국고채 금리 전 구간 상승…한은 연속 금리인상 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260910046200008",
-      "pubDate": "Thu, 10 Sep 2026 09:48:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수",
-      "link": "https://www.hankyung.com/article/202609105765i",
-      "pubDate": "Thu, 10 Sep 2026 09:47:41 +0900"
+      "title": "정부, 농산물가격안정제 첫 대상 마늘·양파…평년가격 80% 보장",
+      "link": "https://www.yna.co.kr/view/AKR20260910109400030",
+      "pubDate": "Thu, 10 Sep 2026 14:36:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농심 \"신라면×에스파 2차 글로벌 광고, 2주 만에 1억뷰\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910036300030",
-      "pubDate": "Thu, 10 Sep 2026 09:45:21 +0900"
+      "title": "창원상의, 대·중견·중소기업 상생 지원…'현대위아 밋업데이'",
+      "link": "https://www.yna.co.kr/view/AKR20260910109600052",
+      "pubDate": "Thu, 10 Sep 2026 14:30:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 람다256, 블록체인 노드 운영 신입 개발자 채용 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260910046300002",
-      "pubDate": "Thu, 10 Sep 2026 09:44:43 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260910106100011",
+      "pubDate": "Thu, 10 Sep 2026 14:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 민간아파트 전용 59㎡ 분양가 15.9억원…84㎡는 19.4억원",
-      "link": "https://www.yna.co.kr/view/AKR20260910043800003",
-      "pubDate": "Thu, 10 Sep 2026 09:44:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "선거 끝나자 매출 90% '뚝'…\"29년 1월 20일만 기다린다\"",
-      "link": "https://www.hankyung.com/article/202609105601i",
-      "pubDate": "Thu, 10 Sep 2026 09:40:06 +0900"
+      "title": "HD현대중공업, '힘센엔진'·SMR 전용공장 신설에 1조 투자한다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910092951003",
+      "pubDate": "Thu, 10 Sep 2026 14:27:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서부발전, 녹색채권 500억원 발행…\"탄소중립 재원 확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910040900063",
-      "pubDate": "Thu, 10 Sep 2026 09:37:44 +0900"
+      "title": "[게시판] 관세청 중앙관세분석소, 美측과 '신종 마약 차단' 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260910106200002",
+      "pubDate": "Thu, 10 Sep 2026 14:12:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[바이오스냅] 식약처, 다회용기 세척업소 인증사업 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260910027800017",
-      "pubDate": "Thu, 10 Sep 2026 09:34:59 +0900"
+      "title": "연합뉴스TV 내일 14회 경제포럼…AI 시대 성장전략 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260910104900002",
+      "pubDate": "Thu, 10 Sep 2026 14:08:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 관세청, '할당관세 악용 단속' 특별 성과 직원 4명에 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260910039800002",
-      "pubDate": "Thu, 10 Sep 2026 09:32:25 +0900"
+      "title": "LH 분리 법인 존치에도 과제 산적…진주혁신도시 긴장 모드 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260910101800052",
+      "pubDate": "Thu, 10 Sep 2026 14:07:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "피치 \"韓 4대 시중은행 자산건전성 견조…은행업 전망 중립적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910104600008",
+      "pubDate": "Thu, 10 Sep 2026 14:07:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "개인정보보호 선제 투자엔 과징금 최대 40%↓…고의·중과실 '제외'",
+      "link": "https://www.yna.co.kr/view/AKR20260910094500530",
+      "pubDate": "Thu, 10 Sep 2026 14:05:20 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 'e바구페이·오륙도페이' 추석맞이 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260910103300051",
+      "pubDate": "Thu, 10 Sep 2026 14:04:53 +0900"
     }
   ]
 }
