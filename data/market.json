@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-10T15:02:18.172Z",
+  "updatedAt": "2026-09-10T18:24:07.726Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7601.06,
-      "changePercent": -0.462,
+      "price": 7592.34,
+      "changePercent": -0.576,
       "previousClose": 7666.6,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7718.60009765625,
         7673.52001953125,
         7636.35986328125,
-        7601.06005859375
+        7592.33984375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26139.107,
-      "changePercent": -0.435,
+      "price": 26096.742,
+      "changePercent": -0.596,
       "previousClose": 26217.83,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26506.990234375,
         26421.41015625,
         26253.33984375,
-        26139.107421875
+        26096.7421875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52118.32,
-      "changePercent": -0.501,
+      "price": 52009.86,
+      "changePercent": -0.708,
       "previousClose": 53061.95,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53414.25,
         52786.0703125,
         52380.66015625,
-        52118.3203125
+        52009.859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.9,
-      "changePercent": 4.008,
+      "price": 102.73,
+      "changePercent": 6.955,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        99.9000015258789
+        102.7300033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4402.2,
-      "changePercent": -1.311,
+      "price": 4382.7,
+      "changePercent": -1.749,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4402.2001953125
+        4382.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.917,
-      "changePercent": 0.101,
+      "price": 99.054,
+      "changePercent": 0.24,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        98.91699981689453
+        99.05400085449219
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.39,
-      "changePercent": 5.647,
+      "price": 17.61,
+      "changePercent": 6.999,
       "previousClose": 14.53,
       "currency": "USD",
       "history": [
@@ -113,12 +113,42 @@
         15.300000190734863,
         15.720000267028809,
         16.459999084472656,
-        17.389999389648438
+        17.610000610351562
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "[포토] 최태원, 울산서 AX 현장 경영",
+      "link": "https://www.hankyung.com/article/2026091076641",
+      "pubDate": "Fri, 11 Sep 2026 01:36:47 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "ECB 올해 두번째 금리 인상…유럽 국채금리 급등(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260910169653085",
+      "pubDate": "Fri, 11 Sep 2026 01:27:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다?[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609107697i",
+      "pubDate": "Fri, 11 Sep 2026 00:36:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"스카이넷 현실화되나\"…\"인류의 파멸 위험\"경고 늘어난다",
+      "link": "https://www.hankyung.com/article/202609107601i",
+      "pubDate": "Fri, 11 Sep 2026 00:28:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "사우디,8월 산유량 급감…26년만에 최저 수준",
+      "link": "https://www.hankyung.com/article/202609117705i",
+      "pubDate": "Fri, 11 Sep 2026 00:24:04 +0900"
+    },
     {
       "source": "한국경제",
       "title": "유가 급등·채권 수익률 급등에 S&P500 4일 연속 하락",
@@ -178,36 +208,6 @@
       "title": "TSMC 8월 매출 53% 증가…4달째 '역대 최대'",
       "link": "https://www.hankyung.com/article/202609107098i",
       "pubDate": "Thu, 10 Sep 2026 20:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HBM 공급부족에…화웨이도 AI칩 가격 대폭 인상",
-      "link": "https://www.hankyung.com/article/202609107533i",
-      "pubDate": "Thu, 10 Sep 2026 19:32:55 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "송미령 \"농지조사, 투기는 엄정 조치…경미한 위반은 유연 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910160900030",
-      "pubDate": "Thu, 10 Sep 2026 19:21:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "다급한 트럼프…\"중간선거 이기면 1인당 670만원 쏘겠다\"",
-      "link": "https://www.hankyung.com/article/202609107522i",
-      "pubDate": "Thu, 10 Sep 2026 19:03:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"10년 걸려 의사한다고?\"…부모들 돌변하더니 '대반전'",
-      "link": "https://www.hankyung.com/article/2026091073241",
-      "pubDate": "Thu, 10 Sep 2026 19:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 의료·교육 현장 찾은 박홍근 \"거점병원 확대가 균형발전\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260910147751002",
-      "pubDate": "Thu, 10 Sep 2026 18:58:19 +0900"
     }
   ]
 }
