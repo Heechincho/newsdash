@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-10T11:13:39.106Z",
+  "updatedAt": "2026-09-10T15:02:18.172Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7636.36,
-      "changePercent": -0.484,
-      "previousClose": 7631.47,
+      "price": 7601.06,
+      "changePercent": -0.462,
+      "previousClose": 7666.6,
       "currency": "USD",
       "history": [
-        7666.60009765625,
         7747.7099609375,
         7718.60009765625,
         7673.52001953125,
-        7636.35986328125
+        7636.35986328125,
+        7601.06005859375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26253.34,
-      "changePercent": -0.636,
-      "previousClose": 26099.77,
+      "price": 26139.107,
+      "changePercent": -0.435,
+      "previousClose": 26217.83,
       "currency": "USD",
       "history": [
-        26217.830078125,
         26584.060546875,
         26506.990234375,
         26421.41015625,
-        26253.33984375
+        26253.33984375,
+        26139.107421875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52380.7,
-      "changePercent": -0.768,
-      "previousClose": 52766.88,
+      "price": 52118.32,
+      "changePercent": -0.501,
+      "previousClose": 53061.95,
       "currency": "USD",
       "history": [
-        53061.94921875,
         53686.109375,
         53414.25,
         52786.0703125,
-        52380.66015625
+        52380.66015625,
+        52118.3203125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.58,
-      "changePercent": 1.593,
+      "price": 99.9,
+      "changePercent": 4.008,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        97.58000183105469
+        99.9000015258789
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4425.3,
-      "changePercent": -0.794,
+      "price": 4402.2,
+      "changePercent": -1.311,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4425.2998046875
+        4402.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.898,
-      "changePercent": 0.082,
+      "price": 98.917,
+      "changePercent": 0.101,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        98.89800262451172
+        98.91699981689453
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.53,
-      "changePercent": 0.425,
+      "price": 17.39,
+      "changePercent": 5.647,
       "previousClose": 14.53,
       "currency": "USD",
       "history": [
@@ -113,12 +113,78 @@
         15.300000190734863,
         15.720000267028809,
         16.459999084472656,
-        16.530000686645508
+        17.389999389648438
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "유가 급등·채권 수익률 급등에 S&P500 4일 연속 하락",
+      "link": "https://www.hankyung.com/article/202609107672i",
+      "pubDate": "Thu, 10 Sep 2026 23:04:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] 美 30년물 국채금리 5.35%로 급등…2007년 이후 최고",
+      "link": "https://www.hankyung.com/article/2026091076667",
+      "pubDate": "Thu, 10 Sep 2026 22:21:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "WTI 100달러 넘자 10년물 미국채 수익률 4.9% 돌파",
+      "link": "https://www.hankyung.com/article/202609107646i",
+      "pubDate": "Thu, 10 Sep 2026 22:15:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "ECB 올해 두번째 금리 인상…\"중동전쟁 물가 압박 계속\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910169652085",
+      "pubDate": "Thu, 10 Sep 2026 22:14:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] 두바이·브렌트유 이어 WTI도 배럴당 100달러 돌파",
+      "link": "https://www.hankyung.com/article/2026091076407",
+      "pubDate": "Thu, 10 Sep 2026 21:46:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美, 8월 생산자물가 0.4%p 상승…전년 대비 5.4%↑",
+      "link": "https://www.hankyung.com/article/202609107628i",
+      "pubDate": "Thu, 10 Sep 2026 21:43:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "ECB, 전쟁 이후 두번째 0.25%p 금리 인상…기준금리 2.5%로",
+      "link": "https://www.hankyung.com/article/202609107631i",
+      "pubDate": "Thu, 10 Sep 2026 21:38:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "방산시장 갔다가…\"여보, 1000만원 아꼈어\" 이유 알고보니",
+      "link": "https://www.hankyung.com/article/2026091072421",
+      "pubDate": "Thu, 10 Sep 2026 21:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 인프라 수요 폭발…TSMC, 8월 매출도 53% 급증",
+      "link": "https://www.hankyung.com/article/202609107560i",
+      "pubDate": "Thu, 10 Sep 2026 20:01:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "TSMC 8월 매출 53% 증가…4달째 '역대 최대'",
+      "link": "https://www.hankyung.com/article/202609107098i",
+      "pubDate": "Thu, 10 Sep 2026 20:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HBM 공급부족에…화웨이도 AI칩 가격 대폭 인상",
+      "link": "https://www.hankyung.com/article/202609107533i",
+      "pubDate": "Thu, 10 Sep 2026 19:32:55 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "송미령 \"농지조사, 투기는 엄정 조치…경미한 위반은 유연 대처\"",
@@ -127,87 +193,21 @@
     },
     {
       "source": "한국경제",
-      "title": "다급한 트럼프…\"중간선거 이기면 670만원 쏘겠다\"",
+      "title": "다급한 트럼프…\"중간선거 이기면 1인당 670만원 쏘겠다\"",
       "link": "https://www.hankyung.com/article/202609107522i",
       "pubDate": "Thu, 10 Sep 2026 19:03:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"10년 걸려 의사한다고?\"…부모들 돌변하더니 '대반전'",
+      "link": "https://www.hankyung.com/article/2026091073241",
+      "pubDate": "Thu, 10 Sep 2026 19:00:07 +0900"
     },
     {
       "source": "연합뉴스",
       "title": "부산 의료·교육 현장 찾은 박홍근 \"거점병원 확대가 균형발전\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260910147751002",
       "pubDate": "Thu, 10 Sep 2026 18:58:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "하나금융, 발달장애인 작가와 벽화 조성",
-      "link": "https://www.hankyung.com/article/2026091073041",
-      "pubDate": "Thu, 10 Sep 2026 18:52:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유수영 신용정보원장 취임…첫 재경부 출신",
-      "link": "https://www.hankyung.com/article/2026091073001",
-      "pubDate": "Thu, 10 Sep 2026 18:51:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 카카오뱅크 봉사단, 몽골서 교육·기부 활동",
-      "link": "https://www.hankyung.com/article/2026091072981",
-      "pubDate": "Thu, 10 Sep 2026 18:49:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농식품부 \"수입콩 부족분, 국산콩 할인으로 평년 수준 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910159800030",
-      "pubDate": "Thu, 10 Sep 2026 18:36:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "홈쇼핑 12개사 방미통위 재승인…현대홈쇼핑 평가점수 1위",
-      "link": "https://www.hankyung.com/article/202609107487g",
-      "pubDate": "Thu, 10 Sep 2026 18:23:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'금융 모른다' 우려 딛고…1년 만에 존재감 키운 이억원",
-      "link": "https://www.hankyung.com/article/2026091073491",
-      "pubDate": "Thu, 10 Sep 2026 18:15:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "예금금리 잇단 인상…5대銀 연 3.3% 넘어",
-      "link": "https://www.hankyung.com/article/2026091073511",
-      "pubDate": "Thu, 10 Sep 2026 18:13:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'착한 배달앱' 신한 땡겨요, 1000만 회원 눈앞",
-      "link": "https://www.hankyung.com/article/2026091073521",
-      "pubDate": "Thu, 10 Sep 2026 18:13:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "KB금융, 블룸버그와 자본시장 역량강화 협약",
-      "link": "https://www.hankyung.com/article/2026091073501",
-      "pubDate": "Thu, 10 Sep 2026 18:12:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "달라진 롯데…쿠팡과 손잡고, 외부 CEO 영입",
-      "link": "https://www.hankyung.com/article/2026091072851",
-      "pubDate": "Thu, 10 Sep 2026 18:11:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "무신사, 첫 뷰티 단독 점포…'독주' 올리브영에 도전장",
-      "link": "https://www.hankyung.com/article/2026091072861",
-      "pubDate": "Thu, 10 Sep 2026 18:10:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "농협, 877억원 투입…성수품 반값 할인",
-      "link": "https://www.hankyung.com/article/2026091072901",
-      "pubDate": "Thu, 10 Sep 2026 18:08:11 +0900"
     }
   ]
 }
