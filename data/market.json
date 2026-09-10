@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:04:36.815Z",
+  "updatedAt": "2026-09-10T11:13:39.106Z",
   "instruments": [
     {
       "key": "sp500",
@@ -39,7 +39,7 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52380.66,
+      "price": 52380.7,
       "changePercent": -0.768,
       "previousClose": 52766.88,
       "currency": "USD",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.68,
-      "changePercent": -0.385,
+      "price": 97.58,
+      "changePercent": 1.593,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        95.68000030517578
+        97.58000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4471.2,
-      "changePercent": 0.235,
+      "price": 4425.3,
+      "changePercent": -0.794,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4471.2001953125
+        4425.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 98.74,
-      "changePercent": -0.078,
+      "price": 98.898,
+      "changePercent": 0.082,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        98.73999786376953
+        98.89800262451172
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.46,
-      "changePercent": 4.707,
-      "previousClose": 14.32,
+      "price": 16.53,
+      "changePercent": 0.425,
+      "previousClose": 14.53,
       "currency": "USD",
       "history": [
-        14.319999694824219,
         14.529999732971191,
         15.300000190734863,
         15.720000267028809,
-        16.459999084472656
+        16.459999084472656,
+        16.530000686645508
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "코오롱FnC, 도산공원에 '헬리녹스 웨어' 첫 플래그십 매장",
-      "link": "https://www.yna.co.kr/view/AKR20260910116700030",
-      "pubDate": "Thu, 10 Sep 2026 14:57:05 +0900"
+      "title": "송미령 \"농지조사, 투기는 엄정 조치…경미한 위반은 유연 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910160900030",
+      "pubDate": "Thu, 10 Sep 2026 19:21:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "다급한 트럼프…\"중간선거 이기면 670만원 쏘겠다\"",
+      "link": "https://www.hankyung.com/article/202609107522i",
+      "pubDate": "Thu, 10 Sep 2026 19:03:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은, 중견련과 스마트 제조혁신 컨설팅 지원사업 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260910116100002",
-      "pubDate": "Thu, 10 Sep 2026 14:54:52 +0900"
+      "title": "부산 의료·교육 현장 찾은 박홍근 \"거점병원 확대가 균형발전\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910147751002",
+      "pubDate": "Thu, 10 Sep 2026 18:58:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "하나금융, 발달장애인 작가와 벽화 조성",
+      "link": "https://www.hankyung.com/article/2026091073041",
+      "pubDate": "Thu, 10 Sep 2026 18:52:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유수영 신용정보원장 취임…첫 재경부 출신",
+      "link": "https://www.hankyung.com/article/2026091073001",
+      "pubDate": "Thu, 10 Sep 2026 18:51:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 카카오뱅크 봉사단, 몽골서 교육·기부 활동",
+      "link": "https://www.hankyung.com/article/2026091072981",
+      "pubDate": "Thu, 10 Sep 2026 18:49:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가상자산 업계 \"과세 준비 부족…내년 1월 시행 미뤄달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910105900002",
-      "pubDate": "Thu, 10 Sep 2026 14:45:45 +0900"
+      "title": "농식품부 \"수입콩 부족분, 국산콩 할인으로 평년 수준 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910159800030",
+      "pubDate": "Thu, 10 Sep 2026 18:36:21 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 기획처·중장기전략위, 복합위기 대응 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260910112300002",
-      "pubDate": "Thu, 10 Sep 2026 14:41:07 +0900"
+      "source": "한국경제",
+      "title": "홈쇼핑 12개사 방미통위 재승인…현대홈쇼핑 평가점수 1위",
+      "link": "https://www.hankyung.com/article/202609107487g",
+      "pubDate": "Thu, 10 Sep 2026 18:23:53 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "'전문건설의 날' 기념행사…업계 유공자 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260910111900003",
-      "pubDate": "Thu, 10 Sep 2026 14:40:52 +0900"
+      "source": "한국경제",
+      "title": "'금융 모른다' 우려 딛고…1년 만에 존재감 키운 이억원",
+      "link": "https://www.hankyung.com/article/2026091073491",
+      "pubDate": "Thu, 10 Sep 2026 18:15:15 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "정부, 농산물가격안정제 첫 대상 마늘·양파…평년가격 80% 보장",
-      "link": "https://www.yna.co.kr/view/AKR20260910109400030",
-      "pubDate": "Thu, 10 Sep 2026 14:36:17 +0900"
+      "source": "한국경제",
+      "title": "예금금리 잇단 인상…5대銀 연 3.3% 넘어",
+      "link": "https://www.hankyung.com/article/2026091073511",
+      "pubDate": "Thu, 10 Sep 2026 18:13:36 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "창원상의, 대·중견·중소기업 상생 지원…'현대위아 밋업데이'",
-      "link": "https://www.yna.co.kr/view/AKR20260910109600052",
-      "pubDate": "Thu, 10 Sep 2026 14:30:11 +0900"
+      "source": "한국경제",
+      "title": "'착한 배달앱' 신한 땡겨요, 1000만 회원 눈앞",
+      "link": "https://www.hankyung.com/article/2026091073521",
+      "pubDate": "Thu, 10 Sep 2026 18:13:09 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260910106100011",
-      "pubDate": "Thu, 10 Sep 2026 14:30:01 +0900"
+      "source": "한국경제",
+      "title": "KB금융, 블룸버그와 자본시장 역량강화 협약",
+      "link": "https://www.hankyung.com/article/2026091073501",
+      "pubDate": "Thu, 10 Sep 2026 18:12:30 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "HD현대중공업, '힘센엔진'·SMR 전용공장 신설에 1조 투자한다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260910092951003",
-      "pubDate": "Thu, 10 Sep 2026 14:27:30 +0900"
+      "source": "한국경제",
+      "title": "달라진 롯데…쿠팡과 손잡고, 외부 CEO 영입",
+      "link": "https://www.hankyung.com/article/2026091072851",
+      "pubDate": "Thu, 10 Sep 2026 18:11:30 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 관세청 중앙관세분석소, 美측과 '신종 마약 차단' 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260910106200002",
-      "pubDate": "Thu, 10 Sep 2026 14:12:26 +0900"
+      "source": "한국경제",
+      "title": "무신사, 첫 뷰티 단독 점포…'독주' 올리브영에 도전장",
+      "link": "https://www.hankyung.com/article/2026091072861",
+      "pubDate": "Thu, 10 Sep 2026 18:10:00 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "연합뉴스TV 내일 14회 경제포럼…AI 시대 성장전략 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260910104900002",
-      "pubDate": "Thu, 10 Sep 2026 14:08:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LH 분리 법인 존치에도 과제 산적…진주혁신도시 긴장 모드 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260910101800052",
-      "pubDate": "Thu, 10 Sep 2026 14:07:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "피치 \"韓 4대 시중은행 자산건전성 견조…은행업 전망 중립적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910104600008",
-      "pubDate": "Thu, 10 Sep 2026 14:07:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "개인정보보호 선제 투자엔 과징금 최대 40%↓…고의·중과실 '제외'",
-      "link": "https://www.yna.co.kr/view/AKR20260910094500530",
-      "pubDate": "Thu, 10 Sep 2026 14:05:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 'e바구페이·오륙도페이' 추석맞이 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260910103300051",
-      "pubDate": "Thu, 10 Sep 2026 14:04:53 +0900"
+      "source": "한국경제",
+      "title": "농협, 877억원 투입…성수품 반값 할인",
+      "link": "https://www.hankyung.com/article/2026091072901",
+      "pubDate": "Thu, 10 Sep 2026 18:08:11 +0900"
     }
   ]
 }
