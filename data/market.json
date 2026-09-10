@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-10T18:24:07.726Z",
+  "updatedAt": "2026-09-10T21:05:39.596Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7592.34,
-      "changePercent": -0.576,
+      "price": 7591.7,
+      "changePercent": -0.585,
       "previousClose": 7666.6,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7718.60009765625,
         7673.52001953125,
         7636.35986328125,
-        7592.33984375
+        7591.7001953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26096.742,
-      "changePercent": -0.596,
+      "price": 26081.725,
+      "changePercent": -0.654,
       "previousClose": 26217.83,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26506.990234375,
         26421.41015625,
         26253.33984375,
-        26096.7421875
+        26081.724609375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52009.86,
-      "changePercent": -0.708,
+      "price": 52064.1,
+      "changePercent": -0.604,
       "previousClose": 53061.95,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53414.25,
         52786.0703125,
         52380.66015625,
-        52009.859375
+        52064.1015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.73,
-      "changePercent": 6.955,
+      "price": 103.84,
+      "changePercent": 8.11,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        102.7300033569336
+        103.83999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4382.7,
-      "changePercent": -1.749,
+      "price": 4360.5,
+      "changePercent": -2.246,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4382.7001953125
+        4360.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.054,
-      "changePercent": 0.24,
+      "price": 99.086,
+      "changePercent": 0.272,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        99.05400085449219
+        99.08599853515625
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.61,
-      "changePercent": 6.999,
+      "price": 17.84,
+      "changePercent": 8.384,
       "previousClose": 14.53,
       "currency": "USD",
       "history": [
@@ -113,12 +113,24 @@
         15.300000190734863,
         15.720000267028809,
         16.459999084472656,
-        17.610000610351562
+        17.84000015258789
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "농식품부, 농어촌 기본소득 연계 사회연대경제 활성화 포럼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260910128100030",
+      "pubDate": "Fri, 11 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
+      "link": "https://www.yna.co.kr/view/AKR20260910166100002",
+      "pubDate": "Fri, 11 Sep 2026 06:00:00 +0900"
+    },
     {
       "source": "한국경제",
       "title": "[포토] 최태원, 울산서 AX 현장 경영",
@@ -196,18 +208,6 @@
       "title": "방산시장 갔다가…\"여보, 1000만원 아꼈어\" 이유 알고보니",
       "link": "https://www.hankyung.com/article/2026091072421",
       "pubDate": "Thu, 10 Sep 2026 21:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 인프라 수요 폭발…TSMC, 8월 매출도 53% 급증",
-      "link": "https://www.hankyung.com/article/202609107560i",
-      "pubDate": "Thu, 10 Sep 2026 20:01:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "TSMC 8월 매출 53% 증가…4달째 '역대 최대'",
-      "link": "https://www.hankyung.com/article/202609107098i",
-      "pubDate": "Thu, 10 Sep 2026 20:00:09 +0900"
     }
   ]
 }
