@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T21:03:59.698Z",
+  "updatedAt": "2026-09-11T23:14:20.998Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.05,
-      "changePercent": -2.371,
+      "price": 99.99,
+      "changePercent": -2.43,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        100.05000305175781
+        99.98999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4389,
-      "changePercent": -0.415,
+      "price": 4390,
+      "changePercent": -0.393,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4389
+        4390
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.096,
-      "changePercent": 0.048,
+      "price": 99.095,
+      "changePercent": 0.047,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.09600067138672
+        99.09500122070312
       ],
       "ok": true
     },
@@ -120,6 +120,72 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "'기업에 긴급 수혈'…평택시, 120억원 규모 기업안정 기금 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260911108100061",
+      "pubDate": "Sat, 12 Sep 2026 08:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 청년들, '굿잡 버스' 타고 선도기업 취업 문 두드린다",
+      "link": "https://www.yna.co.kr/view/AKR20260911053600051",
+      "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대",
+      "link": "https://www.yna.co.kr/view/AKR20260911118000003",
+      "pubDate": "Sat, 12 Sep 2026 07:05:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[르포] 추석연휴 10여일 앞둔 대구 서문시장…상인들 \"예전 대목만 못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260911084500053",
+      "pubDate": "Sat, 12 Sep 2026 07:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
+      "link": "https://www.yna.co.kr/view/AKR20260910107100030",
+      "pubDate": "Sat, 12 Sep 2026 07:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[신상잇슈] 해태제과 '와샤오롱'·서울우유 '비요뜨 초코링 당저감'",
+      "link": "https://www.yna.co.kr/view/AKR20260911068100030",
+      "pubDate": "Sat, 12 Sep 2026 07:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609119348i",
+      "pubDate": "Sat, 12 Sep 2026 07:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
+      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
+      "pubDate": "Sat, 12 Sep 2026 06:33:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
+      "pubDate": "Sat, 12 Sep 2026 06:05:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"외동딸처럼 키웠다\"…'1개 1만9000원' 명품 복숭아 불티 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202609093982i",
+      "pubDate": "Sat, 12 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
+      "link": "https://www.hankyung.com/article/2026091196731",
+      "pubDate": "Sat, 12 Sep 2026 06:00:01 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
       "link": "https://www.hankyung.com/article/202609129938i",
@@ -127,7 +193,7 @@
     },
     {
       "source": "한국경제",
-      "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
+      "title": "마이크로소프트의 뒤늦은 후회 [박신영의 개장전 요것만]",
       "link": "https://www.hankyung.com/article/202609129941i",
       "pubDate": "Sat, 12 Sep 2026 02:47:19 +0900"
     },
@@ -139,75 +205,9 @@
     },
     {
       "source": "한국경제",
-      "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
+      "title": "[반론보도] '중대재해 '볼모'로 정년연장 요구한 HL만도 노조' 등 4건 관련",
       "link": "https://www.hankyung.com/article/202609119935i",
       "pubDate": "Sat, 12 Sep 2026 00:00:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911162351003",
-      "pubDate": "Fri, 11 Sep 2026 23:28:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성·SK는 역대급 호황인데…\"휴대폰 바꾸기 겁난다\" 비명 [테크로그]",
-      "link": "https://www.hankyung.com/article/202609107691g",
-      "pubDate": "Fri, 11 Sep 2026 21:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
-      "link": "https://www.yna.co.kr/view/AKR20260911162400030",
-      "pubDate": "Fri, 11 Sep 2026 20:52:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "키움증권 미 자회사, 현지서 국내 반도체 ETF 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260911164500008",
-      "pubDate": "Fri, 11 Sep 2026 20:48:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "염창공원 공공주택 1천가구 공급 설명회, 주민 거센 반발에 무산",
-      "link": "https://www.yna.co.kr/view/AKR20260911162300003",
-      "pubDate": "Fri, 11 Sep 2026 20:12:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'반값에 또 반값' 실화냐…주부들 하루 몇 번씩 찾는 '득템 성지'",
-      "link": "https://www.hankyung.com/article/2026091195531",
-      "pubDate": "Fri, 11 Sep 2026 20:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"미래기금 국채상환 기준 도입해야…현·미래세대 계정은 따로\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911133451002",
-      "pubDate": "Fri, 11 Sep 2026 19:07:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"물 들어올 때 노 젓자\"…투자금 쓸어담는 우량 스타트업",
-      "link": "https://www.hankyung.com/article/2026091196841",
-      "pubDate": "Fri, 11 Sep 2026 18:38:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성E&A, 사우디서 4.7조 비료 플랜트 '잭팟'",
-      "link": "https://www.hankyung.com/article/2026091196741",
-      "pubDate": "Fri, 11 Sep 2026 18:37:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, 33만t 하수처리수 반도체 공장 활용",
-      "link": "https://www.hankyung.com/article/2026091196791",
-      "pubDate": "Fri, 11 Sep 2026 18:37:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HD현대重 노조, 노동부 지침 어긴채 파업",
-      "link": "https://www.hankyung.com/article/2026091196751",
-      "pubDate": "Fri, 11 Sep 2026 18:36:41 +0900"
     }
   ]
 }
