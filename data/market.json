@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:55:43.064Z",
+  "updatedAt": "2026-09-11T10:55:49.413Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.37,
-      "changePercent": -1.083,
+      "price": 99.1,
+      "changePercent": -3.298,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        101.37000274658203
+        99.0999984741211
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4381.6,
-      "changePercent": -0.583,
+      "price": 4386.7,
+      "changePercent": -0.467,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4381.60009765625
+        4386.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.048,
-      "changePercent": 0,
+      "price": 99.179,
+      "changePercent": 0.132,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.0479965209961
+        99.17900085449219
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.84,
-      "changePercent": 8.384,
-      "previousClose": 14.53,
+      "price": 17.18,
+      "changePercent": -3.702,
+      "previousClose": 15.3,
       "currency": "USD",
       "history": [
-        14.529999732971191,
         15.300000190734863,
         15.720000267028809,
         16.459999084472656,
-        17.84000015258789
+        17.84000015258789,
+        17.18000030517578
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "아티스트스튜디오, 40억원 유상증자…매일방송에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260911106000008",
-      "pubDate": "Fri, 11 Sep 2026 14:51:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB금융, 혁신 스타트업 투자 유치 위한 기업설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260911104600002",
-      "pubDate": "Fri, 11 Sep 2026 14:46:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인사] 국세청",
-      "link": "https://www.yna.co.kr/view/AKR20260911103600002",
-      "pubDate": "Fri, 11 Sep 2026 14:46:04 +0900"
+      "title": "\"미래기금 국채상환 기준 도입해야…현·미래세대 계정은 따로\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260911133451002",
+      "pubDate": "Fri, 11 Sep 2026 19:07:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"카스요? 여기선 테라만 팝니다\"…홍천 식당가의 비밀 [현장+]",
-      "link": "https://www.hankyung.com/article/202609119049i",
-      "pubDate": "Fri, 11 Sep 2026 14:35:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게임스냅] 크래프톤·네오플, 대한민국 일자리 으뜸기업 선정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911075351017",
-      "pubDate": "Fri, 11 Sep 2026 14:34:57 +0900"
+      "title": "\"물 들어올 때 노 젓자\"…투자금 쓸어담는 우량 스타트업",
+      "link": "https://www.hankyung.com/article/2026091196841",
+      "pubDate": "Fri, 11 Sep 2026 18:38:54 +0900"
     },
     {
       "source": "한국경제",
-      "title": "22만명 표 던졌다…'슈퍼 판다' 푸바오 동생 이름 뭐길래",
-      "link": "https://www.hankyung.com/article/202609119051i",
-      "pubDate": "Fri, 11 Sep 2026 14:30:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260911095800011",
-      "pubDate": "Fri, 11 Sep 2026 14:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "청년창업아카데미 울주기업 22곳, 상반기 매출 23억·고용 56명",
-      "link": "https://www.yna.co.kr/view/AKR20260911097000057",
-      "pubDate": "Fri, 11 Sep 2026 14:26:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 공정위-한국하도급법학회 공동 학술대회",
-      "link": "https://www.yna.co.kr/view/AKR20260911048500002",
-      "pubDate": "Fri, 11 Sep 2026 14:24:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, 올라핀테크와 소상공인 선정산 통합지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260911087700002",
-      "pubDate": "Fri, 11 Sep 2026 14:20:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, '디 오리진스 카드' 출시 기념 자산관리 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260911084200002",
-      "pubDate": "Fri, 11 Sep 2026 14:19:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 유명순 한국씨티은행장 '사람 살리는 금융' 릴레이 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260911085200002",
-      "pubDate": "Fri, 11 Sep 2026 14:16:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울시립대팀, 데이터사이언스 해커톤서 부총리상",
-      "link": "https://www.yna.co.kr/view/AKR20260911095300017",
-      "pubDate": "Fri, 11 Sep 2026 14:14:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "수은, 아프리카 10개국과 고위급 면담…EDCF로 경제협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260911081500002",
-      "pubDate": "Fri, 11 Sep 2026 14:14:04 +0900"
+      "title": "삼성E&A, 사우디서 4.7조 비료 플랜트 '잭팟'",
+      "link": "https://www.hankyung.com/article/2026091196741",
+      "pubDate": "Fri, 11 Sep 2026 18:37:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"문 연 지 3분인데 18번?\"…없어서 못 사는 '9000원 빵' 정체 [먹킷리스트]",
-      "link": "https://www.hankyung.com/article/202609118715g",
-      "pubDate": "Fri, 11 Sep 2026 14:05:19 +0900"
+      "title": "삼성, 33만t 하수처리수 반도체 공장 활용",
+      "link": "https://www.hankyung.com/article/2026091196791",
+      "pubDate": "Fri, 11 Sep 2026 18:37:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HD현대重 노조, 노동부 지침 어긴채 파업",
+      "link": "https://www.hankyung.com/article/2026091196751",
+      "pubDate": "Fri, 11 Sep 2026 18:36:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "대한항공·아시아나 \"하늘서 무료 와이파이 쓰세요\"",
+      "link": "https://www.hankyung.com/article/2026091196771",
+      "pubDate": "Fri, 11 Sep 2026 18:36:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 국내서 공개된 '제네시스 GV90'",
+      "link": "https://www.hankyung.com/article/2026091196781",
+      "pubDate": "Fri, 11 Sep 2026 18:36:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 풍산, 수입 의존하던 '소형 공격드론' 국산화길 열었다",
+      "link": "https://www.hankyung.com/article/2026091196761",
+      "pubDate": "Fri, 11 Sep 2026 18:34:59 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KS인더스트리, 60억원 유상증자…상생제1호조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260911151700008",
+      "pubDate": "Fri, 11 Sep 2026 18:32:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "라포랩스 \"SK스토아 최다액출자자 변경승인 재신청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260911150700030",
+      "pubDate": "Fri, 11 Sep 2026 18:28:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "미래기금에 교부세 뺏긴 지자체…\"재정 어려워, 우리몫 더 달라\"",
+      "link": "https://www.hankyung.com/article/2026091196551",
+      "pubDate": "Fri, 11 Sep 2026 18:27:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "재가동 심사 늦어진 '한빛 2호기' 결국 멈췄다",
+      "link": "https://www.hankyung.com/article/2026091196541",
+      "pubDate": "Fri, 11 Sep 2026 18:25:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "원안위, 고리 3·4호기-한빛 1·2호기 사고관리계획 재논의키로",
+      "link": "https://www.yna.co.kr/view/AKR20260911141100017",
+      "pubDate": "Fri, 11 Sep 2026 18:17:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB금융 '세대교체'에 방점…연임 대신 이재근호 깜짝 선택",
+      "link": "https://www.yna.co.kr/view/AKR20260911152500002",
+      "pubDate": "Fri, 11 Sep 2026 18:09:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "KB 이재근號 출범…금융 세대교체 예고",
+      "link": "https://www.hankyung.com/article/2026091196851",
+      "pubDate": "Fri, 11 Sep 2026 18:08:08 +0900"
     }
   ]
 }
