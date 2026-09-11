@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-11T10:55:49.413Z",
+  "updatedAt": "2026-09-11T14:55:51.411Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7591.7,
-      "changePercent": -0.585,
-      "previousClose": 7666.6,
+      "price": 7650.93,
+      "changePercent": 0.78,
+      "previousClose": 7747.71,
       "currency": "USD",
       "history": [
-        7747.7099609375,
         7718.60009765625,
         7673.52001953125,
         7636.35986328125,
-        7591.7001953125
+        7591.7001953125,
+        7650.93017578125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26081.725,
-      "changePercent": -0.654,
-      "previousClose": 26217.83,
+      "price": 26323.152,
+      "changePercent": 0.926,
+      "previousClose": 26584.06,
       "currency": "USD",
       "history": [
-        26584.060546875,
         26506.990234375,
         26421.41015625,
         26253.33984375,
-        26081.720703125
+        26081.720703125,
+        26323.15234375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52064.1,
-      "changePercent": -0.604,
-      "previousClose": 53061.95,
+      "price": 52453.14,
+      "changePercent": 0.747,
+      "previousClose": 53686.11,
       "currency": "USD",
       "history": [
-        53686.109375,
         53414.25,
         52786.0703125,
         52380.66015625,
-        52064.1015625
+        52064.1015625,
+        52453.140625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.1,
-      "changePercent": -3.298,
+      "price": 99.39,
+      "changePercent": -3.015,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        99.0999984741211
+        99.38999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4386.7,
-      "changePercent": -0.467,
+      "price": 4415.5,
+      "changePercent": 0.186,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4386.7001953125
+        4415.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.179,
-      "changePercent": 0.132,
+      "price": 99.032,
+      "changePercent": -0.016,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.17900085449219
+        99.03199768066406
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.18,
-      "changePercent": -3.702,
+      "price": 16.06,
+      "changePercent": -9.989,
       "previousClose": 15.3,
       "currency": "USD",
       "history": [
@@ -113,12 +113,48 @@
         15.720000267028809,
         16.459999084472656,
         17.84000015258789,
-        17.18000030517578
+        16.059999465942383
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260911162351003",
+      "pubDate": "Fri, 11 Sep 2026 23:28:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성·SK는 역대급 호황인데…\"휴대폰 바꾸기 겁난다\" 비명 [테크로그]",
+      "link": "https://www.hankyung.com/article/202609107691g",
+      "pubDate": "Fri, 11 Sep 2026 21:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
+      "link": "https://www.yna.co.kr/view/AKR20260911162400030",
+      "pubDate": "Fri, 11 Sep 2026 20:52:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "키움증권 미 자회사, 현지서 국내 반도체 ETF 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260911164500008",
+      "pubDate": "Fri, 11 Sep 2026 20:48:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "염창공원 공공주택 1천가구 공급 설명회, 주민 거센 반발에 무산",
+      "link": "https://www.yna.co.kr/view/AKR20260911162300003",
+      "pubDate": "Fri, 11 Sep 2026 20:12:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'반값에 또 반값' 실화냐…주부들 하루 몇 번씩 찾는 '득템 성지'",
+      "link": "https://www.hankyung.com/article/2026091195531",
+      "pubDate": "Fri, 11 Sep 2026 20:00:05 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "\"미래기금 국채상환 기준 도입해야…현·미래세대 계정은 따로\"(종합)",
@@ -172,42 +208,6 @@
       "title": "KS인더스트리, 60억원 유상증자…상생제1호조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260911151700008",
       "pubDate": "Fri, 11 Sep 2026 18:32:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "라포랩스 \"SK스토아 최다액출자자 변경승인 재신청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911150700030",
-      "pubDate": "Fri, 11 Sep 2026 18:28:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미래기금에 교부세 뺏긴 지자체…\"재정 어려워, 우리몫 더 달라\"",
-      "link": "https://www.hankyung.com/article/2026091196551",
-      "pubDate": "Fri, 11 Sep 2026 18:27:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "재가동 심사 늦어진 '한빛 2호기' 결국 멈췄다",
-      "link": "https://www.hankyung.com/article/2026091196541",
-      "pubDate": "Fri, 11 Sep 2026 18:25:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "원안위, 고리 3·4호기-한빛 1·2호기 사고관리계획 재논의키로",
-      "link": "https://www.yna.co.kr/view/AKR20260911141100017",
-      "pubDate": "Fri, 11 Sep 2026 18:17:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB금융 '세대교체'에 방점…연임 대신 이재근호 깜짝 선택",
-      "link": "https://www.yna.co.kr/view/AKR20260911152500002",
-      "pubDate": "Fri, 11 Sep 2026 18:09:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "KB 이재근號 출범…금융 세대교체 예고",
-      "link": "https://www.hankyung.com/article/2026091196851",
-      "pubDate": "Fri, 11 Sep 2026 18:08:08 +0900"
     }
   ]
 }
