@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-11T18:17:34.367Z",
+  "updatedAt": "2026-09-11T21:03:59.698Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7669.55,
-      "changePercent": 1.025,
+      "price": 7656.98,
+      "changePercent": 0.86,
       "previousClose": 7747.71,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7673.52001953125,
         7636.35986328125,
         7591.7001953125,
-        7669.5498046875
+        7656.97998046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26378.107,
-      "changePercent": 1.136,
+      "price": 26333.035,
+      "changePercent": 0.964,
       "previousClose": 26584.06,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26421.41015625,
         26253.33984375,
         26081.720703125,
-        26378.107421875
+        26333.03515625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52636.47,
-      "changePercent": 1.099,
+      "price": 52573.29,
+      "changePercent": 0.978,
       "previousClose": 53686.11,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52786.0703125,
         52380.66015625,
         52064.1015625,
-        52636.46875
+        52573.2890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.64,
-      "changePercent": -2.771,
+      "price": 100.05,
+      "changePercent": -2.371,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        99.63999938964844
+        100.05000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4399.1,
-      "changePercent": -0.186,
+      "price": 4389,
+      "changePercent": -0.415,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4399.10009765625
+        4389
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.094,
-      "changePercent": 0.046,
+      "price": 99.096,
+      "changePercent": 0.048,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.09400177001953
+        99.09600067138672
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.6,
-      "changePercent": -12.549,
+      "price": 15.84,
+      "changePercent": -11.211,
       "previousClose": 15.3,
       "currency": "USD",
       "history": [
@@ -113,12 +113,18 @@
         15.720000267028809,
         16.459999084472656,
         17.84000015258789,
-        15.600000381469727
+        15.84000015258789
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202609129938i",
+      "pubDate": "Sat, 12 Sep 2026 03:30:33 +0900"
+    },
     {
       "source": "한국경제",
       "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
@@ -202,12 +208,6 @@
       "title": "HD현대重 노조, 노동부 지침 어긴채 파업",
       "link": "https://www.hankyung.com/article/2026091196751",
       "pubDate": "Fri, 11 Sep 2026 18:36:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "대한항공·아시아나 \"하늘서 무료 와이파이 쓰세요\"",
-      "link": "https://www.hankyung.com/article/2026091196771",
-      "pubDate": "Fri, 11 Sep 2026 18:36:32 +0900"
     }
   ]
 }
