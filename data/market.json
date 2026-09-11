@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-11T14:55:51.411Z",
+  "updatedAt": "2026-09-11T18:17:34.367Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7650.93,
-      "changePercent": 0.78,
+      "price": 7669.55,
+      "changePercent": 1.025,
       "previousClose": 7747.71,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7673.52001953125,
         7636.35986328125,
         7591.7001953125,
-        7650.93017578125
+        7669.5498046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26323.152,
-      "changePercent": 0.926,
+      "price": 26378.107,
+      "changePercent": 1.136,
       "previousClose": 26584.06,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26421.41015625,
         26253.33984375,
         26081.720703125,
-        26323.15234375
+        26378.107421875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52453.14,
-      "changePercent": 0.747,
+      "price": 52636.47,
+      "changePercent": 1.099,
       "previousClose": 53686.11,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52786.0703125,
         52380.66015625,
         52064.1015625,
-        52453.140625
+        52636.46875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.39,
-      "changePercent": -3.015,
+      "price": 99.64,
+      "changePercent": -2.771,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        99.38999938964844
+        99.63999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4415.5,
-      "changePercent": 0.186,
+      "price": 4399.1,
+      "changePercent": -0.186,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4415.5
+        4399.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.032,
-      "changePercent": -0.016,
+      "price": 99.094,
+      "changePercent": 0.046,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.03199768066406
+        99.09400177001953
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.06,
-      "changePercent": -9.989,
+      "price": 15.6,
+      "changePercent": -12.549,
       "previousClose": 15.3,
       "currency": "USD",
       "history": [
@@ -113,12 +113,30 @@
         15.720000267028809,
         16.459999084472656,
         17.84000015258789,
-        16.059999465942383
+        15.600000381469727
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609129941i",
+      "pubDate": "Sat, 12 Sep 2026 02:47:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
+      "link": "https://www.yna.co.kr/view/AKR20260912001400071",
+      "pubDate": "Sat, 12 Sep 2026 01:51:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[반론보도] 「중대재해 '볼모'로 정년연장 요구한 HL만도 노조」 등 4건 관련",
+      "link": "https://www.hankyung.com/article/202609119935i",
+      "pubDate": "Sat, 12 Sep 2026 00:00:29 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
@@ -190,24 +208,6 @@
       "title": "대한항공·아시아나 \"하늘서 무료 와이파이 쓰세요\"",
       "link": "https://www.hankyung.com/article/2026091196771",
       "pubDate": "Fri, 11 Sep 2026 18:36:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 국내서 공개된 '제네시스 GV90'",
-      "link": "https://www.hankyung.com/article/2026091196781",
-      "pubDate": "Fri, 11 Sep 2026 18:36:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 풍산, 수입 의존하던 '소형 공격드론' 국산화길 열었다",
-      "link": "https://www.hankyung.com/article/2026091196761",
-      "pubDate": "Fri, 11 Sep 2026 18:34:59 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KS인더스트리, 60억원 유상증자…상생제1호조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260911151700008",
-      "pubDate": "Fri, 11 Sep 2026 18:32:05 +0900"
     }
   ]
 }
