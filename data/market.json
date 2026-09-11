@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T23:07:52.542Z",
+  "updatedAt": "2026-09-11T01:04:00.971Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.96,
-      "changePercent": 1.444,
+      "price": 103.3,
+      "changePercent": 0.8,
       "previousClose": 91.48,
       "currency": "USD",
       "history": [
         91.4800033569336,
         93.02999877929688,
         96.05000305175781,
-        103.95999908447266
+        103.30000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4358.7,
-      "changePercent": -1.103,
+      "price": 4373.8,
+      "changePercent": -0.76,
       "previousClose": 4429.8,
       "currency": "USD",
       "history": [
         4429.7998046875,
         4393.89990234375,
         4416,
-        4358.7001953125
+        4373.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.09,
-      "changePercent": 0.276,
+      "price": 99.065,
+      "changePercent": 0.017,
       "previousClose": 99.16,
       "currency": "USD",
       "history": [
         99.16000366210938,
         98.83999633789062,
         98.7699966430664,
-        99.08999633789062
+        99.06500244140625
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 유가·금리 고공행진 악재…코스피, 7000선 지켜낼까",
-      "link": "https://www.yna.co.kr/view/AKR20260911017500008",
-      "pubDate": "Fri, 11 Sep 2026 07:53:04 +0900"
+      "title": "[게시판] 신한카드, 외국인 근로자·다문화가정 위한 '아름인도서관' 개관",
+      "link": "https://www.yna.co.kr/view/AKR20260911048300002",
+      "pubDate": "Fri, 11 Sep 2026 09:55:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"세무사가 구민 곁으로\"…강남구 '찾아가는 세금 상담회'",
-      "link": "https://www.yna.co.kr/view/AKR20260911016400004",
-      "pubDate": "Fri, 11 Sep 2026 07:36:48 +0900"
+      "title": "[게시판] 배민, 'K-스타트업 그랜드챌린지'서 성장 노하우 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260911049700030",
+      "pubDate": "Fri, 11 Sep 2026 09:54:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260911013200011",
-      "pubDate": "Fri, 11 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "고작 0.5%p 격차…삼성, 파운드리 2위 자리도 '흔들'",
-      "link": "https://www.hankyung.com/article/202609107434i",
-      "pubDate": "Fri, 11 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"삼성·SK 가자\" 대학생들 난리…떴다 하면 순식간에 '완판'",
-      "link": "https://www.hankyung.com/article/2026091073231",
-      "pubDate": "Fri, 11 Sep 2026 07:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "도산공원 옆 들어선 거대한 텐트…내부엔 '웨어러블 기어' 천국",
-      "link": "https://www.hankyung.com/article/202609107693i",
-      "pubDate": "Fri, 11 Sep 2026 07:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김정관, 美 도착…\"대미 투자 협상 마무리하기 위해 왔다\"",
-      "link": "https://www.hankyung.com/article/2026091177877",
-      "pubDate": "Fri, 11 Sep 2026 06:50:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이러다 제주 경제 폭망한다\"…'범죄의 섬' 낙인에 '초비상' [불신 청구서]",
-      "link": "https://www.hankyung.com/article/202609107125H",
-      "pubDate": "Fri, 11 Sep 2026 06:30:07 +0900"
+      "title": "에이피알, 부스터글로우 헬로키티 에디션 공개…1만원 할인 쿠폰",
+      "link": "https://www.yna.co.kr/view/AKR20260911045600030",
+      "pubDate": "Fri, 11 Sep 2026 09:51:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI프리즘] 국가전략기술 투자 45.9조인데…AIDC 심의 통과 '0건'",
-      "link": "https://www.yna.co.kr/view/AKR20260910128000017",
-      "pubDate": "Fri, 11 Sep 2026 06:30:03 +0900"
+      "title": "[게시판] NH농협카드, 추석 맞이 물가안정 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260911046800002",
+      "pubDate": "Fri, 11 Sep 2026 09:48:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부, 농어촌 기본소득 연계 사회연대경제 활성화 포럼 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260910128100030",
-      "pubDate": "Fri, 11 Sep 2026 06:00:07 +0900"
+      "title": "교촌치킨, 앱 고객 대상 변우석 팬미팅 초청 프로모션",
+      "link": "https://www.yna.co.kr/view/AKR20260911045300030",
+      "pubDate": "Fri, 11 Sep 2026 09:48:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
-      "link": "https://www.yna.co.kr/view/AKR20260910166100002",
-      "pubDate": "Fri, 11 Sep 2026 06:00:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 최태원, 울산서 AX 현장 경영",
-      "link": "https://www.hankyung.com/article/2026091076641",
-      "pubDate": "Fri, 11 Sep 2026 01:36:47 +0900"
+      "title": "\"추석 가계 부담 덜어낸다\"…정읍시, 농민 공익수당 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260911046400055",
+      "pubDate": "Fri, 11 Sep 2026 09:48:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "ECB 올해 두번째 금리 인상…유럽 국채금리 급등(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260910169653085",
-      "pubDate": "Fri, 11 Sep 2026 01:27:37 +0900"
+      "title": "이스타항공, 중국 여행플랫폼 '플리기'와 방한 중국인 유치 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260911045500003",
+      "pubDate": "Fri, 11 Sep 2026 09:47:02 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다? [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609107697i",
-      "pubDate": "Fri, 11 Sep 2026 00:36:37 +0900"
+      "source": "연합뉴스",
+      "title": "키움운용, '삼성전자&SK하이닉스채권혼합50' 주당 151원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260911045800008",
+      "pubDate": "Fri, 11 Sep 2026 09:46:30 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"스카이넷 현실화되나\"…\"인류의 파멸 위험\" 경고 늘어난다",
-      "link": "https://www.hankyung.com/article/202609107601i",
-      "pubDate": "Fri, 11 Sep 2026 00:28:29 +0900"
+      "source": "연합뉴스",
+      "title": "[동포의 창] 글로벌한상드림, '글로벌한인드림재단'으로 새도약",
+      "link": "https://www.yna.co.kr/view/AKR20260911044900371",
+      "pubDate": "Fri, 11 Sep 2026 09:45:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "NH농협은행, 가계대출 금리 인하…주담대 최대 0.45%p↓",
+      "link": "https://www.yna.co.kr/view/AKR20260911044800002",
+      "pubDate": "Fri, 11 Sep 2026 09:44:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미국 인플레 우려에…원/달러 환율 1,350원 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260911041100002",
+      "pubDate": "Fri, 11 Sep 2026 09:44:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[바이오스냅] 식약처, 음성·수어안내 식품표시 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260911044600017",
+      "pubDate": "Fri, 11 Sep 2026 09:41:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "예탁결제원, 국채통합계좌 개통 2년…누적 거래액 1천740조 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260911044700008",
+      "pubDate": "Fri, 11 Sep 2026 09:41:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농심, 토론토국제영화제서 신라면 체험 부스 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260911040200030",
+      "pubDate": "Fri, 11 Sep 2026 09:39:31 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미래운용, '미국S&P500타겟데일리커버드콜' 첫 월중 분배",
+      "link": "https://www.yna.co.kr/view/AKR20260911043700008",
+      "pubDate": "Fri, 11 Sep 2026 09:37:38 +0900"
     }
   ]
 }
