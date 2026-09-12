@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T10:19:13.527Z",
+  "updatedAt": "2026-09-12T13:39:28.667Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,7 +121,37 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "\"중국 추격 허용하는 꼴\"…반도체 업계 또 '시끌' [김대영의 노무스쿨]",
+      "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다",
+      "link": "https://www.hankyung.com/article/2026091204577",
+      "pubDate": "Sat, 12 Sep 2026 20:56:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "맥도날드 매장서 직원 사라졌더니…'뜻밖의 결과' 나왔다",
+      "link": "https://www.hankyung.com/article/2026091204367",
+      "pubDate": "Sat, 12 Sep 2026 20:13:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"국민연금 왜 이것밖에 안 들어왔지?\"…모르면 수백만원 손해",
+      "link": "https://www.hankyung.com/article/2026091204347",
+      "pubDate": "Sat, 12 Sep 2026 20:06:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "남자는 데이트 한 번에 '14만원'…여성은 얼마 쓰나 봤더니",
+      "link": "https://www.hankyung.com/article/2026091203927",
+      "pubDate": "Sat, 12 Sep 2026 19:18:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'전 갤럭시 모델' 로제가 아이폰 들자…삼성이 남긴 한마디",
+      "link": "https://www.hankyung.com/article/2026091203807",
+      "pubDate": "Sat, 12 Sep 2026 18:54:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"중국에 따라잡힐 판인데\"…1년 만에 다시 터진 '경고음' [김대영의 노무스쿨]",
       "link": "https://www.hankyung.com/article/202609119493g",
       "pubDate": "Sat, 12 Sep 2026 18:00:07 +0900"
     },
@@ -178,36 +208,6 @@
       "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
       "link": "https://www.yna.co.kr/view/AKR20260912026900051",
       "pubDate": "Sat, 12 Sep 2026 12:38:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "벌금 260억도 못 막았다…의사까지 투잡 뛰는 '대리모 공장'  [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202609107630i",
-      "pubDate": "Sat, 12 Sep 2026 11:30:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "기본소득당 대변인부터 하이닉스 파혼녀까지…한국인 '믿거문' [신현보의 딥데이터]",
-      "link": "https://www.hankyung.com/article/202609118895H",
-      "pubDate": "Sat, 12 Sep 2026 11:13:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260912021000011",
-      "pubDate": "Sat, 12 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "서울대 교수·삼성 연구원 뭉친 스누아이랩, AI 머신비전 플랫폼 선보여",
-      "link": "https://www.hankyung.com/article/202609120151i",
-      "pubDate": "Sat, 12 Sep 2026 10:01:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "英 핵잠수함 운영사 밥콕 “K조선과 손잡고 세계시장 공략”",
-      "link": "https://www.hankyung.com/article/202609120147i",
-      "pubDate": "Sat, 12 Sep 2026 09:54:55 +0900"
     }
   ]
 }
