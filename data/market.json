@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:13:18.270Z",
+  "updatedAt": "2026-09-12T05:54:51.874Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26421.41015625,
         26253.33984375,
         26081.720703125,
-        26333.03515625
+        26333.0390625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.99,
-      "changePercent": -2.43,
+      "price": 100.05,
+      "changePercent": -2.371,
       "previousClose": 93.03,
       "currency": "USD",
       "history": [
         93.02999877929688,
         96.05000305175781,
         102.4800033569336,
-        99.98999786376953
+        100.05000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4390,
-      "changePercent": -0.393,
+      "price": 4408.9,
+      "changePercent": 0.036,
       "previousClose": 4393.9,
       "currency": "USD",
       "history": [
         4393.89990234375,
         4416,
         4364.5,
-        4390
+        4366.2001953125
       ],
       "ok": true
     },
@@ -89,14 +89,14 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 99.095,
-      "changePercent": 0.047,
+      "changePercent": -0.027,
       "previousClose": 98.84,
       "currency": "USD",
       "history": [
         98.83999633789062,
         98.7699966430664,
         99.08999633789062,
-        99.09500122070312
+        99.12000274658203
       ],
       "ok": true
     },
@@ -121,6 +121,72 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "반품 전자기기 971대 사라졌다…9억 빼돌린 범인 정체가",
+      "link": "https://www.hankyung.com/article/2026091202657",
+      "pubDate": "Sat, 12 Sep 2026 14:31:31 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "HS화성 반려동물 특화상품, '굿 디자인 코리아'에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260912029600053",
+      "pubDate": "Sat, 12 Sep 2026 14:19:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'요즘 소맥 안 마신다' 20일 만에 완판…MZ 푹 빠진 '술' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609119876i",
+      "pubDate": "Sat, 12 Sep 2026 14:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "손흥민·뷔 썼더니 대박?…\"아메리카노 50잔 더 팔아야\" [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202609119173g",
+      "pubDate": "Sat, 12 Sep 2026 13:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
+      "link": "https://www.yna.co.kr/view/AKR20260912026900051",
+      "pubDate": "Sat, 12 Sep 2026 12:38:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "벌금 260억도 못 막았다…의사까지 투잡 뛰는 '대리모 공장'  [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609107630i",
+      "pubDate": "Sat, 12 Sep 2026 11:30:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "기본소득당 대변인부터 하이닉스 파혼녀까지…한국인 '믿거문' [신현보의 딥데이터]",
+      "link": "https://www.hankyung.com/article/202609118895H",
+      "pubDate": "Sat, 12 Sep 2026 11:13:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260912021000011",
+      "pubDate": "Sat, 12 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "서울대 교수·삼성 연구원 뭉친 스누아이랩, AI 머신비전 플랫폼 선보여",
+      "link": "https://www.hankyung.com/article/202609120151i",
+      "pubDate": "Sat, 12 Sep 2026 10:01:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "英 핵잠수함 운영사 밥콕 “K조선과 손잡고 세계시장 공략”",
+      "link": "https://www.hankyung.com/article/202609120147i",
+      "pubDate": "Sat, 12 Sep 2026 09:54:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026091194276",
+      "pubDate": "Sat, 12 Sep 2026 09:30:01 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "\"사장님, AI가 일 다 하는데요?\"…삼전닉스 '행복한 비명' [홍민성의 테토남]",
       "link": "https://www.hankyung.com/article/202609118801g",
       "pubDate": "Sat, 12 Sep 2026 09:00:08 +0900"
@@ -142,72 +208,6 @@
       "title": "[다음주 경제] 수출입·생산자물가 변화는…이형일 후보자 인사청문회",
       "link": "https://www.yna.co.kr/view/AKR20260912016600002",
       "pubDate": "Sat, 12 Sep 2026 08:30:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "공교롭게도 또 9·11에 뉴욕으로 간 산업장관…러트닉 설득할까",
-      "link": "https://www.yna.co.kr/view/AKR20260911153000003",
-      "pubDate": "Sat, 12 Sep 2026 08:15:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'기업에 긴급 수혈'…평택시, 120억원 규모 기업안정 기금 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260911108100061",
-      "pubDate": "Sat, 12 Sep 2026 08:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中 CXMT, 2분기 영업이익률 하이닉스보다 높았다…왜?",
-      "link": "https://www.hankyung.com/article/202609119755i",
-      "pubDate": "Sat, 12 Sep 2026 08:00:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "글로벌 톱100 진입한 기업 어디…美·유럽·동남아 뚫는 K-방산",
-      "link": "https://www.hankyung.com/article/202609119743i",
-      "pubDate": "Sat, 12 Sep 2026 08:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 청년들, '굿잡 버스' 타고 선도기업 취업 문 두드린다",
-      "link": "https://www.yna.co.kr/view/AKR20260911053600051",
-      "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'매장서 씻고 경복궁 달린다'…북촌 점령한 러닝 브랜드 [강윤지의 유통체크인]",
-      "link": "https://www.hankyung.com/article/202609119344i",
-      "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대",
-      "link": "https://www.yna.co.kr/view/AKR20260911118000003",
-      "pubDate": "Sat, 12 Sep 2026 07:05:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[르포] 추석연휴 10여일 앞둔 대구 서문시장…상인들 \"예전 대목만 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911084500053",
-      "pubDate": "Sat, 12 Sep 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
-      "link": "https://www.yna.co.kr/view/AKR20260910107100030",
-      "pubDate": "Sat, 12 Sep 2026 07:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 해태제과 '와샤오롱'·서울우유 '비요뜨 초코링 당저감'",
-      "link": "https://www.yna.co.kr/view/AKR20260911068100030",
-      "pubDate": "Sat, 12 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609119348i",
-      "pubDate": "Sat, 12 Sep 2026 07:00:08 +0900"
     }
   ]
 }
