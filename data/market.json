@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:14:20.998Z",
+  "updatedAt": "2026-09-12T01:13:18.270Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,15 +120,63 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"사장님, AI가 일 다 하는데요?\"…삼전닉스 '행복한 비명' [홍민성의 테토남]",
+      "link": "https://www.hankyung.com/article/202609118801g",
+      "pubDate": "Sat, 12 Sep 2026 09:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"더이상 못 버텨\"…中 1위 배달앱, 하늘로 눈 돌렸다",
+      "link": "https://www.hankyung.com/article/202608277911i",
+      "pubDate": "Sat, 12 Sep 2026 09:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국기술교육대 \"수시 경쟁률 비수도권 국·사립대 중 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912017400063",
+      "pubDate": "Sat, 12 Sep 2026 08:53:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 수출입·생산자물가 변화는…이형일 후보자 인사청문회",
+      "link": "https://www.yna.co.kr/view/AKR20260912016600002",
+      "pubDate": "Sat, 12 Sep 2026 08:30:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공교롭게도 또 9·11에 뉴욕으로 간 산업장관…러트닉 설득할까",
+      "link": "https://www.yna.co.kr/view/AKR20260911153000003",
+      "pubDate": "Sat, 12 Sep 2026 08:15:01 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "'기업에 긴급 수혈'…평택시, 120억원 규모 기업안정 기금 추진",
       "link": "https://www.yna.co.kr/view/AKR20260911108100061",
       "pubDate": "Sat, 12 Sep 2026 08:01:01 +0900"
     },
     {
+      "source": "한국경제",
+      "title": "中 CXMT, 2분기 영업이익률 하이닉스보다 높았다…왜?",
+      "link": "https://www.hankyung.com/article/202609119755i",
+      "pubDate": "Sat, 12 Sep 2026 08:00:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "글로벌 톱100 진입한 기업 어디…美·유럽·동남아 뚫는 K-방산",
+      "link": "https://www.hankyung.com/article/202609119743i",
+      "pubDate": "Sat, 12 Sep 2026 08:00:11 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "부산 청년들, '굿잡 버스' 타고 선도기업 취업 문 두드린다",
       "link": "https://www.yna.co.kr/view/AKR20260911053600051",
+      "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'매장서 씻고 경복궁 달린다'…북촌 점령한 러닝 브랜드 [강윤지의 유통체크인]",
+      "link": "https://www.hankyung.com/article/202609119344i",
       "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
     },
     {
@@ -160,54 +208,6 @@
       "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]",
       "link": "https://www.hankyung.com/article/202609119348i",
       "pubDate": "Sat, 12 Sep 2026 07:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
-      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
-      "pubDate": "Sat, 12 Sep 2026 06:33:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
-      "pubDate": "Sat, 12 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"외동딸처럼 키웠다\"…'1개 1만9000원' 명품 복숭아 불티 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202609093982i",
-      "pubDate": "Sat, 12 Sep 2026 06:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
-      "link": "https://www.hankyung.com/article/2026091196731",
-      "pubDate": "Sat, 12 Sep 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
-      "link": "https://www.hankyung.com/article/202609129938i",
-      "pubDate": "Sat, 12 Sep 2026 03:30:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "마이크로소프트의 뒤늦은 후회 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609129941i",
-      "pubDate": "Sat, 12 Sep 2026 02:47:19 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
-      "link": "https://www.yna.co.kr/view/AKR20260912001400071",
-      "pubDate": "Sat, 12 Sep 2026 01:51:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[반론보도] '중대재해 '볼모'로 정년연장 요구한 HL만도 노조' 등 4건 관련",
-      "link": "https://www.hankyung.com/article/202609119935i",
-      "pubDate": "Sat, 12 Sep 2026 00:00:29 +0900"
     }
   ]
 }
