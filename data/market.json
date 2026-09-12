@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T18:44:37.751Z",
+  "updatedAt": "2026-09-12T21:01:14.290Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다",
-      "link": "https://www.hankyung.com/article/2026091204577",
-      "pubDate": "Sat, 12 Sep 2026 20:56:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "맥도날드 매장서 직원 사라졌더니…'뜻밖의 결과' 나왔다",
-      "link": "https://www.hankyung.com/article/2026091204367",
-      "pubDate": "Sat, 12 Sep 2026 20:13:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"국민연금 왜 이것밖에 안 들어왔지?\"…모르면 수백만원 손해",
-      "link": "https://www.hankyung.com/article/2026091204347",
-      "pubDate": "Sat, 12 Sep 2026 20:06:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "남자는 데이트 한 번에 '14만원'…여성은 얼마 쓰나 봤더니",
-      "link": "https://www.hankyung.com/article/2026091203927",
-      "pubDate": "Sat, 12 Sep 2026 19:18:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'전 갤럭시 모델' 로제가 아이폰 들자…삼성이 남긴 한마디",
-      "link": "https://www.hankyung.com/article/2026091203807",
-      "pubDate": "Sat, 12 Sep 2026 18:54:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"중국에 따라잡힐 판인데\"…1년 만에 다시 터진 '경고음' [김대영의 노무스쿨]",
-      "link": "https://www.hankyung.com/article/202609119493g",
-      "pubDate": "Sat, 12 Sep 2026 18:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"공장이 모자랄 정도\"…반년 만에 1200만개 팔린 '이 맥주' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609119880i",
-      "pubDate": "Sat, 12 Sep 2026 18:00:01 +0900"
+      "source": "연합뉴스",
+      "title": "금융위, '아파텔'에도 집단대출 총량규제 제외 검토한다",
+      "link": "https://www.yna.co.kr/view/AKR20260912043100002",
+      "pubDate": "Sun, 13 Sep 2026 05:57:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동포의 창] \"학교 밖 중도 입국 청소년 체계적 지원 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912036500371",
-      "pubDate": "Sat, 12 Sep 2026 17:15:40 +0900"
+      "title": "출발선부터 격차…'슈퍼리치' 한 돌 아기 금융소득 연 4천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260911170700002",
+      "pubDate": "Sun, 13 Sep 2026 05:56:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260912036000030",
-      "pubDate": "Sat, 12 Sep 2026 16:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미국은 왜 '엔화 약세'를 막으려 할까…월가가 엔화를 두려워하는 진짜 이유",
-      "link": "https://www.hankyung.com/article/202609106701i",
-      "pubDate": "Sat, 12 Sep 2026 15:49:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "반품 전자기기 971대 사라졌다…9억 빼돌린 범인 정체가",
-      "link": "https://www.hankyung.com/article/2026091202657",
-      "pubDate": "Sat, 12 Sep 2026 14:31:31 +0900"
+      "title": "전세사기 피해자 채무조정 4천명 육박…20·30대가 90%",
+      "link": "https://www.yna.co.kr/view/AKR20260912039500002",
+      "pubDate": "Sun, 13 Sep 2026 05:55:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "HS화성 반려동물 특화상품, '굿 디자인 코리아'에 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260912029600053",
-      "pubDate": "Sat, 12 Sep 2026 14:19:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이게 그렇게 맛있나\"…'품절 대란' 280만캔 팔린 술 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609119876i",
-      "pubDate": "Sat, 12 Sep 2026 14:00:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "손흥민·뷔 썼더니 대박?…\"아메리카노 50잔 더 팔아야\" [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202609119173g",
-      "pubDate": "Sat, 12 Sep 2026 13:00:01 +0900"
+      "title": "금융위 \"역외 코인으로 상품권 구매, 자금세탁 악용 소지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260911164400002",
+      "pubDate": "Sun, 13 Sep 2026 05:54:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
-      "link": "https://www.yna.co.kr/view/AKR20260912026900051",
-      "pubDate": "Sat, 12 Sep 2026 12:38:46 +0900"
+      "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260912043500002",
+      "pubDate": "Sun, 13 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260912039000002",
+      "pubDate": "Sun, 13 Sep 2026 05:52:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB발 '세대교체 바람' 번지나…'임기 끝' 5대 금융 CEO만 54명",
+      "link": "https://www.yna.co.kr/view/AKR20260912037000002",
+      "pubDate": "Sun, 13 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "20대 취업자 외환위기 후 최대폭 감소…고용률 5년만 60% 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260912040200002",
+      "pubDate": "Sun, 13 Sep 2026 05:49:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "韓 OECD 선행지수 75개월 만에 세계 1위…상승폭은 5개월째 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260912047400002",
+      "pubDate": "Sun, 13 Sep 2026 05:47:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "거꾸로 가는 저축銀, 4%대 예금 급감…상호금융은 최고 4.3%로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260912036300002",
+      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "3%대 중반 넘긴 시중은행 예금 금리…대출 증가세는 꺾여",
+      "link": "https://www.yna.co.kr/view/AKR20260912049900002",
+      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"韓 전략형 국부펀드, 내년 투자가능 현금성 자산은 1조 수준\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044500002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"공시가 30억 비거주1주택 내년 종부세 1천204만원\"…429만원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260912044400002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044300002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일 \"재정 적극적 역할 필요…지속 가능성에도 공감\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044200002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:01 +0900"
     }
   ]
 }
