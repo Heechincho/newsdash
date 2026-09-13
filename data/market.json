@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:02:01.182Z",
+  "updatedAt": "2026-09-13T18:09:40.586Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,24 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260913061851071",
+      "pubDate": "Mon, 14 Sep 2026 01:09:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "트럼프 \"중간선거 직후 이란 전쟁 끝날 것…어쩌면 그 전에\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913061800071",
+      "pubDate": "Mon, 14 Sep 2026 00:01:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"최고가격제 시행 6개월, 국내 석유수급 안정 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913015900003",
+      "pubDate": "Mon, 14 Sep 2026 00:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "[부고] 안성진(한국산업은행 심사평가부문 부행장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260913056000002",
       "pubDate": "Sun, 13 Sep 2026 19:48:20 +0900"
@@ -139,7 +157,7 @@
     },
     {
       "source": "한국경제",
-      "title": "환율·채권, 엇갈린 환율 전망 속 美·日 금리 촉각",
+      "title": "환율·채권, 주춤한 원·달러 환율 다시 오르나",
       "link": "https://www.hankyung.com/article/2026091313171",
       "pubDate": "Sun, 13 Sep 2026 19:12:34 +0900"
     },
@@ -190,24 +208,6 @@
       "title": "성수·여의도 방문 늘어도 외국인 쇼핑성지 여전히 명동",
       "link": "https://www.hankyung.com/article/2026091312751",
       "pubDate": "Sun, 13 Sep 2026 18:44:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미래기술 선보이는 K조선…부유식 데이터센터 공개",
-      "link": "https://www.hankyung.com/article/2026091313831",
-      "pubDate": "Sun, 13 Sep 2026 18:33:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "세대교체한 KB금융…금융권 CEO들 대거 바뀔까",
-      "link": "https://www.hankyung.com/article/2026091313811",
-      "pubDate": "Sun, 13 Sep 2026 18:32:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "기아 'PV5' 글로벌 판매 5만대 돌파",
-      "link": "https://www.hankyung.com/article/2026091313841",
-      "pubDate": "Sun, 13 Sep 2026 18:32:06 +0900"
     }
   ]
 }
