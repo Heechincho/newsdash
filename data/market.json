@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:57:30.698Z",
+  "updatedAt": "2026-09-13T05:56:21.335Z",
   "instruments": [
     {
       "key": "sp500",
@@ -80,7 +80,7 @@
         4393.89990234375,
         4416,
         4364.5,
-        4366.2001953125
+        4408.89990234375
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "유찰 늘고 낙찰가율도 하락…고가아파트 경매시장 '찬바람'",
-      "link": "https://www.yna.co.kr/view/AKR20260913016400003",
-      "pubDate": "Sun, 13 Sep 2026 09:48:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "에이피알, 고주파 미세천공술 탈모 연구 국제학술지 게재",
-      "link": "https://www.yna.co.kr/view/AKR20260913016500030",
-      "pubDate": "Sun, 13 Sep 2026 09:46:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] KB국민카드-행정안전부, 'KB 지역청년 온기 나눔' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260913014800002",
-      "pubDate": "Sun, 13 Sep 2026 09:36:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "임광현 \"부부공동 1주택 '가장 유리한 종부세액' 미리 안내\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913016000002",
-      "pubDate": "Sun, 13 Sep 2026 09:35:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"배달 수수료 낮춘다\" 동해시, '공공배달앱' 10월 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260911061300062",
-      "pubDate": "Sun, 13 Sep 2026 09:30:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "롯데, KAIST와 공동 R&D센터 준공…사업화까지 연계",
-      "link": "https://www.yna.co.kr/view/AKR20260913014900030",
-      "pubDate": "Sun, 13 Sep 2026 09:25:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 강태영 NH농협은행장, 제주서 감귤 재배 농가 일손돕기",
-      "link": "https://www.yna.co.kr/view/AKR20260912050500002",
-      "pubDate": "Sun, 13 Sep 2026 09:10:00 +0900"
+      "title": "민주노총, 서울 도심서 이주노동자대회…\"차별 철폐·권리 보장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913034200004",
+      "pubDate": "Sun, 13 Sep 2026 14:51:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "변동성 커진 시장, 안전자산 비중 늘릴 때",
-      "link": "https://www.hankyung.com/article/202609105997i",
-      "pubDate": "Sun, 13 Sep 2026 09:08:02 +0900"
+      "title": "'주택공급 검토' 용산기지 인근서 '기준치 335배' 발암물질 검출",
+      "link": "https://www.hankyung.com/article/202609131106i",
+      "pubDate": "Sun, 13 Sep 2026 14:43:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "롯데, KAIST R&D센터 준공…신동빈 “실패 두려워 않도록 든든한 동반자 될것”",
+      "link": "https://www.hankyung.com/article/202609131133i",
+      "pubDate": "Sun, 13 Sep 2026 14:41:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'농심 3세' 신상열 부사장 오늘 결혼…상대는",
+      "link": "https://www.hankyung.com/article/2026091311057",
+      "pubDate": "Sun, 13 Sep 2026 14:09:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "평창군의회 제315회 임시회…7천813억원대 추경 심사",
-      "link": "https://www.yna.co.kr/view/AKR20260911042100062",
-      "pubDate": "Sun, 13 Sep 2026 09:00:15 +0900"
+      "title": "[부고] 문용준(새마을금고중앙회 대외협력홍보부문 차장)씨 빙부상",
+      "link": "https://www.yna.co.kr/view/AKR20260913032100002",
+      "pubDate": "Sun, 13 Sep 2026 14:00:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "매일 빨아도 찝찝했는데…'속옷 3개월 교체설'의 진실",
-      "link": "https://www.hankyung.com/article/202609120492H",
-      "pubDate": "Sun, 13 Sep 2026 09:00:15 +0900"
+      "title": "시진핑, 브릭스서 탈달러·AI 협력 전면에…다극화 질서 드라이브",
+      "link": "https://www.hankyung.com/article/202609131037i",
+      "pubDate": "Sun, 13 Sep 2026 13:28:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "평창군, 17∼18일 첫 '그린바이오인의 밤'…V밸리 협력망 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260911118100062",
-      "pubDate": "Sun, 13 Sep 2026 09:00:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "퇴직연금, AI에게 맡겨도 괜찮을까…3개월 성적표 보니 [김연지의 연금빌드업]",
-      "link": "https://www.hankyung.com/article/2026091193536",
-      "pubDate": "Sun, 13 Sep 2026 09:00:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "수술 끝났다고 끝이 아니다…뇌·심혈관 보험 체크포인트",
-      "link": "https://www.hankyung.com/article/202609118869i",
-      "pubDate": "Sun, 13 Sep 2026 09:00:10 +0900"
+      "title": "삼성증권, 글로벌 금융그룹 BNY와 포괄적 업무협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260913030500008",
+      "pubDate": "Sun, 13 Sep 2026 13:10:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KT '모두의 AI' 승부수…6천만 서비스에 AI 심는다",
-      "link": "https://www.yna.co.kr/view/AKR20260912021800017",
-      "pubDate": "Sun, 13 Sep 2026 09:00:07 +0900"
+      "title": "우주청, '스페이스 해커톤' 연다…위성 활용 아이디어 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260911097800017",
+      "pubDate": "Sun, 13 Sep 2026 12:00:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기중앙회, '노란우산 가족사랑 동시·그림 대회' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260912030600030",
+      "pubDate": "Sun, 13 Sep 2026 12:00:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 금감원, '2026 테크파인더 쇼케이스' 참가기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260912026100002",
+      "pubDate": "Sun, 13 Sep 2026 12:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 14일부터 3분기 혁신금융서비스 지정 정기 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260912033800002",
+      "pubDate": "Sun, 13 Sep 2026 12:00:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "박사과정 앞둔 50대, 3년간 월급 '뚝'…\"지금 주식 팔까요?\"",
-      "link": "https://www.hankyung.com/article/202609118713i",
-      "pubDate": "Sun, 13 Sep 2026 09:00:07 +0900"
+      "title": "점심·저녁 밥값 10% 돌려주는 '이 카드'…직장인들 관심",
+      "link": "https://www.hankyung.com/article/202609119022i",
+      "pubDate": "Sun, 13 Sep 2026 12:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한은 \"미중 분절 속 공급망 재구성…韓, 아세안 경유 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912038500002",
+      "pubDate": "Sun, 13 Sep 2026 12:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "추석연휴 소상공인에 103조원 자금공급…연휴 상환만기 자동연장",
+      "link": "https://www.yna.co.kr/view/AKR20260912045300002",
+      "pubDate": "Sun, 13 Sep 2026 12:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "성과급 등 대기업 노사갈등 예방교육 강화…삼성전자 등 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260911141400530",
+      "pubDate": "Sun, 13 Sep 2026 12:00:05 +0900"
     }
   ]
 }
