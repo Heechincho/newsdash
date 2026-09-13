@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:01:18.496Z",
+  "updatedAt": "2026-09-13T00:57:30.698Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "9개월만에 수장 공백 해소하는 인천경제청…기대·우려 교차",
-      "link": "https://www.yna.co.kr/view/AKR20260911070100065",
-      "pubDate": "Sun, 13 Sep 2026 07:17:00 +0900"
+      "title": "유찰 늘고 낙찰가율도 하락…고가아파트 경매시장 '찬바람'",
+      "link": "https://www.yna.co.kr/view/AKR20260913016400003",
+      "pubDate": "Sun, 13 Sep 2026 09:48:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "북극항로 시범운항 선박 로테르담 도착…상업 항로 가능성 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260911127800051",
-      "pubDate": "Sun, 13 Sep 2026 07:10:02 +0900"
+      "title": "에이피알, 고주파 미세천공술 탈모 연구 국제학술지 게재",
+      "link": "https://www.yna.co.kr/view/AKR20260913016500030",
+      "pubDate": "Sun, 13 Sep 2026 09:46:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경기경제청, 시흥배곧지구 종근당 지식산업센터 건립 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260911120400061",
-      "pubDate": "Sun, 13 Sep 2026 07:01:03 +0900"
+      "title": "[게시판] KB국민카드-행정안전부, 'KB 지역청년 온기 나눔' 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260913014800002",
+      "pubDate": "Sun, 13 Sep 2026 09:36:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "김해공항 이용객 역대 최대에도 은행 유치 난항…수익성 악화",
-      "link": "https://www.yna.co.kr/view/AKR20260911065300051",
-      "pubDate": "Sun, 13 Sep 2026 07:01:02 +0900"
+      "title": "임광현 \"부부공동 1주택 '가장 유리한 종부세액' 미리 안내\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913016000002",
+      "pubDate": "Sun, 13 Sep 2026 09:35:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260912037800005",
-      "pubDate": "Sun, 13 Sep 2026 07:01:01 +0900"
+      "title": "\"배달 수수료 낮춘다\" 동해시, '공공배달앱' 10월 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260911061300062",
+      "pubDate": "Sun, 13 Sep 2026 09:30:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260911115700061",
-      "pubDate": "Sun, 13 Sep 2026 07:00:16 +0900"
+      "title": "롯데, KAIST와 공동 R&D센터 준공…사업화까지 연계",
+      "link": "https://www.yna.co.kr/view/AKR20260913014900030",
+      "pubDate": "Sun, 13 Sep 2026 09:25:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓스토리] '전쟁·유가·금리' 삼중고…외인 셀코리아 어쩌나",
-      "link": "https://www.yna.co.kr/view/AKR20260911118800008",
-      "pubDate": "Sun, 13 Sep 2026 07:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[현장in] 하남-남양주 잇는 '한강 출렁다리'…남양주시 재검토에 제동?",
-      "link": "https://www.yna.co.kr/view/AKR20260911117200061",
-      "pubDate": "Sun, 13 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "양재∼올림픽대로 지하도로 뚫는다…7.65㎞ 구간에 양방향 터널",
-      "link": "https://www.yna.co.kr/view/AKR20260912020600004",
-      "pubDate": "Sun, 13 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "AI 활용곡이 멜론 톱100…조선힙합 \"저비용으로 세대 공감 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912026000005",
-      "pubDate": "Sun, 13 Sep 2026 07:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[빈집의 재탄생] 사람 떠난 빈집이 호텔로…경주 옛 도심에 다시 사람이 온다",
-      "link": "https://www.yna.co.kr/view/AKR20260910138300053",
-      "pubDate": "Sun, 13 Sep 2026 06:45:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
-      "link": "https://www.yna.co.kr/view/AKR20260912024200008",
-      "pubDate": "Sun, 13 Sep 2026 06:35:00 +0900"
+      "title": "[게시판] 강태영 NH농협은행장, 제주서 감귤 재배 농가 일손돕기",
+      "link": "https://www.yna.co.kr/view/AKR20260912050500002",
+      "pubDate": "Sun, 13 Sep 2026 09:10:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'나이키의 굴욕' 한국에서도 현실로…3년째 매출 감소",
-      "link": "https://www.hankyung.com/article/202609120483H",
-      "pubDate": "Sun, 13 Sep 2026 06:30:01 +0900"
+      "title": "변동성 커진 시장, 안전자산 비중 늘릴 때",
+      "link": "https://www.hankyung.com/article/202609105997i",
+      "pubDate": "Sun, 13 Sep 2026 09:08:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대미 투자 합의 임박…건설주, 수주 기대감에 이달 상승률 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260912017800008",
-      "pubDate": "Sun, 13 Sep 2026 06:25:00 +0900"
+      "title": "평창군의회 제315회 임시회…7천813억원대 추경 심사",
+      "link": "https://www.yna.co.kr/view/AKR20260911042100062",
+      "pubDate": "Sun, 13 Sep 2026 09:00:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "매일 빨아도 찝찝했는데…'속옷 3개월 교체설'의 진실",
+      "link": "https://www.hankyung.com/article/202609120492H",
+      "pubDate": "Sun, 13 Sep 2026 09:00:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스닥 승강제 어떻게?…'기준·종목수·혜택' 조율중",
-      "link": "https://www.yna.co.kr/view/AKR20260912024900008",
-      "pubDate": "Sun, 13 Sep 2026 06:15:00 +0900"
+      "title": "평창군, 17∼18일 첫 '그린바이오인의 밤'…V밸리 협력망 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260911118100062",
+      "pubDate": "Sun, 13 Sep 2026 09:00:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "퇴직연금, AI에게 맡겨도 괜찮을까…3개월 성적표 보니 [김연지의 연금빌드업]",
+      "link": "https://www.hankyung.com/article/2026091193536",
+      "pubDate": "Sun, 13 Sep 2026 09:00:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "수술 끝났다고 끝이 아니다…뇌·심혈관 보험 체크포인트",
+      "link": "https://www.hankyung.com/article/202609118869i",
+      "pubDate": "Sun, 13 Sep 2026 09:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KT '모두의 AI' 승부수…6천만 서비스에 AI 심는다",
+      "link": "https://www.yna.co.kr/view/AKR20260912021800017",
+      "pubDate": "Sun, 13 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "박사과정 앞둔 50대, 3년간 월급 '뚝'…\"지금 주식 팔까요?\"",
+      "link": "https://www.hankyung.com/article/202609118713i",
+      "pubDate": "Sun, 13 Sep 2026 09:00:07 +0900"
     }
   ]
 }
