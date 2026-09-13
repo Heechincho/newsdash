@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:30:53.528Z",
+  "updatedAt": "2026-09-13T15:02:01.182Z",
   "instruments": [
     {
       "key": "sp500",
@@ -127,6 +127,12 @@
     },
     {
       "source": "한국경제",
+      "title": "교사 10명 중 7명 \"학생 경제지식 부족\"",
+      "link": "https://www.hankyung.com/article/2026091313301",
+      "pubDate": "Sun, 13 Sep 2026 19:36:34 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "금통위 의사록 공개…2연속 금리인상 속내는",
       "link": "https://www.hankyung.com/article/2026091313181",
       "pubDate": "Sun, 13 Sep 2026 19:15:46 +0900"
@@ -157,7 +163,7 @@
     },
     {
       "source": "한국경제",
-      "title": "그 많던 동네 문구점은 어디로 갔을까",
+      "title": "\"어른이 무슨 일로?\"…문구점 사장님도 놀랄 '뜻밖의 인기'",
       "link": "https://www.hankyung.com/article/2026091312731",
       "pubDate": "Sun, 13 Sep 2026 18:44:49 +0900"
     },
@@ -202,12 +208,6 @@
       "title": "기아 'PV5' 글로벌 판매 5만대 돌파",
       "link": "https://www.hankyung.com/article/2026091313841",
       "pubDate": "Sun, 13 Sep 2026 18:32:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'62년 전통' 한일전기가 만든 골프 브랜드 '몬스터랩', 오프라인 진출 확대",
-      "link": "https://www.hankyung.com/article/2026091314476",
-      "pubDate": "Sun, 13 Sep 2026 18:31:12 +0900"
     }
   ]
 }
