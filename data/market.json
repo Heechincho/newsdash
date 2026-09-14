@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:57:31.257Z",
+  "updatedAt": "2026-09-14T06:03:23.882Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.83,
-      "changePercent": 2.779,
-      "previousClose": 93.03,
+      "price": 102.43,
+      "changePercent": 2.379,
+      "previousClose": 96.05,
       "currency": "USD",
       "history": [
-        93.02999877929688,
         96.05000305175781,
         102.4800033569336,
         100.05000305175781,
-        102.83000183105469
+        102.43000030517578
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4382.7,
-      "changePercent": -0.594,
-      "previousClose": 4393.9,
+      "price": 4371.2,
+      "changePercent": -0.855,
+      "previousClose": 4416,
       "currency": "USD",
       "history": [
-        4393.89990234375,
         4416,
         4364.5,
         4366.2001953125,
-        4382.7001953125
+        4371.2001953125
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.19,
-      "changePercent": 0.069,
-      "previousClose": 98.84,
+      "price": 99.324,
+      "changePercent": 0.204,
+      "previousClose": 98.77,
       "currency": "USD",
       "history": [
-        98.83999633789062,
         98.7699966430664,
         99.08999633789062,
         99.12000274658203,
-        99.19000244140625
+        99.3239974975586
       ],
       "ok": true
     },
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "IPARK현산, 서울도림초교에 친환경 공간 '심포니 교실숲' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260914036600003",
-      "pubDate": "Mon, 14 Sep 2026 09:52:05 +0900"
+      "title": "전북건설협회 \"새만금 남북3축도로 예타면제로 신속 건설\"",
+      "link": "https://www.yna.co.kr/view/AKR20260914114100055",
+      "pubDate": "Mon, 14 Sep 2026 14:56:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "고농축 대마류 들여와 국내 유통 시도한 스리랑카인 2명 검거",
-      "link": "https://www.yna.co.kr/view/AKR20260914045000051",
-      "pubDate": "Mon, 14 Sep 2026 09:51:06 +0900"
+      "title": "마이다스에셋자산운용 전주사무소 개소…국민연금과 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260914113100055",
+      "pubDate": "Mon, 14 Sep 2026 14:47:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LH, 군포 산본 9-2구역 시공자 선정 착수…3천376가구 재건축",
-      "link": "https://www.yna.co.kr/view/AKR20260914039200003",
-      "pubDate": "Mon, 14 Sep 2026 09:50:59 +0900"
+      "title": "\"은둔청년 지원은 사회적 투자…회복·자립 체계적 지원해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260914112000003",
+      "pubDate": "Mon, 14 Sep 2026 14:44:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH농협캐피탈, 건설기계사업자협의회에 우리 쌀 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260914045600002",
-      "pubDate": "Mon, 14 Sep 2026 09:50:36 +0900"
+      "title": "울주군, 국토정보 챌린지 지적·드론측량 경진대회 우수상",
+      "link": "https://www.yna.co.kr/view/AKR20260914110200057",
+      "pubDate": "Mon, 14 Sep 2026 14:43:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "고영철 회장, 아시아신협연합회 신임 회장 선출",
-      "link": "https://www.yna.co.kr/view/AKR20260914043600002",
-      "pubDate": "Mon, 14 Sep 2026 09:49:58 +0900"
+      "title": "정읍제일고, '전북반도체고'로 전환…도내 첫 반도체 특성화고",
+      "link": "https://www.yna.co.kr/view/AKR20260914111500055",
+      "pubDate": "Mon, 14 Sep 2026 14:38:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[테크스냅] 카카오페이, 간편결제 최초 서울페이플러스 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260914043200017",
-      "pubDate": "Mon, 14 Sep 2026 09:49:34 +0900"
+      "title": "[게시판] 미래에셋, 공기업 퇴직연금 경쟁력 강화 릴레이 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260914111200008",
+      "pubDate": "Mon, 14 Sep 2026 14:38:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KB국민은행, 정기예금 금리 0.6%p 인상…최고 연 3.4%",
-      "link": "https://www.yna.co.kr/view/AKR20260914045500002",
-      "pubDate": "Mon, 14 Sep 2026 09:49:23 +0900"
+      "title": "서금원 10주년 맞아 '금융안전·경제적 자립의 동반자' 비전선포",
+      "link": "https://www.yna.co.kr/view/AKR20260914106300002",
+      "pubDate": "Mon, 14 Sep 2026 14:36:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "평창군의회 임시회 개회…7천813억원 추경안 심사",
-      "link": "https://www.yna.co.kr/view/AKR20260914041900062",
-      "pubDate": "Mon, 14 Sep 2026 09:49:00 +0900"
+      "title": "현대캐피탈, 중소 렌터카업계 상생 지원…할부원금 6개월 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260914085100002",
+      "pubDate": "Mon, 14 Sep 2026 14:34:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 키움증권, 개별주식선물 거래 대상 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260914043400008",
-      "pubDate": "Mon, 14 Sep 2026 09:47:19 +0900"
+      "title": "전북은행, 중소기업에 추석 특별운전자금 5천억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260914107900055",
+      "pubDate": "Mon, 14 Sep 2026 14:30:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "두나무·서울대 경영대, 'SNU x 업비트 스타트업 스튜디오' 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260914042300002",
-      "pubDate": "Mon, 14 Sep 2026 09:45:03 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260914104300011",
+      "pubDate": "Mon, 14 Sep 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SK AX, 국내 첫 'AI 역량 인증' 정부 인정…고용부 장관상",
-      "link": "https://www.yna.co.kr/view/AKR20260914031000017",
-      "pubDate": "Mon, 14 Sep 2026 09:44:17 +0900"
+      "title": "귀뚜라미, AI 수면 제어·온도 시스템 탑재 카본매트 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260914101400030",
+      "pubDate": "Mon, 14 Sep 2026 14:29:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성생명, 연체로 해지된 계약 모바일로 부활…시스템 오픈",
-      "link": "https://www.yna.co.kr/view/AKR20260914039500002",
-      "pubDate": "Mon, 14 Sep 2026 09:43:48 +0900"
+      "title": "K푸드 수출 역대 최단 100억 달러 돌파…라면 수출만 13억달러",
+      "link": "https://www.yna.co.kr/view/AKR20260914097800030",
+      "pubDate": "Mon, 14 Sep 2026 14:27:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI픽] 한컴, 'AI 직원'으로 팀 꾸린다…미국 창업시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260914030000017",
-      "pubDate": "Mon, 14 Sep 2026 09:38:11 +0900"
+      "title": "부천시, 내년 생활임금 시급 1만2천430원…2.39% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260914106400065",
+      "pubDate": "Mon, 14 Sep 2026 14:18:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "속초 민생 회복지원금 지급 마감…대상자 96.5%가 153억원 수령",
-      "link": "https://www.yna.co.kr/view/AKR20260914041300062",
-      "pubDate": "Mon, 14 Sep 2026 09:38:07 +0900"
+      "title": "국세청, '물가 불안 탈세' 혐의 배민·무신사·풀무원 등 조사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914080051002",
+      "pubDate": "Mon, 14 Sep 2026 14:14:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한운용, 캔톤 네트워크 참여…토큰인프라 구축 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260914034000008",
-      "pubDate": "Mon, 14 Sep 2026 09:38:00 +0900"
+      "title": "홍지선 \"용산공원 부수공간 중심으로 주택공급 살펴볼 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914052951003",
+      "pubDate": "Mon, 14 Sep 2026 14:13:30 +0900"
     }
   ]
 }
