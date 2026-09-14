@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-14T18:12:14.346Z",
+  "updatedAt": "2026-09-14T21:54:08.199Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7635.71,
-      "changePercent": -0.278,
+      "price": 7619.98,
+      "changePercent": -0.483,
       "previousClose": 7718.6,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7636.35986328125,
         7591.7001953125,
         7656.97998046875,
-        7635.7099609375
+        7619.97998046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26308.48,
-      "changePercent": -0.093,
+      "price": 26186.414,
+      "changePercent": -0.557,
       "previousClose": 26506.99,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26253.33984375,
         26081.720703125,
         26333.0390625,
-        26308.48046875
+        26186.4140625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52421.72,
-      "changePercent": -0.288,
+      "price": 52421.2,
+      "changePercent": -0.289,
       "previousClose": 53414.25,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52380.66015625,
         52064.1015625,
         52573.2890625,
-        52421.71875
+        52421.19921875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.44,
-      "changePercent": 1.389,
+      "price": 101.89,
+      "changePercent": 0.493,
       "previousClose": 96.05,
       "currency": "USD",
       "history": [
         96.05000305175781,
         102.4800033569336,
         100.05000305175781,
-        101.44000244140625
+        101.88999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4354.5,
-      "changePercent": -1.234,
+      "price": 4340,
+      "changePercent": -1.563,
       "previousClose": 4416,
       "currency": "USD",
       "history": [
         4416,
         4364.5,
         4408.89990234375,
-        4354.5
+        4340
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.43,
-      "changePercent": 0.311,
+      "price": 99.464,
+      "changePercent": 0.345,
       "previousClose": 98.77,
       "currency": "USD",
       "history": [
         98.7699966430664,
         99.08999633789062,
         99.12000274658203,
-        99.43000030517578
+        99.46399688720703
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.67,
-      "changePercent": 5.24,
+      "price": 17.1,
+      "changePercent": 7.955,
       "previousClose": 15.72,
       "currency": "USD",
       "history": [
@@ -113,12 +113,66 @@
         16.459999084472656,
         17.84000015258789,
         15.84000015258789,
-        16.670000076293945
+        17.100000381469727
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[팩트체크] 14만원 탁구채 논란…'환불불가' 표시 있다면 환불 안된다?",
+      "link": "https://www.yna.co.kr/view/AKR20260914146000518",
+      "pubDate": "Tue, 15 Sep 2026 06:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시, 9월분 재산세 4조8천억원 확정…30일까지 납부해야",
+      "link": "https://www.yna.co.kr/view/AKR20260914152400004",
+      "pubDate": "Tue, 15 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융위 \"생산적금융 면책 방안도 추가 마련할 것…내재화 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260914150000002",
+      "pubDate": "Tue, 15 Sep 2026 06:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국잡월드 누적 방문객 1천만명 돌파…기념 이벤트 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260914162400530",
+      "pubDate": "Tue, 15 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "상반기 자동차보험 총손익 37.7%↓…보험손익 6년만 적자전환",
+      "link": "https://www.yna.co.kr/view/AKR20260914162300002",
+      "pubDate": "Tue, 15 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "재취업지원서비스 우수기업 7곳 선정…최우수상 백송의료재단",
+      "link": "https://www.yna.co.kr/view/AKR20260914163300530",
+      "pubDate": "Tue, 15 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "환율 하락에 8월 수출물가 3.7%↓…3년 8개월 만에 최대폭",
+      "link": "https://www.yna.co.kr/view/AKR20260914158700002",
+      "pubDate": "Tue, 15 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "네이버·두나무 결합, 지주사 전환 땐 지분규제 상충 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260914162700002",
+      "pubDate": "Tue, 15 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "사우디 송유관 폐쇄에 국제유가 상승…브렌트유 105달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260915005800072",
+      "pubDate": "Tue, 15 Sep 2026 04:57:07 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
@@ -154,60 +208,6 @@
       "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
       "link": "https://www.yna.co.kr/view/AKR20260914175351072",
       "pubDate": "Mon, 14 Sep 2026 23:40:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보]10년물 미국채 수익률 5% 돌파…2023년10월이후 처음",
-      "link": "https://www.hankyung.com/article/202609144289i",
-      "pubDate": "Mon, 14 Sep 2026 23:27:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
-      "link": "https://www.hankyung.com/article/202609144281i",
-      "pubDate": "Mon, 14 Sep 2026 23:18:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "사우디, 핵심송유관 폐쇄…브렌트유 108달러 돌파",
-      "link": "https://www.hankyung.com/article/202609144265i",
-      "pubDate": "Mon, 14 Sep 2026 22:36:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "16일 FOMC 향방…최근 경제 지표는 인상 시사",
-      "link": "https://www.hankyung.com/article/202609144246i",
-      "pubDate": "Mon, 14 Sep 2026 22:16:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "일본 몰려가던 중국인들 '돌변'…1년 만에 완전히 뒤집혔다",
-      "link": "https://www.hankyung.com/article/2026091442217",
-      "pubDate": "Mon, 14 Sep 2026 21:37:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KRX 애프터마켓 첫선…개장 첫날 7천224만주·1조8천억원 거래",
-      "link": "https://www.yna.co.kr/view/AKR20260914110500008",
-      "pubDate": "Mon, 14 Sep 2026 21:04:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "프리마켓서 대형 증권사 잇단 전산장애…\"SOR 시스템 오류\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260914027352008",
-      "pubDate": "Mon, 14 Sep 2026 21:00:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"마라탕 먹으러 여기 가요\"…2030 우르르 몰린 '의외의 장소'",
-      "link": "https://www.hankyung.com/article/202609143087g",
-      "pubDate": "Mon, 14 Sep 2026 21:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "스페이스X,이달말 나스닥100지수 비중 1.28%→2.82%로↑",
-      "link": "https://www.hankyung.com/article/202609144160i",
-      "pubDate": "Mon, 14 Sep 2026 20:16:08 +0900"
     }
   ]
 }
