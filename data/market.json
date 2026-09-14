@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-14T12:39:00.506Z",
+  "updatedAt": "2026-09-14T18:12:14.346Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7656.98,
-      "changePercent": 0.86,
-      "previousClose": 7747.71,
+      "price": 7635.71,
+      "changePercent": -0.278,
+      "previousClose": 7718.6,
       "currency": "USD",
       "history": [
-        7718.60009765625,
         7673.52001953125,
         7636.35986328125,
         7591.7001953125,
-        7656.97998046875
+        7656.97998046875,
+        7635.7099609375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26333.035,
-      "changePercent": 0.964,
-      "previousClose": 26584.06,
+      "price": 26308.48,
+      "changePercent": -0.093,
+      "previousClose": 26506.99,
       "currency": "USD",
       "history": [
-        26506.990234375,
         26421.41015625,
         26253.33984375,
         26081.720703125,
-        26333.0390625
+        26333.0390625,
+        26308.48046875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52573.29,
-      "changePercent": 0.978,
-      "previousClose": 53686.11,
+      "price": 52421.72,
+      "changePercent": -0.288,
+      "previousClose": 53414.25,
       "currency": "USD",
       "history": [
-        53414.25,
         52786.0703125,
         52380.66015625,
         52064.1015625,
-        52573.2890625
+        52573.2890625,
+        52421.71875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.63,
-      "changePercent": 3.578,
+      "price": 101.44,
+      "changePercent": 1.389,
       "previousClose": 96.05,
       "currency": "USD",
       "history": [
         96.05000305175781,
         102.4800033569336,
         100.05000305175781,
-        103.62999725341797
+        101.44000244140625
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4327.2,
-      "changePercent": -1.853,
+      "price": 4354.5,
+      "changePercent": -1.234,
       "previousClose": 4416,
       "currency": "USD",
       "history": [
         4416,
         4364.5,
-        4366.2001953125,
-        4327.2001953125
+        4408.89990234375,
+        4354.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.57,
-      "changePercent": 0.452,
+      "price": 99.43,
+      "changePercent": 0.311,
       "previousClose": 98.77,
       "currency": "USD",
       "history": [
         98.7699966430664,
         99.08999633789062,
         99.12000274658203,
-        99.56999969482422
+        99.43000030517578
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.59,
-      "changePercent": 11.048,
+      "price": 16.67,
+      "changePercent": 5.24,
       "previousClose": 15.72,
       "currency": "USD",
       "history": [
@@ -113,12 +113,78 @@
         16.459999084472656,
         17.84000015258789,
         15.84000015258789,
-        17.59000015258789
+        16.670000076293945
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914175352072",
+      "pubDate": "Tue, 15 Sep 2026 00:46:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "MS,AI 개발지침 발표\"사람이 AI보다 중요하다\"대원칙",
+      "link": "https://www.hankyung.com/article/202609154304i",
+      "pubDate": "Tue, 15 Sep 2026 00:46:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "월가에 몰아치는 3가지 폭풍[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609144293i",
+      "pubDate": "Tue, 15 Sep 2026 00:05:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "트럼프,\"AI속도조절 불필요.똑똑한 대통령이 안전장치\"주장",
+      "link": "https://www.hankyung.com/article/202609144296i",
+      "pubDate": "Tue, 15 Sep 2026 00:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
+      "link": "https://www.yna.co.kr/view/AKR20260914104500017",
+      "pubDate": "Tue, 15 Sep 2026 00:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260914175351072",
+      "pubDate": "Mon, 14 Sep 2026 23:40:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보]10년물 미국채 수익률 5% 돌파…2023년10월이후 처음",
+      "link": "https://www.hankyung.com/article/202609144289i",
+      "pubDate": "Mon, 14 Sep 2026 23:27:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
+      "link": "https://www.hankyung.com/article/202609144281i",
+      "pubDate": "Mon, 14 Sep 2026 23:18:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "사우디, 핵심송유관 폐쇄…브렌트유 108달러 돌파",
+      "link": "https://www.hankyung.com/article/202609144265i",
+      "pubDate": "Mon, 14 Sep 2026 22:36:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "16일 FOMC 향방…최근 경제 지표는 인상 시사",
+      "link": "https://www.hankyung.com/article/202609144246i",
+      "pubDate": "Mon, 14 Sep 2026 22:16:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "일본 몰려가던 중국인들 '돌변'…1년 만에 완전히 뒤집혔다",
+      "link": "https://www.hankyung.com/article/2026091442217",
+      "pubDate": "Mon, 14 Sep 2026 21:37:48 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "KRX 애프터마켓 첫선…개장 첫날 7천224만주·1조8천억원 거래",
@@ -133,81 +199,15 @@
     },
     {
       "source": "한국경제",
+      "title": "\"마라탕 먹으러 여기 가요\"…2030 우르르 몰린 '의외의 장소'",
+      "link": "https://www.hankyung.com/article/202609143087g",
+      "pubDate": "Mon, 14 Sep 2026 21:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "스페이스X,이달말 나스닥100지수 비중 1.28%→2.82%로↑",
       "link": "https://www.hankyung.com/article/202609144160i",
       "pubDate": "Mon, 14 Sep 2026 20:16:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이건희 회장이 봤다면 눈물\"…삼성 노노 갈등 '선 넘었다'",
-      "link": "https://www.hankyung.com/article/2026091441587",
-      "pubDate": "Mon, 14 Sep 2026 19:52:22 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"AI 위험 통제 필요\" 거물들 경고에…美·中 정부 동시 비난",
-      "link": "https://www.hankyung.com/article/202609144058i",
-      "pubDate": "Mon, 14 Sep 2026 19:16:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "26년 핀테크 한우물 \"제2의 네·카·토 탄생 돕겠다\"",
-      "link": "https://www.hankyung.com/article/2026091440061",
-      "pubDate": "Mon, 14 Sep 2026 18:42:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "JT저축銀, 스마일런 마라톤대회 후원",
-      "link": "https://www.hankyung.com/article/2026091440031",
-      "pubDate": "Mon, 14 Sep 2026 18:40:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리금융, 저소득 조손가정에 추석선물",
-      "link": "https://www.hankyung.com/article/2026091440041",
-      "pubDate": "Mon, 14 Sep 2026 18:39:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "고영철 신협중앙회장, 아시아신협연합회장 선출",
-      "link": "https://www.hankyung.com/article/2026091439961",
-      "pubDate": "Mon, 14 Sep 2026 18:35:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 오뚜기, 고(故) 함태호 명예회장 10주기 추모식",
-      "link": "https://www.hankyung.com/article/2026091439971",
-      "pubDate": "Mon, 14 Sep 2026 18:34:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "넥스트증권, MTS 공식 출시 앞두고 오픈API로 거래서비스 검증",
-      "link": "https://www.yna.co.kr/view/AKR20260914162000008",
-      "pubDate": "Mon, 14 Sep 2026 18:29:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "하나은행, 하반기 신입 행원 230명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260914160800002",
-      "pubDate": "Mon, 14 Sep 2026 18:25:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HS효성, 울산에 1.2조 투자…실리콘 음극재 공장 구축",
-      "link": "https://www.hankyung.com/article/2026091440261",
-      "pubDate": "Mon, 14 Sep 2026 18:14:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"주문 쏟아진다\"…한 번에 1조6000억 '잭팟' 터진 이 회사",
-      "link": "https://www.hankyung.com/article/2026091440311",
-      "pubDate": "Mon, 14 Sep 2026 18:13:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 제네시스 '엑스 스콜피오' 주행 공개",
-      "link": "https://www.hankyung.com/article/2026091440301",
-      "pubDate": "Mon, 14 Sep 2026 18:12:20 +0900"
     }
   ]
 }
