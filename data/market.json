@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-15T15:01:10.837Z",
+  "updatedAt": "2026-09-15T18:57:01.979Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7578.52,
-      "changePercent": -0.544,
+      "price": 7583.61,
+      "changePercent": -0.477,
       "previousClose": 7673.52,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7591.7001953125,
         7656.97998046875,
         7619.97998046875,
-        7578.52001953125
+        7583.60986328125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25982.17,
-      "changePercent": -0.78,
+      "price": 25970.94,
+      "changePercent": -0.823,
       "previousClose": 26421.41,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26081.720703125,
         26333.0390625,
         26186.41015625,
-        25982.169921875
+        25970.939453125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51901.25,
-      "changePercent": -0.992,
+      "price": 52047.54,
+      "changePercent": -0.713,
       "previousClose": 52786.07,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52064.1015625,
         52573.2890625,
         52421.19921875,
-        51901.25
+        52047.5390625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 104.64,
-      "changePercent": 3.205,
+      "price": 105.96,
+      "changePercent": 4.507,
       "previousClose": 102.48,
       "currency": "USD",
       "history": [
         102.4800033569336,
         100.05000305175781,
         101.38999938964844,
-        104.63999938964844
+        105.95999908447266
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4315.3,
-      "changePercent": -0.841,
+      "price": 4346.1,
+      "changePercent": -0.133,
       "previousClose": 4407.3,
       "currency": "USD",
       "history": [
         4407.2998046875,
         4408.89990234375,
         4351.89990234375,
-        4315.2998046875
+        4346.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.612,
-      "changePercent": 0.222,
+      "price": 99.635,
+      "changePercent": 0.246,
       "previousClose": 99.09,
       "currency": "USD",
       "history": [
         99.08999633789062,
         99.12000274658203,
         99.45999908447266,
-        99.61199951171875
+        99.63500213623047
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.55,
-      "changePercent": 2.632,
+      "price": 17.49,
+      "changePercent": 2.279,
       "previousClose": 16.46,
       "currency": "USD",
       "history": [
@@ -113,15 +113,27 @@
         17.84000015258789,
         15.84000015258789,
         17.100000381469727,
-        17.549999237060547
+        17.489999771118164
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "베선트, 美국채금리 급등에 \"글로벌 이슈탓…美국채 세계 최고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916001700071",
+      "pubDate": "Wed, 16 Sep 2026 01:13:25 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "블버그,\"美무기소진 심각…확보가능한 정밀탄약,동맹국 공동생산 등 필요\"",
+      "title": "UBS,\"팰런티어,소프트웨어 주식중 저평가\"…목표가↑",
+      "link": "https://www.hankyung.com/article/202609166955i",
+      "pubDate": "Wed, 16 Sep 2026 00:16:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "블버그 \"美무기소진 심각…확보가능한 정밀탄약, 동맹국 공동생산 등 필요\"",
       "link": "https://www.hankyung.com/article/202609156934i",
       "pubDate": "Tue, 15 Sep 2026 23:14:14 +0900"
     },
@@ -130,6 +142,12 @@
       "title": "美 국방부 \"이란 전쟁 비용, 6월까지 약 45조원 써\"",
       "link": "https://www.hankyung.com/article/202609156890i",
       "pubDate": "Tue, 15 Sep 2026 22:00:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일, 레버리지 ETF 논란에 \"취지와 달리 변동성 확대…송구\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260915156151002",
+      "pubDate": "Tue, 15 Sep 2026 21:44:34 +0900"
     },
     {
       "source": "한국경제",
@@ -150,6 +168,18 @@
       "pubDate": "Tue, 15 Sep 2026 20:50:54 +0900"
     },
     {
+      "source": "연합뉴스",
+      "title": "이찬진 \"금융지주 자회사 CEO 승계절차 미흡…공정성 강화해야\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260915113952002",
+      "pubDate": "Tue, 15 Sep 2026 20:31:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "롯데카드 382억원 대규모 현금배당…MBK 요청에 첫 중간배당(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260915171651002",
+      "pubDate": "Tue, 15 Sep 2026 20:19:12 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "교보생명, 디지털보험 자회사 교보라이프플래닛 흡수합병",
       "link": "https://www.hankyung.com/article/2026091567871",
@@ -168,46 +198,16 @@
       "pubDate": "Tue, 15 Sep 2026 20:09:39 +0900"
     },
     {
+      "source": "연합뉴스",
+      "title": "韓-카자흐 '미래지향 포괄 전략 동반자' 격상…핵심광물 등 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260915176600001",
+      "pubDate": "Tue, 15 Sep 2026 20:05:00 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "\"파전집, 대박날 줄 알았는데\"…'비오는 날' 매출 터진 식당 [트렌드+]",
+      "title": "비 오면 '파전에 막걸리'인 줄 알았는데…'국민 메뉴' 바뀌었다 [트렌드+]",
       "link": "https://www.hankyung.com/article/202609155706g",
       "pubDate": "Tue, 15 Sep 2026 20:02:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'노벨상' 한강 작가도 떠났다…브랜드가 탐낸 '서촌의 비극'",
-      "link": "https://www.hankyung.com/article/2026091566251",
-      "pubDate": "Tue, 15 Sep 2026 20:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "상속설계, 첫 상속보다 두 번째 상속이 중요하다 [가온의 패밀리오피스 리포트]",
-      "link": "https://www.hankyung.com/article/202609142132i",
-      "pubDate": "Tue, 15 Sep 2026 20:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"미술관인 줄\" 놀라운 변신…故 김수미 잠든 곳 가보니 '깜짝' [현장+]",
-      "link": "https://www.hankyung.com/article/202609154871H",
-      "pubDate": "Tue, 15 Sep 2026 19:46:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 금리 인상시 엔화 반짝 강세 도루묵…\"달러당 157엔까지 떨어질 것\"",
-      "link": "https://www.hankyung.com/article/202609156774i",
-      "pubDate": "Tue, 15 Sep 2026 19:31:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"몇 개 집었다간 1만원 훌쩍\"…꼬마김밥 가격 보고 '화들짝'",
-      "link": "https://www.hankyung.com/article/202609155927H",
-      "pubDate": "Tue, 15 Sep 2026 19:25:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "애프터마켓 첫날 VI 1112회…거래소 \"변동성 정규장보다 낮아\"",
-      "link": "https://www.hankyung.com/article/2026091567647",
-      "pubDate": "Tue, 15 Sep 2026 19:06:31 +0900"
     }
   ]
 }
