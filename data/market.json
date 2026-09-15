@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-15T10:10:07.661Z",
+  "updatedAt": "2026-09-15T15:01:10.837Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7619.98,
-      "changePercent": -0.483,
-      "previousClose": 7718.6,
+      "price": 7578.52,
+      "changePercent": -0.544,
+      "previousClose": 7673.52,
       "currency": "USD",
       "history": [
-        7673.52001953125,
         7636.35986328125,
         7591.7001953125,
         7656.97998046875,
-        7619.97998046875
+        7619.97998046875,
+        7578.52001953125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26186.414,
-      "changePercent": -0.557,
-      "previousClose": 26506.99,
+      "price": 25982.17,
+      "changePercent": -0.78,
+      "previousClose": 26421.41,
       "currency": "USD",
       "history": [
-        26421.41015625,
         26253.33984375,
         26081.720703125,
         26333.0390625,
-        26186.41015625
+        26186.41015625,
+        25982.169921875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52421.2,
-      "changePercent": -0.289,
-      "previousClose": 53414.25,
+      "price": 51901.25,
+      "changePercent": -0.992,
+      "previousClose": 52786.07,
       "currency": "USD",
       "history": [
-        52786.0703125,
         52380.66015625,
         52064.1015625,
         52573.2890625,
-        52421.19921875
+        52421.19921875,
+        51901.25
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.51,
-      "changePercent": 2.091,
+      "price": 104.64,
+      "changePercent": 3.205,
       "previousClose": 102.48,
       "currency": "USD",
       "history": [
         102.4800033569336,
         100.05000305175781,
         101.38999938964844,
-        103.51000213623047
+        104.63999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4310.1,
-      "changePercent": -0.96,
-      "previousClose": 4364.5,
+      "price": 4315.3,
+      "changePercent": -0.841,
+      "previousClose": 4407.3,
       "currency": "USD",
       "history": [
-        4364.5,
+        4407.2998046875,
         4408.89990234375,
         4351.89990234375,
-        4310.10009765625
+        4315.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.615,
-      "changePercent": 0.225,
+      "price": 99.612,
+      "changePercent": 0.222,
       "previousClose": 99.09,
       "currency": "USD",
       "history": [
         99.08999633789062,
         99.12000274658203,
         99.45999908447266,
-        99.61499786376953
+        99.61199951171875
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.51,
-      "changePercent": 2.398,
+      "price": 17.55,
+      "changePercent": 2.632,
       "previousClose": 16.46,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         17.84000015258789,
         15.84000015258789,
         17.100000381469727,
-        17.510000228881836
+        17.549999237060547
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "HD현대, 100MW '바다위 발전소' 개발",
-      "link": "https://www.hankyung.com/article/2026091566161",
-      "pubDate": "Tue, 15 Sep 2026 18:23:44 +0900"
+      "title": "블버그,\"美무기소진 심각…확보가능한 정밀탄약,동맹국 공동생산 등 필요\"",
+      "link": "https://www.hankyung.com/article/202609156934i",
+      "pubDate": "Tue, 15 Sep 2026 23:14:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "기아 \"2030년까지 PBV 25만대 판매\"",
-      "link": "https://www.hankyung.com/article/2026091566171",
-      "pubDate": "Tue, 15 Sep 2026 18:23:17 +0900"
+      "title": "美 국방부 \"이란 전쟁 비용, 6월까지 약 45조원 써\"",
+      "link": "https://www.hankyung.com/article/202609156890i",
+      "pubDate": "Tue, 15 Sep 2026 22:00:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "내년 정부 채권 300조 쏟아진다",
-      "link": "https://www.hankyung.com/article/2026091566351",
-      "pubDate": "Tue, 15 Sep 2026 18:09:25 +0900"
+      "title": "AI 급락에 불안…월가 \"이 신호 전에는 AI주 팔지 마라\"",
+      "link": "https://www.hankyung.com/article/202609156877i",
+      "pubDate": "Tue, 15 Sep 2026 21:41:53 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 10원 하락에 140억 '날벼락'…환율 역습에 발칵 뒤집힌 곳",
-      "link": "https://www.hankyung.com/article/2026091565741",
-      "pubDate": "Tue, 15 Sep 2026 18:08:40 +0900"
+      "title": "'성과급' 파업 리스크 여기까지…노사 갈등 폭발에 '초비상'",
+      "link": "https://www.hankyung.com/article/2026091566091",
+      "pubDate": "Tue, 15 Sep 2026 21:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "수출물가 하락했지만 교역조건 최대폭 개선",
-      "link": "https://www.hankyung.com/article/2026091565731",
-      "pubDate": "Tue, 15 Sep 2026 18:07:37 +0900"
+      "title": "'호카 국내총판' 갈등…조이웍스 \"공정경쟁 맞나\" vs 이랜드 \"답변사안 아냐\"",
+      "link": "https://www.hankyung.com/article/202609156172g",
+      "pubDate": "Tue, 15 Sep 2026 20:50:54 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'고환율 방패' 사라진 수출中企…\"환율 10%만 하락해도 이익 반토막\"",
-      "link": "https://www.hankyung.com/article/2026091565721",
-      "pubDate": "Tue, 15 Sep 2026 18:07:23 +0900"
+      "title": "교보생명, 디지털보험 자회사 교보라이프플래닛 흡수합병",
+      "link": "https://www.hankyung.com/article/2026091567871",
+      "pubDate": "Tue, 15 Sep 2026 20:11:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "막판에 바뀐 수익배분 구조…韓에 유리할까",
-      "link": "https://www.hankyung.com/article/2026091566521",
-      "pubDate": "Tue, 15 Sep 2026 18:04:01 +0900"
+      "title": "금융지주 자회사 인사 앞두고…이찬진 \"CEO 승계절차 미흡\"",
+      "link": "https://www.hankyung.com/article/2026091567851",
+      "pubDate": "Tue, 15 Sep 2026 20:09:43 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아시아나 마일리지, 대한항공서 10년간 쓴다",
-      "link": "https://www.hankyung.com/article/2026091566301",
-      "pubDate": "Tue, 15 Sep 2026 18:02:48 +0900"
+      "title": "골드만삭스, 글로벌·아시아 사모펀드로 117억달러 조성",
+      "link": "https://www.hankyung.com/article/2026091568187",
+      "pubDate": "Tue, 15 Sep 2026 20:09:39 +0900"
     },
     {
       "source": "한국경제",
-      "title": "신한금융, 금융당국과 '노쇼사기' 예방",
-      "link": "https://www.hankyung.com/article/2026091565581",
-      "pubDate": "Tue, 15 Sep 2026 18:01:51 +0900"
+      "title": "\"파전집, 대박날 줄 알았는데\"…'비오는 날' 매출 터진 식당 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609155706g",
+      "pubDate": "Tue, 15 Sep 2026 20:02:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "에이스침대, 성남시에 백미 기부…28년간 추석마다 총 18만포 전달",
-      "link": "https://www.hankyung.com/article/2026091565651",
-      "pubDate": "Tue, 15 Sep 2026 17:59:39 +0900"
+      "title": "'노벨상' 한강 작가도 떠났다…브랜드가 탐낸 '서촌의 비극'",
+      "link": "https://www.hankyung.com/article/2026091566251",
+      "pubDate": "Tue, 15 Sep 2026 20:00:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\"",
-      "link": "https://www.hankyung.com/article/2026091565411",
-      "pubDate": "Tue, 15 Sep 2026 17:57:40 +0900"
+      "title": "상속설계, 첫 상속보다 두 번째 상속이 중요하다 [가온의 패밀리오피스 리포트]",
+      "link": "https://www.hankyung.com/article/202609142132i",
+      "pubDate": "Tue, 15 Sep 2026 20:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "이형일 \"통화 긴축에 공감…경제팀, 원팀으로 이끌 것\"",
-      "link": "https://www.hankyung.com/article/2026091565401",
-      "pubDate": "Tue, 15 Sep 2026 17:57:04 +0900"
+      "title": "\"미술관인 줄\" 놀라운 변신…故 김수미 잠든 곳 가보니 '깜짝' [현장+]",
+      "link": "https://www.hankyung.com/article/202609154871H",
+      "pubDate": "Tue, 15 Sep 2026 19:46:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 알래스카 LNG는 투자 가능성만 합의",
-      "link": "https://www.hankyung.com/article/2026091566541",
-      "pubDate": "Tue, 15 Sep 2026 17:52:22 +0900"
+      "title": "美 금리 인상시 엔화 반짝 강세 도루묵…\"달러당 157엔까지 떨어질 것\"",
+      "link": "https://www.hankyung.com/article/202609156774i",
+      "pubDate": "Tue, 15 Sep 2026 19:31:29 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 韓, 웨스팅하우스 지분 15% 인수 추진",
-      "link": "https://www.hankyung.com/article/2026091566461",
-      "pubDate": "Tue, 15 Sep 2026 17:48:06 +0900"
+      "title": "\"몇 개 집었다간 1만원 훌쩍\"…꼬마김밥 가격 보고 '화들짝'",
+      "link": "https://www.hankyung.com/article/202609155927H",
+      "pubDate": "Tue, 15 Sep 2026 19:25:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'제로 파티 데이터' 마케팅을 아십니까",
-      "link": "https://www.hankyung.com/article/2026091565551",
-      "pubDate": "Tue, 15 Sep 2026 17:42:22 +0900"
+      "title": "애프터마켓 첫날 VI 1112회…거래소 \"변동성 정규장보다 낮아\"",
+      "link": "https://www.hankyung.com/article/2026091567647",
+      "pubDate": "Tue, 15 Sep 2026 19:06:31 +0900"
     }
   ]
 }
