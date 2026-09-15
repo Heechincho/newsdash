@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:23:39.668Z",
+  "updatedAt": "2026-09-15T05:10:15.680Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26253.33984375,
         26081.720703125,
         26333.0390625,
-        26186.4140625
+        26186.41015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.26,
-      "changePercent": 0.858,
-      "previousClose": 96.05,
+      "price": 103.2,
+      "changePercent": 1.785,
+      "previousClose": 102.48,
       "currency": "USD",
       "history": [
-        96.05000305175781,
         102.4800033569336,
         100.05000305175781,
-        102.26000213623047
+        101.38999938964844,
+        103.19999694824219
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4325.8,
-      "changePercent": -0.6,
-      "previousClose": 4416,
+      "price": 4345.3,
+      "changePercent": -0.152,
+      "previousClose": 4364.5,
       "currency": "USD",
       "history": [
-        4416,
         4364.5,
         4408.89990234375,
-        4325.7998046875
+        4351.89990234375,
+        4345.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.504,
-      "changePercent": 0.114,
-      "previousClose": 98.77,
+      "price": 99.607,
+      "changePercent": 0.217,
+      "previousClose": 99.09,
       "currency": "USD",
       "history": [
-        98.7699966430664,
         99.08999633789062,
         99.12000274658203,
-        99.50399780273438
+        99.45999908447266,
+        99.60700225830078
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"중국 800조 늘 때 한국은 10조\"…반도체만 믿다간 큰일 난다",
-      "link": "https://www.hankyung.com/article/202609144270g",
-      "pubDate": "Tue, 15 Sep 2026 09:03:55 +0900"
+      "source": "연합뉴스",
+      "title": "전남광주 8월 무역수지 3억6천만달러 흑자",
+      "link": "https://www.yna.co.kr/view/AKR20260915109400054",
+      "pubDate": "Tue, 15 Sep 2026 14:03:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "아산현충사IC 연결도로 개설공사 착공…산업·물류 경쟁력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260915032300063",
-      "pubDate": "Tue, 15 Sep 2026 09:02:05 +0900"
+      "title": "\"인류 안전이 동기는 아닐것\"…AI 속도조절론에 증권가 갑론을박",
+      "link": "https://www.yna.co.kr/view/AKR20260915100300008",
+      "pubDate": "Tue, 15 Sep 2026 14:00:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "아산 영인일반산업단지 조성 본격화…17일 주민설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260915029500063",
-      "pubDate": "Tue, 15 Sep 2026 09:00:30 +0900"
+      "title": "노동장관-양대노총, 청년과 대화…\"일할 기회 넓히고 권리 보장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915033800530",
+      "pubDate": "Tue, 15 Sep 2026 14:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "CJ제일제당, 자사몰 'CJ더마켓' 앱 전면 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260915033200030",
-      "pubDate": "Tue, 15 Sep 2026 09:00:12 +0900"
+      "title": "전남광주 8월 아파트매매가격 소폭↑…전국 평균보다 낮아",
+      "link": "https://www.yna.co.kr/view/AKR20260915075800054",
+      "pubDate": "Tue, 15 Sep 2026 14:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경찰청, 신한금융과 소상공인 '노쇼사기' 피해 예방 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260914140800004",
-      "pubDate": "Tue, 15 Sep 2026 09:00:06 +0900"
+      "title": "한은 \"AI 확산에 수도권·비수도권 노동시장 격차 확대 위험\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915077300002",
+      "pubDate": "Tue, 15 Sep 2026 14:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노동부, '공짜노동 근절' 포괄임금 오남용 감독…제조·IT 중심",
-      "link": "https://www.yna.co.kr/view/AKR20260914161900530",
-      "pubDate": "Tue, 15 Sep 2026 09:00:05 +0900"
+      "title": "8월 서울 주택 매매가 0.97% 상승…5개월만에 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260915082000003",
+      "pubDate": "Tue, 15 Sep 2026 14:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[소셜＋] \"반줄 김밥 주세요\"…'런치플레이션'이 바꾼 점심 풍경",
-      "link": "https://www.yna.co.kr/view/AKR20260914145200505",
-      "pubDate": "Tue, 15 Sep 2026 09:00:01 +0900"
+      "title": "[게시판] 관세청, 기안84·빠니보틀과 추석 연휴 '성실신고' 홍보 영상",
+      "link": "https://www.yna.co.kr/view/AKR20260915107900002",
+      "pubDate": "Tue, 15 Sep 2026 13:54:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성바이오 노사 2차 사후조정 연기…갈등해소 '요원'",
-      "link": "https://www.yna.co.kr/view/AKR20260915032500017",
-      "pubDate": "Tue, 15 Sep 2026 08:59:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 유진투자증권, 노을공원에 나무 400그루 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260915033400008",
-      "pubDate": "Tue, 15 Sep 2026 08:59:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이마트24, 17∼20일 성수 일대서 '퓨전 떡 팝업'",
-      "link": "https://www.yna.co.kr/view/AKR20260915024900030",
-      "pubDate": "Tue, 15 Sep 2026 08:51:00 +0900"
+      "title": "거래소, 국채선물 2027년 3월물 최종결제기준채권 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260915104200008",
+      "pubDate": "Tue, 15 Sep 2026 13:38:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "코로나 백신값 22억달러 분쟁에…화이자, '항공 관제료' 압류",
-      "link": "https://www.hankyung.com/article/202609154713i",
-      "pubDate": "Tue, 15 Sep 2026 08:50:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "문체부, '관광기업 이음주간'…\"AI시대 관광벤처 생존전략 공유\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915027500030",
-      "pubDate": "Tue, 15 Sep 2026 08:46:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한투증권 \"HD현대마린솔루션, 성장성 가장 큰 변곡점…목표가↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915028200008",
-      "pubDate": "Tue, 15 Sep 2026 08:46:47 +0900"
+      "title": "대한항공·아시아나 마일리지 통합 최종 통과…우수회원 2년간 유지",
+      "link": "https://www.hankyung.com/article/202609155419i",
+      "pubDate": "Tue, 15 Sep 2026 13:35:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "토마호크보다 싼 '앤섬'…코버넌트, 미·독 공장 증산",
-      "link": "https://www.hankyung.com/article/202609154701i",
-      "pubDate": "Tue, 15 Sep 2026 08:46:03 +0900"
+      "title": "아시아나 마일리지, 앞으로 10년간 대한항공서 쓴다",
+      "link": "https://www.hankyung.com/article/202609155638g",
+      "pubDate": "Tue, 15 Sep 2026 13:26:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"침대 파는 회사 맞아?\"…28년째 쌀 44억어치 기부",
+      "link": "https://www.hankyung.com/article/202609155342i",
+      "pubDate": "Tue, 15 Sep 2026 13:17:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "iM증권 \"AI 개발 속도조절론 힘 얻기 어려워…투자 사이클 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915028300008",
-      "pubDate": "Tue, 15 Sep 2026 08:40:45 +0900"
+      "title": "행안부, 경기도에 공유재산 목록 제출 요청…\"주택공급 목적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915099500061",
+      "pubDate": "Tue, 15 Sep 2026 13:02:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금감원, 주택공급 금융지원·PF 매각설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260915094300002",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "소비 0.4%·투자 -7.2%…中, 제조업만 나홀로 질주 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609155616i",
+      "pubDate": "Tue, 15 Sep 2026 12:53:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이소영 후보자 \"주 52시간제 획일적 규제 개선 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915098700030",
+      "pubDate": "Tue, 15 Sep 2026 12:48:13 +0900"
     }
   ]
 }
