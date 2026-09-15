@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:54:08.199Z",
+  "updatedAt": "2026-09-15T00:23:39.668Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.89,
-      "changePercent": 0.493,
+      "price": 102.26,
+      "changePercent": 0.858,
       "previousClose": 96.05,
       "currency": "USD",
       "history": [
         96.05000305175781,
         102.4800033569336,
         100.05000305175781,
-        101.88999938964844
+        102.26000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4340,
-      "changePercent": -1.563,
+      "price": 4325.8,
+      "changePercent": -0.6,
       "previousClose": 4416,
       "currency": "USD",
       "history": [
         4416,
         4364.5,
         4408.89990234375,
-        4340
+        4325.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.464,
-      "changePercent": 0.345,
+      "price": 99.504,
+      "changePercent": 0.114,
       "previousClose": 98.77,
       "currency": "USD",
       "history": [
         98.7699966430664,
         99.08999633789062,
         99.12000274658203,
-        99.46399688720703
+        99.50399780273438
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[팩트체크] 14만원 탁구채 논란…'환불불가' 표시 있다면 환불 안된다?",
-      "link": "https://www.yna.co.kr/view/AKR20260914146000518",
-      "pubDate": "Tue, 15 Sep 2026 06:30:01 +0900"
+      "source": "한국경제",
+      "title": "\"중국 800조 늘 때 한국은 10조\"…반도체만 믿다간 큰일 난다",
+      "link": "https://www.hankyung.com/article/202609144270g",
+      "pubDate": "Tue, 15 Sep 2026 09:03:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시, 9월분 재산세 4조8천억원 확정…30일까지 납부해야",
-      "link": "https://www.yna.co.kr/view/AKR20260914152400004",
-      "pubDate": "Tue, 15 Sep 2026 06:00:10 +0900"
+      "title": "아산현충사IC 연결도로 개설공사 착공…산업·물류 경쟁력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260915032300063",
+      "pubDate": "Tue, 15 Sep 2026 09:02:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융위 \"생산적금융 면책 방안도 추가 마련할 것…내재화 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260914150000002",
-      "pubDate": "Tue, 15 Sep 2026 06:00:06 +0900"
+      "title": "아산 영인일반산업단지 조성 본격화…17일 주민설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260915029500063",
+      "pubDate": "Tue, 15 Sep 2026 09:00:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국잡월드 누적 방문객 1천만명 돌파…기념 이벤트 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260914162400530",
-      "pubDate": "Tue, 15 Sep 2026 06:00:05 +0900"
+      "title": "CJ제일제당, 자사몰 'CJ더마켓' 앱 전면 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260915033200030",
+      "pubDate": "Tue, 15 Sep 2026 09:00:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상반기 자동차보험 총손익 37.7%↓…보험손익 6년만 적자전환",
-      "link": "https://www.yna.co.kr/view/AKR20260914162300002",
-      "pubDate": "Tue, 15 Sep 2026 06:00:05 +0900"
+      "title": "경찰청, 신한금융과 소상공인 '노쇼사기' 피해 예방 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260914140800004",
+      "pubDate": "Tue, 15 Sep 2026 09:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "재취업지원서비스 우수기업 7곳 선정…최우수상 백송의료재단",
-      "link": "https://www.yna.co.kr/view/AKR20260914163300530",
-      "pubDate": "Tue, 15 Sep 2026 06:00:04 +0900"
+      "title": "노동부, '공짜노동 근절' 포괄임금 오남용 감독…제조·IT 중심",
+      "link": "https://www.yna.co.kr/view/AKR20260914161900530",
+      "pubDate": "Tue, 15 Sep 2026 09:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "환율 하락에 8월 수출물가 3.7%↓…3년 8개월 만에 최대폭",
-      "link": "https://www.yna.co.kr/view/AKR20260914158700002",
-      "pubDate": "Tue, 15 Sep 2026 06:00:02 +0900"
+      "title": "[소셜＋] \"반줄 김밥 주세요\"…'런치플레이션'이 바꾼 점심 풍경",
+      "link": "https://www.yna.co.kr/view/AKR20260914145200505",
+      "pubDate": "Tue, 15 Sep 2026 09:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "네이버·두나무 결합, 지주사 전환 땐 지분규제 상충 가능성",
-      "link": "https://www.yna.co.kr/view/AKR20260914162700002",
-      "pubDate": "Tue, 15 Sep 2026 05:57:00 +0900"
+      "title": "삼성바이오 노사 2차 사후조정 연기…갈등해소 '요원'",
+      "link": "https://www.yna.co.kr/view/AKR20260915032500017",
+      "pubDate": "Tue, 15 Sep 2026 08:59:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "사우디 송유관 폐쇄에 국제유가 상승…브렌트유 105달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260915005800072",
-      "pubDate": "Tue, 15 Sep 2026 04:57:07 +0900"
+      "title": "[게시판] 유진투자증권, 노을공원에 나무 400그루 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260915033400008",
+      "pubDate": "Tue, 15 Sep 2026 08:59:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260914175352072",
-      "pubDate": "Tue, 15 Sep 2026 00:46:08 +0900"
+      "title": "이마트24, 17∼20일 성수 일대서 '퓨전 떡 팝업'",
+      "link": "https://www.yna.co.kr/view/AKR20260915024900030",
+      "pubDate": "Tue, 15 Sep 2026 08:51:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "MS,AI 개발지침 발표\"사람이 AI보다 중요하다\"대원칙",
-      "link": "https://www.hankyung.com/article/202609154304i",
-      "pubDate": "Tue, 15 Sep 2026 00:46:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "월가에 몰아치는 3가지 폭풍[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609144293i",
-      "pubDate": "Tue, 15 Sep 2026 00:05:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "트럼프,\"AI속도조절 불필요.똑똑한 대통령이 안전장치\"주장",
-      "link": "https://www.hankyung.com/article/202609144296i",
-      "pubDate": "Tue, 15 Sep 2026 00:01:00 +0900"
+      "title": "코로나 백신값 22억달러 분쟁에…화이자, '항공 관제료' 압류",
+      "link": "https://www.hankyung.com/article/202609154713i",
+      "pubDate": "Tue, 15 Sep 2026 08:50:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
-      "link": "https://www.yna.co.kr/view/AKR20260914104500017",
-      "pubDate": "Tue, 15 Sep 2026 00:00:03 +0900"
+      "title": "문체부, '관광기업 이음주간'…\"AI시대 관광벤처 생존전략 공유\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915027500030",
+      "pubDate": "Tue, 15 Sep 2026 08:46:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260914175351072",
-      "pubDate": "Mon, 14 Sep 2026 23:40:48 +0900"
+      "title": "한투증권 \"HD현대마린솔루션, 성장성 가장 큰 변곡점…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915028200008",
+      "pubDate": "Tue, 15 Sep 2026 08:46:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "토마호크보다 싼 '앤섬'…코버넌트, 미·독 공장 증산",
+      "link": "https://www.hankyung.com/article/202609154701i",
+      "pubDate": "Tue, 15 Sep 2026 08:46:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권 \"AI 개발 속도조절론 힘 얻기 어려워…투자 사이클 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915028300008",
+      "pubDate": "Tue, 15 Sep 2026 08:40:45 +0900"
     }
   ]
 }
