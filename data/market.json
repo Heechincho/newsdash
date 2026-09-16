@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-16T09:49:50.605Z",
+  "updatedAt": "2026-09-16T14:25:37.961Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7585.73,
-      "changePercent": -0.449,
-      "previousClose": 7673.52,
+      "price": 7601.09,
+      "changePercent": 0.202,
+      "previousClose": 7636.36,
       "currency": "USD",
       "history": [
-        7636.35986328125,
         7591.7001953125,
         7656.97998046875,
         7619.97998046875,
-        7585.72998046875
+        7585.72998046875,
+        7601.08984375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25981.57,
-      "changePercent": -0.782,
-      "previousClose": 26421.41,
+      "price": 26146.146,
+      "changePercent": 0.633,
+      "previousClose": 26253.34,
       "currency": "USD",
       "history": [
-        26253.33984375,
         26081.720703125,
         26333.0390625,
         26186.41015625,
-        25981.5703125
+        25981.5703125,
+        26146.146484375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52093.11,
-      "changePercent": -0.626,
-      "previousClose": 52786.07,
+      "price": 51896.66,
+      "changePercent": -0.377,
+      "previousClose": 52380.66,
       "currency": "USD",
       "history": [
-        52380.66015625,
         52064.1015625,
         52573.2890625,
         52421.19921875,
-        52093.109375
+        52093.109375,
+        51896.66015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.99,
-      "changePercent": -1.739,
+      "price": 103.59,
+      "changePercent": -2.117,
       "previousClose": 100.05,
       "currency": "USD",
       "history": [
         100.05000305175781,
         101.38999938964844,
         105.83000183105469,
-        103.98999786376953
+        103.58999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4375.8,
-      "changePercent": 0.992,
+      "price": 4380.7,
+      "changePercent": 1.106,
       "previousClose": 4408.9,
       "currency": "USD",
       "history": [
         4408.89990234375,
         4351.89990234375,
         4332.7998046875,
-        4375.7998046875
+        4380.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.643,
-      "changePercent": 0.028,
+      "price": 99.707,
+      "changePercent": 0.092,
       "previousClose": 99.12,
       "currency": "USD",
       "history": [
         99.12000274658203,
         99.45999908447266,
         99.6500015258789,
-        99.64299774169922
+        99.70700073242188
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.05,
-      "changePercent": -0.872,
+      "price": 16.81,
+      "changePercent": -2.267,
       "previousClose": 17.84,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         15.84000015258789,
         17.100000381469727,
         17.200000762939453,
-        17.049999237060547
+        16.809999465942383
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "잦은 신용사면·부동산 침체…부실채권 못 털어낸 금융권 '연체 폭탄'",
-      "link": "https://www.hankyung.com/article/2026091693141",
-      "pubDate": "Wed, 16 Sep 2026 18:17:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "비투엔 \"앤씨앤 주식 63억원어치 취득…지분율 27.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916172800008",
-      "pubDate": "Wed, 16 Sep 2026 18:16:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "앤씨앤, 100억원 유상증자…주식회사 비투엔 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260916172700008",
-      "pubDate": "Wed, 16 Sep 2026 18:16:22 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "STX, 670억원 유상증자…범한산업 주식회사에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260916170300008",
-      "pubDate": "Wed, 16 Sep 2026 18:15:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "STX, 유상증자…한국산업은행 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260916168600008",
-      "pubDate": "Wed, 16 Sep 2026 18:14:34 +0900"
+      "title": "EU,\"상상초월 해킹AI,적들의 손에 들어갈 것…AI 위험예방 방안 서둘러야\"",
+      "link": "https://www.hankyung.com/article/202609169631i",
+      "pubDate": "Wed, 16 Sep 2026 22:19:29 +0900"
     },
     {
       "source": "한국경제",
-      "title": "금리 뛰자 다시 연체…NPL 당분간 더 쌓인다",
-      "link": "https://www.hankyung.com/article/2026091693111",
-      "pubDate": "Wed, 16 Sep 2026 18:13:24 +0900"
+      "title": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609169603i",
+      "pubDate": "Wed, 16 Sep 2026 21:00:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916170951003",
-      "pubDate": "Wed, 16 Sep 2026 18:05:47 +0900"
+      "title": "제지·밀가루에 내린 공정위 '가격 재결정 명령', 법원서 제동(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260916179151004",
+      "pubDate": "Wed, 16 Sep 2026 20:05:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"우리 車도 유럽산 간주\"…EU에 요구한 英·日",
-      "link": "https://www.hankyung.com/article/2026091693371",
-      "pubDate": "Wed, 16 Sep 2026 18:02:27 +0900"
+      "title": "성장 한계 부딪힌 에버랜드·롯데월드의 고민",
+      "link": "https://www.hankyung.com/article/2026091692701",
+      "pubDate": "Wed, 16 Sep 2026 20:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "中, 지방정부에 세수 지원 늘린다",
-      "link": "https://www.hankyung.com/article/2026091693331",
-      "pubDate": "Wed, 16 Sep 2026 18:00:14 +0900"
+      "title": "AI 문어발 오픈AI, IPO 미루고 대규모 자금 유치 추진",
+      "link": "https://www.hankyung.com/article/202609169537i",
+      "pubDate": "Wed, 16 Sep 2026 19:59:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260916165700011",
-      "pubDate": "Wed, 16 Sep 2026 18:00:00 +0900"
+      "title": "미래에셋證 노조 \"금감원 고강도 검사 우려…정상적 업무 차질\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916182700008",
+      "pubDate": "Wed, 16 Sep 2026 19:54:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "앤트로픽·스페이스X 투자한 한투파트너스, 평가이익 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260916182500008",
+      "pubDate": "Wed, 16 Sep 2026 19:52:54 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "제지업체에 내린 공정위 '가격 재결정 명령', 법원서 제동",
+      "link": "https://www.yna.co.kr/view/AKR20260916179100004",
+      "pubDate": "Wed, 16 Sep 2026 19:14:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증선위, 공개매수·양수도 미공개정보 이용 4건 檢 고발·통보",
+      "link": "https://www.yna.co.kr/view/AKR20260916177700002",
+      "pubDate": "Wed, 16 Sep 2026 19:13:29 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"투기 잡으려다 임차 농민 내쫓아\"…농지 전수조사 부작용 논란",
-      "link": "https://www.hankyung.com/article/2026091693821",
-      "pubDate": "Wed, 16 Sep 2026 17:58:39 +0900"
+      "title": "역대급 성과급에 해외 안 간다 … 삼전닉스 '인재 쟁탈전'",
+      "link": "https://www.hankyung.com/article/2026091693261",
+      "pubDate": "Wed, 16 Sep 2026 19:00:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "내년 821兆 나라살림 총괄…기획예산처 예산실장 김명중",
-      "link": "https://www.hankyung.com/article/2026091693831",
-      "pubDate": "Wed, 16 Sep 2026 17:58:04 +0900"
+      "title": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미]",
+      "link": "https://www.hankyung.com/article/202609169507i",
+      "pubDate": "Wed, 16 Sep 2026 18:58:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미국 요구 수용 어렵나…대미투자 최종합의 일정 돌연 연기",
-      "link": "https://www.yna.co.kr/view/AKR20260916167700003",
-      "pubDate": "Wed, 16 Sep 2026 17:57:54 +0900"
+      "title": "인천 강화 소 농장서 구제역 확진…올해 12번째 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260916177200030",
+      "pubDate": "Wed, 16 Sep 2026 18:57:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"100억짜리가 33억에도 안 팔려요\"…텅텅 빈 대학가에 무슨 일이",
+      "link": "https://www.hankyung.com/article/2026091693741",
+      "pubDate": "Wed, 16 Sep 2026 18:54:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정점식, 추석 앞두고 전통시장 찾아 \"활성화 지원에 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916171300001",
-      "pubDate": "Wed, 16 Sep 2026 17:57:39 +0900"
+      "title": "증선위, 해태제과에 감사인지정 등 조치…회계처리 위반",
+      "link": "https://www.yna.co.kr/view/AKR20260916175800002",
+      "pubDate": "Wed, 16 Sep 2026 18:53:49 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색",
-      "link": "https://www.yna.co.kr/view/AKR20260916170900003",
-      "pubDate": "Wed, 16 Sep 2026 17:55:09 +0900"
+      "source": "한국경제",
+      "title": "우리금융, 과천서 사회공헌콘서트 '모모콘'",
+      "link": "https://www.hankyung.com/article/2026091693561",
+      "pubDate": "Wed, 16 Sep 2026 18:43:39 +0900"
     }
   ]
 }
