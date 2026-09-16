@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:57:12.328Z",
+  "updatedAt": "2026-09-16T09:49:50.605Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 104.7,
-      "changePercent": -1.068,
+      "price": 103.99,
+      "changePercent": -1.739,
       "previousClose": 100.05,
       "currency": "USD",
       "history": [
         100.05000305175781,
         101.38999938964844,
         105.83000183105469,
-        104.69999694824219
+        103.98999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4363.8,
-      "changePercent": 0.715,
+      "price": 4375.8,
+      "changePercent": 0.992,
       "previousClose": 4408.9,
       "currency": "USD",
       "history": [
         4408.89990234375,
         4351.89990234375,
         4332.7998046875,
-        4363.7998046875
+        4375.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.631,
-      "changePercent": 0.016,
+      "price": 99.643,
+      "changePercent": 0.028,
       "previousClose": 99.12,
       "currency": "USD",
       "history": [
         99.12000274658203,
         99.45999908447266,
         99.6500015258789,
-        99.63099670410156
+        99.64299774169922
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.2,
-      "changePercent": 0.585,
-      "previousClose": 16.46,
+      "price": 17.05,
+      "changePercent": -0.872,
+      "previousClose": 17.84,
       "currency": "USD",
       "history": [
-        16.459999084472656,
         17.84000015258789,
         15.84000015258789,
         17.100000381469727,
-        17.200000762939453
+        17.200000762939453,
+        17.049999237060547
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "우리투자증권, 스페인 라리가와 공식 스폰서십…국내 금융권 최초",
-      "link": "https://www.yna.co.kr/view/AKR20260916102600008",
-      "pubDate": "Wed, 16 Sep 2026 13:48:05 +0900"
+      "source": "한국경제",
+      "title": "잦은 신용사면·부동산 침체…부실채권 못 털어낸 금융권 '연체 폭탄'",
+      "link": "https://www.hankyung.com/article/2026091693141",
+      "pubDate": "Wed, 16 Sep 2026 18:17:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한중엔시에스 \"美 종속회사 주식 158억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916104800008",
-      "pubDate": "Wed, 16 Sep 2026 13:43:15 +0900"
+      "title": "비투엔 \"앤씨앤 주식 63억원어치 취득…지분율 27.7%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916172800008",
+      "pubDate": "Wed, 16 Sep 2026 18:16:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, '해외송금 받기' 고객에 추첨 통해 CU 상품권",
-      "link": "https://www.yna.co.kr/view/AKR20260916095500002",
-      "pubDate": "Wed, 16 Sep 2026 13:41:58 +0900"
+      "title": "앤씨앤, 100억원 유상증자…주식회사 비투엔 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260916172700008",
+      "pubDate": "Wed, 16 Sep 2026 18:16:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금감원, 장애 대학생·청년 대상 금융권 취업 콘서트 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260916096400002",
-      "pubDate": "Wed, 16 Sep 2026 13:30:00 +0900"
+      "title": "STX, 670억원 유상증자…범한산업 주식회사에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260916170300008",
+      "pubDate": "Wed, 16 Sep 2026 18:15:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "STX, 유상증자…한국산업은행 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260916168600008",
+      "pubDate": "Wed, 16 Sep 2026 18:14:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 오텍캐리어, 제주서 'AI 가정용 히트펌프 보일러' 선보여",
-      "link": "https://www.hankyung.com/article/202609168363i",
-      "pubDate": "Wed, 16 Sep 2026 13:12:01 +0900"
+      "title": "금리 뛰자 다시 연체…NPL 당분간 더 쌓인다",
+      "link": "https://www.hankyung.com/article/2026091693111",
+      "pubDate": "Wed, 16 Sep 2026 18:13:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인재유치] ② 출연연 신입 중 해외 연구경험 3%대…\"계속 찾아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916051600017",
-      "pubDate": "Wed, 16 Sep 2026 13:01:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인재유치] ③ \"한국에 기여하고 싶지만\"…복귀 망설이는 이유",
-      "link": "https://www.yna.co.kr/view/AKR20260916052200017",
-      "pubDate": "Wed, 16 Sep 2026 13:01:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인재유치] ① \"출연연도 연구자의 길\"…미국 한인 153명 몰렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260916049100017",
-      "pubDate": "Wed, 16 Sep 2026 13:01:01 +0900"
+      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260916170951003",
+      "pubDate": "Wed, 16 Sep 2026 18:05:47 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"이자 대신 주가 오르면 나눠 갖자\"…中 AI기업 '30억 달러' 승부수 [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609143206i",
-      "pubDate": "Wed, 16 Sep 2026 13:00:10 +0900"
+      "title": "\"우리 車도 유럽산 간주\"…EU에 요구한 英·日",
+      "link": "https://www.hankyung.com/article/2026091693371",
+      "pubDate": "Wed, 16 Sep 2026 18:02:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"집 짓기 전에 팔지 마라\"…中 부동산 30년 공식 바뀐다",
-      "link": "https://www.hankyung.com/article/202608313159i",
-      "pubDate": "Wed, 16 Sep 2026 13:00:06 +0900"
+      "title": "中, 지방정부에 세수 지원 늘린다",
+      "link": "https://www.hankyung.com/article/2026091693331",
+      "pubDate": "Wed, 16 Sep 2026 18:00:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부, 홍성서 주민협정 현장간담회…마을 주민 의견 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260916081400030",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260916165700011",
+      "pubDate": "Wed, 16 Sep 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"투기 잡으려다 임차 농민 내쫓아\"…농지 전수조사 부작용 논란",
+      "link": "https://www.hankyung.com/article/2026091693821",
+      "pubDate": "Wed, 16 Sep 2026 17:58:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "내년 821兆 나라살림 총괄…기획예산처 예산실장 김명중",
+      "link": "https://www.hankyung.com/article/2026091693831",
+      "pubDate": "Wed, 16 Sep 2026 17:58:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "행안부, 토스뱅크에 전입세대정보 온라인 제공…대출심사 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260916097500530",
-      "pubDate": "Wed, 16 Sep 2026 12:34:54 +0900"
+      "title": "미국 요구 수용 어렵나…대미투자 최종합의 일정 돌연 연기",
+      "link": "https://www.yna.co.kr/view/AKR20260916167700003",
+      "pubDate": "Wed, 16 Sep 2026 17:57:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소비자원 \"의류관리기 3종 성능 비슷…건조시간 최대 23분 차이\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915119300030",
-      "pubDate": "Wed, 16 Sep 2026 12:00:19 +0900"
+      "title": "정점식, 추석 앞두고 전통시장 찾아 \"활성화 지원에 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916171300001",
+      "pubDate": "Wed, 16 Sep 2026 17:57:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"AI·녹색전환 융합해야\"…글로벌 기후·에너지 라운드테이블",
-      "link": "https://www.yna.co.kr/view/AKR20260916033400003",
-      "pubDate": "Wed, 16 Sep 2026 12:00:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "독일 연방하원 의원 韓국세청 첫 방문…K-세정·AI 전환 교류",
-      "link": "https://www.yna.co.kr/view/AKR20260916050500002",
-      "pubDate": "Wed, 16 Sep 2026 12:00:16 +0900"
+      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색",
+      "link": "https://www.yna.co.kr/view/AKR20260916170900003",
+      "pubDate": "Wed, 16 Sep 2026 17:55:09 +0900"
     }
   ]
 }
