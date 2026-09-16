@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-16T14:25:37.961Z",
+  "updatedAt": "2026-09-16T18:20:04.646Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7601.09,
-      "changePercent": 0.202,
+      "price": 7611.68,
+      "changePercent": 0.342,
       "previousClose": 7636.36,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7656.97998046875,
         7619.97998046875,
         7585.72998046875,
-        7601.08984375
+        7611.68017578125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26146.146,
-      "changePercent": 0.633,
+      "price": 26168.17,
+      "changePercent": 0.718,
       "previousClose": 26253.34,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26333.0390625,
         26186.41015625,
         25981.5703125,
-        26146.146484375
+        26168.169921875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51896.66,
-      "changePercent": -0.377,
+      "price": 52064.13,
+      "changePercent": -0.056,
       "previousClose": 52380.66,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52573.2890625,
         52421.19921875,
         52093.109375,
-        51896.66015625
+        52064.12890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.59,
-      "changePercent": -2.117,
+      "price": 102.42,
+      "changePercent": -3.222,
       "previousClose": 100.05,
       "currency": "USD",
       "history": [
         100.05000305175781,
         101.38999938964844,
         105.83000183105469,
-        103.58999633789062
+        102.41999816894531
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4380.7,
-      "changePercent": 1.106,
+      "price": 4372.6,
+      "changePercent": 0.919,
       "previousClose": 4408.9,
       "currency": "USD",
       "history": [
         4408.89990234375,
         4351.89990234375,
         4332.7998046875,
-        4380.7001953125
+        4372.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.707,
-      "changePercent": 0.092,
+      "price": 99.829,
+      "changePercent": 0.215,
       "previousClose": 99.12,
       "currency": "USD",
       "history": [
         99.12000274658203,
         99.45999908447266,
         99.6500015258789,
-        99.70700073242188
+        99.8290023803711
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.81,
-      "changePercent": -2.267,
+      "price": 16.68,
+      "changePercent": -3.018,
       "previousClose": 17.84,
       "currency": "USD",
       "history": [
@@ -113,15 +113,57 @@
         15.84000015258789,
         17.100000381469727,
         17.200000762939453,
-        16.809999465942383
+        16.68000030517578
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "[2보] 美연준, 기준금리 0.25%p 인상…3년2개월만의 긴축조치",
+      "link": "https://www.yna.co.kr/view/AKR20260917002400071",
+      "pubDate": "Thu, 17 Sep 2026 03:01:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[1보] 美연준, 기준금리 0.25%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260917002300071",
+      "pubDate": "Thu, 17 Sep 2026 03:01:02 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "EU,\"상상초월 해킹AI,적들의 손에 들어갈 것…AI 위험예방 방안 서둘러야\"",
+      "title": "세계최고수익률 국부펀드,\"미국증시 조정 가능성\"경고",
+      "link": "https://www.hankyung.com/article/202609179698i",
+      "pubDate": "Thu, 17 Sep 2026 00:44:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "노보, 신약개발속도 올리려 \"앤트로픽과 협력\" 발표",
+      "link": "https://www.hankyung.com/article/202609169687i",
+      "pubDate": "Thu, 17 Sep 2026 00:04:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"애플, 기업용 AI서버 개발중…자체 칩탑재 29년 출시\" [더인포메이션]",
+      "link": "https://www.hankyung.com/article/202609169677i",
+      "pubDate": "Wed, 16 Sep 2026 23:34:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국채금리가 발목잡는 AI 주가…야데니도 주가 전망 낮췄다 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609169675i",
+      "pubDate": "Wed, 16 Sep 2026 23:29:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 8월 소매판매 예상 크게 웃돈 1.2%↑…금리 인상 기대 강화",
+      "link": "https://www.hankyung.com/article/202609169659i",
+      "pubDate": "Wed, 16 Sep 2026 22:51:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "EU \"상상초월 해킹 AI, 적들의 손에 들어갈 것…AI 위험예방 방안 서둘러야\"",
       "link": "https://www.hankyung.com/article/202609169631i",
       "pubDate": "Wed, 16 Sep 2026 22:19:29 +0900"
     },
@@ -166,48 +208,6 @@
       "title": "제지업체에 내린 공정위 '가격 재결정 명령', 법원서 제동",
       "link": "https://www.yna.co.kr/view/AKR20260916179100004",
       "pubDate": "Wed, 16 Sep 2026 19:14:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증선위, 공개매수·양수도 미공개정보 이용 4건 檢 고발·통보",
-      "link": "https://www.yna.co.kr/view/AKR20260916177700002",
-      "pubDate": "Wed, 16 Sep 2026 19:13:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "역대급 성과급에 해외 안 간다 … 삼전닉스 '인재 쟁탈전'",
-      "link": "https://www.hankyung.com/article/2026091693261",
-      "pubDate": "Wed, 16 Sep 2026 19:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미]",
-      "link": "https://www.hankyung.com/article/202609169507i",
-      "pubDate": "Wed, 16 Sep 2026 18:58:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인천 강화 소 농장서 구제역 확진…올해 12번째 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260916177200030",
-      "pubDate": "Wed, 16 Sep 2026 18:57:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"100억짜리가 33억에도 안 팔려요\"…텅텅 빈 대학가에 무슨 일이",
-      "link": "https://www.hankyung.com/article/2026091693741",
-      "pubDate": "Wed, 16 Sep 2026 18:54:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증선위, 해태제과에 감사인지정 등 조치…회계처리 위반",
-      "link": "https://www.yna.co.kr/view/AKR20260916175800002",
-      "pubDate": "Wed, 16 Sep 2026 18:53:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리금융, 과천서 사회공헌콘서트 '모모콘'",
-      "link": "https://www.hankyung.com/article/2026091693561",
-      "pubDate": "Wed, 16 Sep 2026 18:43:39 +0900"
     }
   ]
 }
