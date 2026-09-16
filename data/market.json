@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T22:04:47.595Z",
+  "updatedAt": "2026-09-16T00:15:12.142Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 105.48,
-      "changePercent": -0.331,
+      "price": 105.28,
+      "changePercent": -0.52,
       "previousClose": 102.48,
       "currency": "USD",
       "history": [
         102.4800033569336,
         100.05000305175781,
         101.38999938964844,
-        105.4800033569336
+        105.27999877929688
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4333.4,
-      "changePercent": 0.014,
+      "price": 4321.6,
+      "changePercent": -0.258,
       "previousClose": 4407.3,
       "currency": "USD",
       "history": [
         4407.2998046875,
         4408.89990234375,
         4351.89990234375,
-        4333.39990234375
+        4321.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 99.647,
-      "changePercent": 0.258,
+      "price": 99.677,
+      "changePercent": 0.062,
       "previousClose": 99.09,
       "currency": "USD",
       "history": [
         99.08999633789062,
         99.12000274658203,
         99.45999908447266,
-        99.64700317382812
+        99.677001953125
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[우리품의 아프리카인](52) '이야기꾼' 파티마 \"편해지는 한국어 뿌듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913059800898",
-      "pubDate": "Wed, 16 Sep 2026 07:00:06 +0900"
+      "title": "울산 상남리·무거삼호지구 공동주택 925가구 건축 심의 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260915183900057",
+      "pubDate": "Wed, 16 Sep 2026 09:05:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "제약사 제조·품질관리 위반 반복…5년간 최대 12회 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260915122900017",
-      "pubDate": "Wed, 16 Sep 2026 07:00:05 +0900"
+      "title": "울산 9월 재산세 2천112억원 부과…작년보다 3.3% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260915183600057",
+      "pubDate": "Wed, 16 Sep 2026 09:03:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "베선트, 美국채금리 급등에 \"글로벌 이슈때문…재정적자도 반영\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916001751071",
-      "pubDate": "Wed, 16 Sep 2026 06:34:48 +0900"
+      "title": "구글, K앱·게임 스타트업 동남아 진출 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20260916022100017",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "환자 수상한 통화에 112 신고…보이스피싱 막은 시민 10명 포상",
+      "link": "https://www.yna.co.kr/view/AKR20260916022700004",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "등록된 외국금융기관, 시간·장소 제약 없이 역외원화 거래 가능",
+      "link": "https://www.yna.co.kr/view/AKR20260916032100002",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "잡코리아 \"상반기 AI 직무 공고 128%↑…22%는 비개발 직무\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916032000003",
+      "pubDate": "Wed, 16 Sep 2026 08:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "충남 여성기업 우수·혁신제품 한자리에…천안시청서 박람회",
+      "link": "https://www.yna.co.kr/view/AKR20260916033000063",
+      "pubDate": "Wed, 16 Sep 2026 08:55:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "키움증권 \"고금리 장기화, AI 투자·신용시장 전이 주시해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916029200008",
+      "pubDate": "Wed, 16 Sep 2026 08:54:41 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'30만원 차례상에 지갑 거덜날 판'…추석 앞두고 '초비상'",
-      "link": "https://www.hankyung.com/article/2026091670527",
-      "pubDate": "Wed, 16 Sep 2026 06:34:05 +0900"
+      "title": "EU 산업보조금 역내 집중…英·日·튀르키예 車업계 반발",
+      "link": "https://www.hankyung.com/article/202609167364i",
+      "pubDate": "Wed, 16 Sep 2026 08:51:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'AI 충돌' 아모데이·젠슨 황…\"속도 조절\" vs \"시장에 맡겨라\"",
-      "link": "https://www.hankyung.com/article/2026091670437",
-      "pubDate": "Wed, 16 Sep 2026 06:20:39 +0900"
+      "title": "스타벅스 10억달러 매장 개조…'머무는 카페' 되살린다",
+      "link": "https://www.hankyung.com/article/202609167381i",
+      "pubDate": "Wed, 16 Sep 2026 08:51:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정기검사 제때 안받은 미수검 건설기계 올해만 1만7천대",
-      "link": "https://www.yna.co.kr/view/AKR20260915156600003",
-      "pubDate": "Wed, 16 Sep 2026 06:09:00 +0900"
+      "title": "노브랜드 버거, 군부대에 첫 진출…35사단 신병교육대서 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260916025200030",
+      "pubDate": "Wed, 16 Sep 2026 08:49:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전세보증사고 부담 짊어지는 HUG…5년간 정부 출자 6.4조",
-      "link": "https://www.yna.co.kr/view/AKR20260915153800003",
-      "pubDate": "Wed, 16 Sep 2026 06:07:00 +0900"
+      "title": "보훈부, 카자흐스탄 정부와 '독립운동 사적지 보존' 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260916025700504",
+      "pubDate": "Wed, 16 Sep 2026 08:48:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"추석 차례상 준비에 30만원…전통시장이 대형마트보다 저렴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915123900030",
-      "pubDate": "Wed, 16 Sep 2026 06:00:08 +0900"
+      "title": "흥국증권 \"현대백, 자회사 지누스 실적 개선 지연…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916028800008",
+      "pubDate": "Wed, 16 Sep 2026 08:45:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이마트 군산점, 스타필드마켓으로 재탄생…쇼핑·문화생활까지",
-      "link": "https://www.yna.co.kr/view/AKR20260915155400030",
-      "pubDate": "Wed, 16 Sep 2026 06:00:06 +0900"
+      "title": "네오위즈, 니혼 팔콤과 '영웅전설3 하얀마녀' IP 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260916029600017",
+      "pubDate": "Wed, 16 Sep 2026 08:44:33 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "청년 정규직 뽑으면 최대 4천500만원…서울 강소기업 42곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260915172200004",
-      "pubDate": "Wed, 16 Sep 2026 06:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울서 취업 준비하는 외국인 유학생에 한국어·취업준비 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260915173800004",
-      "pubDate": "Wed, 16 Sep 2026 06:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'연간 17조' 인천시금고 17일 판가름…'청라 하나'vs'20년 신한'",
-      "link": "https://www.yna.co.kr/view/AKR20260915176100002",
-      "pubDate": "Wed, 16 Sep 2026 05:53:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "가계부채 비율 10년 만에 최저…정부 목표치 조기 달성 눈앞",
-      "link": "https://www.yna.co.kr/view/AKR20260915161500002",
-      "pubDate": "Wed, 16 Sep 2026 05:51:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "유상범 \"1등 악성임대인이 떼먹은 보증금 1천400억…회수는 32%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915109600001",
-      "pubDate": "Wed, 16 Sep 2026 05:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "사우디 공급 차질 우려 심화…국제유가 5월 19일 이후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260916005500072",
-      "pubDate": "Wed, 16 Sep 2026 04:58:47 +0900"
+      "source": "한국경제",
+      "title": "\"추석 앞두고 현금 바닥날라\"…백종원, 점주들에 '통큰 선물'",
+      "link": "https://www.hankyung.com/article/202609167338g",
+      "pubDate": "Wed, 16 Sep 2026 08:44:03 +0900"
     }
   ]
 }
