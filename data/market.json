@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:49:03.580Z",
+  "updatedAt": "2026-09-17T06:47:38.263Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26333.0390625,
         26186.41015625,
         25981.5703125,
-        25978.423828125
+        25978.4296875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.23,
-      "changePercent": -0.195,
-      "previousClose": 100.05,
+      "price": 100.55,
+      "changePercent": -1.835,
+      "previousClose": 101.39,
       "currency": "USD",
       "history": [
-        100.05000305175781,
         101.38999938964844,
         105.83000183105469,
-        102.2300033569336
+        102.43000030517578,
+        100.55000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4352.8,
-      "changePercent": -0.791,
-      "previousClose": 4408.9,
+      "price": 4348.4,
+      "changePercent": -0.891,
+      "previousClose": 4351.9,
       "currency": "USD",
       "history": [
-        4408.89990234375,
         4351.89990234375,
         4332.7998046875,
-        4352.7998046875
+        4387.5,
+        4348.39990234375
       ],
       "ok": true
     },
@@ -88,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.327,
-      "changePercent": 0.075,
-      "previousClose": 99.12,
+      "price": 100.157,
+      "changePercent": -0.095,
+      "previousClose": 99.46,
       "currency": "USD",
       "history": [
-        99.12000274658203,
         99.45999908447266,
         99.6500015258789,
         100.30999755859375,
-        100.3270034790039
+        100.15699768066406
       ],
       "ok": true
     },
@@ -122,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "박홍근 \"예산, 미래와 삶에 얼마나 기여할지로 평가받아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917079400002",
-      "pubDate": "Thu, 17 Sep 2026 10:40:43 +0900"
+      "title": "외국환시세(9월17일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260917149000002",
+      "pubDate": "Thu, 17 Sep 2026 15:39:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우려 선반영? 불확실성 완화?…'매파적' 연준에도 코스피 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260917078900008",
-      "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900"
+      "title": "[특징주] 현대약품, 정부 임신중지약 도입 추진에 5% 강세 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260917049251008",
+      "pubDate": "Thu, 17 Sep 2026 15:37:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "불순물 섞인 '짝퉁'도…마운자로 등 불법반입 4배 넘게 폭증",
-      "link": "https://www.yna.co.kr/view/AKR20260917077100002",
-      "pubDate": "Thu, 17 Sep 2026 10:37:32 +0900"
+      "title": "해양교통안전공단 \"공영항로 운영 D-106…실제상황 가정해 준비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917145200051",
+      "pubDate": "Thu, 17 Sep 2026 15:36:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "쌍용건설, 싱가포르서 3조원대 종합병원 공사 수주 '잭팟'",
-      "link": "https://www.yna.co.kr/view/AKR20260917077300003",
-      "pubDate": "Thu, 17 Sep 2026 10:35:45 +0900"
+      "title": "코스피, 등락 끝에 약보합 마감…코스닥은 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260917148900008",
+      "pubDate": "Thu, 17 Sep 2026 15:35:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상반기 특허·상표 출원 역대 최대…개인·신규출원인이 이끌어",
-      "link": "https://www.yna.co.kr/view/AKR20260917080000063",
-      "pubDate": "Thu, 17 Sep 2026 10:35:04 +0900"
+      "title": "산업부, 국내외 120개사 참여 소부장 국제투자 콘퍼런스",
+      "link": "https://www.yna.co.kr/view/AKR20260917147700003",
+      "pubDate": "Thu, 17 Sep 2026 15:33:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "CJ제일제당, 서울청년주간서 '나눔냉장고' 운영…취약청년 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260917079100030",
-      "pubDate": "Thu, 17 Sep 2026 10:33:31 +0900"
+      "title": "[게시판] GLN인터내셔널, 동남아 여행 앱 '그랩' 캐시백 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260917146200002",
+      "pubDate": "Thu, 17 Sep 2026 15:32:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금호타이어 노사, 임금·단협 잠정 합의안 재도출",
-      "link": "https://www.yna.co.kr/view/AKR20260917075500054",
-      "pubDate": "Thu, 17 Sep 2026 10:30:45 +0900"
+      "title": "신한은행, '모두의 AI' 카카오 컨소시엄에 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260917145700002",
+      "pubDate": "Thu, 17 Sep 2026 15:32:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "인천 제물포역 일대 도시재생 본격화…거점시설 준공 앞둬",
-      "link": "https://www.yna.co.kr/view/AKR20260917054500065",
-      "pubDate": "Thu, 17 Sep 2026 10:30:02 +0900"
+      "title": "[외환] 원/달러 환율 13.6원 오른 1,382.2원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260917146900002",
+      "pubDate": "Thu, 17 Sep 2026 15:30:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "보이스피싱 피해금 차단한 빗썸 직원…경찰청장 감사장 받아",
+      "link": "https://www.hankyung.com/article/202609171558i",
+      "pubDate": "Thu, 17 Sep 2026 15:27:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상장협, 내년 전자주총 의무화 앞두고 실무 매뉴얼 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260917062100008",
-      "pubDate": "Thu, 17 Sep 2026 10:30:01 +0900"
+      "title": "NH농협은행, '다우오피스'에 NH임베디드 플랫폼 연계 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20260917144400002",
+      "pubDate": "Thu, 17 Sep 2026 15:26:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260917073500011",
-      "pubDate": "Thu, 17 Sep 2026 10:30:00 +0900"
+      "title": "박홍근 \"예산안·미래기금, 이제 시작…국민눈높이 맞게 설명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917144200002",
+      "pubDate": "Thu, 17 Sep 2026 15:25:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "카스, 아시안게임 '팀코리아' 응원 이벤트…'뷰잉펍'도 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260917062500030",
-      "pubDate": "Thu, 17 Sep 2026 10:28:21 +0900"
+      "title": "중기중앙회, 납품대금 지급기한 30일 단축 방안 토론회",
+      "link": "https://www.yna.co.kr/view/AKR20260917143000030",
+      "pubDate": "Thu, 17 Sep 2026 15:25:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 한화시스템, 'UAE 통합대공망 구축' 추진에 장 초반 7%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260917073200008",
-      "pubDate": "Thu, 17 Sep 2026 10:20:40 +0900"
+      "title": "광주 챔피언스시티 청약 평균경쟁률 1.2대1…상당수 미달",
+      "link": "https://www.yna.co.kr/view/AKR20260917142900054",
+      "pubDate": "Thu, 17 Sep 2026 15:23:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서산 초록광장 공정률 65%…12월 주차 공간 임시 개방",
-      "link": "https://www.yna.co.kr/view/AKR20260917071400063",
-      "pubDate": "Thu, 17 Sep 2026 10:14:06 +0900"
+      "title": "신한은행, 모집인 주담대 특별한도 5천억 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260917143200002",
+      "pubDate": "Thu, 17 Sep 2026 15:23:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "현대건설·서울대병원·서울대, AI 건강 주거 서비스 개발 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260917063200003",
-      "pubDate": "Thu, 17 Sep 2026 10:13:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "음저협, 저작권료 분배 시스템 개선…\"최대 1천200배 빨라져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917058100005",
-      "pubDate": "Thu, 17 Sep 2026 10:13:22 +0900"
+      "title": "고양시, 지역 K-푸드 산업 본격적으로 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260917142000060",
+      "pubDate": "Thu, 17 Sep 2026 15:23:19 +0900"
     }
   ]
 }
