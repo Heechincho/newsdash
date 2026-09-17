@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:20:01.441Z",
+  "updatedAt": "2026-09-17T22:56:13.829Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.15,
-      "changePercent": -1.25,
+      "price": 101.24,
+      "changePercent": -0.657,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
         101.38999938964844,
         105.83000183105469,
         102.43000030517578,
-        101.1500015258789
+        101.23999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4384.2,
-      "changePercent": -0.075,
+      "price": 4383.5,
+      "changePercent": -0.368,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
         4351.89990234375,
         4332.7998046875,
         4387.5,
-        4384.2001953125
+        4383.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.234,
-      "changePercent": -0.018,
+      "price": 100.236,
+      "changePercent": -0.016,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
         99.45999908447266,
         99.6500015258789,
         100.30999755859375,
-        100.23400115966797
+        100.23600006103516
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.45,
-      "changePercent": -12.754,
+      "price": 15.44,
+      "changePercent": -12.818,
       "previousClose": 15.84,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         17.100000381469727,
         17.200000762939453,
         17.709999084472656,
-        15.449999809265137
+        15.4399995803833
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "국제유가, 사우디 공급 우려 완화에 소폭 하락…WTI 101달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260918004300072",
-      "pubDate": "Fri, 18 Sep 2026 05:04:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증",
-      "link": "https://www.hankyung.com/article/202609182447i",
-      "pubDate": "Fri, 18 Sep 2026 00:52:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "아마존의 AI 전력 수혜주는 어디?…나이키는 다우지수 퇴출 위험 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609172432i",
-      "pubDate": "Thu, 17 Sep 2026 23:47:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"금리보다 유가\"…美 증시 하루만에 급반등, 나스닥 1.6%↑",
-      "link": "https://www.hankyung.com/article/202609172437i",
-      "pubDate": "Thu, 17 Sep 2026 23:45:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"日, 3조엔 대미 투자금 반도체공장 건설 협의\"",
-      "link": "https://www.hankyung.com/article/2026091724141",
-      "pubDate": "Thu, 17 Sep 2026 22:54:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美日 5500억패키지 세번째 프로젝트는 반도체 공장 건설\" [닛케이]",
-      "link": "https://www.hankyung.com/article/202609172425i",
-      "pubDate": "Thu, 17 Sep 2026 22:52:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
-      "link": "https://www.hankyung.com/article/2026091718256",
-      "pubDate": "Thu, 17 Sep 2026 22:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "단종된 '추억의 라면'도 뚝딱…1만 권 '스프 처방전'의 비밀 [현장+]",
-      "link": "https://www.hankyung.com/article/202609179876g",
-      "pubDate": "Thu, 17 Sep 2026 22:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼표그룹, 서울국제어린이영화제 후원…영유아 상영관에 1100명 몰려",
-      "link": "https://www.hankyung.com/article/202609172394i",
-      "pubDate": "Thu, 17 Sep 2026 21:47:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "카니 \"EU와 동맹 긍정적\"…트럼프와의 전쟁서 우군 얻어",
-      "link": "https://www.hankyung.com/article/202609172362i",
-      "pubDate": "Thu, 17 Sep 2026 21:47:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한솔제지, 美 라벨시장 공략…접착제 덜 쓰는 '백배리어' 기술 공개",
-      "link": "https://www.hankyung.com/article/202609172385i",
-      "pubDate": "Thu, 17 Sep 2026 21:35:21 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260918012300011",
+      "pubDate": "Fri, 18 Sep 2026 07:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "영국 금리 동결했지만…BOE 총재 \"금리 인상 가능성\" 시사(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260917195852085",
-      "pubDate": "Thu, 17 Sep 2026 21:29:02 +0900"
+      "title": "[반려동물] 본업 살려 유기견 돕는다…기업 동물복지 활동 다변화",
+      "link": "https://www.yna.co.kr/view/AKR20260917178400030",
+      "pubDate": "Fri, 18 Sep 2026 07:00:31 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"18년 만에 쫓겨나는 신세\"…잘 나가던 나이키, 무슨 일이? [갓신상]",
-      "link": "https://www.hankyung.com/article/202609171641g",
-      "pubDate": "Thu, 17 Sep 2026 21:00:05 +0900"
+      "title": "\"80만원인데 찾는다고?\"…비싼데도 불티 난 '명품 한우'의 비밀 [현장+]",
+      "link": "https://www.hankyung.com/article/202609171542g",
+      "pubDate": "Fri, 18 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "물가 꺾여도 금리는 더 오른다?…Fed 점도표에 숨은 '내년 추가 인상' 신호 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609171629i",
+      "pubDate": "Fri, 18 Sep 2026 07:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "민주노총, 메가특구 사회적 대화 참여키로…코로나19 이후 6년만",
-      "link": "https://www.yna.co.kr/view/AKR20260917102700530",
-      "pubDate": "Thu, 17 Sep 2026 20:56:44 +0900"
+      "title": "[만나보니] 캐런 티오 구글 부사장 \"누구나 앱 만드는 시대…품질이 승부\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917185000017",
+      "pubDate": "Fri, 18 Sep 2026 06:00:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[2보] 영국, 금리 3.75%로 동결…BOE 총재 \"금리 인상 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917195851085",
-      "pubDate": "Thu, 17 Sep 2026 20:14:53 +0900"
+      "title": "입법조사처 \"CPTPP 가입 시 마사회·aT 규범 충돌 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917141000030",
+      "pubDate": "Fri, 18 Sep 2026 06:00:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트값 7월에도 상승세 지속…1년 새 15% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260917177800004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융정보분석원, 타지키스탄 국립은행과 자금세탁방지 대응 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260917181900002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 소상공인 매장서 카드 쓰면 추첨 통해 최대 5만원 상품권",
+      "link": "https://www.yna.co.kr/view/AKR20260917184100004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"달아서 안 먹었는데…\" 2030 '해장템'으로 대박 난 정체 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609171684g",
+      "pubDate": "Fri, 18 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "생산자물가 한 달 만에 반등…8월 폭염·유가 상승에 0.2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260917177300002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "추석 차례상 물가 5.1%↑…폭염에 채소류 껑충·과일은 비교적 안정",
+      "link": "https://www.yna.co.kr/view/AKR20260917187600004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, '소셜벤처 리그' 2차 발표평가 통과자 40명 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260917186600030",
+      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "8월 외국인 국내 주식 3천440억 순매수…올해 처음으로 '사자'",
+      "link": "https://www.yna.co.kr/view/AKR20260917188900002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가계·기업부채 비율 급락에 '신용 갭' 20년 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260917171800002",
+      "pubDate": "Fri, 18 Sep 2026 05:51:01 +0900"
     }
   ]
 }
