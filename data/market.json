@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:46:53.379Z",
+  "updatedAt": "2026-09-17T01:49:03.580Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.92,
-      "changePercent": -0.498,
+      "price": 102.23,
+      "changePercent": -0.195,
       "previousClose": 100.05,
       "currency": "USD",
       "history": [
         100.05000305175781,
         101.38999938964844,
         105.83000183105469,
-        101.91999816894531
+        102.2300033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4307.5,
-      "changePercent": -1.823,
+      "price": 4352.8,
+      "changePercent": -0.791,
       "previousClose": 4408.9,
       "currency": "USD",
       "history": [
         4408.89990234375,
         4351.89990234375,
         4332.7998046875,
-        4307.5
+        4352.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.34,
-      "changePercent": 0.088,
+      "price": 100.327,
+      "changePercent": 0.075,
       "previousClose": 99.12,
       "currency": "USD",
       "history": [
         99.12000274658203,
         99.45999908447266,
         99.6500015258789,
-        100.33999633789062
+        100.30999755859375,
+        100.3270034790039
       ],
       "ok": true
     },
@@ -121,93 +122,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "CJ올리브네트웍스, AI 네이티브 신입 공채…'AI 역량진단' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260917034700017",
-      "pubDate": "Thu, 17 Sep 2026 08:41:12 +0900"
+      "title": "박홍근 \"예산, 미래와 삶에 얼마나 기여할지로 평가받아야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917079400002",
+      "pubDate": "Thu, 17 Sep 2026 10:40:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "흥국증권 \"LX인터내셔널, 3분기 호실적 전망…목표가↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917033200008",
-      "pubDate": "Thu, 17 Sep 2026 08:35:28 +0900"
+      "title": "우려 선반영? 불확실성 완화?…'매파적' 연준에도 코스피 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260917078900008",
+      "pubDate": "Thu, 17 Sep 2026 10:40:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대신증권, LG디스플레이 목표가 하향…\"3분기 실적 부진 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917033000008",
-      "pubDate": "Thu, 17 Sep 2026 08:34:24 +0900"
+      "title": "불순물 섞인 '짝퉁'도…마운자로 등 불법반입 4배 넘게 폭증",
+      "link": "https://www.yna.co.kr/view/AKR20260917077100002",
+      "pubDate": "Thu, 17 Sep 2026 10:37:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "하나증권 \"포스코인터, 美가스전 인수로 연간 영업익 1천억 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917031700008",
-      "pubDate": "Thu, 17 Sep 2026 08:34:16 +0900"
+      "title": "쌍용건설, 싱가포르서 3조원대 종합병원 공사 수주 '잭팟'",
+      "link": "https://www.yna.co.kr/view/AKR20260917077300003",
+      "pubDate": "Thu, 17 Sep 2026 10:35:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권, SK 목표가 상향…\"NAV 증가·의결권 가치 확대 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917030700008",
-      "pubDate": "Thu, 17 Sep 2026 08:32:55 +0900"
+      "title": "상반기 특허·상표 출원 역대 최대…개인·신규출원인이 이끌어",
+      "link": "https://www.yna.co.kr/view/AKR20260917080000063",
+      "pubDate": "Thu, 17 Sep 2026 10:35:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한증권, 제일기획 목표가↓…\"주가 반등엔 기다림 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917029200008",
-      "pubDate": "Thu, 17 Sep 2026 08:27:40 +0900"
+      "title": "CJ제일제당, 서울청년주간서 '나눔냉장고' 운영…취약청년 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260917079100030",
+      "pubDate": "Thu, 17 Sep 2026 10:33:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "IBK증권 \"일본은행 9월 금리인상 확실시…日은행주 수혜 주목\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917029500008",
-      "pubDate": "Thu, 17 Sep 2026 08:26:00 +0900"
+      "title": "금호타이어 노사, 임금·단협 잠정 합의안 재도출",
+      "link": "https://www.yna.co.kr/view/AKR20260917075500054",
+      "pubDate": "Thu, 17 Sep 2026 10:30:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한투증권 \"미 금리인상 후 환율 상승했으나 추세 전환은 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917028600008",
-      "pubDate": "Thu, 17 Sep 2026 08:21:37 +0900"
+      "title": "인천 제물포역 일대 도시재생 본격화…거점시설 준공 앞둬",
+      "link": "https://www.yna.co.kr/view/AKR20260917054500065",
+      "pubDate": "Thu, 17 Sep 2026 10:30:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "식약처, '부당광고·불법유통' 치약·화장품·의료기 308건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260917028700017",
-      "pubDate": "Thu, 17 Sep 2026 08:19:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 개발 늦추자더니…오픈AI·앤트로픽 내부 갈등",
-      "link": "https://www.hankyung.com/article/202609179994i",
-      "pubDate": "Thu, 17 Sep 2026 08:17:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "데이터센터는 2년, 전력 연결은 7년…유럽 AI 병목",
-      "link": "https://www.hankyung.com/article/202609179933i",
-      "pubDate": "Thu, 17 Sep 2026 08:07:41 +0900"
+      "title": "상장협, 내년 전자주총 의무화 앞두고 실무 매뉴얼 발간",
+      "link": "https://www.yna.co.kr/view/AKR20260917062100008",
+      "pubDate": "Thu, 17 Sep 2026 10:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 코스피, 美 매파적 금리인상에 변동성 확대 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260917025000008",
-      "pubDate": "Thu, 17 Sep 2026 08:05:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[밤 사이 해외뉴스 영상] 호르무즈 해협 장기 봉쇄…WTI 106달러 돌파",
-      "link": "https://www.hankyung.com/article/202609179938i",
-      "pubDate": "Thu, 17 Sep 2026 08:03:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "윤종신 노래 하나 두고 '돈 문제'…같은 곡인데 무슨 일이",
-      "link": "https://www.hankyung.com/article/2026091692771",
-      "pubDate": "Thu, 17 Sep 2026 08:00:07 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260917073500011",
+      "pubDate": "Thu, 17 Sep 2026 10:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산, 국제금융센터지수 세계 22위…역대 최고 순위",
-      "link": "https://www.yna.co.kr/view/AKR20260917023700051",
-      "pubDate": "Thu, 17 Sep 2026 07:58:37 +0900"
+      "title": "카스, 아시안게임 '팀코리아' 응원 이벤트…'뷰잉펍'도 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260917062500030",
+      "pubDate": "Thu, 17 Sep 2026 10:28:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 한화시스템, 'UAE 통합대공망 구축' 추진에 장 초반 7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260917073200008",
+      "pubDate": "Thu, 17 Sep 2026 10:20:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서산 초록광장 공정률 65%…12월 주차 공간 임시 개방",
+      "link": "https://www.yna.co.kr/view/AKR20260917071400063",
+      "pubDate": "Thu, 17 Sep 2026 10:14:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대건설·서울대병원·서울대, AI 건강 주거 서비스 개발 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260917063200003",
+      "pubDate": "Thu, 17 Sep 2026 10:13:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "음저협, 저작권료 분배 시스템 개선…\"최대 1천200배 빨라져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917058100005",
+      "pubDate": "Thu, 17 Sep 2026 10:13:22 +0900"
     }
   ]
 }
