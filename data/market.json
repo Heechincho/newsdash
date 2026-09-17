@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-17T17:08:12.407Z",
+  "updatedAt": "2026-09-17T20:20:01.441Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7639.07,
-      "changePercent": 1.155,
+      "price": 7637.76,
+      "changePercent": 1.138,
       "previousClose": 7591.7,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7619.97998046875,
         7585.72998046875,
         7551.81005859375,
-        7639.06982421875
+        7637.759765625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26417.256,
-      "changePercent": 1.689,
+      "price": 26418.299,
+      "changePercent": 1.693,
       "previousClose": 26081.72,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26186.41015625,
         25981.5703125,
         25978.4296875,
-        26417.255859375
+        26418.298828125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51826.63,
-      "changePercent": 0.709,
+      "price": 51778.04,
+      "changePercent": 0.614,
       "previousClose": 52064.1,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52421.19921875,
         52093.109375,
         51461.8984375,
-        51826.62890625
+        51778.0390625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.09,
-      "changePercent": -0.332,
+      "price": 101.15,
+      "changePercent": -1.25,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
         101.38999938964844,
         105.83000183105469,
         102.43000030517578,
-        102.08999633789062
+        101.1500015258789
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4401.1,
-      "changePercent": 0.31,
+      "price": 4384.2,
+      "changePercent": -0.075,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
         4351.89990234375,
         4332.7998046875,
         4387.5,
-        4401.10009765625
+        4384.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.248,
-      "changePercent": -0.004,
+      "price": 100.234,
+      "changePercent": -0.018,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
         99.45999908447266,
         99.6500015258789,
         100.30999755859375,
-        100.24800109863281
+        100.23400115966797
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.55,
-      "changePercent": -12.196,
+      "price": 15.45,
+      "changePercent": -12.754,
       "previousClose": 15.84,
       "currency": "USD",
       "history": [
@@ -113,12 +113,18 @@
         17.100000381469727,
         17.200000762939453,
         17.709999084472656,
-        15.550000190734863
+        15.449999809265137
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "국제유가, 사우디 공급 우려 완화에 소폭 하락…WTI 101달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260918004300072",
+      "pubDate": "Fri, 18 Sep 2026 05:04:35 +0900"
+    },
     {
       "source": "한국경제",
       "title": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증",
@@ -202,12 +208,6 @@
       "title": "[2보] 영국, 금리 3.75%로 동결…BOE 총재 \"금리 인상 가능성\"",
       "link": "https://www.yna.co.kr/view/AKR20260917195851085",
       "pubDate": "Thu, 17 Sep 2026 20:14:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운",
-      "link": "https://www.hankyung.com/article/202609172322i",
-      "pubDate": "Thu, 17 Sep 2026 20:09:46 +0900"
     }
   ]
 }
