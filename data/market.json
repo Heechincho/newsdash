@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-17T12:14:08.786Z",
+  "updatedAt": "2026-09-17T17:08:12.407Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7551.81,
-      "changePercent": -0.447,
-      "previousClose": 7636.36,
+      "price": 7639.07,
+      "changePercent": 1.155,
+      "previousClose": 7591.7,
       "currency": "USD",
       "history": [
-        7591.7001953125,
         7656.97998046875,
         7619.97998046875,
         7585.72998046875,
-        7551.81005859375
+        7551.81005859375,
+        7639.06982421875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25978.424,
-      "changePercent": -0.012,
-      "previousClose": 26253.34,
+      "price": 26417.256,
+      "changePercent": 1.689,
+      "previousClose": 26081.72,
       "currency": "USD",
       "history": [
-        26081.720703125,
         26333.0390625,
         26186.41015625,
         25981.5703125,
-        25978.4296875
+        25978.4296875,
+        26417.255859375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51461.9,
-      "changePercent": -1.212,
-      "previousClose": 52380.66,
+      "price": 51826.63,
+      "changePercent": 0.709,
+      "previousClose": 52064.1,
       "currency": "USD",
       "history": [
-        52064.1015625,
         52573.2890625,
         52421.19921875,
         52093.109375,
-        51461.8984375
+        51461.8984375,
+        51826.62890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.79,
-      "changePercent": -2.577,
+      "price": 102.09,
+      "changePercent": -0.332,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
         101.38999938964844,
         105.83000183105469,
         102.43000030517578,
-        99.79000091552734
+        102.08999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4389.7,
-      "changePercent": 0.05,
+      "price": 4401.1,
+      "changePercent": 0.31,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
         4351.89990234375,
         4332.7998046875,
         4387.5,
-        4389.7001953125
+        4401.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.224,
-      "changePercent": -0.028,
+      "price": 100.248,
+      "changePercent": -0.004,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
         99.45999908447266,
         99.6500015258789,
         100.30999755859375,
-        100.2239990234375
+        100.24800109863281
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.84,
-      "changePercent": -10.559,
+      "price": 15.55,
+      "changePercent": -12.196,
       "previousClose": 15.84,
       "currency": "USD",
       "history": [
@@ -113,12 +113,84 @@
         17.100000381469727,
         17.200000762939453,
         17.709999084472656,
-        15.84000015258789
+        15.550000190734863
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "오픈웨이트AI 모델 주의보…암호화폐 해킹 1년새 440%급증",
+      "link": "https://www.hankyung.com/article/202609182447i",
+      "pubDate": "Fri, 18 Sep 2026 00:52:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "아마존의 AI 전력 수혜주는 어디?…나이키는 다우지수 퇴출 위험 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609172432i",
+      "pubDate": "Thu, 17 Sep 2026 23:47:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"금리보다 유가\"…美 증시 하루만에 급반등, 나스닥 1.6%↑",
+      "link": "https://www.hankyung.com/article/202609172437i",
+      "pubDate": "Thu, 17 Sep 2026 23:45:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"日, 3조엔 대미 투자금 반도체공장 건설 협의\"",
+      "link": "https://www.hankyung.com/article/2026091724141",
+      "pubDate": "Thu, 17 Sep 2026 22:54:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"美日 5500억패키지 세번째 프로젝트는 반도체 공장 건설\" [닛케이]",
+      "link": "https://www.hankyung.com/article/202609172425i",
+      "pubDate": "Thu, 17 Sep 2026 22:52:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+]",
+      "link": "https://www.hankyung.com/article/2026091718256",
+      "pubDate": "Thu, 17 Sep 2026 22:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "단종된 '추억의 라면'도 뚝딱…1만 권 '스프 처방전'의 비밀 [현장+]",
+      "link": "https://www.hankyung.com/article/202609179876g",
+      "pubDate": "Thu, 17 Sep 2026 22:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼표그룹, 서울국제어린이영화제 후원…영유아 상영관에 1100명 몰려",
+      "link": "https://www.hankyung.com/article/202609172394i",
+      "pubDate": "Thu, 17 Sep 2026 21:47:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "카니 \"EU와 동맹 긍정적\"…트럼프와의 전쟁서 우군 얻어",
+      "link": "https://www.hankyung.com/article/202609172362i",
+      "pubDate": "Thu, 17 Sep 2026 21:47:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한솔제지, 美 라벨시장 공략…접착제 덜 쓰는 '백배리어' 기술 공개",
+      "link": "https://www.hankyung.com/article/202609172385i",
+      "pubDate": "Thu, 17 Sep 2026 21:35:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "영국 금리 동결했지만…BOE 총재 \"금리 인상 가능성\" 시사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260917195852085",
+      "pubDate": "Thu, 17 Sep 2026 21:29:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"18년 만에 쫓겨나는 신세\"…잘 나가던 나이키, 무슨 일이? [갓신상]",
+      "link": "https://www.hankyung.com/article/202609171641g",
+      "pubDate": "Thu, 17 Sep 2026 21:00:05 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "민주노총, 메가특구 사회적 대화 참여키로…코로나19 이후 6년만",
@@ -136,78 +208,6 @@
       "title": "예상된 인상에 미국채금리 내렸지만…\"긴축사이클 시작\"암운",
       "link": "https://www.hankyung.com/article/202609172322i",
       "pubDate": "Thu, 17 Sep 2026 20:09:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한국 땅 밟자마자 '우르르'…외국인 하루 900명 찾는 '핫플'",
-      "link": "https://www.hankyung.com/article/2026091720321",
-      "pubDate": "Thu, 17 Sep 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한미동맹, 안보 넘어 경제·기술 동맹으로 발전\"",
-      "link": "https://www.hankyung.com/article/202609172320i",
-      "pubDate": "Thu, 17 Sep 2026 19:58:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신한은행 인천시 1금고 수성…\"지역 발전에 최선\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260917192151002",
-      "pubDate": "Thu, 17 Sep 2026 19:54:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신한, 인천시 금고지기 '수성'…20년 동행 이어간다",
-      "link": "https://www.hankyung.com/article/2026091723141",
-      "pubDate": "Thu, 17 Sep 2026 19:51:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "네오사피엔스, 코스닥 시장 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260917192000008",
-      "pubDate": "Thu, 17 Sep 2026 19:39:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"광고 문의만 100개\"…무명 걸그룹에 러브콜 쏟아진 이유 [이슈+]",
-      "link": "https://www.hankyung.com/article/202609171524H",
-      "pubDate": "Thu, 17 Sep 2026 19:21:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "가짜 근로자 모집해 실업급여 5억8천만원 부정수급 사업주 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260917191100530",
-      "pubDate": "Thu, 17 Sep 2026 19:20:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'연간 17조원' 인천시 1금고에 신한은행…20년 연속 금고지기",
-      "link": "https://www.yna.co.kr/view/AKR20260917192100002",
-      "pubDate": "Thu, 17 Sep 2026 19:15:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 한성숙 국무총리, 미국 건국 250주년 기념 만찬 참석",
-      "link": "https://www.hankyung.com/article/202609172281i",
-      "pubDate": "Thu, 17 Sep 2026 19:04:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 미국 건국 250주년 기념 감사만찬 개최",
-      "link": "https://www.hankyung.com/article/202609172278i",
-      "pubDate": "Thu, 17 Sep 2026 19:01:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이청 삼성D 사장 \"폴더블 기술력 우리가 최고…LCD 뼈아픈 경험 되풀이 안 돼\"",
-      "link": "https://www.hankyung.com/article/202609172273i",
-      "pubDate": "Thu, 17 Sep 2026 18:57:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260917189700002",
-      "pubDate": "Thu, 17 Sep 2026 18:56:48 +0900"
     }
   ]
 }
