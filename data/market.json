@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:41:11.334Z",
+  "updatedAt": "2026-09-18T22:51:27.007Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.29,
-      "changePercent": -1.995,
+      "price": 95.47,
+      "changePercent": -1.81,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        95.29000091552734
+        95.47000122070312
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4420.8,
-      "changePercent": 0.48,
+      "price": 4415.9,
+      "changePercent": 0.368,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4332.7998046875,
         4387.5,
         4399.7001953125,
-        4420.7998046875
+        4415.89990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.191,
-      "changePercent": -0.057,
+      "price": 100.215,
+      "changePercent": -0.033,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
-        100.19100189208984
+        100.21499633789062
       ],
       "ok": true
     },
@@ -122,6 +122,42 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260918152000003",
+      "pubDate": "Sat, 19 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[신상잇슈] 오뚜기 '숙성크림 카레고로케'·파리바게뜨 '감자쫀떡'",
+      "link": "https://www.yna.co.kr/view/AKR20260918040300030",
+      "pubDate": "Sat, 19 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[금주핫템] 아이더 '슬림 블렌드 다운 재킷'·씰리침대 '자개 매트리스'",
+      "link": "https://www.yna.co.kr/view/AKR20260917184200030",
+      "pubDate": "Sat, 19 Sep 2026 07:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI돋보기] AI가 질문을 보완하는 시대…프롬프트 비법은 끝났나",
+      "link": "https://www.yna.co.kr/view/AKR20260918121100017",
+      "pubDate": "Sat, 19 Sep 2026 06:33:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"우리들의 뽀통령이 어쩌다\"…테이프 '칭칭' 얼굴 가려진 이유",
+      "link": "https://www.hankyung.com/article/2026091844221",
+      "pubDate": "Sat, 19 Sep 2026 06:00:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“70만원 받던 배우였습니다”…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
+      "link": "https://www.hankyung.com/article/202609078130i",
+      "pubDate": "Sat, 19 Sep 2026 06:00:05 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"이번엔 일본 안 가요\"…'이 나라' 1150만명 몰리자 벌어진 일 [플라잇톡]",
@@ -175,42 +211,6 @@
       "title": "비씨카드·중구, 친환경 포장재 지원 협약",
       "link": "https://www.hankyung.com/article/2026091845281",
       "pubDate": "Fri, 18 Sep 2026 18:17:45 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한미약품 \"북경한미 관련 내부통제 체계 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918172700017",
-      "pubDate": "Fri, 18 Sep 2026 18:15:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김종철 인천경제자유구역청장 취임",
-      "link": "https://www.hankyung.com/article/2026091845311",
-      "pubDate": "Fri, 18 Sep 2026 18:15:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "해성디에스, 2500억 투자해 패널 공법 도입 앞당긴다",
-      "link": "https://www.hankyung.com/article/202609184617i",
-      "pubDate": "Fri, 18 Sep 2026 18:06:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'노란봉투법' 첫 집행정지 인용 나왔다…동희오토, 중노위 결정 제동",
-      "link": "https://www.hankyung.com/article/202609184234i",
-      "pubDate": "Fri, 18 Sep 2026 18:06:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "추석 고속도로 주유소 L당 100원 할인",
-      "link": "https://www.hankyung.com/article/2026091845971",
-      "pubDate": "Fri, 18 Sep 2026 18:02:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260918163300011",
-      "pubDate": "Fri, 18 Sep 2026 18:00:02 +0900"
     }
   ]
 }
