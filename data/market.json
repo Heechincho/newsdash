@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T22:56:13.829Z",
+  "updatedAt": "2026-09-18T01:09:10.591Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.24,
-      "changePercent": -0.657,
+      "price": 101.12,
+      "changePercent": -0.775,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
         101.38999938964844,
         105.83000183105469,
         102.43000030517578,
-        101.23999786376953
+        101.12000274658203
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4383.5,
-      "changePercent": -0.368,
+      "price": 4394.8,
+      "changePercent": -0.111,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
         4351.89990234375,
         4332.7998046875,
         4387.5,
-        4383.5
+        4394.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.236,
-      "changePercent": -0.016,
+      "price": 100.228,
+      "changePercent": -0.02,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
         99.45999908447266,
         99.6500015258789,
         100.30999755859375,
-        100.23600006103516
+        100.22799682617188
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260918012300011",
-      "pubDate": "Fri, 18 Sep 2026 07:30:00 +0900"
+      "title": "[게시판] 공정위, 21일 하도급대금 공시제도·연동제 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260918031000002",
+      "pubDate": "Fri, 18 Sep 2026 10:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[반려동물] 본업 살려 유기견 돕는다…기업 동물복지 활동 다변화",
-      "link": "https://www.yna.co.kr/view/AKR20260917178400030",
-      "pubDate": "Fri, 18 Sep 2026 07:00:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"80만원인데 찾는다고?\"…비싼데도 불티 난 '명품 한우'의 비밀 [현장+]",
-      "link": "https://www.hankyung.com/article/202609171542g",
-      "pubDate": "Fri, 18 Sep 2026 07:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "물가 꺾여도 금리는 더 오른다?…Fed 점도표에 숨은 '내년 추가 인상' 신호 [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609171629i",
-      "pubDate": "Fri, 18 Sep 2026 07:00:04 +0900"
+      "title": "이찬진 금감원장, 금융사들과 추석 맞이 전통시장 나눔 활동",
+      "link": "https://www.yna.co.kr/view/AKR20260918040200002",
+      "pubDate": "Fri, 18 Sep 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[만나보니] 캐런 티오 구글 부사장 \"누구나 앱 만드는 시대…품질이 승부\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917185000017",
-      "pubDate": "Fri, 18 Sep 2026 06:00:16 +0900"
+      "title": "[바이오스냅] 유한양행, 건강기능식품 '유한 데일리 홍삼' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260918033100017",
+      "pubDate": "Fri, 18 Sep 2026 09:58:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "입법조사처 \"CPTPP 가입 시 마사회·aT 규범 충돌 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917141000030",
-      "pubDate": "Fri, 18 Sep 2026 06:00:15 +0900"
+      "title": "현대건설, 대규모 수전해 플랜트 설계 패키지 개발 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260918048600003",
+      "pubDate": "Fri, 18 Sep 2026 09:55:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 아파트값 7월에도 상승세 지속…1년 새 15% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260917177800004",
-      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+      "title": "체이널리시스 \"북한 해커, 사이버 공격에 퍼블릭 블록체인 악용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918049800002",
+      "pubDate": "Fri, 18 Sep 2026 09:53:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융정보분석원, 타지키스탄 국립은행과 자금세탁방지 대응 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260917181900002",
-      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+      "title": "부산공동어시장 현대화 사업 1단계 부지서 오염토…공사 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260918049600051",
+      "pubDate": "Fri, 18 Sep 2026 09:52:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 소상공인 매장서 카드 쓰면 추첨 통해 최대 5만원 상품권",
-      "link": "https://www.yna.co.kr/view/AKR20260917184100004",
-      "pubDate": "Fri, 18 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"달아서 안 먹었는데…\" 2030 '해장템'으로 대박 난 정체 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202609171684g",
-      "pubDate": "Fri, 18 Sep 2026 06:00:05 +0900"
+      "title": "대우건설 정원주 회장, 한-중앙아 정상회의서 협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260918046600003",
+      "pubDate": "Fri, 18 Sep 2026 09:51:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "생산자물가 한 달 만에 반등…8월 폭염·유가 상승에 0.2%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260917177300002",
-      "pubDate": "Fri, 18 Sep 2026 06:00:04 +0900"
+      "title": "희림, 전북금융타운 조성사업 참여…6천억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260918045400003",
+      "pubDate": "Fri, 18 Sep 2026 09:49:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "추석 차례상 물가 5.1%↑…폭염에 채소류 껑충·과일은 비교적 안정",
-      "link": "https://www.yna.co.kr/view/AKR20260917187600004",
-      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+      "title": "K-방산 공급망 보안 강화한다…LIG D&A, 상생협력 파트너십 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260918047500003",
+      "pubDate": "Fri, 18 Sep 2026 09:47:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, '소셜벤처 리그' 2차 발표평가 통과자 40명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260917186600030",
-      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.yna.co.kr/view/AKR20260918048400030",
+      "pubDate": "Fri, 18 Sep 2026 09:47:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "8월 외국인 국내 주식 3천440억 순매수…올해 처음으로 '사자'",
-      "link": "https://www.yna.co.kr/view/AKR20260917188900002",
-      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0900"
+      "title": "김종철 인천경제청장 취임…\"지역산업·투자유치 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918049200065",
+      "pubDate": "Fri, 18 Sep 2026 09:45:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가계·기업부채 비율 급락에 '신용 갭' 20년 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260917171800002",
-      "pubDate": "Fri, 18 Sep 2026 05:51:01 +0900"
+      "title": "[게시판] 파스쿠찌, 여주시와 협력해 쌀·고구마 활용 신메뉴 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260918035600030",
+      "pubDate": "Fri, 18 Sep 2026 09:44:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 삼성전기, 3분기 실적 개선 기대감 등에 장 초반 5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260918047800008",
+      "pubDate": "Fri, 18 Sep 2026 09:43:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이통3사, 아이폰18 프로 개통 시작…지원금 최대 45만원",
+      "link": "https://www.yna.co.kr/view/AKR20260918047200017",
+      "pubDate": "Fri, 18 Sep 2026 09:42:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'중동전쟁 틈타 수조원대 담합' 석유화학업체 경영진 8명 구속심사",
+      "link": "https://www.yna.co.kr/view/AKR20260918047300004",
+      "pubDate": "Fri, 18 Sep 2026 09:42:21 +0900"
     }
   ]
 }
