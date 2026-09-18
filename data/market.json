@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-18T10:53:47.395Z",
+  "updatedAt": "2026-09-18T14:49:33.982Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7637.76,
-      "changePercent": 1.138,
-      "previousClose": 7591.7,
+      "price": 7623.93,
+      "changePercent": -0.181,
+      "previousClose": 7656.98,
       "currency": "USD",
       "history": [
-        7656.97998046875,
         7619.97998046875,
         7585.72998046875,
         7551.81005859375,
-        7637.759765625
+        7637.759765625,
+        7623.93017578125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26418.299,
-      "changePercent": 1.693,
-      "previousClose": 26081.72,
+      "price": 26401.473,
+      "changePercent": -0.064,
+      "previousClose": 26333.04,
       "currency": "USD",
       "history": [
-        26333.0390625,
         26186.41015625,
         25981.5703125,
         25978.4296875,
-        26418.30078125
+        26418.30078125,
+        26401.47265625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51778.04,
-      "changePercent": 0.614,
-      "previousClose": 52064.1,
+      "price": 51541.84,
+      "changePercent": -0.456,
+      "previousClose": 52573.29,
       "currency": "USD",
       "history": [
-        52573.2890625,
         52421.19921875,
         52093.109375,
         51461.8984375,
-        51778.0390625
+        51778.0390625,
+        51541.83984375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.78,
-      "changePercent": -1.491,
+      "price": 97.56,
+      "changePercent": 0.339,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        95.77999877929688
+        97.55999755859375
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4420.9,
-      "changePercent": 0.482,
+      "price": 4390,
+      "changePercent": -0.22,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4332.7998046875,
         4387.5,
         4399.7001953125,
-        4420.89990234375
+        4390
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.43,
-      "changePercent": 0.182,
+      "price": 100.486,
+      "changePercent": 0.237,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
-        100.43000030517578
+        100.48600006103516
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.26,
-      "changePercent": -1.166,
+      "price": 15.42,
+      "changePercent": -0.13,
       "previousClose": 17.1,
       "currency": "USD",
       "history": [
@@ -116,12 +116,30 @@
         17.200000762939453,
         17.709999084472656,
         15.4399995803833,
-        15.260000228881836
+        15.420000076293945
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"이번엔 일본 안 가요\"…'이 나라' 1150만명 몰리자 벌어진 일 [플라잇톡]",
+      "link": "https://www.hankyung.com/article/202609183926g",
+      "pubDate": "Fri, 18 Sep 2026 22:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"설립 2년 만에 7500억 회사 됐다\"…투자자들 몰린 '이 기술'",
+      "link": "https://www.hankyung.com/article/2026091844761",
+      "pubDate": "Fri, 18 Sep 2026 20:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'품절, 품절, 또 품절'…99만개 팔린 빵, 매장 가도 없는 이유 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609183061g",
+      "pubDate": "Fri, 18 Sep 2026 20:00:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "韓총리, 태릉지구 방문…\"국민신뢰 가늠자, 차질없이 추진\"",
@@ -193,24 +211,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260918163300011",
       "pubDate": "Fri, 18 Sep 2026 18:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "석유 최고가격 4주 더 동결…유가 급등했지만 민생안정 방점",
-      "link": "https://www.yna.co.kr/view/AKR20260918157200003",
-      "pubDate": "Fri, 18 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대전역세권 개발 좌초 위기…한화에 최후통첩했지만 '묵묵부답'",
-      "link": "https://www.yna.co.kr/view/AKR20260918165400063",
-      "pubDate": "Fri, 18 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "40% 웃돈도 안통했다…행동주의가 흔든 'M&A 공식'",
-      "link": "https://www.hankyung.com/article/2026091845781",
-      "pubDate": "Fri, 18 Sep 2026 17:46:22 +0900"
     }
   ]
 }
