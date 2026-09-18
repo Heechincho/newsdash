@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:55:48.919Z",
+  "updatedAt": "2026-09-18T10:53:47.395Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.85,
-      "changePercent": -1.04,
+      "price": 95.78,
+      "changePercent": -1.491,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        100.8499984741211
+        95.77999877929688
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4415.1,
-      "changePercent": 0.35,
+      "price": 4420.9,
+      "changePercent": 0.482,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4332.7998046875,
         4387.5,
         4399.7001953125,
-        4415.10009765625
+        4420.89990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.291,
-      "changePercent": 0.043,
+      "price": 100.43,
+      "changePercent": 0.182,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
-        100.29100036621094
+        100.43000030517578
       ],
       "ok": true
     },
@@ -107,16 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.44,
-      "changePercent": -12.818,
-      "previousClose": 15.84,
+      "price": 15.26,
+      "changePercent": -1.166,
+      "previousClose": 17.1,
       "currency": "USD",
       "history": [
-        15.84000015258789,
         17.100000381469727,
         17.200000762939453,
         17.709999084472656,
-        15.4399995803833
+        15.4399995803833,
+        15.260000228881836
       ],
       "ok": true
     }
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "'닥공' 의지 거듭 강조한 李대통령…\"일주일마다 보고받아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918117900003",
-      "pubDate": "Fri, 18 Sep 2026 14:46:02 +0900"
+      "title": "韓총리, 태릉지구 방문…\"국민신뢰 가늠자, 차질없이 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918180500001",
+      "pubDate": "Fri, 18 Sep 2026 19:38:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경남도, 중국 상하이서 DMG그룹과 1천억 국내복귀 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20260918117600052",
-      "pubDate": "Fri, 18 Sep 2026 14:43:25 +0900"
+      "title": "키움증권, 창사 이후 첫 신종자본증권 발행…4천억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260918180400008",
+      "pubDate": "Fri, 18 Sep 2026 19:24:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SK하이닉스 자회사 솔리다임, 미국에 첫 낸드공장 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260918116200003",
-      "pubDate": "Fri, 18 Sep 2026 14:39:42 +0900"
+      "title": "케이비제34호·한국제17호 스팩, 22일 코스닥 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260918176600008",
+      "pubDate": "Fri, 18 Sep 2026 19:07:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강호동 농협회장, 美 현지 계열사 점검…농식품 수출 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260918117100030",
-      "pubDate": "Fri, 18 Sep 2026 14:39:37 +0900"
+      "title": "한국 가입 디지털경제협정 외연 확대…코스타리카 가입 발효",
+      "link": "https://www.yna.co.kr/view/AKR20260918176800003",
+      "pubDate": "Fri, 18 Sep 2026 18:53:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "오세훈 \"서울 집값 뛰기 시작한 시점, 대통령 취임 시기와 맞물려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918109000004",
-      "pubDate": "Fri, 18 Sep 2026 14:35:31 +0900"
+      "title": "靑 \"李대통령 '평탄화' 발언, 가격 변동 추이에 대한 설명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918171600001",
+      "pubDate": "Fri, 18 Sep 2026 18:24:36 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "비씨카드·중구, 친환경 포장재 지원 협약",
+      "link": "https://www.hankyung.com/article/2026091845281",
+      "pubDate": "Fri, 18 Sep 2026 18:17:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정릉골 재개발에 '탄력'…\"국민대 학군단 부지 이주 합의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918116600004",
-      "pubDate": "Fri, 18 Sep 2026 14:35:18 +0900"
+      "title": "한미약품 \"북경한미 관련 내부통제 체계 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918172700017",
+      "pubDate": "Fri, 18 Sep 2026 18:15:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김종철 인천경제자유구역청장 취임",
+      "link": "https://www.hankyung.com/article/2026091845311",
+      "pubDate": "Fri, 18 Sep 2026 18:15:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "해성디에스, 2500억 투자해 패널 공법 도입 앞당긴다",
+      "link": "https://www.hankyung.com/article/202609184617i",
+      "pubDate": "Fri, 18 Sep 2026 18:06:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'노란봉투법' 첫 집행정지 인용 나왔다…동희오토, 중노위 결정 제동",
+      "link": "https://www.hankyung.com/article/202609184234i",
+      "pubDate": "Fri, 18 Sep 2026 18:06:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "추석 고속도로 주유소 L당 100원 할인",
+      "link": "https://www.hankyung.com/article/2026091845971",
+      "pubDate": "Fri, 18 Sep 2026 18:02:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260918109400011",
-      "pubDate": "Fri, 18 Sep 2026 14:30:01 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260918163300011",
+      "pubDate": "Fri, 18 Sep 2026 18:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"부산 가덕신공항, 적정 공사비 확보·인허가 단축이 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918034700051",
-      "pubDate": "Fri, 18 Sep 2026 14:30:00 +0900"
+      "title": "석유 최고가격 4주 더 동결…유가 급등했지만 민생안정 방점",
+      "link": "https://www.yna.co.kr/view/AKR20260918157200003",
+      "pubDate": "Fri, 18 Sep 2026 18:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 미래에셋, 코스피200·코스닥150 선물 ETN 4종 재상장",
-      "link": "https://www.yna.co.kr/view/AKR20260918109800008",
-      "pubDate": "Fri, 18 Sep 2026 14:16:53 +0900"
+      "title": "대전역세권 개발 좌초 위기…한화에 최후통첩했지만 '묵묵부답'",
+      "link": "https://www.yna.co.kr/view/AKR20260918165400063",
+      "pubDate": "Fri, 18 Sep 2026 18:00:01 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "NH농협은행, 씨티그룹과 금융시장 현안 논의…협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260918110800002",
-      "pubDate": "Fri, 18 Sep 2026 14:13:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] KB금융, 청년 소상공인 돕는 'KB착한푸드트럭' 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260918110300002",
-      "pubDate": "Fri, 18 Sep 2026 14:12:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 수은, 대한상의와 '중동발 위기와 기회' 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260918108600002",
-      "pubDate": "Fri, 18 Sep 2026 14:11:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[동정] 해수부 장관, 추석 차례상 수산 성수품 가격 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260918106600030",
-      "pubDate": "Fri, 18 Sep 2026 14:06:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "제주대·제주드림타워 협력체계 구축…발전기금 1억원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260918106500056",
-      "pubDate": "Fri, 18 Sep 2026 14:04:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'세계 2위' K뷰티, 1위 도약 전략 연내 나온다…범부처 TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260918050200530",
-      "pubDate": "Fri, 18 Sep 2026 14:00:08 +0900"
+      "source": "한국경제",
+      "title": "40% 웃돈도 안통했다…행동주의가 흔든 'M&A 공식'",
+      "link": "https://www.hankyung.com/article/2026091845781",
+      "pubDate": "Fri, 18 Sep 2026 17:46:22 +0900"
     }
   ]
 }
