@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T09:48:56.191Z",
+  "updatedAt": "2026-09-19T13:30:25.222Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,12 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202609184253i",
+      "pubDate": "Sat, 19 Sep 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "\"우리 둘만의 비밀을\"…잔나비 초근접 공연에 잠실이 '뭉클' [2026청춘커피페스티벌]",
       "link": "https://www.hankyung.com/article/202609195320i",
       "pubDate": "Sat, 19 Sep 2026 18:07:58 +0900"
@@ -205,12 +211,6 @@
       "title": "\"2.5초 맞추면 공짜\"…잠실 GS25 부스에 구름 인파 [2026청춘커피페스티벌]",
       "link": "https://www.hankyung.com/article/202609195186i",
       "pubDate": "Sat, 19 Sep 2026 15:11:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“첫차도 안 탔다”…밤새 줄 선 청춘들, 잠실서 무슨 일이 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195176i",
-      "pubDate": "Sat, 19 Sep 2026 14:44:47 +0900"
     }
   ]
 }
