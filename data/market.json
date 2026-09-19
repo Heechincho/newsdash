@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:51:27.007Z",
+  "updatedAt": "2026-09-19T01:01:19.391Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,54 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "불황에도 혼자 컸다…中 '가전 공룡' 메이디의 생존법",
+      "link": "https://www.hankyung.com/article/202608313543i",
+      "pubDate": "Sat, 19 Sep 2026 09:00:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“우리가 매출 22%를 떼갔다고?”...'온플법' 위기감에 행동나선 e커머스",
+      "link": "https://www.hankyung.com/article/202609184623i",
+      "pubDate": "Sat, 19 Sep 2026 09:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울공항 주변 비행안전구역 축소방안은…성남시 22일 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260918065900061",
+      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "맥도날드가 '팬미팅장' 됐다…홍콩 2030 홀린 'GD의 30초' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609182456i",
+      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국내은행 상반기 순익 줄어…이자이익 늘어도 부실 위험 커져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918172800002",
+      "pubDate": "Sat, 19 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 올해 韓 성장전망 더 높아질까…금융안정 상황도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260919016400002",
+      "pubDate": "Sat, 19 Sep 2026 08:48:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 더샵분당하이스트 등 전국 4천591가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260918159400003",
+      "pubDate": "Sat, 19 Sep 2026 08:03:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한은, 퇴임한 이창용에 매달 700만원…자문 기록은 \"관리 안 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918089600002",
+      "pubDate": "Sat, 19 Sep 2026 07:55:00 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
       "link": "https://www.yna.co.kr/view/AKR20260918152000003",
@@ -141,6 +189,12 @@
       "pubDate": "Sat, 19 Sep 2026 07:00:03 +0900"
     },
     {
+      "source": "한국경제",
+      "title": "AI 덕에 한국 대박 났는데…\"이미 위험한 단계\" 섬뜩한 경고 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609184079i",
+      "pubDate": "Sat, 19 Sep 2026 07:00:01 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "[AI돋보기] AI가 질문을 보완하는 시대…프롬프트 비법은 끝났나",
       "link": "https://www.yna.co.kr/view/AKR20260918121100017",
@@ -148,69 +202,15 @@
     },
     {
       "source": "한국경제",
-      "title": "\"우리들의 뽀통령이 어쩌다\"…테이프 '칭칭' 얼굴 가려진 이유",
+      "title": "'뽀통령' 얼굴에 테이프 붙인 이유가…1000억 쓰고 '충격'",
       "link": "https://www.hankyung.com/article/2026091844221",
       "pubDate": "Sat, 19 Sep 2026 06:00:12 +0900"
     },
     {
       "source": "한국경제",
-      "title": "“70만원 받던 배우였습니다”…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
+      "title": "\"70만원 받던 배우였습니다\"…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
       "link": "https://www.hankyung.com/article/202609078130i",
       "pubDate": "Sat, 19 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이번엔 일본 안 가요\"…'이 나라' 1150만명 몰리자 벌어진 일 [플라잇톡]",
-      "link": "https://www.hankyung.com/article/202609183926g",
-      "pubDate": "Fri, 18 Sep 2026 22:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"설립 2년 만에 7500억 회사 됐다\"…투자자들 몰린 '이 기술'",
-      "link": "https://www.hankyung.com/article/2026091844761",
-      "pubDate": "Fri, 18 Sep 2026 20:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'품절, 품절, 또 품절'…99만개 팔린 빵, 매장 가도 없는 이유 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202609183061g",
-      "pubDate": "Fri, 18 Sep 2026 20:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "韓총리, 태릉지구 방문…\"국민신뢰 가늠자, 차질없이 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918180500001",
-      "pubDate": "Fri, 18 Sep 2026 19:38:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "키움증권, 창사 이후 첫 신종자본증권 발행…4천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260918180400008",
-      "pubDate": "Fri, 18 Sep 2026 19:24:26 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "케이비제34호·한국제17호 스팩, 22일 코스닥 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260918176600008",
-      "pubDate": "Fri, 18 Sep 2026 19:07:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국 가입 디지털경제협정 외연 확대…코스타리카 가입 발효",
-      "link": "https://www.yna.co.kr/view/AKR20260918176800003",
-      "pubDate": "Fri, 18 Sep 2026 18:53:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "靑 \"李대통령 '평탄화' 발언, 가격 변동 추이에 대한 설명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918171600001",
-      "pubDate": "Fri, 18 Sep 2026 18:24:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "비씨카드·중구, 친환경 포장재 지원 협약",
-      "link": "https://www.hankyung.com/article/2026091845281",
-      "pubDate": "Fri, 18 Sep 2026 18:17:45 +0900"
     }
   ]
 }
