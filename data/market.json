@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:01:19.391Z",
+  "updatedAt": "2026-09-19T05:49:26.972Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25981.5703125,
         25978.4296875,
         26418.30078125,
-        26522.544921875
+        26522.5390625
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.47,
-      "changePercent": -1.81,
+      "price": 96.08,
+      "changePercent": -1.183,
       "previousClose": 101.39,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        95.47000122070312
+        100.30000305175781
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4415.9,
-      "changePercent": 0.368,
+      "price": 4424.9,
+      "changePercent": 0.573,
       "previousClose": 4351.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4332.7998046875,
         4387.5,
         4399.7001953125,
-        4415.89990234375
+        4424.89990234375
       ],
       "ok": true
     },
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 100.215,
-      "changePercent": -0.033,
+      "changePercent": -0.007,
       "previousClose": 99.46,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
-        100.21499633789062
+        100.22000122070312
       ],
       "ok": true
     },
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "불황에도 혼자 컸다…中 '가전 공룡' 메이디의 생존법",
-      "link": "https://www.hankyung.com/article/202608313543i",
-      "pubDate": "Sat, 19 Sep 2026 09:00:18 +0900"
+      "title": "백미당 '사과 요거트 아이스크림' 첫선… 70~80명 긴 줄 [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609195191i",
+      "pubDate": "Sat, 19 Sep 2026 14:40:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
+      "link": "https://www.yna.co.kr/view/AKR20260919040600542",
+      "pubDate": "Sat, 19 Sep 2026 14:27:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "“우리가 매출 22%를 떼갔다고?”...'온플법' 위기감에 행동나선 e커머스",
-      "link": "https://www.hankyung.com/article/202609184623i",
-      "pubDate": "Sat, 19 Sep 2026 09:00:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울공항 주변 비행안전구역 축소방안은…성남시 22일 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260918065900061",
-      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
+      "title": "스타벅스 '이 컵' 공짜로 준다니…잠실 잔디광장 북새통 [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609195178i",
+      "pubDate": "Sat, 19 Sep 2026 14:23:36 +0900"
     },
     {
       "source": "한국경제",
-      "title": "맥도날드가 '팬미팅장' 됐다…홍콩 2030 홀린 'GD의 30초' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609182456i",
-      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
+      "title": "잠실서 대박 터진 빽다방…1시간 만에 커피 200잔 동났다 [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609195165i",
+      "pubDate": "Sat, 19 Sep 2026 14:22:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"국내은행 상반기 순익 줄어…이자이익 늘어도 부실 위험 커져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918172800002",
-      "pubDate": "Sat, 19 Sep 2026 09:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 올해 韓 성장전망 더 높아질까…금융안정 상황도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260919016400002",
-      "pubDate": "Sat, 19 Sep 2026 08:48:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 더샵분당하이스트 등 전국 4천591가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260918159400003",
-      "pubDate": "Sat, 19 Sep 2026 08:03:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한은, 퇴임한 이창용에 매달 700만원…자문 기록은 \"관리 안 해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918089600002",
-      "pubDate": "Sat, 19 Sep 2026 07:55:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260918152000003",
-      "pubDate": "Sat, 19 Sep 2026 07:01:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 오뚜기 '숙성크림 카레고로케'·파리바게뜨 '감자쫀떡'",
-      "link": "https://www.yna.co.kr/view/AKR20260918040300030",
-      "pubDate": "Sat, 19 Sep 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 아이더 '슬림 블렌드 다운 재킷'·씰리침대 '자개 매트리스'",
-      "link": "https://www.yna.co.kr/view/AKR20260917184200030",
-      "pubDate": "Sat, 19 Sep 2026 07:00:03 +0900"
+      "title": "건설업체 서한, 추석 앞두고 협력사 125곳에 공사대금 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260919039100053",
+      "pubDate": "Sat, 19 Sep 2026 14:00:21 +0900"
     },
     {
       "source": "한국경제",
-      "title": "AI 덕에 한국 대박 났는데…\"이미 위험한 단계\" 섬뜩한 경고 [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609184079i",
-      "pubDate": "Sat, 19 Sep 2026 07:00:01 +0900"
+      "title": "\"청춘에겐 음악이 '디폴트'\"…잔디 광장 달군 락 사운드 [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609195174i",
+      "pubDate": "Sat, 19 Sep 2026 13:57:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "오픈런 줄섰다…잠실 핫플된 이디야 '100% 당첨 룰렛' [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609195161i",
+      "pubDate": "Sat, 19 Sep 2026 13:54:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"이거 장원영이네\" Z세대 '밈' 뭐길래…'대박' 이유 있었다 [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202609184078g",
+      "pubDate": "Sat, 19 Sep 2026 13:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI돋보기] AI가 질문을 보완하는 시대…프롬프트 비법은 끝났나",
-      "link": "https://www.yna.co.kr/view/AKR20260918121100017",
-      "pubDate": "Sat, 19 Sep 2026 06:33:00 +0900"
+      "title": "인천 강화서 구제역 추가 발생…소 2마리 항원 양성",
+      "link": "https://www.yna.co.kr/view/AKR20260919033700030",
+      "pubDate": "Sat, 19 Sep 2026 12:00:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'뽀통령' 얼굴에 테이프 붙인 이유가…1000억 쓰고 '충격'",
-      "link": "https://www.hankyung.com/article/2026091844221",
-      "pubDate": "Sat, 19 Sep 2026 06:00:12 +0900"
+      "title": "[단독] 40일 뒤 기업들 어쩌나…문자 시장 '대혼란' 초읽기",
+      "link": "https://www.hankyung.com/article/202609195099H",
+      "pubDate": "Sat, 19 Sep 2026 11:48:19 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"70만원 받던 배우였습니다\"…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
-      "link": "https://www.hankyung.com/article/202609078130i",
-      "pubDate": "Sat, 19 Sep 2026 06:00:05 +0900"
+      "title": "하루아침에 회사가 사라졌다…'85만 차주' 날벼락 맞은 이유 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609120317i",
+      "pubDate": "Sat, 19 Sep 2026 11:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "순창 동계 밤, 12년 연속 중국 수출…올해 총 150ｔ 선적",
+      "link": "https://www.yna.co.kr/view/AKR20260919027900055",
+      "pubDate": "Sat, 19 Sep 2026 10:53:35 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260919026200011",
+      "pubDate": "Sat, 19 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "KF-21·무인기 '한 팀'으로…KAI가 그리는 미래 공중전 체계",
+      "link": "https://www.hankyung.com/article/202609171191i",
+      "pubDate": "Sat, 19 Sep 2026 10:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"GPU는 잊어라\" 경쟁사도 품은 엔비디아, 다음 먹거리는? [김인엽의 AI 프런티어]",
+      "link": "https://www.hankyung.com/article/202609184402i",
+      "pubDate": "Sat, 19 Sep 2026 10:00:04 +0900"
     }
   ]
 }
