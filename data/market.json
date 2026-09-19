@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:00:12.949Z",
+  "updatedAt": "2026-09-19T21:27:04.028Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "69만원 한우 세트 사러 백화점 갔다가…'이럴 수가' 화들짝 [류은혁의 유통기한]",
-      "link": "https://www.hankyung.com/article/202609184253i",
-      "pubDate": "Sat, 19 Sep 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"우리 둘만의 비밀을\"…잔나비 초근접 공연에 잠실이 '뭉클' [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195320i",
-      "pubDate": "Sat, 19 Sep 2026 18:07:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "헤드폰 쓰고 100명이 '멍'…커피 축제 한복판에서 '싱잉볼 명상' [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195243i",
-      "pubDate": "Sat, 19 Sep 2026 18:04:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'건물 사이에 피어난 장미' 울려 퍼지자…잠실 달군 하이키 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195303i",
-      "pubDate": "Sat, 19 Sep 2026 18:00:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "땡볕에 1200명 줄세웠다…커피팬 홀린 '곰돌이' 정체 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195297i",
-      "pubDate": "Sat, 19 Sep 2026 17:01:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“편의점 커피 맞아?”…2030 줄세운 CU '겟 커피' 뭐길래 [2026 청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195284i",
-      "pubDate": "Sat, 19 Sep 2026 16:45:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“인스타 팔로우만 해도 경품이 쏟아진다”…500명 몰린 잠실 이곳은 어디 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195166i",
-      "pubDate": "Sat, 19 Sep 2026 16:40:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“커피 마시려고 1시간 줄섰다” … 세븐일레븐 앞 '북적' [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195215i",
-      "pubDate": "Sat, 19 Sep 2026 16:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "보석 대신 에나멜·모래…명품이 '값싼 소재'에 꽂힌 이유 [안혜원의 명품의세계]",
-      "link": "https://www.hankyung.com/article/202609195051i",
-      "pubDate": "Sat, 19 Sep 2026 16:00:01 +0900"
+      "source": "연합뉴스",
+      "title": "취준생 몰리던 '네카오'…공채 멈추고 취업문 좁아지나",
+      "link": "https://www.yna.co.kr/view/AKR20260918167700017",
+      "pubDate": "Sun, 20 Sep 2026 06:15:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동정] 농식품부 장관, 추석 앞두고 경기 이천 농촌체험휴양마을 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260919035100030",
-      "pubDate": "Sat, 19 Sep 2026 15:30:00 +0900"
+      "title": "시장경보 4종목중 1개는 20일만에 30%↓…개미는 그래도 '사자'",
+      "link": "https://www.yna.co.kr/view/AKR20260919002900008",
+      "pubDate": "Sun, 20 Sep 2026 06:10:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "학자금채무자 해외이주 미신고 4년새 4배…파악까지 평균 254일",
+      "link": "https://www.yna.co.kr/view/AKR20260919030800530",
+      "pubDate": "Sun, 20 Sep 2026 06:09:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'친환경' 제품 인증 취소 3년간 464건…사유 공개는 '부실'",
+      "link": "https://www.yna.co.kr/view/AKR20260918132200530",
+      "pubDate": "Sun, 20 Sep 2026 06:08:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "외국인이 받은 육아휴직 급여 1년새 2배로…지난해 364억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260918144200530",
+      "pubDate": "Sun, 20 Sep 2026 06:05:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "도수치료 제한하자 신장분사 치료 청구 53%↑…'풍선효과' 현실화",
+      "link": "https://www.yna.co.kr/view/AKR20260919041100530",
+      "pubDate": "Sun, 20 Sep 2026 06:01:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부동산 정책 몇달만에 잇단 조정…시장은 '예측가능성' 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260918167600003",
+      "pubDate": "Sun, 20 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공정위 민생사정 속도전에 기업 불복…현장조사부터 제동",
+      "link": "https://www.yna.co.kr/view/AKR20260918190200002",
+      "pubDate": "Sun, 20 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
+      "link": "https://www.yna.co.kr/view/AKR20260918189100008",
+      "pubDate": "Sun, 20 Sep 2026 06:00:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"빵이랑 찰떡이네\"… 파리바게뜨 부스에 관람객 몰린 이유 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195239i",
-      "pubDate": "Sat, 19 Sep 2026 15:22:10 +0900"
+      "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 'K푸드 2.0' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609183572i",
+      "pubDate": "Sun, 20 Sep 2026 06:00:02 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "북적이는 축제속 고요한 커피머신 작동음…카누가 만든 홈카페 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195237i",
-      "pubDate": "Sat, 19 Sep 2026 15:19:34 +0900"
+      "source": "연합뉴스",
+      "title": "재계, 메가특구 사회적 대화에 \"시간끌기용 명분쌓기\" 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260918134000003",
+      "pubDate": "Sun, 20 Sep 2026 05:59:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "어른들 커피 축제인 줄 알았는데…애들 놀이터가 된 잠실 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195217i",
-      "pubDate": "Sat, 19 Sep 2026 15:17:37 +0900"
+      "source": "연합뉴스",
+      "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
+      "link": "https://www.yna.co.kr/view/AKR20260919051000003",
+      "pubDate": "Sun, 20 Sep 2026 05:57:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"커피만 마시는 축제 아니었네\"…부모·아이 몰린 잠실 '이곳'[2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195164i",
-      "pubDate": "Sat, 19 Sep 2026 15:16:03 +0900"
+      "source": "연합뉴스",
+      "title": "조달금리 올랐지만 카드론 금리 동결…\"중금리대출 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260919051600002",
+      "pubDate": "Sun, 20 Sep 2026 05:57:00 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"2.5초 맞추면 공짜\"…잠실 GS25 부스에 구름 인파 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609195186i",
-      "pubDate": "Sat, 19 Sep 2026 15:11:42 +0900"
+      "source": "연합뉴스",
+      "title": "주요국 금리인상에 기업 경영전략 '빨간불'…조달비용 커진다",
+      "link": "https://www.yna.co.kr/view/AKR20260918147200003",
+      "pubDate": "Sun, 20 Sep 2026 05:55:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시, DMC 홍보관용지 재차 매각 공고…이번엔 새 주인 찾을까",
+      "link": "https://www.yna.co.kr/view/AKR20260918116900004",
+      "pubDate": "Sun, 20 Sep 2026 05:55:02 +0900"
     }
   ]
 }
