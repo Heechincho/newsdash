@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:05:05.813Z",
+  "updatedAt": "2026-09-20T23:13:04.922Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.08,
-      "changePercent": -1.183,
+      "price": 95.94,
+      "changePercent": -0.146,
       "previousClose": 105.83,
       "currency": "USD",
       "history": [
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        96.08000183105469
+        100.30000305175781,
+        95.94000244140625
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4424.9,
-      "changePercent": 0.573,
+      "price": 4412.1,
+      "changePercent": -0.289,
       "previousClose": 4332.8,
       "currency": "USD",
       "history": [
         4332.7998046875,
         4387.5,
         4399.7001953125,
-        4424.89990234375
+        4424.89990234375,
+        4412.10009765625
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.215,
-      "changePercent": -0.007,
+      "price": 100.275,
+      "changePercent": 0.053,
       "previousClose": 99.65,
       "currency": "USD",
       "history": [
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
-        100.22000122070312
+        100.22000122070312,
+        100.2750015258789
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "건설노동자, 전자카드 한달에 15일쓰면 2만원 상품권…홍보행사",
-      "link": "https://www.yna.co.kr/view/AKR20260918168800530",
-      "pubDate": "Mon, 21 Sep 2026 06:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경제인협회 \"반도체 공장 가동 앞두고 도로·용수 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920032500003",
-      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"'급여' 표시 안 하면 금리감면 못 받아\"…금감원, 소비자 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260920043800002",
-      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신세계百, 외국인 대상 '글로벌 쇼핑 페스타'…\"올해 최대규모\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920038800030",
-      "pubDate": "Mon, 21 Sep 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB국민은행, 정기예금 금리 추가 인상…최고 연 3.5%",
-      "link": "https://www.yna.co.kr/view/AKR20260920049000002",
-      "pubDate": "Mon, 21 Sep 2026 05:59:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
-      "link": "https://www.yna.co.kr/view/AKR20260919058400002",
-      "pubDate": "Mon, 21 Sep 2026 05:57:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"성인도 벌기 힘든 돈인데\"…'억대 연봉' 받는 미성년 사장 21명",
-      "link": "https://www.yna.co.kr/view/AKR20260918165100002",
-      "pubDate": "Mon, 21 Sep 2026 05:55:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "민생 특사경, 수심위 없이도 수사 착수…\"불법사금융은 속도전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920030200002",
-      "pubDate": "Mon, 21 Sep 2026 05:53:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미성년자 미수거래 금지 명문화…증권사들 곧 선제조치할 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260920033700002",
-      "pubDate": "Mon, 21 Sep 2026 05:51:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920037700003",
-      "pubDate": "Mon, 21 Sep 2026 00:00:00 +0900"
+      "title": "부산시, 10억원 투입 소상공인 공공배달 소비 쿠폰 20만장 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260921014800051",
+      "pubDate": "Mon, 21 Sep 2026 08:06:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "“삼전닉스 추격한다”…CXMT, D램 미세공정 한단계 도약",
-      "link": "https://www.hankyung.com/article/202609206464i",
-      "pubDate": "Sun, 20 Sep 2026 20:02:09 +0900"
+      "title": "금값 4390달러로 반등…유가 하락에 숏포지션 청산",
+      "link": "https://www.hankyung.com/article/202609216802i",
+      "pubDate": "Mon, 21 Sep 2026 08:04:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"집·차는 못 사도 이건 산다\"…'뜻밖의 소비'에 빠진 2030 [김기자의 알고리즘]",
-      "link": "https://www.hankyung.com/article/202609183185H",
-      "pubDate": "Sun, 20 Sep 2026 19:29:34 +0900"
+      "title": "[속보] 4분기 전기요금 동결…연료비조정단가 '+5'원 유지",
+      "link": "https://www.hankyung.com/article/2026092168607",
+      "pubDate": "Mon, 21 Sep 2026 08:04:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산형 청년 일자리 정책, 첫 경력 12개월 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260921014700051",
+      "pubDate": "Mon, 21 Sep 2026 08:02:12 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"이걸 왜 사가요?\"…외국인들 쇼핑 목록 보니 '대반전'",
-      "link": "https://www.hankyung.com/article/2026092063581",
-      "pubDate": "Sun, 20 Sep 2026 18:24:41 +0900"
+      "title": "[밤 사이 해외 뉴스] 500조 현금 쌓은 벅셔…주가 폭락한 이유",
+      "link": "https://www.hankyung.com/article/202609216810i",
+      "pubDate": "Mon, 21 Sep 2026 08:00:30 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 오피스 '대형 딜' 휩쓴 세빌스…매각자문 실적 3.7조원",
+      "link": "https://www.yna.co.kr/view/AKR20260919007000008",
+      "pubDate": "Mon, 21 Sep 2026 08:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "AI 활용 음악에 저작권 인정할까…'신탁 기준 마련 토론회'",
+      "link": "https://www.yna.co.kr/view/AKR20260921009900005",
+      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[마켓뷰] 코스피, 추석연휴 전후 '전강후약' 반복되나",
+      "link": "https://www.yna.co.kr/view/AKR20260921011700008",
+      "pubDate": "Mon, 21 Sep 2026 07:47:59 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"환율, 1400원 뚫을 수 있지만 추세적 상승은 어려울 듯\"",
-      "link": "https://www.hankyung.com/article/2026092062831",
-      "pubDate": "Sun, 20 Sep 2026 18:23:20 +0900"
+      "title": "'1기에 20조원?'…美 원전 투자안, 신한울의 3배 넘는다",
+      "link": "https://www.hankyung.com/article/2026092167567",
+      "pubDate": "Mon, 21 Sep 2026 07:34:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대한상의 중견위 \"중견기업 특수성 고려한 맞춤형 정책 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920035300003",
+      "pubDate": "Mon, 21 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260921009800011",
+      "pubDate": "Mon, 21 Sep 2026 07:30:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "작년 온실가스 배출…0.9% 감소한 6.5억t",
-      "link": "https://www.hankyung.com/article/2026092062851",
-      "pubDate": "Sun, 20 Sep 2026 18:23:08 +0900"
+      "title": "美 10년물 5% 뚫었는데 나스닥은 올랐다…미 증시 버틴 진짜 이유 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609206240i",
+      "pubDate": "Mon, 21 Sep 2026 07:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "통신비 감면 대상인데도…210만명 혜택 놓쳤다",
+      "link": "https://www.yna.co.kr/view/AKR20260918081500017",
+      "pubDate": "Mon, 21 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "홍콩서 '150억' 쓸어담았다…매출 170% 폭등한 한국 제품 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609183779i",
+      "pubDate": "Mon, 21 Sep 2026 07:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'왜 저기만 깎아줘?'…정부 발표에 주유소업계 뿔난 까닭",
+      "link": "https://www.hankyung.com/article/2026092166977",
+      "pubDate": "Mon, 21 Sep 2026 06:40:39 +0900"
     }
   ]
 }
