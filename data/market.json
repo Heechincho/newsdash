@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:29:28.504Z",
+  "updatedAt": "2026-09-20T06:54:21.894Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,14 +58,13 @@
       "symbol": "CL=F",
       "price": 96.08,
       "changePercent": -1.183,
-      "previousClose": 101.39,
+      "previousClose": 105.83,
       "currency": "USD",
       "history": [
-        101.38999938964844,
         105.83000183105469,
         102.43000030517578,
         101.91000366210938,
-        100.30000305175781
+        96.08000183105469
       ],
       "ok": true
     },
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4424.9,
       "changePercent": 0.573,
-      "previousClose": 4351.9,
+      "previousClose": 4332.8,
       "currency": "USD",
       "history": [
-        4351.89990234375,
         4332.7998046875,
         4387.5,
         4399.7001953125,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 100.215,
       "changePercent": -0.007,
-      "previousClose": 99.46,
+      "previousClose": 99.65,
       "currency": "USD",
       "history": [
-        99.45999908447266,
         99.6500015258789,
         100.30999755859375,
         100.22000122070312,
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "LG이노텍, AI로 최적 부품 찾는다…견적 산출시간 70% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260920016500003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:09 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260920029400011",
+      "pubDate": "Sun, 20 Sep 2026 15:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260920014600003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260920015500003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리",
-      "link": "https://www.yna.co.kr/view/AKR20260920015800060",
-      "pubDate": "Sun, 20 Sep 2026 09:54:47 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "호반건설, 서울 창동상아1차 재건축 등 도시정비 2건 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260920015100003",
-      "pubDate": "Sun, 20 Sep 2026 09:39:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LG생활건강, 한국식품연구원과 건강기능식품 공동개발",
-      "link": "https://www.yna.co.kr/view/AKR20260920015000030",
-      "pubDate": "Sun, 20 Sep 2026 09:39:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260920014400003",
-      "pubDate": "Sun, 20 Sep 2026 09:25:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "SOVAC, 21∼22일 사회적가치 페스타…'지역의 미래' 해법 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260920013300003",
-      "pubDate": "Sun, 20 Sep 2026 09:07:18 +0900"
+      "title": "\"약 배송 확대 정책 철회하라\"…광화문에 모인 약사들",
+      "link": "https://www.yna.co.kr/view/AKR20260920026100017",
+      "pubDate": "Sun, 20 Sep 2026 15:00:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "하브 연비 L당 17.4㎞…'싼타페급'으로 넓어진 현대차 투싼",
-      "link": "https://www.hankyung.com/article/202609171748g",
-      "pubDate": "Sun, 20 Sep 2026 09:00:11 +0900"
+      "title": "커피만 있는 게 아니네…잠실 달군 '완벽한 블렌딩' 축제 [2026청춘커피페스티벌]",
+      "link": "https://www.hankyung.com/article/202609206070i",
+      "pubDate": "Sun, 20 Sep 2026 14:50:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"120억으로 예금만 했는데\"…5년 새 누적수익률 80% 비결",
-      "link": "https://www.hankyung.com/article/202609183238i",
-      "pubDate": "Sun, 20 Sep 2026 09:00:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "소공연 \"추석엔 전통시장·동네 가게 적극 이용해달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260919023300030",
-      "pubDate": "Sun, 20 Sep 2026 09:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "우리은행, 홀몸 어르신 9천722가구에 생활필수품",
-      "link": "https://www.yna.co.kr/view/AKR20260918186700002",
-      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB국민은행, 전통시장 구매 생필품 취약계층과 나눠",
-      "link": "https://www.yna.co.kr/view/AKR20260918186900002",
-      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
+      "title": "[2026 청춘 커피 페스티벌 포토] 축제 열기 끌어올린 하이키…남다른 무대 장악력",
+      "link": "https://www.hankyung.com/article/202609206073i",
+      "pubDate": "Sun, 20 Sep 2026 14:43:53 +0900"
     },
     {
       "source": "한국경제",
-      "title": "비트코인, '클래리티 쇼크' 이틀 만에 극복…7만7000달러선 탈환",
-      "link": "https://www.hankyung.com/article/202609184406i",
-      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
+      "title": "[단독] '美 월가 억만장자' 드러켄밀러 첫 방한…삼성·SK·두산과 투자 논의",
+      "link": "https://www.hankyung.com/article/202609205724i",
+      "pubDate": "Sun, 20 Sep 2026 14:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 85억 빌려주더니…대표 사생활 약점잡아 회사 '꿀꺽'",
+      "link": "https://www.hankyung.com/article/202609205938i",
+      "pubDate": "Sun, 20 Sep 2026 14:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[2026 청춘 커피 페스티벌 포토] 잔나비 목소리에 물든 잠실",
+      "link": "https://www.hankyung.com/article/202609206037i",
+      "pubDate": "Sun, 20 Sep 2026 13:55:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "혼인 세액공제 폐지 소식에 '울상'…알고 보니 더 이득?",
+      "link": "https://www.hankyung.com/article/202609206021i",
+      "pubDate": "Sun, 20 Sep 2026 13:39:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한금융, 베트남 시총 1위 빈그룹과 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260919041200002",
-      "pubDate": "Sun, 20 Sep 2026 09:00:03 +0900"
+      "title": "중국서 '유황 훈증 죽순' 논란…식약처 \"농산물 형태 수입없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920027000017",
+      "pubDate": "Sun, 20 Sep 2026 13:17:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "조선업 청년들이 말하는 일터의 조건…울산 동구서 원탁회의",
+      "link": "https://www.yna.co.kr/view/AKR20260918160900057",
+      "pubDate": "Sun, 20 Sep 2026 13:05:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'내 월급은 그대로인데?' 평균 임금 '431만원' 뚫은 이유 보니…",
+      "link": "https://www.hankyung.com/article/202609205975g",
+      "pubDate": "Sun, 20 Sep 2026 12:58:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "충주시, 중국 로봇 전문기업과 맞손…생산시설 확충 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260920025500064",
+      "pubDate": "Sun, 20 Sep 2026 12:43:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KRX애프터마켓 개장 일주일…거래대금 변화추이 살펴보니",
+      "link": "https://www.yna.co.kr/view/AKR20260919033200008",
+      "pubDate": "Sun, 20 Sep 2026 12:41:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한국처럼 15% 달라\"…삼전닉스 따라 직원들 결국 움직였다 [김대영의 노무스쿨]",
+      "link": "https://www.hankyung.com/article/202609205920g",
+      "pubDate": "Sun, 20 Sep 2026 12:30:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'글자체 디자인' 출원은 더 간편히, 3D도면 출원은 더 정확히",
+      "link": "https://www.yna.co.kr/view/AKR20260918060900063",
+      "pubDate": "Sun, 20 Sep 2026 12:00:16 +0900"
     }
   ]
 }
