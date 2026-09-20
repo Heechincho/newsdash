@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:26:11.476Z",
+  "updatedAt": "2026-09-20T01:29:28.504Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 수은, 추석 앞두고 사회복지시설에 3억6천만원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260919055600002",
-      "pubDate": "Sun, 20 Sep 2026 08:05:00 +0900"
+      "title": "LG이노텍, AI로 최적 부품 찾는다…견적 산출시간 70% 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260920016500003",
+      "pubDate": "Sun, 20 Sep 2026 10:00:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[현장in] '건축비 폭등·주관사 이견'…평택 아주대병원 8년째 공회전",
-      "link": "https://www.yna.co.kr/view/AKR20260918131100061",
-      "pubDate": "Sun, 20 Sep 2026 08:01:02 +0900"
+      "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260920014600003",
+      "pubDate": "Sun, 20 Sep 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"불기소됐으니 11억\" 이만희 상대 소송 건 법무법인…2심도 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260919039900004",
-      "pubDate": "Sun, 20 Sep 2026 08:00:01 +0900"
+      "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260920015500003",
+      "pubDate": "Sun, 20 Sep 2026 10:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산시, 동백전 캐시백 이달 30일까지 최대 15%로 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260920007100051",
-      "pubDate": "Sun, 20 Sep 2026 07:56:55 +0900"
+      "title": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리",
+      "link": "https://www.yna.co.kr/view/AKR20260920015800060",
+      "pubDate": "Sun, 20 Sep 2026 09:54:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[경산소식] 착한가격업소 이용하면 월 최대 2만5천 원 돌려준다",
-      "link": "https://www.yna.co.kr/view/AKR20260918129100053",
-      "pubDate": "Sun, 20 Sep 2026 07:37:00 +0900"
+      "title": "호반건설, 서울 창동상아1차 재건축 등 도시정비 2건 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260920015100003",
+      "pubDate": "Sun, 20 Sep 2026 09:39:54 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "LG생활건강, 한국식품연구원과 건강기능식품 공동개발",
+      "link": "https://www.yna.co.kr/view/AKR20260920015000030",
+      "pubDate": "Sun, 20 Sep 2026 09:39:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260920014400003",
+      "pubDate": "Sun, 20 Sep 2026 09:25:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "SOVAC, 21∼22일 사회적가치 페스타…'지역의 미래' 해법 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260920013300003",
+      "pubDate": "Sun, 20 Sep 2026 09:07:18 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"김밥 한 줄 먹으려 40분 대기\"…백화점이 '로컬 브랜드' 모시는 이유 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202609183306g",
-      "pubDate": "Sun, 20 Sep 2026 07:30:03 +0900"
+      "title": "하브 연비 L당 17.4㎞…'싼타페급'으로 넓어진 현대차 투싼",
+      "link": "https://www.hankyung.com/article/202609171748g",
+      "pubDate": "Sun, 20 Sep 2026 09:00:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "휴게소 돈가스 가격 30% 뛰었다…호두과자·커피도 '깜짝'",
-      "link": "https://www.hankyung.com/article/2026092055857",
-      "pubDate": "Sun, 20 Sep 2026 07:23:43 +0900"
+      "title": "\"120억으로 예금만 했는데\"…5년 새 누적수익률 80% 비결",
+      "link": "https://www.hankyung.com/article/202609183238i",
+      "pubDate": "Sun, 20 Sep 2026 09:00:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "입법조사처 \"CPTPP 가입 시 보조금 제한…수산업 피해 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917178300051",
-      "pubDate": "Sun, 20 Sep 2026 07:01:01 +0900"
+      "title": "소공연 \"추석엔 전통시장·동네 가게 적극 이용해달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260919023300030",
+      "pubDate": "Sun, 20 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "우리은행, 홀몸 어르신 9천722가구에 생활필수품",
+      "link": "https://www.yna.co.kr/view/AKR20260918186700002",
+      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB국민은행, 전통시장 구매 생필품 취약계층과 나눠",
+      "link": "https://www.yna.co.kr/view/AKR20260918186900002",
+      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "외국인 실업급여 '역대 최대'…수급자 열명 중 여덟 중국계 [곽용희의 일자리노트]",
-      "link": "https://www.hankyung.com/article/202609195257i",
-      "pubDate": "Sun, 20 Sep 2026 07:00:07 +0900"
+      "title": "비트코인, '클래리티 쇼크' 이틀 만에 극복…7만7000달러선 탈환",
+      "link": "https://www.hankyung.com/article/202609184406i",
+      "pubDate": "Sun, 20 Sep 2026 09:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"현실 반영 못한 탁상행정\"…농지전수조사에 농촌 혼란·반발",
-      "link": "https://www.yna.co.kr/view/AKR20260918106800055",
-      "pubDate": "Sun, 20 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'아빠찬스' 前선관위 사무총장 딸, 임용취소 불복소송 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260919042600004",
-      "pubDate": "Sun, 20 Sep 2026 07:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "애플 주가, 이제 24시간 움직인다…코인베이스가 흔드는 월가의 '가격 공식' [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609195213i",
-      "pubDate": "Sun, 20 Sep 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "출생아 늘자 분유 시장도 반등…프리미엄 제품 매출 '껑충'",
-      "link": "https://www.yna.co.kr/view/AKR20260919019400030",
-      "pubDate": "Sun, 20 Sep 2026 06:50:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "휴게소 돈가스 5년새 28%↑…호두과자·커피도 20% 안팎 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260919025600003",
-      "pubDate": "Sun, 20 Sep 2026 06:45:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
-      "link": "https://www.yna.co.kr/view/AKR20260919022200008",
-      "pubDate": "Sun, 20 Sep 2026 06:30:01 +0900"
+      "title": "신한금융, 베트남 시총 1위 빈그룹과 협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260919041200002",
+      "pubDate": "Sun, 20 Sep 2026 09:00:03 +0900"
     }
   ]
 }
