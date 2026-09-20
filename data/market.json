@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:44:17.703Z",
+  "updatedAt": "2026-09-20T21:05:05.813Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,60 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "건설노동자, 전자카드 한달에 15일쓰면 2만원 상품권…홍보행사",
+      "link": "https://www.yna.co.kr/view/AKR20260918168800530",
+      "pubDate": "Mon, 21 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경제인협회 \"반도체 공장 가동 앞두고 도로·용수 아직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920032500003",
+      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"'급여' 표시 안 하면 금리감면 못 받아\"…금감원, 소비자 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260920043800002",
+      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신세계百, 외국인 대상 '글로벌 쇼핑 페스타'…\"올해 최대규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920038800030",
+      "pubDate": "Mon, 21 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB국민은행, 정기예금 금리 추가 인상…최고 연 3.5%",
+      "link": "https://www.yna.co.kr/view/AKR20260920049000002",
+      "pubDate": "Mon, 21 Sep 2026 05:59:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
+      "link": "https://www.yna.co.kr/view/AKR20260919058400002",
+      "pubDate": "Mon, 21 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"성인도 벌기 힘든 돈인데\"…'억대 연봉' 받는 미성년 사장 21명",
+      "link": "https://www.yna.co.kr/view/AKR20260918165100002",
+      "pubDate": "Mon, 21 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "민생 특사경, 수심위 없이도 수사 착수…\"불법사금융은 속도전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920030200002",
+      "pubDate": "Mon, 21 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미성년자 미수거래 금지 명문화…증권사들 곧 선제조치할 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260920033700002",
+      "pubDate": "Mon, 21 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
       "link": "https://www.yna.co.kr/view/AKR20260920037700003",
       "pubDate": "Mon, 21 Sep 2026 00:00:00 +0900"
@@ -154,60 +208,6 @@
       "title": "작년 온실가스 배출…0.9% 감소한 6.5억t",
       "link": "https://www.hankyung.com/article/2026092062851",
       "pubDate": "Sun, 20 Sep 2026 18:23:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "8개월 공들인 기초연금 개편…발표 직전 돌연 무산된 까닭",
-      "link": "https://www.hankyung.com/article/2026092063201",
-      "pubDate": "Sun, 20 Sep 2026 18:22:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "연금 개혁 '바통' 다시 국회로…여야, 수급기준 대안 내놓나",
-      "link": "https://www.hankyung.com/article/2026092063191",
-      "pubDate": "Sun, 20 Sep 2026 18:21:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"북극권 활용 협력…한미일 이달 MOU\"",
-      "link": "https://www.hankyung.com/article/2026092063631",
-      "pubDate": "Sun, 20 Sep 2026 18:20:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"韓 커피 문화가 궁금했다\" 외국인도 '오픈런'",
-      "link": "https://www.hankyung.com/article/2026092063421",
-      "pubDate": "Sun, 20 Sep 2026 18:18:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "도심 속 소음을 지우는 마법…100명이 빠진 '싱잉볼 명상'",
-      "link": "https://www.hankyung.com/article/2026092063431",
-      "pubDate": "Sun, 20 Sep 2026 18:18:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유튜브 890만뷰 'SNS 스타'도 공연…\"젊음의 열기 느껴져 행복\"",
-      "link": "https://www.hankyung.com/article/2026092063951",
-      "pubDate": "Sun, 20 Sep 2026 18:17:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"세습 없다\"던 버핏, 벅셔 의장직 아들에 넘겼다",
-      "link": "https://www.hankyung.com/article/2026092063921",
-      "pubDate": "Sun, 20 Sep 2026 18:15:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'이색 노선' 뚫어 고유가 위기 넘는 LCC",
-      "link": "https://www.hankyung.com/article/2026092063271",
-      "pubDate": "Sun, 20 Sep 2026 18:11:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "구자은 \"AI시대 변화 속도, 누구보다 먼저 즐겨야\"",
-      "link": "https://www.hankyung.com/article/2026092063251",
-      "pubDate": "Sun, 20 Sep 2026 18:11:15 +0900"
     }
   ]
 }
