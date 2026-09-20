@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:54:21.894Z",
+  "updatedAt": "2026-09-20T12:05:51.343Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260920029400011",
-      "pubDate": "Sun, 20 Sep 2026 15:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"약 배송 확대 정책 철회하라\"…광화문에 모인 약사들",
-      "link": "https://www.yna.co.kr/view/AKR20260920026100017",
-      "pubDate": "Sun, 20 Sep 2026 15:00:00 +0900"
+      "source": "한국경제",
+      "title": "“삼전닉스 추격한다”…CXMT, D램 미세공정 한단계 도약",
+      "link": "https://www.hankyung.com/article/202609206464i",
+      "pubDate": "Sun, 20 Sep 2026 20:02:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "커피만 있는 게 아니네…잠실 달군 '완벽한 블렌딩' 축제 [2026청춘커피페스티벌]",
-      "link": "https://www.hankyung.com/article/202609206070i",
-      "pubDate": "Sun, 20 Sep 2026 14:50:52 +0900"
+      "title": "\"집·차는 못 사도 이건 산다\"…'뜻밖의 소비'에 빠진 2030 [김기자의 알고리즘]",
+      "link": "https://www.hankyung.com/article/202609183185H",
+      "pubDate": "Sun, 20 Sep 2026 19:29:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[2026 청춘 커피 페스티벌 포토] 축제 열기 끌어올린 하이키…남다른 무대 장악력",
-      "link": "https://www.hankyung.com/article/202609206073i",
-      "pubDate": "Sun, 20 Sep 2026 14:43:53 +0900"
+      "title": "\"한국 오면 '때 타올'부터\"…외국인 하루 3만명 찾는 '이곳'",
+      "link": "https://www.hankyung.com/article/2026092063581",
+      "pubDate": "Sun, 20 Sep 2026 18:24:41 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] '美 월가 억만장자' 드러켄밀러 첫 방한…삼성·SK·두산과 투자 논의",
-      "link": "https://www.hankyung.com/article/202609205724i",
-      "pubDate": "Sun, 20 Sep 2026 14:00:05 +0900"
+      "title": "\"환율, 1400원 뚫을 수 있지만 추세적 상승은 어려울 듯\"",
+      "link": "https://www.hankyung.com/article/2026092062831",
+      "pubDate": "Sun, 20 Sep 2026 18:23:20 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 85억 빌려주더니…대표 사생활 약점잡아 회사 '꿀꺽'",
-      "link": "https://www.hankyung.com/article/202609205938i",
-      "pubDate": "Sun, 20 Sep 2026 14:00:01 +0900"
+      "title": "작년 온실가스 배출…0.9% 감소한 6.5억t",
+      "link": "https://www.hankyung.com/article/2026092062851",
+      "pubDate": "Sun, 20 Sep 2026 18:23:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[2026 청춘 커피 페스티벌 포토] 잔나비 목소리에 물든 잠실",
-      "link": "https://www.hankyung.com/article/202609206037i",
-      "pubDate": "Sun, 20 Sep 2026 13:55:51 +0900"
+      "title": "8개월 공들인 기초연금 개편…발표 직전 돌연 무산된 까닭",
+      "link": "https://www.hankyung.com/article/2026092063201",
+      "pubDate": "Sun, 20 Sep 2026 18:22:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "혼인 세액공제 폐지 소식에 '울상'…알고 보니 더 이득?",
-      "link": "https://www.hankyung.com/article/202609206021i",
-      "pubDate": "Sun, 20 Sep 2026 13:39:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중국서 '유황 훈증 죽순' 논란…식약처 \"농산물 형태 수입없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920027000017",
-      "pubDate": "Sun, 20 Sep 2026 13:17:22 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "조선업 청년들이 말하는 일터의 조건…울산 동구서 원탁회의",
-      "link": "https://www.yna.co.kr/view/AKR20260918160900057",
-      "pubDate": "Sun, 20 Sep 2026 13:05:01 +0900"
+      "title": "연금 개혁 '바통' 다시 국회로…여야, 수급기준 대안 내놓나",
+      "link": "https://www.hankyung.com/article/2026092063191",
+      "pubDate": "Sun, 20 Sep 2026 18:21:55 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'내 월급은 그대로인데?' 평균 임금 '431만원' 뚫은 이유 보니…",
-      "link": "https://www.hankyung.com/article/202609205975g",
-      "pubDate": "Sun, 20 Sep 2026 12:58:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "충주시, 중국 로봇 전문기업과 맞손…생산시설 확충 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260920025500064",
-      "pubDate": "Sun, 20 Sep 2026 12:43:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KRX애프터마켓 개장 일주일…거래대금 변화추이 살펴보니",
-      "link": "https://www.yna.co.kr/view/AKR20260919033200008",
-      "pubDate": "Sun, 20 Sep 2026 12:41:09 +0900"
+      "title": "\"북극권 활용 협력…한미일 이달 MOU\"",
+      "link": "https://www.hankyung.com/article/2026092063631",
+      "pubDate": "Sun, 20 Sep 2026 18:20:59 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"한국처럼 15% 달라\"…삼전닉스 따라 직원들 결국 움직였다 [김대영의 노무스쿨]",
-      "link": "https://www.hankyung.com/article/202609205920g",
-      "pubDate": "Sun, 20 Sep 2026 12:30:06 +0900"
+      "title": "\"韓 커피 문화가 궁금했다\" 외국인도 '오픈런'",
+      "link": "https://www.hankyung.com/article/2026092063421",
+      "pubDate": "Sun, 20 Sep 2026 18:18:47 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "'글자체 디자인' 출원은 더 간편히, 3D도면 출원은 더 정확히",
-      "link": "https://www.yna.co.kr/view/AKR20260918060900063",
-      "pubDate": "Sun, 20 Sep 2026 12:00:16 +0900"
+      "source": "한국경제",
+      "title": "도심 속 소음을 지우는 마법…100명이 빠진 '싱잉볼 명상'",
+      "link": "https://www.hankyung.com/article/2026092063431",
+      "pubDate": "Sun, 20 Sep 2026 18:18:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유튜브 890만뷰 'SNS 스타'도 공연 \"젊음의 열기 느껴져 행복\"",
+      "link": "https://www.hankyung.com/article/2026092063951",
+      "pubDate": "Sun, 20 Sep 2026 18:17:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"세습 없다\"던 버핏, 벅셔 회장직 아들에 넘겼다",
+      "link": "https://www.hankyung.com/article/2026092063921",
+      "pubDate": "Sun, 20 Sep 2026 18:15:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'이색 노선' 뚫어 고유가 위기 넘는 LCC",
+      "link": "https://www.hankyung.com/article/2026092063271",
+      "pubDate": "Sun, 20 Sep 2026 18:11:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "구자은 \"AI시대 변화 속도, 누구보다 먼저 즐겨야\"",
+      "link": "https://www.hankyung.com/article/2026092063251",
+      "pubDate": "Sun, 20 Sep 2026 18:11:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성전기, AI용 MLCC 빅테크 추가 수주 임박",
+      "link": "https://www.hankyung.com/article/2026092063291",
+      "pubDate": "Sun, 20 Sep 2026 18:10:27 +0900"
     }
   ]
 }
