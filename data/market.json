@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-21T13:19:44.929Z",
+  "updatedAt": "2026-09-21T18:49:15.309Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7650.5,
-      "changePercent": 0.167,
-      "previousClose": 7656.98,
+      "price": 7772.49,
+      "changePercent": 1.595,
+      "previousClose": 7619.98,
       "currency": "USD",
       "history": [
-        7619.97998046875,
         7585.72998046875,
         7551.81005859375,
         7637.759765625,
-        7650.5
+        7650.5,
+        7772.490234375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26522.545,
-      "changePercent": 0.395,
-      "previousClose": 26333.04,
+      "price": 27119.914,
+      "changePercent": 2.252,
+      "previousClose": 26186.41,
       "currency": "USD",
       "history": [
-        26186.41015625,
         25981.5703125,
         25978.4296875,
         26418.30078125,
-        26522.5390625
+        26522.5390625,
+        27119.9140625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51682.64,
-      "changePercent": -0.184,
-      "previousClose": 52573.29,
+      "price": 52107.64,
+      "changePercent": 0.822,
+      "previousClose": 52421.2,
       "currency": "USD",
       "history": [
-        52421.19921875,
         52093.109375,
         51461.8984375,
         51778.0390625,
-        51682.640625
+        51682.640625,
+        52107.640625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.97,
-      "changePercent": -3.237,
+      "price": 92.34,
+      "changePercent": -3.893,
       "previousClose": 102.43,
       "currency": "USD",
       "history": [
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        92.97000122070312
+        92.33999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4400,
-      "changePercent": -0.563,
+      "price": 4385.8,
+      "changePercent": -0.884,
       "previousClose": 4387.5,
       "currency": "USD",
       "history": [
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4400
+        4385.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.267,
-      "changePercent": 0.045,
+      "price": 100.446,
+      "changePercent": 0.224,
       "previousClose": 100.31,
       "currency": "USD",
       "history": [
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.26699829101562
+        100.44599914550781
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.86,
-      "changePercent": 0.338,
+      "price": 15.01,
+      "changePercent": 1.35,
       "previousClose": 17.2,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.859999656677246
+        15.010000228881836
       ],
       "ok": true
     }
@@ -121,13 +121,37 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "오픈AI에 올인한 이 회사,또 15조원 정크본드 발행 추진",
+      "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
+      "link": "https://www.hankyung.com/article/202609229353i",
+      "pubDate": "Tue, 22 Sep 2026 00:12:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI주 올라도 지금 맞서면 안되는 3가지 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609219323i",
+      "pubDate": "Mon, 21 Sep 2026 23:41:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\"",
+      "link": "https://www.hankyung.com/article/202609219335i",
+      "pubDate": "Mon, 21 Sep 2026 23:26:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
+      "link": "https://www.hankyung.com/article/202609219320i",
+      "pubDate": "Mon, 21 Sep 2026 23:14:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
       "link": "https://www.hankyung.com/article/202609219285i",
       "pubDate": "Mon, 21 Sep 2026 22:06:57 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"3년 만에 오른 미 금리, 5% 상회 대비해야\"…'금리 쇼크' 오나 [분석+]",
+      "title": "\"또 사이드카 쏟아지나\"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]",
       "link": "https://www.hankyung.com/article/2026092181966",
       "pubDate": "Mon, 21 Sep 2026 22:00:04 +0900"
     },
@@ -184,30 +208,6 @@
       "title": "\"술 없이 아침부터 춤추고 떼창\"…2030이 주말 보내는 법 [박수림의 요즘 여기]",
       "link": "https://www.hankyung.com/article/202609218204g",
       "pubDate": "Mon, 21 Sep 2026 20:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이름·주소까지 샜는데\"…쿠팡, 대만 과징금 6489만원",
-      "link": "https://www.hankyung.com/article/2026092191887",
-      "pubDate": "Mon, 21 Sep 2026 19:25:18 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "웨스팅하우스 지분율 등 상업적 합리성 암초…대미투자 '위태'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260921126051003",
-      "pubDate": "Mon, 21 Sep 2026 19:20:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "셀리드, 100억원 유상증자…휴니버스글로벌에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260921171600008",
-      "pubDate": "Mon, 21 Sep 2026 18:48:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "제논·옵토닉스 등 2개사 코스닥 상장예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260921169900008",
-      "pubDate": "Mon, 21 Sep 2026 18:43:14 +0900"
     }
   ]
 }
