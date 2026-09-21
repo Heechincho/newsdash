@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:13:04.922Z",
+  "updatedAt": "2026-09-21T01:12:50.817Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.94,
-      "changePercent": -0.146,
+      "price": 94.26,
+      "changePercent": -1.894,
       "previousClose": 105.83,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        95.94000244140625
+        94.26000213623047
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4412.1,
-      "changePercent": -0.289,
+      "price": 4410,
+      "changePercent": -0.337,
       "previousClose": 4332.8,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4412.10009765625
+        4410
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.275,
-      "changePercent": 0.053,
+      "price": 100.252,
+      "changePercent": 0.03,
       "previousClose": 99.65,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.2750015258789
+        100.25199890136719
       ],
       "ok": true
     },
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "부산시, 10억원 투입 소상공인 공공배달 소비 쿠폰 20만장 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260921014800051",
-      "pubDate": "Mon, 21 Sep 2026 08:06:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금값 4390달러로 반등…유가 하락에 숏포지션 청산",
-      "link": "https://www.hankyung.com/article/202609216802i",
-      "pubDate": "Mon, 21 Sep 2026 08:04:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] 4분기 전기요금 동결…연료비조정단가 '+5'원 유지",
-      "link": "https://www.hankyung.com/article/2026092168607",
-      "pubDate": "Mon, 21 Sep 2026 08:04:04 +0900"
+      "title": "롯데웰푸드, 의성마늘햄 출시 20주년 캠페인…신제품도 선봬",
+      "link": "https://www.yna.co.kr/view/AKR20260921050700030",
+      "pubDate": "Mon, 21 Sep 2026 10:02:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산형 청년 일자리 정책, 첫 경력 12개월 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260921014700051",
-      "pubDate": "Mon, 21 Sep 2026 08:02:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[밤 사이 해외 뉴스] 500조 현금 쌓은 벅셔…주가 폭락한 이유",
-      "link": "https://www.hankyung.com/article/202609216810i",
-      "pubDate": "Mon, 21 Sep 2026 08:00:30 +0900"
+      "title": "[게시판] 신한은행, 멸종위기 구상나무 숲 가꾸기 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260921050100002",
+      "pubDate": "Mon, 21 Sep 2026 10:02:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 오피스 '대형 딜' 휩쓴 세빌스…매각자문 실적 3.7조원",
-      "link": "https://www.yna.co.kr/view/AKR20260919007000008",
-      "pubDate": "Mon, 21 Sep 2026 08:00:02 +0900"
+      "title": "우리금융, 스포츠 유망주에 10년간 30억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260921048500002",
+      "pubDate": "Mon, 21 Sep 2026 10:01:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 활용 음악에 저작권 인정할까…'신탁 기준 마련 토론회'",
-      "link": "https://www.yna.co.kr/view/AKR20260921009900005",
-      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0900"
+      "title": "금감원 \"증권사 배불리는 영업행태 비판있어…내부통제 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921050600002",
+      "pubDate": "Mon, 21 Sep 2026 10:00:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 코스피, 추석연휴 전후 '전강후약' 반복되나",
-      "link": "https://www.yna.co.kr/view/AKR20260921011700008",
-      "pubDate": "Mon, 21 Sep 2026 07:47:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'1기에 20조원?'…美 원전 투자안, 신한울의 3배 넘는다",
-      "link": "https://www.hankyung.com/article/2026092167567",
-      "pubDate": "Mon, 21 Sep 2026 07:34:23 +0900"
+      "title": "[게시판] NH투자증권, 전국 13개 영업점 '치매극복선도단체' 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260921050500008",
+      "pubDate": "Mon, 21 Sep 2026 10:00:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대한상의 중견위 \"중견기업 특수성 고려한 맞춤형 정책 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260920035300003",
-      "pubDate": "Mon, 21 Sep 2026 07:30:01 +0900"
+      "title": "\"전문성 없는 낙하산\"…강원신용보증재단 이사장 후보 철회 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260921051700062",
+      "pubDate": "Mon, 21 Sep 2026 10:00:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260921009800011",
-      "pubDate": "Mon, 21 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 10년물 5% 뚫었는데 나스닥은 올랐다…미 증시 버틴 진짜 이유 [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609206240i",
-      "pubDate": "Mon, 21 Sep 2026 07:00:11 +0900"
+      "title": "김천에 반도체 유리기판 공장 건립…3천470억 투자·430명 고용",
+      "link": "https://www.yna.co.kr/view/AKR20260921036200053",
+      "pubDate": "Mon, 21 Sep 2026 10:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "통신비 감면 대상인데도…210만명 혜택 놓쳤다",
-      "link": "https://www.yna.co.kr/view/AKR20260918081500017",
-      "pubDate": "Mon, 21 Sep 2026 07:00:05 +0900"
+      "title": "강원경제자유구역청장에 김양호 전 삼척시장 임명…3년 임기",
+      "link": "https://www.yna.co.kr/view/AKR20260921035700062",
+      "pubDate": "Mon, 21 Sep 2026 10:00:04 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "홍콩서 '150억' 쓸어담았다…매출 170% 폭등한 한국 제품 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609183779i",
-      "pubDate": "Mon, 21 Sep 2026 07:00:01 +0900"
+      "source": "연합뉴스",
+      "title": "담합 10년간 여러 번 저지르면 공공입찰 참여 불가…5년서 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260921035900002",
+      "pubDate": "Mon, 21 Sep 2026 10:00:04 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "'왜 저기만 깎아줘?'…정부 발표에 주유소업계 뿔난 까닭",
-      "link": "https://www.hankyung.com/article/2026092166977",
-      "pubDate": "Mon, 21 Sep 2026 06:40:39 +0900"
+      "source": "연합뉴스",
+      "title": "오세훈 서울주택공급 성과공유회…\"최근 정비구역지정 이전의 두배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921041100004",
+      "pubDate": "Mon, 21 Sep 2026 10:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이억원 \"내년 청년예산 2.1조원…자산·일자리·주거 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921050200002",
+      "pubDate": "Mon, 21 Sep 2026 10:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "초기스타트업 문턱 낮춰 최대 2억원 지원…빌드업 프로그램도",
+      "link": "https://www.yna.co.kr/view/AKR20260921050800002",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대건설 \"포항 AI 데이터센터, PC공법 활용해 공기 단축\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921049800003",
+      "pubDate": "Mon, 21 Sep 2026 09:58:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대우건설, 국내 최대 부유식 해상풍력 부유체 국제인증 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260921048900003",
+      "pubDate": "Mon, 21 Sep 2026 09:57:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "토허구역 실거주 의무 추가 유예…\"매물 나오지만 시장은 관망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921041500003",
+      "pubDate": "Mon, 21 Sep 2026 09:57:12 +0900"
     }
   ]
 }
