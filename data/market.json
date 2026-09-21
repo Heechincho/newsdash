@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-21T18:49:15.309Z",
+  "updatedAt": "2026-09-21T22:20:39.255Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7772.49,
-      "changePercent": 1.595,
+      "price": 7764.7,
+      "changePercent": 1.493,
       "previousClose": 7619.98,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7551.81005859375,
         7637.759765625,
         7650.5,
-        7772.490234375
+        7764.7001953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27119.914,
-      "changePercent": 2.252,
+      "price": 27122.094,
+      "changePercent": 2.261,
       "previousClose": 26186.41,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25978.4296875,
         26418.30078125,
         26522.5390625,
-        27119.9140625
+        27122.09375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52107.64,
-      "changePercent": 0.822,
+      "price": 52048.83,
+      "changePercent": 0.709,
       "previousClose": 52421.2,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51461.8984375,
         51778.0390625,
         51682.640625,
-        52107.640625
+        52048.828125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.34,
-      "changePercent": -3.893,
+      "price": 91.77,
+      "changePercent": -0.65,
       "previousClose": 102.43,
       "currency": "USD",
       "history": [
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        92.33999633789062
+        91.7699966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4385.8,
-      "changePercent": -0.884,
+      "price": 4386.9,
+      "changePercent": 0.068,
       "previousClose": 4387.5,
       "currency": "USD",
       "history": [
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4385.7998046875
+        4386.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.446,
-      "changePercent": 0.224,
+      "price": 100.425,
+      "changePercent": 0.203,
       "previousClose": 100.31,
       "currency": "USD",
       "history": [
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.44599914550781
+        100.42500305175781
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.01,
-      "changePercent": 1.35,
+      "price": 14.87,
+      "changePercent": 0.405,
       "previousClose": 17.2,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        15.010000228881836
+        14.869999885559082
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
-      "link": "https://www.hankyung.com/article/202609229353i",
-      "pubDate": "Tue, 22 Sep 2026 00:12:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI주 올라도 지금 맞서면 안되는 3가지 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609219323i",
-      "pubDate": "Mon, 21 Sep 2026 23:41:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\"",
-      "link": "https://www.hankyung.com/article/202609219335i",
-      "pubDate": "Mon, 21 Sep 2026 23:26:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "굴스비 \"AI 투자가 총생산 증가 시킬 경우 금리 인상 필요\"",
-      "link": "https://www.hankyung.com/article/202609219320i",
-      "pubDate": "Mon, 21 Sep 2026 23:14:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
-      "link": "https://www.hankyung.com/article/202609219285i",
-      "pubDate": "Mon, 21 Sep 2026 22:06:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"또 사이드카 쏟아지나\"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]",
-      "link": "https://www.hankyung.com/article/2026092181966",
-      "pubDate": "Mon, 21 Sep 2026 22:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"마트 갔다간 8만원 더 쓴다\"…추석 장보기 가장 싼 곳은",
-      "link": "https://www.hankyung.com/article/2026092192797",
-      "pubDate": "Mon, 21 Sep 2026 21:45:18 +0900"
+      "source": "연합뉴스",
+      "title": "[우분투칼럼] 2026 잠비아 선거, 아프리카 신권위주의로 퇴행인가",
+      "link": "https://www.yna.co.kr/view/AKR20260914033400898",
+      "pubDate": "Tue, 22 Sep 2026 07:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "생보사, '700 종신보험' 못 판다…금감원 감독행정 제동",
-      "link": "https://www.yna.co.kr/view/AKR20260921178400002",
-      "pubDate": "Mon, 21 Sep 2026 21:37:51 +0900"
+      "title": "[팩트체크] 채용 때 나이·학력 제한 무조건 금지? 사기업은 괜찮다?",
+      "link": "https://www.yna.co.kr/view/AKR20260918082500518",
+      "pubDate": "Tue, 22 Sep 2026 06:30:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"아파트 샀으니 그 다음은\"…2030 반도체맨 지갑 열린 곳",
-      "link": "https://www.hankyung.com/article/2026092188681",
-      "pubDate": "Mon, 21 Sep 2026 21:00:05 +0900"
+      "title": "직장 괴롭힘 신고, 1위도 3위도 '쿠팡 계열사'",
+      "link": "https://www.hankyung.com/article/2026092294577",
+      "pubDate": "Tue, 22 Sep 2026 06:25:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "암호화폐 겨울 끝났나…비트코인 美서 8만5000달러 회복",
-      "link": "https://www.hankyung.com/article/202609219260i",
-      "pubDate": "Mon, 21 Sep 2026 20:57:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美·中 AI 불신벽 높은데…'AI위험 알림시스템' 논의 될까",
-      "link": "https://www.hankyung.com/article/202609219239i",
-      "pubDate": "Mon, 21 Sep 2026 20:26:15 +0900"
+      "title": "\"대출 풀린 지 한 달도 안 됐는데\"…5대 은행 '한도 바닥'",
+      "link": "https://www.hankyung.com/article/2026092294467",
+      "pubDate": "Tue, 22 Sep 2026 06:14:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "메가특구 사회적 대화, 내일 실무회의…의제 선정 본격화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260921089451530",
-      "pubDate": "Mon, 21 Sep 2026 20:26:03 +0900"
+      "title": "1인 가구 46% 속마음 나눌 상대 적어…다인가구보다 18%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260921107000530",
+      "pubDate": "Tue, 22 Sep 2026 06:11:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "최근 5년 펫푸드 무역적자 1조3천억원…수입이 수출의 2배 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260921150500030",
+      "pubDate": "Tue, 22 Sep 2026 06:10:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "직장 내 괴롭힘 신고 상위 5곳 중 2곳 '쿠팡 계열사'",
+      "link": "https://www.yna.co.kr/view/AKR20260921114300530",
+      "pubDate": "Tue, 22 Sep 2026 06:01:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[르포] 하나금융 '청라 시대' 개막…10개 계열사 대이동",
+      "link": "https://www.yna.co.kr/view/AKR20260920049400002",
+      "pubDate": "Tue, 22 Sep 2026 06:01:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"월급 꼬박꼬박 넣었는데 왜?\"…대출 우대금리 날아간 이유",
-      "link": "https://www.hankyung.com/article/2026092192377",
-      "pubDate": "Mon, 21 Sep 2026 20:24:46 +0900"
+      "title": "\"반값인데 왜 안 사요?\"…'중국산 TV'도 마다않는 2030 [텔레비전(戰) ②]",
+      "link": "https://www.hankyung.com/article/202609179916g",
+      "pubDate": "Tue, 22 Sep 2026 06:00:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"기름 미리 넣지 마세요\"…추석 고속도로 주유소 가야하는 이유",
-      "link": "https://www.hankyung.com/article/2026092192237",
-      "pubDate": "Mon, 21 Sep 2026 20:12:51 +0900"
+      "title": "역대급 경상흑자라는데…체감경기는 왜 팍팍할까",
+      "link": "https://www.hankyung.com/article/2026092188491",
+      "pubDate": "Tue, 22 Sep 2026 06:00:06 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"술 없이 아침부터 춤추고 떼창\"…2030이 주말 보내는 법 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202609218204g",
-      "pubDate": "Mon, 21 Sep 2026 20:00:07 +0900"
+      "source": "연합뉴스",
+      "title": "팬데믹 이후 멈췄던 서울-상하이 고위급 교류 '야간경제'로 물꼬",
+      "link": "https://www.yna.co.kr/view/AKR20260921167200004",
+      "pubDate": "Tue, 22 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "7월 대기업 연체율 5년만에 최고…중앙그룹 회생·워크아웃 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260921157700002",
+      "pubDate": "Tue, 22 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"1년계약 강요·중개보수 전가\"…서울시, 불공정중개 엄정대응 경고",
+      "link": "https://www.yna.co.kr/view/AKR20260921168100004",
+      "pubDate": "Tue, 22 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'생산적 금융'에 5대은행 기술금융대출 4%↑…신용대출 12% 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260921179000002",
+      "pubDate": "Tue, 22 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'미래기금 재원 추가세수'에 예정처 \"의견 제시 적절치 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921165600002",
+      "pubDate": "Tue, 22 Sep 2026 05:53:00 +0900"
     }
   ]
 }
