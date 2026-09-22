@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T22:20:39.255Z",
+  "updatedAt": "2026-09-22T01:02:29.198Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.77,
-      "changePercent": -0.65,
+      "price": 92.64,
+      "changePercent": 0.292,
       "previousClose": 102.43,
       "currency": "USD",
       "history": [
         102.43000030517578,
         101.91000366210938,
         100.30000305175781,
-        91.7699966430664
+        92.63999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4386.9,
-      "changePercent": 0.068,
+      "price": 4395.2,
+      "changePercent": 0.258,
       "previousClose": 4387.5,
       "currency": "USD",
       "history": [
         4387.5,
         4399.7001953125,
         4424.89990234375,
-        4386.89990234375
+        4395.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.425,
-      "changePercent": 0.203,
+      "price": 100.374,
+      "changePercent": -0.055,
       "previousClose": 100.31,
       "currency": "USD",
       "history": [
         100.30999755859375,
         100.22000122070312,
         100.22000122070312,
-        100.42500305175781
+        100.3740005493164
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 2026 잠비아 선거, 아프리카 신권위주의로 퇴행인가",
-      "link": "https://www.yna.co.kr/view/AKR20260914033400898",
-      "pubDate": "Tue, 22 Sep 2026 07:00:06 +0900"
+      "title": "전남광주시, 소상공인 1천억 추가 지원…원금상환 1년 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260922058700054",
+      "pubDate": "Tue, 22 Sep 2026 09:54:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[팩트체크] 채용 때 나이·학력 제한 무조건 금지? 사기업은 괜찮다?",
-      "link": "https://www.yna.co.kr/view/AKR20260918082500518",
-      "pubDate": "Tue, 22 Sep 2026 06:30:01 +0900"
+      "title": "[게시판] 한투증권, 체험형 현장이벤트 '연금 스테이션 팝업' 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260922057200008",
+      "pubDate": "Tue, 22 Sep 2026 09:53:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "GS건설, 건설로봇 현장 투입 전 검증…사전검증센터 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260922049600003",
+      "pubDate": "Tue, 22 Sep 2026 09:49:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성물산 차세대 SMR시장 공략…미국 카이로스 파워와 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260922050500003",
+      "pubDate": "Tue, 22 Sep 2026 09:49:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한화에어로, 미국 아칸소주에 탄약 생산거점…7년간 3조원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260922050700003",
+      "pubDate": "Tue, 22 Sep 2026 09:47:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "키움증권, 네이버페이 비상장과 비상장주식 교차거래 시스템 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260922053000008",
+      "pubDate": "Tue, 22 Sep 2026 09:47:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "동서발전, '제3회 대한민국 사회적가치 페스타' 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260922051700057",
+      "pubDate": "Tue, 22 Sep 2026 09:46:27 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "아워홈 '매직소바', '시알 파리 2026' 그랑프리 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260922049800030",
+      "pubDate": "Tue, 22 Sep 2026 09:45:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "카카오그룹, 파이어블록스와 디지털자산 생태계 구축 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260922047300017",
+      "pubDate": "Tue, 22 Sep 2026 09:45:30 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한투자, 블루어드·롯데미래전략연구소와 토큰증권 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260922053900008",
+      "pubDate": "Tue, 22 Sep 2026 09:44:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 증권주, 증시 강세에 줄줄이 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260922051300008",
+      "pubDate": "Tue, 22 Sep 2026 09:42:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "네이버페이 비상장, 한투·키움과 비상장주식 시장 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260922041400017",
+      "pubDate": "Tue, 22 Sep 2026 09:40:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] LG전자, 'ADIC 냉각 솔루션' 엔비디아 규격 승인에 장 초반 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260922051500008",
+      "pubDate": "Tue, 22 Sep 2026 09:40:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[테크스냅] KT, NIA와 글로벌 AI 인재 양성 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260922040400017",
+      "pubDate": "Tue, 22 Sep 2026 09:36:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "직장 괴롭힘 신고, 1위도 3위도 '쿠팡 계열사'",
-      "link": "https://www.hankyung.com/article/2026092294577",
-      "pubDate": "Tue, 22 Sep 2026 06:25:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"대출 풀린 지 한 달도 안 됐는데\"…5대 은행 '한도 바닥'",
-      "link": "https://www.hankyung.com/article/2026092294467",
-      "pubDate": "Tue, 22 Sep 2026 06:14:19 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "1인 가구 46% 속마음 나눌 상대 적어…다인가구보다 18%p↑",
-      "link": "https://www.yna.co.kr/view/AKR20260921107000530",
-      "pubDate": "Tue, 22 Sep 2026 06:11:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "최근 5년 펫푸드 무역적자 1조3천억원…수입이 수출의 2배 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260921150500030",
-      "pubDate": "Tue, 22 Sep 2026 06:10:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "직장 내 괴롭힘 신고 상위 5곳 중 2곳 '쿠팡 계열사'",
-      "link": "https://www.yna.co.kr/view/AKR20260921114300530",
-      "pubDate": "Tue, 22 Sep 2026 06:01:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[르포] 하나금융 '청라 시대' 개막…10개 계열사 대이동",
-      "link": "https://www.yna.co.kr/view/AKR20260920049400002",
-      "pubDate": "Tue, 22 Sep 2026 06:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"반값인데 왜 안 사요?\"…'중국산 TV'도 마다않는 2030 [텔레비전(戰) ②]",
-      "link": "https://www.hankyung.com/article/202609179916g",
-      "pubDate": "Tue, 22 Sep 2026 06:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "역대급 경상흑자라는데…체감경기는 왜 팍팍할까",
-      "link": "https://www.hankyung.com/article/2026092188491",
-      "pubDate": "Tue, 22 Sep 2026 06:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "팬데믹 이후 멈췄던 서울-상하이 고위급 교류 '야간경제'로 물꼬",
-      "link": "https://www.yna.co.kr/view/AKR20260921167200004",
-      "pubDate": "Tue, 22 Sep 2026 06:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "7월 대기업 연체율 5년만에 최고…중앙그룹 회생·워크아웃 여파",
-      "link": "https://www.yna.co.kr/view/AKR20260921157700002",
-      "pubDate": "Tue, 22 Sep 2026 06:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"1년계약 강요·중개보수 전가\"…서울시, 불공정중개 엄정대응 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260921168100004",
-      "pubDate": "Tue, 22 Sep 2026 06:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'생산적 금융'에 5대은행 기술금융대출 4%↑…신용대출 12% 그쳐",
-      "link": "https://www.yna.co.kr/view/AKR20260921179000002",
-      "pubDate": "Tue, 22 Sep 2026 05:55:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'미래기금 재원 추가세수'에 예정처 \"의견 제시 적절치 않아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260921165600002",
-      "pubDate": "Tue, 22 Sep 2026 05:53:00 +0900"
+      "title": "사우디 원유 수출경로 급선회…브렌트 100달러 밑으로",
+      "link": "https://www.hankyung.com/article/202609220036i",
+      "pubDate": "Tue, 22 Sep 2026 09:34:18 +0900"
     }
   ]
 }
