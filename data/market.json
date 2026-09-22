@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-22T19:16:50.724Z",
+  "updatedAt": "2026-09-22T22:18:47.403Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7771.44,
-      "changePercent": 0.087,
+      "price": 7764.64,
+      "changePercent": -0.001,
       "previousClose": 7585.73,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7637.759765625,
         7650.5,
         7764.7001953125,
-        7771.43994140625
+        7764.64013671875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27253.822,
-      "changePercent": 0.486,
+      "price": 27244.277,
+      "changePercent": 0.45,
       "previousClose": 25981.57,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26418.30078125,
         26522.5390625,
         27122.08984375,
-        27253.822265625
+        27244.27734375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51906.97,
-      "changePercent": -0.273,
+      "price": 51863.69,
+      "changePercent": -0.356,
       "previousClose": 52093.11,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51778.0390625,
         51682.640625,
         52048.828125,
-        51906.96875
+        51863.69140625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.5,
-      "changePercent": -2.024,
+      "price": 89.83,
+      "changePercent": -0.762,
       "previousClose": 101.91,
       "currency": "USD",
       "history": [
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        90.5
+        89.83000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4394.4,
-      "changePercent": 0.24,
+      "price": 4399.5,
+      "changePercent": 0.528,
       "previousClose": 4399.7,
       "currency": "USD",
       "history": [
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4394.39990234375
+        4399.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.596,
-      "changePercent": 0.166,
+      "price": 100.541,
+      "changePercent": 0.112,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.59600067138672
+        100.54100036621094
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.22,
-      "changePercent": -4.371,
+      "price": 14.21,
+      "changePercent": -4.438,
       "previousClose": 17.71,
       "currency": "USD",
       "history": [
@@ -113,12 +113,60 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.220000267028809
+        14.210000038146973
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'",
+      "link": "https://www.yna.co.kr/view/AKR20260922183300017",
+      "pubDate": "Wed, 23 Sep 2026 06:33:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"명절 음식만 먹나요\"…대형마트, 간편한 델리·버거 '특수'",
+      "link": "https://www.yna.co.kr/view/AKR20260922169100030",
+      "pubDate": "Wed, 23 Sep 2026 06:30:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "BTS·임영웅 무대 빛낸 '남성복 거장'…이번엔 4060 여심 노린다 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609222024i",
+      "pubDate": "Wed, 23 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 소비심리 한 달 만에 반등…\"집값 상승 기대 여전히 높아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922176500002",
+      "pubDate": "Wed, 23 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"집에 TV 놓기 싫었는데…\" 30대 새댁 마음 돌린 이유 [텔레비전(戰) ③]",
+      "link": "https://www.hankyung.com/article/202609183258g",
+      "pubDate": "Wed, 23 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주금공, 주택신용보증 구상채권 2조8천억…6년만에 배 넘게 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260922185800002",
+      "pubDate": "Wed, 23 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국제유가, 사우디 원유 공급 회복 조짐에 100달러 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260923008200075",
+      "pubDate": "Wed, 23 Sep 2026 04:51:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "트럼프 \"미국산 경유 수출금지 입장\"…美재무 \"실현가능성 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923006900071",
+      "pubDate": "Wed, 23 Sep 2026 04:18:34 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"AI비서에 쇼핑 맡겼다 돈 날릴 수도\"…글로벌은행들 경고",
@@ -160,54 +208,6 @@
       "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
       "link": "https://www.yna.co.kr/view/AKR20260922191700530",
       "pubDate": "Tue, 22 Sep 2026 20:21:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'1만원→10만원'…도수치료 막았더니 '어떻게 이럴 수가'",
-      "link": "https://www.hankyung.com/article/2026092217451",
-      "pubDate": "Tue, 22 Sep 2026 20:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260922188400008",
-      "pubDate": "Tue, 22 Sep 2026 19:23:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "파라마운트+워너 합병…디즈니 가입자 넘고 넷플릭스 위협",
-      "link": "https://www.hankyung.com/article/202609221922i",
-      "pubDate": "Tue, 22 Sep 2026 19:22:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"車 팔아도 돈 안 된다\"…잘나가던 포르쉐에 무슨 일이?",
-      "link": "https://www.hankyung.com/article/2026092219257",
-      "pubDate": "Tue, 22 Sep 2026 19:15:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이형일 \"국부펀드 차질 없이 준비…성과는 국민께 돌아가도록\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260922073652002",
-      "pubDate": "Tue, 22 Sep 2026 19:12:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-      "link": "https://www.hankyung.com/article/2026092219317",
-      "pubDate": "Tue, 22 Sep 2026 19:12:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"5500원이나 주고 샀는데…\" 김밥 열어본 직장인 '황당' [이슈+]",
-      "link": "https://www.hankyung.com/article/202609220769g",
-      "pubDate": "Tue, 22 Sep 2026 19:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화손보, 100세 현역 설계사 헌정 행사",
-      "link": "https://www.hankyung.com/article/2026092218361",
-      "pubDate": "Tue, 22 Sep 2026 18:37:41 +0900"
     }
   ]
 }
