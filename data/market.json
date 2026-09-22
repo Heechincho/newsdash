@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T06:09:37.996Z",
+  "updatedAt": "2026-09-22T11:39:45.049Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 93.5,
-      "changePercent": 1.223,
+      "price": 90.22,
+      "changePercent": -2.328,
       "previousClose": 101.91,
       "currency": "USD",
       "history": [
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        93.5
+        90.22000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4361.7,
-      "changePercent": -0.506,
+      "price": 4354,
+      "changePercent": -0.682,
       "previousClose": 4399.7,
       "currency": "USD",
       "history": [
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4361.7001953125
+        4354
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.374,
-      "changePercent": -0.055,
+      "price": 100.417,
+      "changePercent": -0.012,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.3740005493164
+        100.41699981689453
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.87,
-      "changePercent": 0.405,
-      "previousClose": 17.2,
+      "price": 14.74,
+      "changePercent": -0.874,
+      "previousClose": 17.71,
       "currency": "USD",
       "history": [
-        17.200000762939453,
         17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.869999885559082
+        14.869999885559082,
+        14.739999771118164
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "태백시, 수도권 잇는 '두 개 KTX 접근축' 구축 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260922132800062",
-      "pubDate": "Tue, 22 Sep 2026 15:01:24 +0900"
+      "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260922191700530",
+      "pubDate": "Tue, 22 Sep 2026 20:21:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"그냥 문구점인 줄\"…일본 열도 뒤흔든 K잡화점의 '저력'",
-      "link": "https://www.hankyung.com/article/202609220705g",
-      "pubDate": "Tue, 22 Sep 2026 15:01:06 +0900"
+      "title": "\"이러다 실손 또 오를 판\"…1만원 치료가 10만원으로 '둔갑'",
+      "link": "https://www.hankyung.com/article/2026092217451",
+      "pubDate": "Tue, 22 Sep 2026 20:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국거래소, 내달 6∼7일 코스닥데이 행사…강연·홍보관 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260922131400008",
-      "pubDate": "Tue, 22 Sep 2026 14:53:56 +0900"
+      "title": "'회생절차' 제이알글로벌리츠, 감사의견 '거절'…상폐 사유 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260922188400008",
+      "pubDate": "Tue, 22 Sep 2026 19:23:53 +0900"
     },
     {
       "source": "한국경제",
-      "title": "버리던 폐모터가 '돈방석'으로…연간 15t 희토류 확보",
-      "link": "https://www.hankyung.com/article/202609221092i",
-      "pubDate": "Tue, 22 Sep 2026 14:45:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한은 \"원화 강세, 펀더멘털 반영한 되돌림…과도한 쏠림 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260922045451002",
-      "pubDate": "Tue, 22 Sep 2026 14:43:53 +0900"
+      "title": "파라마운트+워너 합병…디즈니 가입자 넘고 넷플릭스 위협",
+      "link": "https://www.hankyung.com/article/202609221922i",
+      "pubDate": "Tue, 22 Sep 2026 19:22:19 +0900"
     },
     {
       "source": "한국경제",
-      "title": "배민에 '우버 이츠' 쓴맛 봤는데…이번엔 우버가 배민 품나 [종합]",
-      "link": "https://www.hankyung.com/article/202609221036g",
-      "pubDate": "Tue, 22 Sep 2026 14:43:49 +0900"
+      "title": "\"車 팔아도 돈 안 된다\"…잘나가던 포르쉐에 무슨 일이?",
+      "link": "https://www.hankyung.com/article/2026092219257",
+      "pubDate": "Tue, 22 Sep 2026 19:15:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "횡성군, 2027년 예산편성 방향 점검…신규·역점사업 집중",
-      "link": "https://www.yna.co.kr/view/AKR20260922127100062",
-      "pubDate": "Tue, 22 Sep 2026 14:35:08 +0900"
+      "title": "이형일 \"국부펀드 차질 없이 준비…성과는 국민께 돌아가도록\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260922073652002",
+      "pubDate": "Tue, 22 Sep 2026 19:12:43 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] \"투자처 물색\"…'월가 큰손' 드러켄밀러, 원익IPS 방문",
-      "link": "https://www.hankyung.com/article/202609221029i",
-      "pubDate": "Tue, 22 Sep 2026 14:33:20 +0900"
+      "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
+      "link": "https://www.hankyung.com/article/2026092219317",
+      "pubDate": "Tue, 22 Sep 2026 19:12:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"5500원이나 주고 샀는데…\" 김밥 열어본 직장인 '황당' [이슈+]",
+      "link": "https://www.hankyung.com/article/202609220769g",
+      "pubDate": "Tue, 22 Sep 2026 19:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한화손보, 100세 현역 설계사 헌정 행사",
+      "link": "https://www.hankyung.com/article/2026092218361",
+      "pubDate": "Tue, 22 Sep 2026 18:37:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "우리銀, 백범 탄생 150주년 걷기 행사",
+      "link": "https://www.hankyung.com/article/2026092218331",
+      "pubDate": "Tue, 22 Sep 2026 18:36:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "돌아선 부동산 민심 다시 잡나…위기서 등판한 홍지선 국토장관",
-      "link": "https://www.yna.co.kr/view/AKR20260921077900003",
-      "pubDate": "Tue, 22 Sep 2026 14:31:16 +0900"
+      "title": "셀리드, 30억원 유상증자…센트러스트투자조합 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260922182600008",
+      "pubDate": "Tue, 22 Sep 2026 18:29:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260922120900011",
-      "pubDate": "Tue, 22 Sep 2026 14:30:01 +0900"
+      "title": "국토장관, 취임 첫 현장은 부천대장…\"주택공급, 계획보다 실행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922180900003",
+      "pubDate": "Tue, 22 Sep 2026 18:07:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "스스로 생 마감하는 청소년 늘었다",
+      "link": "https://www.hankyung.com/article/2026092217901",
+      "pubDate": "Tue, 22 Sep 2026 18:07:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "호주에 모인 월드옥타 차세대 리더 24명…대양주 9개 지회 '협력 강화'",
+      "link": "https://www.hankyung.com/article/202609221887i",
+      "pubDate": "Tue, 22 Sep 2026 18:03:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이억원 금융위원장 \"지역 제조현장, 피지컬 AI 거점되도록 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922124300002",
-      "pubDate": "Tue, 22 Sep 2026 14:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "엡손, 로보틱스·산업용 잉크젯 키운다…한국 공략 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260922123100017",
-      "pubDate": "Tue, 22 Sep 2026 14:29:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "카카오게임즈, 퀘이사존과 '크로노 오디세이' 최적화 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260922121300017",
-      "pubDate": "Tue, 22 Sep 2026 14:24:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 증권금융, 수도기계화보병사단과 금융교육 등 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260922121600008",
-      "pubDate": "Tue, 22 Sep 2026 14:23:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "광주 반도체 산단 부지 조성 내년 상반기 착공",
-      "link": "https://www.yna.co.kr/view/AKR20260922108500054",
-      "pubDate": "Tue, 22 Sep 2026 14:21:30 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260922174500011",
+      "pubDate": "Tue, 22 Sep 2026 18:00:01 +0900"
     }
   ]
 }
