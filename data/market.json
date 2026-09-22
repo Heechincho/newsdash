@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-22T11:39:45.049Z",
+  "updatedAt": "2026-09-22T15:43:17.960Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7764.7,
-      "changePercent": 1.493,
-      "previousClose": 7619.98,
+      "price": 7758.81,
+      "changePercent": -0.076,
+      "previousClose": 7585.73,
       "currency": "USD",
       "history": [
-        7585.72998046875,
         7551.81005859375,
         7637.759765625,
         7650.5,
-        7764.7001953125
+        7764.7001953125,
+        7758.81005859375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27122.094,
-      "changePercent": 2.261,
-      "previousClose": 26186.41,
+      "price": 27190.76,
+      "changePercent": 0.253,
+      "previousClose": 25981.57,
       "currency": "USD",
       "history": [
-        25981.5703125,
         25978.4296875,
         26418.30078125,
         26522.5390625,
-        27122.08984375
+        27122.08984375,
+        27190.759765625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52048.83,
-      "changePercent": 0.709,
-      "previousClose": 52421.2,
+      "price": 51753.51,
+      "changePercent": -0.567,
+      "previousClose": 52093.11,
       "currency": "USD",
       "history": [
-        52093.109375,
         51461.8984375,
         51778.0390625,
         51682.640625,
-        52048.828125
+        52048.828125,
+        51753.51171875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.22,
-      "changePercent": -2.328,
+      "price": 91.59,
+      "changePercent": -0.844,
       "previousClose": 101.91,
       "currency": "USD",
       "history": [
         101.91000366210938,
         100.30000305175781,
         95.77999877929688,
-        90.22000122070312
+        91.58999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4354,
-      "changePercent": -0.682,
+      "price": 4366.9,
+      "changePercent": -0.388,
       "previousClose": 4399.7,
       "currency": "USD",
       "history": [
         4399.7001953125,
         4424.89990234375,
         4383.89990234375,
-        4354
+        4366.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.417,
-      "changePercent": -0.012,
+      "price": 100.619,
+      "changePercent": 0.189,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.22000122070312,
         100.43000030517578,
-        100.41699981689453
+        100.61900329589844
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.74,
-      "changePercent": -0.874,
+      "price": 14.3,
+      "changePercent": -3.833,
       "previousClose": 17.71,
       "currency": "USD",
       "history": [
@@ -113,12 +113,48 @@
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.739999771118164
+        14.300000190734863
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"AI비서에 쇼핑 맡겼다 돈 날릴 수도\"…글로벌은행들 경고",
+      "link": "https://www.hankyung.com/article/202609222136i",
+      "pubDate": "Tue, 22 Sep 2026 23:47:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신",
+      "link": "https://www.hankyung.com/article/202609222117i",
+      "pubDate": "Tue, 22 Sep 2026 23:08:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "호르무즈 재개방 기대…국제유가 2주 만에 '뚝'",
+      "link": "https://www.hankyung.com/article/2026092221051",
+      "pubDate": "Tue, 22 Sep 2026 22:52:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"트럼프 보란 듯 터트렸다\"…중국이 꺼낸 최강 'AI 비밀병기' [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026092220826",
+      "pubDate": "Tue, 22 Sep 2026 22:26:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유가 80불대로 떨어지나?…사우디 송유관 재가동에 이란도 깜짝 제안",
+      "link": "https://www.hankyung.com/article/202609222069i",
+      "pubDate": "Tue, 22 Sep 2026 22:10:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "메타, 뮤즈 AI 인기 폭발에도 '신뢰' 문제…아마존, 접속 차단",
+      "link": "https://www.hankyung.com/article/202609222022i",
+      "pubDate": "Tue, 22 Sep 2026 20:57:42 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
@@ -127,7 +163,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"이러다 실손 또 오를 판\"…1만원 치료가 10만원으로 '둔갑'",
+      "title": "'1만원→10만원'…도수치료 막았더니 '어떻게 이럴 수가'",
       "link": "https://www.hankyung.com/article/2026092217451",
       "pubDate": "Tue, 22 Sep 2026 20:00:02 +0900"
     },
@@ -172,42 +208,6 @@
       "title": "한화손보, 100세 현역 설계사 헌정 행사",
       "link": "https://www.hankyung.com/article/2026092218361",
       "pubDate": "Tue, 22 Sep 2026 18:37:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리銀, 백범 탄생 150주년 걷기 행사",
-      "link": "https://www.hankyung.com/article/2026092218331",
-      "pubDate": "Tue, 22 Sep 2026 18:36:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "셀리드, 30억원 유상증자…센트러스트투자조합 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260922182600008",
-      "pubDate": "Tue, 22 Sep 2026 18:29:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국토장관, 취임 첫 현장은 부천대장…\"주택공급, 계획보다 실행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922180900003",
-      "pubDate": "Tue, 22 Sep 2026 18:07:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "스스로 생 마감하는 청소년 늘었다",
-      "link": "https://www.hankyung.com/article/2026092217901",
-      "pubDate": "Tue, 22 Sep 2026 18:07:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "호주에 모인 월드옥타 차세대 리더 24명…대양주 9개 지회 '협력 강화'",
-      "link": "https://www.hankyung.com/article/202609221887i",
-      "pubDate": "Tue, 22 Sep 2026 18:03:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260922174500011",
-      "pubDate": "Tue, 22 Sep 2026 18:00:01 +0900"
     }
   ]
 }
