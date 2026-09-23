@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-23T14:59:29.382Z",
+  "updatedAt": "2026-09-23T18:58:53.737Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7731.93,
-      "changePercent": -0.421,
+      "price": 7712.38,
+      "changePercent": -0.673,
       "previousClose": 7551.81,
       "currency": "USD",
       "history": [
         7637.759765625,
         7650.5,
         7764.7001953125,
-        7731.93017578125
+        7712.3798828125
       ],
       "ok": true
     },
@@ -21,15 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27036.271,
-      "changePercent": -0.764,
+      "price": 26958.25,
+      "changePercent": -1.05,
       "previousClose": 25978.43,
       "currency": "USD",
       "history": [
         26418.30078125,
         26522.5390625,
         27122.08984375,
-        27036.271484375
+        26958.25
       ],
       "ok": true
     },
@@ -37,15 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51721.28,
-      "changePercent": -0.275,
+      "price": 51551.33,
+      "changePercent": -0.602,
       "previousClose": 51461.9,
       "currency": "USD",
       "history": [
         51778.0390625,
         51682.640625,
         52048.828125,
-        51721.28125
+        51551.328125
       ],
       "ok": true
     },
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.02,
-      "changePercent": 1.657,
+      "price": 92.51,
+      "changePercent": 2.198,
       "previousClose": 100.3,
       "currency": "USD",
       "history": [
         100.30000305175781,
         95.77999877929688,
         94.58999633789062,
-        92.0199966430664
+        92.51000213623047
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4321.6,
-      "changePercent": -1.252,
+      "price": 4322.5,
+      "changePercent": -1.232,
       "previousClose": 4424.9,
       "currency": "USD",
       "history": [
         4424.89990234375,
         4383.89990234375,
         4376.39990234375,
-        4321.60009765625
+        4322.5
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.068,
-      "changePercent": 0.464,
+      "price": 101.118,
+      "changePercent": 0.514,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.43000030517578,
-        101.06800079345703
+        101.11799621582031
       ],
       "ok": true
     },
@@ -100,20 +100,50 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.68,
-      "changePercent": 3.296,
+      "price": 15.02,
+      "changePercent": 5.7,
       "previousClose": 15.44,
       "currency": "USD",
       "history": [
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.680000305175781
+        15.020000457763672
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "李대통령 \"농지전수조사 꼭 필요…회피하지 않겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924003700001",
+      "pubDate": "Thu, 24 Sep 2026 01:42:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
+      "link": "https://www.hankyung.com/article/202609244510i",
+      "pubDate": "Thu, 24 Sep 2026 00:56:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 공급압박속 9월 기업활동 PMI 58.4 …5년만에 최고",
+      "link": "https://www.hankyung.com/article/202609244494i",
+      "pubDate": "Thu, 24 Sep 2026 00:18:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609234485i",
+      "pubDate": "Wed, 23 Sep 2026 23:59:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美'경유수출중단' 자충수 될수도…에너지장관,석유업계 반발",
+      "link": "https://www.hankyung.com/article/202609234483i",
+      "pubDate": "Wed, 23 Sep 2026 23:45:39 +0900"
+    },
     {
       "source": "한국경제",
       "title": "메타 AI비서 뮤즈…사람이 대신 전화 걸어주는 '인간컨시어지'실험",
@@ -173,36 +203,6 @@
       "title": "시몬스 \"온라인 전용 침대도 누워보고 고르세요\"",
       "link": "https://www.hankyung.com/article/202609234238i",
       "pubDate": "Wed, 23 Sep 2026 17:52:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "쿠팡 '현장조사 불복' 집행정지 기각…공정위 \"과태료 부과\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260923168651004",
-      "pubDate": "Wed, 23 Sep 2026 17:46:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 유가 하락에 동반 하락…3년물 연 4.006%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260923163051008",
-      "pubDate": "Wed, 23 Sep 2026 17:14:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "OECD, 올해 한국 성장률 3.7%로 올렸다…상향폭 G20중 최고",
-      "link": "https://www.hankyung.com/article/2026092340921",
-      "pubDate": "Wed, 23 Sep 2026 17:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "OECD, 한국 올해 성장률 전망 2.6%→3.7%…G20 중 최대 폭 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260923144200002",
-      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "춘천시, 중소기업 육성자금 500억원으로 확대…골목상권 '숨통'",
-      "link": "https://www.yna.co.kr/view/AKR20260923166200062",
-      "pubDate": "Wed, 23 Sep 2026 16:58:59 +0900"
     }
   ]
 }
