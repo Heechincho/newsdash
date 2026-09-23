@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-23T10:06:02.430Z",
+  "updatedAt": "2026-09-23T14:59:29.382Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7764.64,
-      "changePercent": -0.001,
-      "previousClose": 7585.73,
+      "price": 7731.93,
+      "changePercent": -0.421,
+      "previousClose": 7551.81,
       "currency": "USD",
       "history": [
-        7551.81005859375,
         7637.759765625,
         7650.5,
-        7764.7001953125
+        7764.7001953125,
+        7731.93017578125
       ],
       "ok": true
     },
@@ -21,15 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27244.277,
-      "changePercent": 0.45,
-      "previousClose": 25981.57,
+      "price": 27036.271,
+      "changePercent": -0.764,
+      "previousClose": 25978.43,
       "currency": "USD",
       "history": [
-        25978.4296875,
         26418.30078125,
         26522.5390625,
-        27122.08984375
+        27122.08984375,
+        27036.271484375
       ],
       "ok": true
     },
@@ -37,15 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51863.69,
-      "changePercent": -0.356,
-      "previousClose": 52093.11,
+      "price": 51721.28,
+      "changePercent": -0.275,
+      "previousClose": 51461.9,
       "currency": "USD",
       "history": [
-        51461.8984375,
         51778.0390625,
         51682.640625,
-        52048.828125
+        52048.828125,
+        51721.28125
       ],
       "ok": true
     },
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.16,
-      "changePercent": -0.398,
+      "price": 92.02,
+      "changePercent": 1.657,
       "previousClose": 100.3,
       "currency": "USD",
       "history": [
         100.30000305175781,
         95.77999877929688,
         94.58999633789062,
-        90.16000366210938
+        92.0199966430664
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4350.5,
-      "changePercent": -0.592,
+      "price": 4321.6,
+      "changePercent": -1.252,
       "previousClose": 4424.9,
       "currency": "USD",
       "history": [
         4424.89990234375,
         4383.89990234375,
         4376.39990234375,
-        4350.5
+        4321.60009765625
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.877,
-      "changePercent": 0.274,
+      "price": 101.068,
+      "changePercent": 0.464,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.43000030517578,
-        100.87699890136719
+        101.06800079345703
       ],
       "ok": true
     },
@@ -100,20 +100,56 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.17,
-      "changePercent": -0.281,
+      "price": 14.68,
+      "changePercent": 3.296,
       "previousClose": 15.44,
       "currency": "USD",
       "history": [
         15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        14.170000076293945
+        14.680000305175781
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "메타 AI비서 뮤즈…사람이 대신 전화 걸어주는 '인간컨시어지'실험",
+      "link": "https://www.hankyung.com/article/202609234444i",
+      "pubDate": "Wed, 23 Sep 2026 22:17:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"관세 더 내라\"…인도, 삼성·LG OLED 부품 관세 조사 중 [로이터]",
+      "link": "https://www.hankyung.com/article/202609234426i",
+      "pubDate": "Wed, 23 Sep 2026 21:07:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"비행기표 다 나갔네\" 좌절했는데…포기하긴 이른 이유 있었다 [플라잇톡]",
+      "link": "https://www.hankyung.com/article/202609233111g",
+      "pubDate": "Wed, 23 Sep 2026 21:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美·中 앞에선 AI패권경쟁…뒤로는 상대 기술주 사들여",
+      "link": "https://www.hankyung.com/article/202609234365i",
+      "pubDate": "Wed, 23 Sep 2026 20:02:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "OECD \"올해 세계 경제 2.9% 성장…한국은 3.7% 성장\"",
+      "link": "https://www.hankyung.com/article/202609234359i",
+      "pubDate": "Wed, 23 Sep 2026 19:30:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"고향 안 가고 전도 안 부쳐요\"…2030 '혼추족' 늘자 대박난 곳 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609232940g",
+      "pubDate": "Wed, 23 Sep 2026 19:00:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "케이쓰리아이, 30억 제3자배정 유상증자",
@@ -167,42 +203,6 @@
       "title": "춘천시, 중소기업 육성자금 500억원으로 확대…골목상권 '숨통'",
       "link": "https://www.yna.co.kr/view/AKR20260923166200062",
       "pubDate": "Wed, 23 Sep 2026 16:58:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"화려한 로고는 됐어요\"…GS샵, 고급 소재 앞세운 FW 신제품 선봬",
-      "link": "https://www.hankyung.com/article/202609234104g",
-      "pubDate": "Wed, 23 Sep 2026 16:50:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 일제히 하락…3년물 연 4.006%",
-      "link": "https://www.yna.co.kr/view/AKR20260923163000008",
-      "pubDate": "Wed, 23 Sep 2026 16:47:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "GH-이천시, '반도체 산업단지 클러스터' 조성 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260923164300061",
-      "pubDate": "Wed, 23 Sep 2026 16:47:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "K2코리아그룹, 아웃도어 브랜드 '네파' 인수…\"해외 진출 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923164200030",
-      "pubDate": "Wed, 23 Sep 2026 16:47:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "MBK, 네파 손절…K2그룹에 매각",
-      "link": "https://www.hankyung.com/article/2026092340251",
-      "pubDate": "Wed, 23 Sep 2026 16:46:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "포스코, 잭니클라우스GC 매각 착수",
-      "link": "https://www.hankyung.com/article/2026092340221",
-      "pubDate": "Wed, 23 Sep 2026 16:45:44 +0900"
     }
   ]
 }
