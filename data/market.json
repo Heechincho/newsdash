@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:16:20.167Z",
+  "updatedAt": "2026-09-23T10:06:02.430Z",
   "instruments": [
     {
       "key": "sp500",
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.27,
-      "changePercent": -1.381,
+      "price": 90.16,
+      "changePercent": -0.398,
       "previousClose": 100.3,
       "currency": "USD",
       "history": [
         100.30000305175781,
         95.77999877929688,
         94.58999633789062,
-        89.2699966430664
+        90.16000366210938
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4382.7,
-      "changePercent": 0.144,
+      "price": 4350.5,
+      "changePercent": -0.592,
       "previousClose": 4424.9,
       "currency": "USD",
       "history": [
         4424.89990234375,
         4383.89990234375,
         4376.39990234375,
-        4382.7001953125
+        4350.5
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.708,
-      "changePercent": 0.106,
+      "price": 100.877,
+      "changePercent": 0.274,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.43000030517578,
-        100.70800018310547
+        100.87699890136719
       ],
       "ok": true
     },
@@ -100,15 +100,15 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.21,
-      "changePercent": -4.438,
-      "previousClose": 17.71,
+      "price": 14.17,
+      "changePercent": -0.281,
+      "previousClose": 15.44,
       "currency": "USD",
       "history": [
-        17.709999084472656,
         15.4399995803833,
         14.8100004196167,
-        14.869999885559082
+        14.869999885559082,
+        14.170000076293945
       ],
       "ok": true
     }
@@ -116,93 +116,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "강원 제2청사·강릉시, 주문진시장서 추석 장보기 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260923116800062",
-      "pubDate": "Wed, 23 Sep 2026 14:06:59 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"추석 기름값, 오피넷으로 아끼세요\"…석유공사, 현장 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260923116100003",
-      "pubDate": "Wed, 23 Sep 2026 14:04:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "온라인 플랫폼 공정거래 분쟁 증가…쿠팡, 7년 연속 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260923097100030",
-      "pubDate": "Wed, 23 Sep 2026 14:02:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "노동장관 \"플랫폼노동자 '최저보수제' 연구…노사정 대화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923103500530",
-      "pubDate": "Wed, 23 Sep 2026 13:54:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "양천구, 내달 14일 양도세 등 부동산 세무설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260923112800004",
-      "pubDate": "Wed, 23 Sep 2026 13:54:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"금리 상승국면서 0.25%p 올리면 6개월후 아파트값 1.2%↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923103400003",
-      "pubDate": "Wed, 23 Sep 2026 13:51:14 +0900"
+      "title": "케이쓰리아이, 30억 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260923183100008",
+      "pubDate": "Wed, 23 Sep 2026 18:33:19 +0900"
     },
     {
       "source": "한국경제",
-      "title": "中 경공업 성장공식 바꾼다…AI 입혀 매출 30조위안으로 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202609233495i",
-      "pubDate": "Wed, 23 Sep 2026 13:48:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "샤인머스캣 인기 시들하더니…백화점에 등장한 새 '명품 과일' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202609232892g",
-      "pubDate": "Wed, 23 Sep 2026 13:40:31 +0900"
+      "title": "\"이걸 호텔방서 시켜 먹는다고?\"…외국인들 푹 빠진 한국 음식 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609221250g",
+      "pubDate": "Wed, 23 Sep 2026 18:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] SH-육군 56사단, 재난 대응 협력 강화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260923106200004",
-      "pubDate": "Wed, 23 Sep 2026 13:37:14 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260923170500011",
+      "pubDate": "Wed, 23 Sep 2026 18:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "추석 앞두고 벽돌 된 삼성 냉장고…내일 중 모든 오류 해결",
-      "link": "https://www.hankyung.com/article/202609233433g",
-      "pubDate": "Wed, 23 Sep 2026 13:31:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] GTX-C, 6년 만에 투자유치 성사…3.8조 모집 성공",
-      "link": "https://www.hankyung.com/article/202609221086i",
-      "pubDate": "Wed, 23 Sep 2026 13:25:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 교육기업 데이원컴퍼니, AX 사업 진출…\"전공·경력 불문 100명 채용\"",
-      "link": "https://www.hankyung.com/article/202609229824i",
-      "pubDate": "Wed, 23 Sep 2026 13:00:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'규모의 전쟁' 끝낸 中 차 음료 시장…미쉐 울고 구밍 웃고",
-      "link": "https://www.hankyung.com/article/202609017234i",
-      "pubDate": "Wed, 23 Sep 2026 13:00:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"인구감소 걱정했지만\"…해외 공략으로 조단위 매출 넘보는 'K-급식'",
-      "link": "https://www.hankyung.com/article/202609183405g",
-      "pubDate": "Wed, 23 Sep 2026 13:00:05 +0900"
+      "title": "시몬스 \"온라인 전용 침대도 누워보고 고르세요\"",
+      "link": "https://www.hankyung.com/article/202609234238i",
+      "pubDate": "Wed, 23 Sep 2026 17:52:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한은 \"추석 앞두고 3조6천억원 규모 화폐 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923061200002",
-      "pubDate": "Wed, 23 Sep 2026 12:00:03 +0900"
+      "title": "쿠팡 '현장조사 불복' 집행정지 기각…공정위 \"과태료 부과\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923168651004",
+      "pubDate": "Wed, 23 Sep 2026 17:46:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국고채 금리 유가 하락에 동반 하락…3년물 연 4.006%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923163051008",
+      "pubDate": "Wed, 23 Sep 2026 17:14:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "OECD, 올해 한국 성장률 3.7%로 올렸다…상향폭 G20중 최고",
+      "link": "https://www.hankyung.com/article/2026092340921",
+      "pubDate": "Wed, 23 Sep 2026 17:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "OECD, 한국 올해 성장률 전망 2.6%→3.7%…G20 중 최대 폭 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260923144200002",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "춘천시, 중소기업 육성자금 500억원으로 확대…골목상권 '숨통'",
+      "link": "https://www.yna.co.kr/view/AKR20260923166200062",
+      "pubDate": "Wed, 23 Sep 2026 16:58:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"화려한 로고는 됐어요\"…GS샵, 고급 소재 앞세운 FW 신제품 선봬",
+      "link": "https://www.hankyung.com/article/202609234104g",
+      "pubDate": "Wed, 23 Sep 2026 16:50:33 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국고채 금리 일제히 하락…3년물 연 4.006%",
+      "link": "https://www.yna.co.kr/view/AKR20260923163000008",
+      "pubDate": "Wed, 23 Sep 2026 16:47:52 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "GH-이천시, '반도체 산업단지 클러스터' 조성 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260923164300061",
+      "pubDate": "Wed, 23 Sep 2026 16:47:33 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "K2코리아그룹, 아웃도어 브랜드 '네파' 인수…\"해외 진출 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923164200030",
+      "pubDate": "Wed, 23 Sep 2026 16:47:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "MBK, 네파 손절…K2그룹에 매각",
+      "link": "https://www.hankyung.com/article/2026092340251",
+      "pubDate": "Wed, 23 Sep 2026 16:46:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "포스코, 잭니클라우스GC 매각 착수",
+      "link": "https://www.hankyung.com/article/2026092340221",
+      "pubDate": "Wed, 23 Sep 2026 16:45:44 +0900"
     }
   ]
 }
