@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:12:21.170Z",
+  "updatedAt": "2026-09-24T00:34:05.240Z",
   "instruments": [
     {
       "key": "sp500",
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.64,
-      "changePercent": 0.521,
+      "price": 91.66,
+      "changePercent": -0.543,
       "previousClose": 100.3,
       "currency": "USD",
       "history": [
         100.30000305175781,
         95.77999877929688,
         94.58999633789062,
-        92.63999938964844
+        91.66000366210938
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4326,
-      "changePercent": 0.176,
+      "price": 4321.6,
+      "changePercent": 0.074,
       "previousClose": 4424.9,
       "currency": "USD",
       "history": [
         4424.89990234375,
         4383.89990234375,
         4376.39990234375,
-        4326
+        4321.60009765625
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.116,
-      "changePercent": 0.512,
+      "price": 101.168,
+      "changePercent": 0.071,
       "previousClose": 100.22,
       "currency": "USD",
       "history": [
         100.22000122070312,
         100.43000030517578,
-        101.11599731445312
+        101.16799926757812
       ],
       "ok": true
     },
@@ -116,93 +116,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "'서학개미 큰손' 잡아라…美 ETF 브랜드 대표들 잇단 방한",
-      "link": "https://www.yna.co.kr/view/AKR20260921153800008",
-      "pubDate": "Thu, 24 Sep 2026 07:05:01 +0900"
+      "title": "'매출 높은 기업'에 신보 보증 쏠림…100억 초과 승인액 65%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260923197500002",
+      "pubDate": "Thu, 24 Sep 2026 09:01:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "은행권, 추석 연휴 휴게소서 이동점포 운영…중기 자금지원 늘려",
-      "link": "https://www.yna.co.kr/view/AKR20260923178400002",
-      "pubDate": "Thu, 24 Sep 2026 07:01:00 +0900"
+      "title": "군포시청서 내달 21일 일자리 박람회…27개 기업 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260923080800061",
+      "pubDate": "Thu, 24 Sep 2026 09:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "자주 사는 우유·라면 등 오르면 물가 더 뛴걸로 느낀다…'밥상물가' 비밀",
-      "link": "https://www.yna.co.kr/view/AKR20260922112600063",
-      "pubDate": "Thu, 24 Sep 2026 07:00:13 +0900"
+      "title": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
+      "link": "https://www.yna.co.kr/view/AKR20260921153900008",
+      "pubDate": "Thu, 24 Sep 2026 09:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 선언에 갇힌 유엔 결의안…한국, '평등한 지구'의 실행자로",
-      "link": "https://www.yna.co.kr/view/AKR20260917123900898",
-      "pubDate": "Thu, 24 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"소도시 세무서 납세자보호위 '유명무실'…신청건수 年1건 미만\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922168400001",
-      "pubDate": "Thu, 24 Sep 2026 07:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"건기식인 줄 알고 샀는데\"…일반식품 오인 광고 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260923157000017",
-      "pubDate": "Thu, 24 Sep 2026 06:45:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'명품 샀는데'…소비자 피해구제 신청 10건 중 8건은 '품질'",
-      "link": "https://www.yna.co.kr/view/AKR20260923086700030",
-      "pubDate": "Thu, 24 Sep 2026 06:30:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "산재신청 4년새 30% 늘었는데…건설업 불승인율은 3배로",
-      "link": "https://www.yna.co.kr/view/AKR20260923099700530",
-      "pubDate": "Thu, 24 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"농촌 빈집 1년 새 6천호 증가…'빈집은행' 거래는 64건에 그쳐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923107700030",
-      "pubDate": "Thu, 24 Sep 2026 06:00:01 +0900"
+      "title": "LH, 5천억원 규모 우량 공동주택용지 매입…29일부터 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260923135900003",
+      "pubDate": "Thu, 24 Sep 2026 09:00:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'한국 드라마서 봤어요' 외국인 몰리는 곳이…'대박' 터졌다",
-      "link": "https://www.hankyung.com/article/2026092339561",
-      "pubDate": "Thu, 24 Sep 2026 06:00:01 +0900"
+      "title": "추석인데 총수들 줄줄이 출국…젠슨 황 만날 '韓 CEO' 누구",
+      "link": "https://www.hankyung.com/article/2026092447057",
+      "pubDate": "Thu, 24 Sep 2026 08:35:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "팍팍한 청춘…올해 2030 개인회생 3만명·채무조정 10만명 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260923146800002",
-      "pubDate": "Thu, 24 Sep 2026 05:53:00 +0900"
+      "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
+      "link": "https://www.yna.co.kr/view/AKR20260923182800030",
+      "pubDate": "Thu, 24 Sep 2026 08:31:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "저소득 자영업자 연체율 10년 6개월 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260923177100002",
-      "pubDate": "Thu, 24 Sep 2026 05:51:00 +0900"
+      "title": "[반려동물] 귀성·여행에 펫 돌봄 수요 증가…위탁관리업도 동반 성장",
+      "link": "https://www.yna.co.kr/view/AKR20260923151500030",
+      "pubDate": "Thu, 24 Sep 2026 08:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"외상값 못받는 중소기업들\"…매출채권보험 사고액 4년새 65%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260923141100001",
-      "pubDate": "Thu, 24 Sep 2026 05:20:00 +0900"
+      "title": "추석 앞두고 경남 8개 사업장서 임금 8천690만원 체불 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260923070300052",
+      "pubDate": "Thu, 24 Sep 2026 08:15:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "李대통령 \"농지전수조사 꼭 필요…회피하지 않겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260924003700001",
-      "pubDate": "Thu, 24 Sep 2026 01:42:51 +0900"
+      "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260923109200056",
+      "pubDate": "Thu, 24 Sep 2026 08:10:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
+      "link": "https://www.yna.co.kr/view/AKR20260923084000003",
+      "pubDate": "Thu, 24 Sep 2026 08:05:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "저가커피 공세 속에…본사 매출 464% 뛸 때 점주는 10% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260923193600002",
+      "pubDate": "Thu, 24 Sep 2026 08:01:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
-      "link": "https://www.hankyung.com/article/202609244510i",
-      "pubDate": "Thu, 24 Sep 2026 00:56:49 +0900"
+      "title": "올 추석 부모님 선물로 소형 건강가전 어때요?",
+      "link": "https://www.hankyung.com/article/202609234294i",
+      "pubDate": "Thu, 24 Sep 2026 08:00:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "군산시, 착한가격업소 신규 모집…맞춤형 혜택 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260923051400055",
+      "pubDate": "Thu, 24 Sep 2026 08:00:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한국서만 먹는 줄 알았는데\"…맥도날드도 꽂혀버린 'K소스' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609219209i",
+      "pubDate": "Thu, 24 Sep 2026 08:00:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"통신비 꼬박꼬박 냈을 뿐인데\"…40대 주부, 은행 갔다가 '깜짝'",
+      "link": "https://www.hankyung.com/article/2026092340321",
+      "pubDate": "Thu, 24 Sep 2026 08:00:09 +0900"
     }
   ]
 }
