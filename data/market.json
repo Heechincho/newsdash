@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:22:47.057Z",
+  "updatedAt": "2026-09-24T10:22:55.987Z",
   "instruments": [
     {
       "key": "sp500",
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.43,
-      "changePercent": -0.792,
+      "price": 93.61,
+      "changePercent": 1.573,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        91.43000030517578
+        93.61000061035156
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4326.4,
-      "changePercent": 0.185,
+      "price": 4289.5,
+      "changePercent": -0.669,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4326.39990234375
+        4289.5
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.084,
-      "changePercent": -0.012,
+      "price": 101.239,
+      "changePercent": 0.141,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.08399963378906
+        101.23899841308594
       ],
       "ok": true
     },
@@ -100,20 +100,74 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.18,
-      "changePercent": 6.826,
-      "previousClose": 15.44,
+      "price": 16.4,
+      "changePercent": 8.042,
+      "previousClose": 14.81,
       "currency": "USD",
       "history": [
-        15.4399995803833,
         14.8100004196167,
         14.869999885559082,
-        15.180000305175781
+        15.180000305175781,
+        16.399999618530273
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
+      "pubDate": "Thu, 24 Sep 2026 18:09:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026092184316",
+      "pubDate": "Thu, 24 Sep 2026 17:26:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
+      "link": "https://www.hankyung.com/article/202609233010H",
+      "pubDate": "Thu, 24 Sep 2026 16:53:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
+      "link": "https://www.hankyung.com/article/202609245131i",
+      "pubDate": "Thu, 24 Sep 2026 16:53:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"하루만 맡겨도 이자 준대\" 들썩…'103조원' 출혈 경쟁 터졌다",
+      "link": "https://www.hankyung.com/article/2026092336926",
+      "pubDate": "Thu, 24 Sep 2026 16:37:17 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
+      "link": "https://www.hankyung.com/article/202609220758g",
+      "pubDate": "Thu, 24 Sep 2026 16:33:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유",
+      "link": "https://www.hankyung.com/article/202609229909i",
+      "pubDate": "Thu, 24 Sep 2026 16:10:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
+      "pubDate": "Thu, 24 Sep 2026 15:32:38 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260924035700011",
+      "pubDate": "Thu, 24 Sep 2026 15:00:00 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
@@ -128,7 +182,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"남들은 전세 9억 받는데\"…8년 버틴 60대 집주인 '분통' [고정삼의 절세GPT]",
+      "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
       "link": "https://www.hankyung.com/article/2026092334526",
       "pubDate": "Thu, 24 Sep 2026 13:10:14 +0900"
     },
@@ -149,60 +203,6 @@
       "title": "대미투자 새 축으로 떠오른 원전…'K원전' 美진출 넓어지나",
       "link": "https://www.hankyung.com/article/202609234053i",
       "pubDate": "Thu, 24 Sep 2026 12:08:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] 머스크 \"시진핑은 뛰어난 지도자…중국 엄청나게 번영\"",
-      "link": "https://www.hankyung.com/article/2026092449617",
-      "pubDate": "Thu, 24 Sep 2026 11:48:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260924027900053",
-      "pubDate": "Thu, 24 Sep 2026 11:31:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"연휴 끝나면 '6억 잭팟' 터지나\"…삼성 반도체 직원들 '들썩'",
-      "link": "https://www.hankyung.com/article/2026092449257",
-      "pubDate": "Thu, 24 Sep 2026 11:04:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증권가 추석 보너스는…귀성비에 백돈 세트도",
-      "link": "https://www.yna.co.kr/view/AKR20260923145500008",
-      "pubDate": "Thu, 24 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260924024200011",
-      "pubDate": "Thu, 24 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "추석 차례상 30만원 시대…고물가에 가성비 명절 간편식 '불티'",
-      "link": "https://www.hankyung.com/article/202609233237i",
-      "pubDate": "Thu, 24 Sep 2026 10:25:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "용인시, 신축 공동주택 승강기에 에어컨 설치 의무화 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260921074500061",
-      "pubDate": "Thu, 24 Sep 2026 10:01:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'디센트' 해킹 피해 일파만파?…리플 1천만개 탈취 추정도",
-      "link": "https://www.yna.co.kr/view/AKR20260923182400002",
-      "pubDate": "Thu, 24 Sep 2026 10:01:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"독일·대만 벤치마킹했다더니\"…보상 쏙 뺀 '무늬만 해외식'?",
-      "link": "https://www.hankyung.com/article/202609233881i",
-      "pubDate": "Thu, 24 Sep 2026 10:00:17 +0900"
     }
   ]
 }
