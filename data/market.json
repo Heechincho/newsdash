@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T15:24:44.880Z",
+  "updatedAt": "2026-09-24T19:25:33.668Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7674.48,
-      "changePercent": -0.409,
+      "price": 7708.41,
+      "changePercent": 0.031,
       "previousClose": 7637.76,
       "currency": "USD",
       "history": [
         7650.5,
         7764.7001953125,
         7706.02978515625,
-        7674.47998046875
+        7708.41015625
       ],
       "ok": true
     },
@@ -21,15 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26751.598,
-      "changePercent": -0.685,
+      "price": 26943.623,
+      "changePercent": 0.028,
       "previousClose": 26418.3,
       "currency": "USD",
       "history": [
         26522.5390625,
         27122.08984375,
         26936.0390625,
-        26751.59765625
+        26943.623046875
       ],
       "ok": true
     },
@@ -37,15 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51195.26,
-      "changePercent": -0.614,
+      "price": 51356.56,
+      "changePercent": -0.301,
       "previousClose": 51778.04,
       "currency": "USD",
       "history": [
         51682.640625,
         52048.828125,
         51511.58984375,
-        51195.26171875
+        51356.55859375
       ],
       "ok": true
     },
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.9,
-      "changePercent": 4.058,
+      "price": 95.25,
+      "changePercent": 3.353,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        95.9000015258789
+        95.25
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4280.6,
-      "changePercent": -0.875,
+      "price": 4303.1,
+      "changePercent": -0.354,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4280.60009765625
+        4303.10009765625
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.372,
-      "changePercent": 0.273,
+      "price": 101.306,
+      "changePercent": 0.208,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.37200164794922
+        101.30599975585938
       ],
       "ok": true
     },
@@ -100,20 +100,26 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.05,
-      "changePercent": 5.735,
+      "price": 15.58,
+      "changePercent": 2.633,
       "previousClose": 14.81,
       "currency": "USD",
       "history": [
         14.8100004196167,
         14.869999885559082,
         15.180000305175781,
-        16.049999237060547
+        15.579999923706055
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"오라클,뉴멕시코 데이터센터 '불가항력'선언\" [블룸버그]",
+      "link": "https://www.hankyung.com/article/202609245339i",
+      "pubDate": "Fri, 25 Sep 2026 00:11:32 +0900"
+    },
     {
       "source": "한국경제",
       "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
@@ -197,12 +203,6 @@
       "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
       "link": "https://www.yna.co.kr/view/AKR20260924028000003",
       "pubDate": "Thu, 24 Sep 2026 14:00:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
-      "link": "https://www.hankyung.com/article/2026092334526",
-      "pubDate": "Thu, 24 Sep 2026 13:10:14 +0900"
     }
   ]
 }
