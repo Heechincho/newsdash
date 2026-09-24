@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T10:22:55.987Z",
+  "updatedAt": "2026-09-24T15:24:44.880Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7706.03,
-      "changePercent": -0.755,
-      "previousClose": 7551.81,
+      "price": 7674.48,
+      "changePercent": -0.409,
+      "previousClose": 7637.76,
       "currency": "USD",
       "history": [
-        7637.759765625,
         7650.5,
         7764.7001953125,
-        7706.02978515625
+        7706.02978515625,
+        7674.47998046875
       ],
       "ok": true
     },
@@ -21,15 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26936.037,
-      "changePercent": -1.131,
-      "previousClose": 25978.43,
+      "price": 26751.598,
+      "changePercent": -0.685,
+      "previousClose": 26418.3,
       "currency": "USD",
       "history": [
-        26418.30078125,
         26522.5390625,
         27122.08984375,
-        26936.0390625
+        26936.0390625,
+        26751.59765625
       ],
       "ok": true
     },
@@ -37,15 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51511.59,
-      "changePercent": -0.679,
-      "previousClose": 51461.9,
+      "price": 51195.26,
+      "changePercent": -0.614,
+      "previousClose": 51778.04,
       "currency": "USD",
       "history": [
-        51778.0390625,
         51682.640625,
         52048.828125,
-        51511.58984375
+        51511.58984375,
+        51195.26171875
       ],
       "ok": true
     },
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 93.61,
-      "changePercent": 1.573,
+      "price": 95.9,
+      "changePercent": 4.058,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        93.61000061035156
+        95.9000015258789
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4289.5,
-      "changePercent": -0.669,
+      "price": 4280.6,
+      "changePercent": -0.875,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4289.5
+        4280.60009765625
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.239,
-      "changePercent": 0.141,
+      "price": 101.372,
+      "changePercent": 0.273,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.23899841308594
+        101.37200164794922
       ],
       "ok": true
     },
@@ -100,20 +100,38 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.4,
-      "changePercent": 8.042,
+      "price": 16.05,
+      "changePercent": 5.735,
       "previousClose": 14.81,
       "currency": "USD",
       "history": [
         14.8100004196167,
         14.869999885559082,
         15.180000305175781,
-        16.399999618530273
+        16.049999237060547
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
+      "link": "https://www.hankyung.com/article/202609245306i",
+      "pubDate": "Thu, 24 Sep 2026 23:12:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
+      "link": "https://www.hankyung.com/article/202609245261i",
+      "pubDate": "Thu, 24 Sep 2026 20:53:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
+      "link": "https://www.hankyung.com/article/202609245190i",
+      "pubDate": "Thu, 24 Sep 2026 19:13:31 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
@@ -185,24 +203,6 @@
       "title": "\"시세보다 40% 싸게 전세 줬는데\"…60대 집주인 '날벼락' [고정삼의 절세GPT]",
       "link": "https://www.hankyung.com/article/2026092334526",
       "pubDate": "Thu, 24 Sep 2026 13:10:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260924027951053",
-      "pubDate": "Thu, 24 Sep 2026 12:41:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"홍대 골목인 줄\"…북유럽서 인기 폭발한 길거리 간식 뭐길래 [씬메이커]",
-      "link": "https://www.hankyung.com/article/202609106359g",
-      "pubDate": "Thu, 24 Sep 2026 12:13:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "대미투자 새 축으로 떠오른 원전…'K원전' 美진출 넓어지나",
-      "link": "https://www.hankyung.com/article/202609234053i",
-      "pubDate": "Thu, 24 Sep 2026 12:08:35 +0900"
     }
   ]
 }
