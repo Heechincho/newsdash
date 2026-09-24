@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T19:25:33.668Z",
+  "updatedAt": "2026-09-24T22:39:49.112Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7708.41,
-      "changePercent": 0.031,
+      "price": 7704.13,
+      "changePercent": -0.025,
       "previousClose": 7637.76,
       "currency": "USD",
       "history": [
         7650.5,
         7764.7001953125,
         7706.02978515625,
-        7708.41015625
+        7704.1298828125
       ],
       "ok": true
     },
@@ -21,15 +21,15 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26943.623,
-      "changePercent": 0.028,
+      "price": 26939.373,
+      "changePercent": 0.012,
       "previousClose": 26418.3,
       "currency": "USD",
       "history": [
         26522.5390625,
         27122.08984375,
         26936.0390625,
-        26943.623046875
+        26939.373046875
       ],
       "ok": true
     },
@@ -37,15 +37,15 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51356.56,
-      "changePercent": -0.301,
+      "price": 51349.98,
+      "changePercent": -0.314,
       "previousClose": 51778.04,
       "currency": "USD",
       "history": [
         51682.640625,
         52048.828125,
         51511.58984375,
-        51356.55859375
+        51349.98046875
       ],
       "ok": true
     },
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.25,
-      "changePercent": 3.353,
+      "price": 94.3,
+      "changePercent": -0.328,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        95.25
+        94.30000305175781
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4303.1,
-      "changePercent": -0.354,
+      "price": 4306.7,
+      "changePercent": 0.202,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4303.10009765625
+        4306.7001953125
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.306,
-      "changePercent": 0.208,
+      "price": 101.248,
+      "changePercent": 0.15,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.30599975585938
+        101.24800109863281
       ],
       "ok": true
     },
@@ -100,20 +100,86 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.58,
-      "changePercent": 2.633,
+      "price": 15.67,
+      "changePercent": 3.228,
       "previousClose": 14.81,
       "currency": "USD",
       "history": [
         14.8100004196167,
         14.869999885559082,
         15.180000305175781,
-        15.579999923706055
+        15.670000076293945
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "인류안전 위해 경쟁 멈추자?…힘 잃는 AI 속도조절론",
+      "link": "https://www.yna.co.kr/view/AKR20260922103700008",
+      "pubDate": "Fri, 25 Sep 2026 07:05:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "동해안서 어항 폐기물 수거량 절반 이상…관리선은 가장 적어",
+      "link": "https://www.yna.co.kr/view/AKR20260923134200051",
+      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "세입자보다 어린 집주인?…20세 미만이 산 주택, 올해만 115건",
+      "link": "https://www.yna.co.kr/view/AKR20260923148000002",
+      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스맥스, 10년간 매출 4.5배·수출 3배…R&D 투자 12배 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260924031700030",
+      "pubDate": "Fri, 25 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
+      "link": "https://www.yna.co.kr/view/AKR20260924031200003",
+      "pubDate": "Fri, 25 Sep 2026 07:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "탈세 유튜버에 칼 빼든 국세청…작년 17명에 239억원 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260922179600001",
+      "pubDate": "Fri, 25 Sep 2026 07:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "명절 휴게소 편의점 인기 품목은…내려갈 때 커피, 귀경 땐 과자",
+      "link": "https://www.yna.co.kr/view/AKR20260923129400030",
+      "pubDate": "Fri, 25 Sep 2026 07:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"6년간 농업정책자금 부당수령 2천억원…미회수액만 898억원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923140700030",
+      "pubDate": "Fri, 25 Sep 2026 07:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "소득 다 털어도 빚 갚기 빠듯한 차주 3년 반 만에 반등",
+      "link": "https://www.yna.co.kr/view/AKR20260923199400002",
+      "pubDate": "Fri, 25 Sep 2026 06:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주금공 대위변제 3년새 138%↑…\"전세대출 못 갚는 서민 늘어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924044300001",
+      "pubDate": "Fri, 25 Sep 2026 05:58:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "작년 추석 휴게소서 한명당 1만8천원 소비…심야 매출 4배 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20260923192900002",
+      "pubDate": "Fri, 25 Sep 2026 05:51:01 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"오라클,뉴멕시코 데이터센터 '불가항력'선언\" [블룸버그]",
@@ -137,72 +203,6 @@
       "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
       "link": "https://www.hankyung.com/article/202609245190i",
       "pubDate": "Thu, 24 Sep 2026 19:13:31 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
-      "pubDate": "Thu, 24 Sep 2026 18:09:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026092184316",
-      "pubDate": "Thu, 24 Sep 2026 17:26:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
-      "link": "https://www.hankyung.com/article/202609233010H",
-      "pubDate": "Thu, 24 Sep 2026 16:53:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
-      "link": "https://www.hankyung.com/article/202609245131i",
-      "pubDate": "Thu, 24 Sep 2026 16:53:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"하루만 맡겨도 이자 준대\" 들썩…'103조원' 출혈 경쟁 터졌다",
-      "link": "https://www.hankyung.com/article/2026092336926",
-      "pubDate": "Thu, 24 Sep 2026 16:37:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
-      "link": "https://www.hankyung.com/article/202609220758g",
-      "pubDate": "Thu, 24 Sep 2026 16:33:44 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유",
-      "link": "https://www.hankyung.com/article/202609229909i",
-      "pubDate": "Thu, 24 Sep 2026 16:10:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
-      "pubDate": "Thu, 24 Sep 2026 15:32:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260924035700011",
-      "pubDate": "Thu, 24 Sep 2026 15:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260922168451001",
-      "pubDate": "Thu, 24 Sep 2026 14:15:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
-      "link": "https://www.yna.co.kr/view/AKR20260924028000003",
-      "pubDate": "Thu, 24 Sep 2026 14:00:00 +0900"
     }
   ]
 }
