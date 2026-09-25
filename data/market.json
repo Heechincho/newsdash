@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T19:57:19.316Z",
+  "updatedAt": "2026-09-25T23:13:35.114Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7744.59,
-      "changePercent": 0.525,
+      "price": 7743.41,
+      "changePercent": 0.51,
       "previousClose": 7650.5,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7764.64013671875,
         7706.02978515625,
         7704.1298828125,
-        7744.58984375
+        7743.41015625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27075.021,
-      "changePercent": 0.504,
+      "price": 27068.717,
+      "changePercent": 0.48,
       "previousClose": 26522.54,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27244.279296875,
         26936.0390625,
         26939.369140625,
-        27075.021484375
+        27068.716796875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51826.74,
-      "changePercent": 0.928,
+      "price": 51828.62,
+      "changePercent": 0.932,
       "previousClose": 51682.64,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51863.69140625,
         51511.58984375,
         51349.98046875,
-        51826.73828125
+        51828.62109375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.37,
-      "changePercent": -2.368,
+      "price": 92.44,
+      "changePercent": -2.294,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.37000274658203
+        92.44000244140625
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4329.3,
-      "changePercent": 0.728,
+      "price": 4320.5,
+      "changePercent": 0.523,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4376.39990234375,
         4318.39990234375,
         4298,
-        4329.2998046875
+        4320.5
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.979,
-      "changePercent": -0.302,
+      "price": 101.035,
+      "changePercent": -0.247,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         100.5999984741211,
         101.0999984741211,
         101.29000091552734,
-        100.97899627685547
+        101.03500366210938
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.7,
-      "changePercent": -6.19,
+      "price": 14.87,
+      "changePercent": -5.105,
       "previousClose": 14.87,
       "currency": "USD",
       "history": [
@@ -116,7 +116,7 @@
         14.210000038146973,
         15.180000305175781,
         15.670000076293945,
-        14.699999809265137
+        14.869999885559082
       ],
       "ok": true
     }
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260926002300071",
-      "pubDate": "Sat, 26 Sep 2026 02:08:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609266127i",
-      "pubDate": "Sat, 26 Sep 2026 00:48:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'다마고치' 들고 나온 저커버그의 속내는? [월가 백브리핑]",
-      "link": "https://www.hankyung.com/article/202609266123i",
-      "pubDate": "Sat, 26 Sep 2026 00:33:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202609172297i",
-      "pubDate": "Fri, 25 Sep 2026 21:16:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"2명이서 3분이면 충분\"…대형 박물관도 속수무책 당했다",
-      "link": "https://www.hankyung.com/article/202609218061i",
-      "pubDate": "Fri, 25 Sep 2026 18:24:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
-      "link": "https://www.hankyung.com/article/202609255748i",
-      "pubDate": "Fri, 25 Sep 2026 16:08:29 +0900"
+      "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260923162000003",
+      "pubDate": "Sat, 26 Sep 2026 08:05:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
-      "link": "https://www.yna.co.kr/view/AKR20260924040400002",
-      "pubDate": "Fri, 25 Sep 2026 15:45:01 +0900"
+      "title": "5년간 어선원 사상자 1천74명…76% 안전조업교육 의무 없어",
+      "link": "https://www.yna.co.kr/view/AKR20260921074000051",
+      "pubDate": "Sat, 26 Sep 2026 08:01:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
-      "link": "https://www.yna.co.kr/view/AKR20260925033600504",
-      "pubDate": "Fri, 25 Sep 2026 15:41:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"나도 명절에 좀 쉬고 싶다\"…앞치마 벗어 던지더니 '불티' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202609170045g",
-      "pubDate": "Fri, 25 Sep 2026 15:38:50 +0900"
+      "title": "\"주식 투자법 알려주겠다\" 신현송 한은 총재 사칭 SNS 주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260924040800002",
+      "pubDate": "Sat, 26 Sep 2026 08:01:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한-멕시코 세관당국 MOU…마약·K브랜드 위조 단속 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260924037200002",
-      "pubDate": "Fri, 25 Sep 2026 15:18:45 +0900"
+      "title": "[팩트체크] '명절테크' 추석 선물 중고로 판매해도 될까?…거래 가능 품목은",
+      "link": "https://www.yna.co.kr/view/AKR20260923053100518",
+      "pubDate": "Sat, 26 Sep 2026 08:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260925030300011",
-      "pubDate": "Fri, 25 Sep 2026 15:00:01 +0900"
+      "title": "'역대급 실적' 증권가, 하반기 채용 활기…대형사도 가세",
+      "link": "https://www.yna.co.kr/view/AKR20260923105900008",
+      "pubDate": "Sat, 26 Sep 2026 08:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "다시 고개 든 엔저…日 \"트럼프, 우려 표명\" 이례적 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260925030000073",
-      "pubDate": "Fri, 25 Sep 2026 14:24:12 +0900"
+      "title": "국내 기름값 19주째 하락…최고가격·고속도로 주유소 할인 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260925032700003",
+      "pubDate": "Sat, 26 Sep 2026 07:31:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"'개인통관고유부호' 도용 3년 새 46배 증가…도용·악용 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924032100001",
+      "pubDate": "Sat, 26 Sep 2026 07:30:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"주문 감당하기 힘들 지경\"…한국·일본 빈틈 노렸더니 '대박'",
-      "link": "https://www.hankyung.com/article/202609233120i",
-      "pubDate": "Fri, 25 Sep 2026 14:00:01 +0900"
+      "title": "美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]",
+      "link": "https://www.hankyung.com/article/202609256104i",
+      "pubDate": "Sat, 26 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지루한 박스권 장세…상한가·52주 신고가 종목수도 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260923192300008",
+      "pubDate": "Sat, 26 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공항 밥값 비싼 이유 있었네…매출 30% 넘는 임대료 이용객에 전가",
+      "link": "https://www.yna.co.kr/view/AKR20260923197800004",
+      "pubDate": "Sat, 26 Sep 2026 07:00:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] AP위성, 유럽社와 손잡고 2028년 SAR 위성 발사",
-      "link": "https://www.hankyung.com/article/202609233758i",
-      "pubDate": "Fri, 25 Sep 2026 13:00:13 +0900"
+      "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609232798i",
+      "pubDate": "Sat, 26 Sep 2026 07:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"지금 놓치면 못 먹는다고?\"…사람들 몰리는 '한정판' 정체 [류은혁의 유통기한]",
-      "link": "https://www.hankyung.com/article/202609255344i",
-      "pubDate": "Fri, 25 Sep 2026 13:00:09 +0900"
+      "title": "'아재들의 섬' 여의도 옛말…이제 '그녀들'이 지갑을 연다 [장서우의 하입:hype]",
+      "link": "https://www.hankyung.com/article/202609233846i",
+      "pubDate": "Sat, 26 Sep 2026 07:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "건설 기술 좋아졌다는데 아파트 하자판정은 3년 새 2.4배로",
+      "link": "https://www.yna.co.kr/view/AKR20260923084100003",
+      "pubDate": "Sat, 26 Sep 2026 06:11:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 보조금 부정수급 6년간 26억원 적발…바우처 사업 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260924032300030",
+      "pubDate": "Sat, 26 Sep 2026 06:10:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "육아휴직 복귀, 작은 회사일수록 힘들다…중소기업 70% 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260923141900530",
+      "pubDate": "Sat, 26 Sep 2026 06:01:02 +0900"
     }
   ]
 }
