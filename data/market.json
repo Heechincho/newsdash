@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:39:49.112Z",
+  "updatedAt": "2026-09-25T00:52:34.547Z",
   "instruments": [
     {
       "key": "sp500",
@@ -53,15 +53,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.3,
-      "changePercent": -0.328,
+      "price": 93.68,
+      "changePercent": -0.983,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        94.30000305175781
+        93.68000030517578
       ],
       "ok": true
     },
@@ -69,15 +69,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4306.7,
-      "changePercent": 0.202,
+      "price": 4305.6,
+      "changePercent": 0.177,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4306.7001953125
+        4305.60009765625
       ],
       "ok": true
     },
@@ -85,14 +85,14 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.248,
-      "changePercent": 0.15,
+      "price": 101.296,
+      "changePercent": 0.011,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.24800109863281
+        101.2959976196289
       ],
       "ok": true
     },
@@ -116,93 +116,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "인류안전 위해 경쟁 멈추자?…힘 잃는 AI 속도조절론",
-      "link": "https://www.yna.co.kr/view/AKR20260922103700008",
-      "pubDate": "Fri, 25 Sep 2026 07:05:01 +0900"
+      "title": "수출입은행 한계기업 여신 5.5조…17개 대기업에 4.1조 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260924037400002",
+      "pubDate": "Fri, 25 Sep 2026 09:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "동해안서 어항 폐기물 수거량 절반 이상…관리선은 가장 적어",
-      "link": "https://www.yna.co.kr/view/AKR20260923134200051",
-      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "세입자보다 어린 집주인?…20세 미만이 산 주택, 올해만 115건",
-      "link": "https://www.yna.co.kr/view/AKR20260923148000002",
-      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스맥스, 10년간 매출 4.5배·수출 3배…R&D 투자 12배 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260924031700030",
-      "pubDate": "Fri, 25 Sep 2026 07:01:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
-      "link": "https://www.yna.co.kr/view/AKR20260924031200003",
-      "pubDate": "Fri, 25 Sep 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "탈세 유튜버에 칼 빼든 국세청…작년 17명에 239억원 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260922179600001",
-      "pubDate": "Fri, 25 Sep 2026 07:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "명절 휴게소 편의점 인기 품목은…내려갈 때 커피, 귀경 땐 과자",
-      "link": "https://www.yna.co.kr/view/AKR20260923129400030",
-      "pubDate": "Fri, 25 Sep 2026 07:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"6년간 농업정책자금 부당수령 2천억원…미회수액만 898억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923140700030",
-      "pubDate": "Fri, 25 Sep 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "소득 다 털어도 빚 갚기 빠듯한 차주 3년 반 만에 반등",
-      "link": "https://www.yna.co.kr/view/AKR20260923199400002",
-      "pubDate": "Fri, 25 Sep 2026 06:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주금공 대위변제 3년새 138%↑…\"전세대출 못 갚는 서민 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260924044300001",
-      "pubDate": "Fri, 25 Sep 2026 05:58:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "작년 추석 휴게소서 한명당 1만8천원 소비…심야 매출 4배 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20260923192900002",
-      "pubDate": "Fri, 25 Sep 2026 05:51:01 +0900"
+      "title": "면접 보면 7만원, 첫 취업 땐 50만원…경북, 청년 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260923113500053",
+      "pubDate": "Fri, 25 Sep 2026 09:13:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"오라클,뉴멕시코 데이터센터 '불가항력'선언\" [블룸버그]",
-      "link": "https://www.hankyung.com/article/202609245339i",
-      "pubDate": "Fri, 25 Sep 2026 00:11:32 +0900"
+      "title": "은행·증권부터 보험까지…자본확충 비상에 신종자본증권 '러시'",
+      "link": "https://www.hankyung.com/article/202609234124i",
+      "pubDate": "Fri, 25 Sep 2026 09:05:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
+      "link": "https://www.yna.co.kr/view/AKR20260918037900052",
+      "pubDate": "Fri, 25 Sep 2026 09:05:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "라임·옵티머스 40명 아직도 안 돼…사모펀드 배상 천차만별",
+      "link": "https://www.yna.co.kr/view/AKR20260924000900002",
+      "pubDate": "Fri, 25 Sep 2026 09:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농진원 \"저탄소 인증 농산물 휴대전화로 확인하세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923055000055",
+      "pubDate": "Fri, 25 Sep 2026 09:00:16 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
-      "link": "https://www.hankyung.com/article/202609245306i",
-      "pubDate": "Thu, 24 Sep 2026 23:12:32 +0900"
+      "title": "최대 85% 할인? 연휴 겨냥해 가구업체들 세일한다",
+      "link": "https://www.hankyung.com/article/202609234353i",
+      "pubDate": "Fri, 25 Sep 2026 09:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "상반기 역대 최대 실적 증권사들…기부는 인색하네",
+      "link": "https://www.yna.co.kr/view/AKR20260921150100008",
+      "pubDate": "Fri, 25 Sep 2026 09:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[반려동물] 강아지용 한복·송편 인기…품절까지 부른 추석 '명절템'",
+      "link": "https://www.yna.co.kr/view/AKR20260923138000030",
+      "pubDate": "Fri, 25 Sep 2026 09:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'고윤정 출연 작품 아니었어?'…패션업계, 영화 같은 광고 화제",
+      "link": "https://www.yna.co.kr/view/AKR20260923185000030",
+      "pubDate": "Fri, 25 Sep 2026 09:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
+      "link": "https://www.yna.co.kr/view/AKR20260923162900003",
+      "pubDate": "Fri, 25 Sep 2026 08:31:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260923073400052",
+      "pubDate": "Fri, 25 Sep 2026 08:20:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
+      "link": "https://www.yna.co.kr/view/AKR20260923176600001",
+      "pubDate": "Fri, 25 Sep 2026 08:12:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922163000001",
+      "pubDate": "Fri, 25 Sep 2026 08:04:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
-      "link": "https://www.hankyung.com/article/202609245261i",
-      "pubDate": "Thu, 24 Sep 2026 20:53:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
-      "link": "https://www.hankyung.com/article/202609245190i",
-      "pubDate": "Thu, 24 Sep 2026 19:13:31 +0900"
+      "title": "점유율 23% 쥔 쏘렌토·싼타페, 수입 중형SUV에 안방 흔들",
+      "link": "https://www.hankyung.com/article/202609234356i",
+      "pubDate": "Fri, 25 Sep 2026 08:00:33 +0900"
     }
   ]
 }
