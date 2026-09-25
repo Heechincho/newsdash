@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:57:34.981Z",
+  "updatedAt": "2026-09-25T11:41:29.226Z",
   "instruments": [
     {
       "key": "sp500",
@@ -53,8 +53,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.41,
-      "changePercent": -2.325,
+      "price": 92.46,
+      "changePercent": -2.272,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
@@ -62,7 +62,7 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.41000366210938
+        92.45999908447266
       ],
       "ok": true
     },
@@ -70,8 +70,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4309.1,
-      "changePercent": 0.258,
+      "price": 4341.6,
+      "changePercent": 1.014,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
@@ -79,7 +79,7 @@
         4376.39990234375,
         4318.39990234375,
         4298,
-        4309.10009765625
+        4341.60009765625
       ],
       "ok": true
     },
@@ -87,15 +87,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.227,
-      "changePercent": -0.057,
+      "price": 100.97,
+      "changePercent": -0.311,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
         101.29000091552734,
-        101.22699737548828
+        100.97000122070312
       ],
       "ok": true
     },
@@ -103,15 +103,15 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.67,
-      "changePercent": 3.228,
-      "previousClose": 14.81,
+      "price": 15.09,
+      "changePercent": -3.701,
+      "previousClose": 14.87,
       "currency": "USD",
       "history": [
-        14.8100004196167,
         14.869999885559082,
         15.180000305175781,
-        15.670000076293945
+        15.670000076293945,
+        15.09000015258789
       ],
       "ok": true
     }
@@ -119,7 +119,25 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "韓·日 고부가 MLCC 집중한 사이…반사이익 보는 中·대만",
+      "title": "\"2명이서 3분이면 충분\"…대형 박물관도 속수무책 당했다",
+      "link": "https://www.hankyung.com/article/202609218061i",
+      "pubDate": "Fri, 25 Sep 2026 18:24:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
+      "link": "https://www.hankyung.com/article/202609255748i",
+      "pubDate": "Fri, 25 Sep 2026 16:08:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"나도 명절에 좀 쉬고 싶다\"…앞치마 벗어 던지더니 '불티' [트렌드+]",
+      "link": "https://www.hankyung.com/article/202609170045g",
+      "pubDate": "Fri, 25 Sep 2026 15:38:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"주문 감당하기 힘들 지경\"…한국·일본 빈틈 노렸더니 '대박'",
       "link": "https://www.hankyung.com/article/202609233120i",
       "pubDate": "Fri, 25 Sep 2026 14:00:01 +0900"
     },
@@ -131,7 +149,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"지금 아니면 못 산다\"…추석 연휴 노린 유통가 '한정판' 경쟁 [류은혁의 유통기한]",
+      "title": "\"지금 놓치면 못 먹는다고?\"…사람들 몰리는 '한정판' 정체 [류은혁의 유통기한]",
       "link": "https://www.hankyung.com/article/202609255344i",
       "pubDate": "Fri, 25 Sep 2026 13:00:09 +0900"
     },
@@ -188,24 +206,6 @@
       "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
       "link": "https://www.hankyung.com/article/202609245261i",
       "pubDate": "Thu, 24 Sep 2026 20:53:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
-      "link": "https://www.hankyung.com/article/202609245190i",
-      "pubDate": "Thu, 24 Sep 2026 19:13:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026092184316",
-      "pubDate": "Thu, 24 Sep 2026 17:26:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
-      "link": "https://www.hankyung.com/article/202609233010H",
-      "pubDate": "Thu, 24 Sep 2026 16:53:27 +0900"
     }
   ]
 }
