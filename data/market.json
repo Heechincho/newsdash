@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-25T15:56:46.905Z",
+  "updatedAt": "2026-09-25T19:57:19.316Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7716.84,
-      "changePercent": 0.165,
+      "price": 7744.59,
+      "changePercent": 0.525,
       "previousClose": 7650.5,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7764.64013671875,
         7706.02978515625,
         7704.1298828125,
-        7716.83984375
+        7744.58984375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26991.992,
-      "changePercent": 0.195,
+      "price": 27075.021,
+      "changePercent": 0.504,
       "previousClose": 26522.54,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27244.279296875,
         26936.0390625,
         26939.369140625,
-        26991.9921875
+        27075.021484375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51562.7,
-      "changePercent": 0.414,
+      "price": 51826.74,
+      "changePercent": 0.928,
       "previousClose": 51682.64,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51863.69140625,
         51511.58984375,
         51349.98046875,
-        51562.69921875
+        51826.73828125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 93.99,
-      "changePercent": -0.655,
+      "price": 92.37,
+      "changePercent": -2.368,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        93.98999786376953
+        92.37000274658203
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4309,
-      "changePercent": 0.256,
+      "price": 4329.3,
+      "changePercent": 0.728,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4376.39990234375,
         4318.39990234375,
         4298,
-        4309
+        4329.2998046875
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.064,
-      "changePercent": -0.218,
+      "price": 100.979,
+      "changePercent": -0.302,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         100.5999984741211,
         101.0999984741211,
         101.29000091552734,
-        101.06400299072266
+        100.97899627685547
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.37,
-      "changePercent": -1.914,
+      "price": 14.7,
+      "changePercent": -6.19,
       "previousClose": 14.87,
       "currency": "USD",
       "history": [
@@ -116,12 +116,30 @@
         14.210000038146973,
         15.180000305175781,
         15.670000076293945,
-        15.369999885559082
+        14.699999809265137
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260926002300071",
+      "pubDate": "Sat, 26 Sep 2026 02:08:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\" [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609266127i",
+      "pubDate": "Sat, 26 Sep 2026 00:48:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'다마고치' 들고 나온 저커버그의 속내는? [월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202609266123i",
+      "pubDate": "Sat, 26 Sep 2026 00:33:42 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
@@ -193,24 +211,6 @@
       "title": "\"지금 놓치면 못 먹는다고?\"…사람들 몰리는 '한정판' 정체 [류은혁의 유통기한]",
       "link": "https://www.hankyung.com/article/202609255344i",
       "pubDate": "Fri, 25 Sep 2026 13:00:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "K-윤활기유, 하반기도 '맑음'…반사이익 넘어 공급망 대안으로",
-      "link": "https://www.yna.co.kr/view/AKR20260923056600003",
-      "pubDate": "Fri, 25 Sep 2026 11:31:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'시총미달 상폐' 코스닥서 속출…내달부터 동전주까지 무더기 위기",
-      "link": "https://www.yna.co.kr/view/AKR20260924025000008",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "여야, 추석 맞아 한목소리로 민생 강조…경제 진단은 엇갈려",
-      "link": "https://www.yna.co.kr/view/AKR20260925022700001",
-      "pubDate": "Fri, 25 Sep 2026 10:46:59 +0900"
     }
   ]
 }
