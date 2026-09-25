@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:52:34.547Z",
+  "updatedAt": "2026-09-25T05:57:34.981Z",
   "instruments": [
     {
       "key": "sp500",
@@ -29,7 +29,7 @@
         26522.5390625,
         27122.08984375,
         26936.0390625,
-        26939.373046875
+        26939.369140625
       ],
       "ok": true
     },
@@ -53,15 +53,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 93.68,
-      "changePercent": -0.983,
+      "price": 92.41,
+      "changePercent": -2.325,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
         95.77999877929688,
         94.58999633789062,
         92.16000366210938,
-        93.68000030517578
+        94.61000061035156,
+        92.41000366210938
       ],
       "ok": true
     },
@@ -69,15 +70,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4305.6,
-      "changePercent": 0.177,
+      "price": 4309.1,
+      "changePercent": 0.258,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
         4383.89990234375,
         4376.39990234375,
         4318.39990234375,
-        4305.60009765625
+        4298,
+        4309.10009765625
       ],
       "ok": true
     },
@@ -85,14 +87,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.296,
-      "changePercent": 0.011,
+      "price": 101.227,
+      "changePercent": -0.057,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
         101.0999984741211,
-        101.2959976196289
+        101.29000091552734,
+        101.22699737548828
       ],
       "ok": true
     },
@@ -115,16 +118,34 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "수출입은행 한계기업 여신 5.5조…17개 대기업에 4.1조 집중",
-      "link": "https://www.yna.co.kr/view/AKR20260924037400002",
-      "pubDate": "Fri, 25 Sep 2026 09:30:00 +0900"
+      "source": "한국경제",
+      "title": "韓·日 고부가 MLCC 집중한 사이…반사이익 보는 中·대만",
+      "link": "https://www.hankyung.com/article/202609233120i",
+      "pubDate": "Fri, 25 Sep 2026 14:00:01 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "면접 보면 7만원, 첫 취업 땐 50만원…경북, 청년 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260923113500053",
-      "pubDate": "Fri, 25 Sep 2026 09:13:00 +0900"
+      "source": "한국경제",
+      "title": "[단독] AP위성, 유럽社와 손잡고 2028년 SAR 위성 발사",
+      "link": "https://www.hankyung.com/article/202609233758i",
+      "pubDate": "Fri, 25 Sep 2026 13:00:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"지금 아니면 못 산다\"…추석 연휴 노린 유통가 '한정판' 경쟁 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202609255344i",
+      "pubDate": "Fri, 25 Sep 2026 13:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"年 15%대 고수익\"…가족이라 6000만원 넣었다가 '날벼락'",
+      "link": "https://www.hankyung.com/article/202609233737i",
+      "pubDate": "Fri, 25 Sep 2026 10:32:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "최대 산유국이라는 미국, 에너지 가격은 왜 못잡을까 [박신영의 월가 아나토미]",
+      "link": "https://www.hankyung.com/article/202609255671i",
+      "pubDate": "Fri, 25 Sep 2026 10:07:32 +0900"
     },
     {
       "source": "한국경제",
@@ -133,76 +154,58 @@
       "pubDate": "Fri, 25 Sep 2026 09:05:03 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "경남도 골프장 이용료·음식값 공개…골퍼 '긍정'·업계 '글쎄'",
-      "link": "https://www.yna.co.kr/view/AKR20260918037900052",
-      "pubDate": "Fri, 25 Sep 2026 09:05:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "라임·옵티머스 40명 아직도 안 돼…사모펀드 배상 천차만별",
-      "link": "https://www.yna.co.kr/view/AKR20260924000900002",
-      "pubDate": "Fri, 25 Sep 2026 09:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농진원 \"저탄소 인증 농산물 휴대전화로 확인하세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923055000055",
-      "pubDate": "Fri, 25 Sep 2026 09:00:16 +0900"
-    },
-    {
       "source": "한국경제",
       "title": "최대 85% 할인? 연휴 겨냥해 가구업체들 세일한다",
       "link": "https://www.hankyung.com/article/202609234353i",
       "pubDate": "Fri, 25 Sep 2026 09:00:09 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "상반기 역대 최대 실적 증권사들…기부는 인색하네",
-      "link": "https://www.yna.co.kr/view/AKR20260921150100008",
-      "pubDate": "Fri, 25 Sep 2026 09:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[반려동물] 강아지용 한복·송편 인기…품절까지 부른 추석 '명절템'",
-      "link": "https://www.yna.co.kr/view/AKR20260923138000030",
-      "pubDate": "Fri, 25 Sep 2026 09:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'고윤정 출연 작품 아니었어?'…패션업계, 영화 같은 광고 화제",
-      "link": "https://www.yna.co.kr/view/AKR20260923185000030",
-      "pubDate": "Fri, 25 Sep 2026 09:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
-      "link": "https://www.yna.co.kr/view/AKR20260923162900003",
-      "pubDate": "Fri, 25 Sep 2026 08:31:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260923073400052",
-      "pubDate": "Fri, 25 Sep 2026 08:20:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
-      "link": "https://www.yna.co.kr/view/AKR20260923176600001",
-      "pubDate": "Fri, 25 Sep 2026 08:12:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922163000001",
-      "pubDate": "Fri, 25 Sep 2026 08:04:00 +0900"
-    },
-    {
       "source": "한국경제",
       "title": "점유율 23% 쥔 쏘렌토·싼타페, 수입 중형SUV에 안방 흔들",
       "link": "https://www.hankyung.com/article/202609234356i",
       "pubDate": "Fri, 25 Sep 2026 08:00:33 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "물 대신 단백질·에너지젤…식품업계 '러닝족' 잡기 경쟁 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202609220334i",
+      "pubDate": "Fri, 25 Sep 2026 08:00:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
+      "link": "https://www.hankyung.com/article/202609245339i",
+      "pubDate": "Fri, 25 Sep 2026 00:11:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
+      "link": "https://www.hankyung.com/article/202609245306i",
+      "pubDate": "Thu, 24 Sep 2026 23:12:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
+      "link": "https://www.hankyung.com/article/202609245261i",
+      "pubDate": "Thu, 24 Sep 2026 20:53:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
+      "link": "https://www.hankyung.com/article/202609245190i",
+      "pubDate": "Thu, 24 Sep 2026 19:13:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"삼성, 지금 성과급 잔치 할 때 아냐\"…섬뜩한 경고 나왔다 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026092184316",
+      "pubDate": "Thu, 24 Sep 2026 17:26:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"홍준표 닮았다\" 뒷말…혈세 '6억' 박정희 동상의 운명은? [혈세 누수 탐지기]",
+      "link": "https://www.hankyung.com/article/202609233010H",
+      "pubDate": "Thu, 24 Sep 2026 16:53:27 +0900"
     }
   ]
 }
