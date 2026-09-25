@@ -1,19 +1,20 @@
 {
-  "updatedAt": "2026-09-25T11:41:29.226Z",
+  "updatedAt": "2026-09-25T15:56:46.905Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7704.13,
-      "changePercent": -0.025,
-      "previousClose": 7637.76,
+      "price": 7716.84,
+      "changePercent": 0.165,
+      "previousClose": 7650.5,
       "currency": "USD",
       "history": [
-        7650.5,
         7764.7001953125,
+        7764.64013671875,
         7706.02978515625,
-        7704.1298828125
+        7704.1298828125,
+        7716.83984375
       ],
       "ok": true
     },
@@ -21,15 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26939.373,
-      "changePercent": 0.012,
-      "previousClose": 26418.3,
+      "price": 26991.992,
+      "changePercent": 0.195,
+      "previousClose": 26522.54,
       "currency": "USD",
       "history": [
-        26522.5390625,
         27122.08984375,
+        27244.279296875,
         26936.0390625,
-        26939.369140625
+        26939.369140625,
+        26991.9921875
       ],
       "ok": true
     },
@@ -37,15 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51349.98,
-      "changePercent": -0.314,
-      "previousClose": 51778.04,
+      "price": 51562.7,
+      "changePercent": 0.414,
+      "previousClose": 51682.64,
       "currency": "USD",
       "history": [
-        51682.640625,
         52048.828125,
+        51863.69140625,
         51511.58984375,
-        51349.98046875
+        51349.98046875,
+        51562.69921875
       ],
       "ok": true
     },
@@ -53,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.46,
-      "changePercent": -2.272,
+      "price": 93.99,
+      "changePercent": -0.655,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
@@ -62,7 +65,7 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.45999908447266
+        93.98999786376953
       ],
       "ok": true
     },
@@ -70,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4341.6,
-      "changePercent": 1.014,
+      "price": 4309,
+      "changePercent": 0.256,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
@@ -79,7 +82,7 @@
         4376.39990234375,
         4318.39990234375,
         4298,
-        4341.60009765625
+        4309
       ],
       "ok": true
     },
@@ -87,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 100.97,
-      "changePercent": -0.311,
+      "price": 101.064,
+      "changePercent": -0.218,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
         100.43000030517578,
+        100.5999984741211,
         101.0999984741211,
         101.29000091552734,
-        100.97000122070312
+        101.06400299072266
       ],
       "ok": true
     },
@@ -103,20 +107,27 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.09,
-      "changePercent": -3.701,
+      "price": 15.37,
+      "changePercent": -1.914,
       "previousClose": 14.87,
       "currency": "USD",
       "history": [
         14.869999885559082,
+        14.210000038146973,
         15.180000305175781,
         15.670000076293945,
-        15.09000015258789
+        15.369999885559082
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"64조 위안 만기 몰려온다\"…발등에 불 떨어진 은행들 '비상' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202609172297i",
+      "pubDate": "Fri, 25 Sep 2026 21:16:49 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"2명이서 3분이면 충분\"…대형 박물관도 속수무책 당했다",
@@ -130,10 +141,40 @@
       "pubDate": "Fri, 25 Sep 2026 16:08:29 +0900"
     },
     {
+      "source": "연합뉴스",
+      "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
+      "link": "https://www.yna.co.kr/view/AKR20260924040400002",
+      "pubDate": "Fri, 25 Sep 2026 15:45:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
+      "link": "https://www.yna.co.kr/view/AKR20260925033600504",
+      "pubDate": "Fri, 25 Sep 2026 15:41:17 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "\"나도 명절에 좀 쉬고 싶다\"…앞치마 벗어 던지더니 '불티' [트렌드+]",
       "link": "https://www.hankyung.com/article/202609170045g",
       "pubDate": "Fri, 25 Sep 2026 15:38:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한-멕시코 세관당국 MOU…마약·K브랜드 위조 단속 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260924037200002",
+      "pubDate": "Fri, 25 Sep 2026 15:18:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260925030300011",
+      "pubDate": "Fri, 25 Sep 2026 15:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "다시 고개 든 엔저…日 \"트럼프, 우려 표명\" 이례적 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260925030000073",
+      "pubDate": "Fri, 25 Sep 2026 14:24:12 +0900"
     },
     {
       "source": "한국경제",
@@ -154,58 +195,22 @@
       "pubDate": "Fri, 25 Sep 2026 13:00:09 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"年 15%대 고수익\"…가족이라 6000만원 넣었다가 '날벼락'",
-      "link": "https://www.hankyung.com/article/202609233737i",
-      "pubDate": "Fri, 25 Sep 2026 10:32:51 +0900"
+      "source": "연합뉴스",
+      "title": "K-윤활기유, 하반기도 '맑음'…반사이익 넘어 공급망 대안으로",
+      "link": "https://www.yna.co.kr/view/AKR20260923056600003",
+      "pubDate": "Fri, 25 Sep 2026 11:31:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "최대 산유국이라는 미국, 에너지 가격은 왜 못잡을까 [박신영의 월가 아나토미]",
-      "link": "https://www.hankyung.com/article/202609255671i",
-      "pubDate": "Fri, 25 Sep 2026 10:07:32 +0900"
+      "source": "연합뉴스",
+      "title": "'시총미달 상폐' 코스닥서 속출…내달부터 동전주까지 무더기 위기",
+      "link": "https://www.yna.co.kr/view/AKR20260924025000008",
+      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "은행·증권부터 보험까지…자본확충 비상에 신종자본증권 '러시'",
-      "link": "https://www.hankyung.com/article/202609234124i",
-      "pubDate": "Fri, 25 Sep 2026 09:05:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최대 85% 할인? 연휴 겨냥해 가구업체들 세일한다",
-      "link": "https://www.hankyung.com/article/202609234353i",
-      "pubDate": "Fri, 25 Sep 2026 09:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "점유율 23% 쥔 쏘렌토·싼타페, 수입 중형SUV에 안방 흔들",
-      "link": "https://www.hankyung.com/article/202609234356i",
-      "pubDate": "Fri, 25 Sep 2026 08:00:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "물 대신 단백질·에너지젤…식품업계 '러닝족' 잡기 경쟁 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609220334i",
-      "pubDate": "Fri, 25 Sep 2026 08:00:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
-      "link": "https://www.hankyung.com/article/202609245339i",
-      "pubDate": "Fri, 25 Sep 2026 00:11:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
-      "link": "https://www.hankyung.com/article/202609245306i",
-      "pubDate": "Thu, 24 Sep 2026 23:12:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 30년물 국채 수익률 5.44%…저금리시대 종말 신호",
-      "link": "https://www.hankyung.com/article/202609245261i",
-      "pubDate": "Thu, 24 Sep 2026 20:53:40 +0900"
+      "source": "연합뉴스",
+      "title": "여야, 추석 맞아 한목소리로 민생 강조…경제 진단은 엇갈려",
+      "link": "https://www.yna.co.kr/view/AKR20260925022700001",
+      "pubDate": "Fri, 25 Sep 2026 10:46:59 +0900"
     }
   ]
 }
