@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T01:40:01.550Z",
+  "updatedAt": "2026-09-26T06:39:04.326Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         27244.279296875,
         26936.0390625,
         26939.369140625,
-        27068.716796875
+        27068.720703125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.44,
-      "changePercent": -2.294,
+      "price": 92.41,
+      "changePercent": -2.325,
       "previousClose": 95.78,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.44000244140625
+        92.41000366210938
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4320.5,
-      "changePercent": 0.523,
+      "price": 4321.2,
+      "changePercent": 0.54,
       "previousClose": 4383.9,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4376.39990234375,
         4318.39990234375,
         4298,
-        4320.5
+        4321.2001953125
       ],
       "ok": true
     },
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 101.035,
-      "changePercent": -0.247,
+      "changePercent": 0.063,
       "previousClose": 100.43,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         100.5999984741211,
         101.0999984741211,
         101.29000091552734,
-        101.03500366210938
+        100.97000122070312
       ],
       "ok": true
     },
@@ -122,6 +122,66 @@
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"10년 전 1억으로 '이 주식' 샀다면…\" 압도적 수익률 1위는",
+      "link": "https://www.hankyung.com/article/2026092665447",
+      "pubDate": "Sat, 26 Sep 2026 14:03:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농지 전수조사가 던진 숙제, 세제도 함께 점검해야 [고인선의 택스인사이트]",
+      "link": "https://www.hankyung.com/article/202609266328i",
+      "pubDate": "Sat, 26 Sep 2026 14:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "잘 팔리는 韓 무기, 유럽의 'SAFE'가 걸림돌 된다는데…왜?",
+      "link": "https://www.hankyung.com/article/202609266550i",
+      "pubDate": "Sat, 26 Sep 2026 13:25:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"추석때 손주 대접하려했는데\"…동해 어민도 못구한 오징어",
+      "link": "https://www.hankyung.com/article/202609266521i",
+      "pubDate": "Sat, 26 Sep 2026 12:38:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "으악! 내가 뭘 먹은 거야…김치·돼지고기 '이렇게 팔았어?'",
+      "link": "https://www.hankyung.com/article/2026092665327",
+      "pubDate": "Sat, 26 Sep 2026 12:29:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "대출심사 파고드는 핀테크…2금융권과 잇달아 '동맹'",
+      "link": "https://www.hankyung.com/article/202609266145i",
+      "pubDate": "Sat, 26 Sep 2026 12:17:43 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260923164700003",
+      "pubDate": "Sat, 26 Sep 2026 11:31:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "UAE와 방산협력에 수혜 기대…\"방산주 추세전환 동력 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923166300008",
+      "pubDate": "Sat, 26 Sep 2026 11:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
+      "link": "https://www.hankyung.com/article/202609255801i",
+      "pubDate": "Sat, 26 Sep 2026 10:56:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "일반 아이스크림 안 팔려도…이것만은 불티나게 팔렸다",
+      "link": "https://www.hankyung.com/article/202609245253i",
+      "pubDate": "Sat, 26 Sep 2026 10:30:01 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
@@ -151,66 +211,6 @@
       "title": "주금공 PF보증 예상손실률 3년 새 13배로…충당부채 15배",
       "link": "https://www.yna.co.kr/view/AKR20260924048600002",
       "pubDate": "Sat, 26 Sep 2026 09:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "채명기 경기도의원 \"개발사업 때 교통·교육 평가 명확해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923082700061",
-      "pubDate": "Sat, 26 Sep 2026 09:05:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주 통합 공무원 시험 '거주지 제한' 대폭 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260923156300054",
-      "pubDate": "Sat, 26 Sep 2026 09:05:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "울산시, 다태아 가정 안심보험 지원…의료비 최대 500만원 보장",
-      "link": "https://www.yna.co.kr/view/AKR20260923128900057",
-      "pubDate": "Sat, 26 Sep 2026 09:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'암 유발 우려' 엘러간 인공유방 소비자 손배소 또 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260923188600004",
-      "pubDate": "Sat, 26 Sep 2026 09:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"어머니, 올해 동그랑땡은 꽝꽝 얼린 걸로\"…추석 차례상의 반란 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202609266319i",
-      "pubDate": "Sat, 26 Sep 2026 09:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "샴푸·양말세트는 옛말…추석 선물시장 '주류' 존재감 커졌다",
-      "link": "https://www.hankyung.com/article/2026092663417",
-      "pubDate": "Sat, 26 Sep 2026 08:57:59 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전통 제조업에서 반도체·AI로…전남광주 산업지도 다시 그린다",
-      "link": "https://www.yna.co.kr/view/AKR20260923128300054",
-      "pubDate": "Sat, 26 Sep 2026 08:50:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미중 무역휴전 두 달 연장…충돌 대신 관리 택한 시진핑·트럼프",
-      "link": "https://www.hankyung.com/article/202609266324i",
-      "pubDate": "Sat, 26 Sep 2026 08:47:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한은 총재가 종목 추천해준다?\"…유명인 사칭 SNS 기승",
-      "link": "https://www.hankyung.com/article/2026092663157",
-      "pubDate": "Sat, 26 Sep 2026 08:35:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260926014400002",
-      "pubDate": "Sat, 26 Sep 2026 08:23:49 +0900"
     }
   ]
 }
