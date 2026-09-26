@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T06:39:04.326Z",
+  "updatedAt": "2026-09-26T11:48:45.152Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,7 +124,43 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "\"10년 전 1억으로 '이 주식' 샀다면…\" 압도적 수익률 1위는",
+      "title": "\"수익률 1위 덜컥 샀다간…\" 노후자금 굴리다 멘붕 온 개미들 [김연지의 연금빌드업]",
+      "link": "https://www.hankyung.com/article/2026092336196",
+      "pubDate": "Sat, 26 Sep 2026 19:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
+      "link": "https://www.hankyung.com/article/2026092180476",
+      "pubDate": "Sat, 26 Sep 2026 17:29:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"SUV가 왜 이렇게 조용해?\"…16년차 연구원도 놀란 '역발상'",
+      "link": "https://www.hankyung.com/article/202609182599g",
+      "pubDate": "Sat, 26 Sep 2026 16:18:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 시대 보험사 경쟁력, 특허에 달렸다",
+      "link": "https://www.hankyung.com/article/202609221940i",
+      "pubDate": "Sat, 26 Sep 2026 15:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "20대부터 80대까지, 한눈에 보는 은퇴 자산관리",
+      "link": "https://www.hankyung.com/article/202609171357i",
+      "pubDate": "Sat, 26 Sep 2026 15:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한국이란 나라는 몰라도…\" 네덜란드 마트 싹쓸이한 '이것' [현장+]",
+      "link": "https://www.hankyung.com/article/202609168429g",
+      "pubDate": "Sat, 26 Sep 2026 14:59:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"10년 전 1억 주고 샀다면 지금쯤…\" 압도적 수익률 1위는",
       "link": "https://www.hankyung.com/article/2026092665447",
       "pubDate": "Sat, 26 Sep 2026 14:03:45 +0900"
     },
@@ -142,7 +178,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"추석때 손주 대접하려했는데\"…동해 어민도 못구한 오징어",
+      "title": "\"물회 대접하려 했는데…\" 동해안서 오징어가 사라졌다",
       "link": "https://www.hankyung.com/article/202609266521i",
       "pubDate": "Sat, 26 Sep 2026 12:38:06 +0900"
     },
@@ -175,42 +211,6 @@
       "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
       "link": "https://www.hankyung.com/article/202609255801i",
       "pubDate": "Sat, 26 Sep 2026 10:56:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "일반 아이스크림 안 팔려도…이것만은 불티나게 팔렸다",
-      "link": "https://www.hankyung.com/article/202609245253i",
-      "pubDate": "Sat, 26 Sep 2026 10:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260926022700011",
-      "pubDate": "Sat, 26 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[바이오사이언스] 신약 찾고 스타트업 키우고…협력 넓히는 K바이오",
-      "link": "https://www.yna.co.kr/view/AKR20260923099000017",
-      "pubDate": "Sat, 26 Sep 2026 10:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
-      "link": "https://www.yna.co.kr/view/AKR20260923156800008",
-      "pubDate": "Sat, 26 Sep 2026 10:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전세사기 막을 공인중개사 설명의무 위반 3년 새 4.6배↑",
-      "link": "https://www.yna.co.kr/view/AKR20260923181000003",
-      "pubDate": "Sat, 26 Sep 2026 09:31:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주금공 PF보증 예상손실률 3년 새 13배로…충당부채 15배",
-      "link": "https://www.yna.co.kr/view/AKR20260924048600002",
-      "pubDate": "Sat, 26 Sep 2026 09:30:01 +0900"
     }
   ]
 }
