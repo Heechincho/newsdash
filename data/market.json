@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:48:45.152Z",
+  "updatedAt": "2026-09-26T15:08:50.032Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,12 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "\"이러다 中에 빼앗긴다\"…삼전닉스가 동시에 달려간 '이 나라'",
+      "link": "https://www.hankyung.com/article/202609217576i",
+      "pubDate": "Sat, 26 Sep 2026 22:30:01 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "\"수익률 1위 덜컥 샀다간…\" 노후자금 굴리다 멘붕 온 개미들 [김연지의 연금빌드업]",
       "link": "https://www.hankyung.com/article/2026092336196",
       "pubDate": "Sat, 26 Sep 2026 19:00:03 +0900"
@@ -205,12 +211,6 @@
       "title": "UAE와 방산협력에 수혜 기대…\"방산주 추세전환 동력 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20260923166300008",
       "pubDate": "Sat, 26 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "1억1000만원대 회복한 비트코인…고금리에도 상승세 이어갈까",
-      "link": "https://www.hankyung.com/article/202609255801i",
-      "pubDate": "Sat, 26 Sep 2026 10:56:12 +0900"
     }
   ]
 }
