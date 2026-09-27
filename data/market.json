@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:53:26.541Z",
+  "updatedAt": "2026-09-27T04:24:02.127Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,10 +58,9 @@
       "symbol": "CL=F",
       "price": 92.41,
       "changePercent": -2.325,
-      "previousClose": 95.78,
+      "previousClose": 94.59,
       "currency": "USD",
       "history": [
-        95.77999877929688,
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4321.2,
       "changePercent": 0.54,
-      "previousClose": 4383.9,
+      "previousClose": 4376.4,
       "currency": "USD",
       "history": [
-        4383.89990234375,
         4376.39990234375,
         4318.39990234375,
         4298,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 101.035,
       "changePercent": 0.063,
-      "previousClose": 100.43,
+      "previousClose": 100.6,
       "currency": "USD",
       "history": [
-        100.43000030517578,
         100.5999984741211,
         101.0999984741211,
         101.29000091552734,
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "소비자 분쟁조정 3년 새 3.3배 증가…조정 성립률은 10%P 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260923188000030",
-      "pubDate": "Sun, 27 Sep 2026 08:13:11 +0900"
+      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260927027051003",
+      "pubDate": "Sun, 27 Sep 2026 13:17:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
-      "link": "https://www.yna.co.kr/view/AKR20260927007200003",
-      "pubDate": "Sun, 27 Sep 2026 08:10:16 +0900"
+      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로",
+      "link": "https://www.yna.co.kr/view/AKR20260927027000003",
+      "pubDate": "Sun, 27 Sep 2026 12:54:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922165200001",
-      "pubDate": "Sun, 27 Sep 2026 08:05:01 +0900"
+      "title": "\"전력망 유연성 높이는 에너지저장장치 특허 한국이 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923088200063",
+      "pubDate": "Sun, 27 Sep 2026 12:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260923077200061",
-      "pubDate": "Sun, 27 Sep 2026 08:02:01 +0900"
+      "title": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260926046000530",
+      "pubDate": "Sun, 27 Sep 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "제주 양식 고등어 일본 간다…스타트업 메가플랜, 수출 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260922155600056",
-      "pubDate": "Sun, 27 Sep 2026 08:00:11 +0900"
+      "title": "중장년 인생2막 활짝…노동부 '중장년고용 강조 주간' 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260926044400530",
+      "pubDate": "Sun, 27 Sep 2026 12:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "원주시, 10월 3일 '사회적경제컴퍼니'…ESG·민관협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260923043500062",
-      "pubDate": "Sun, 27 Sep 2026 08:00:08 +0900"
+      "title": "직장인 72% \"기간제 2+2년 메가특구법, 정규직 일자리 줄여\" 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260927010300004",
+      "pubDate": "Sun, 27 Sep 2026 12:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "광주 중앙공원 특례사업 시공권 놓친 한양, 400억 위약금 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260923069700054",
-      "pubDate": "Sun, 27 Sep 2026 08:00:07 +0900"
+      "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260927016500003",
+      "pubDate": "Sun, 27 Sep 2026 12:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "늦어지는 대미투자 발표…산업부 \"미국 내부 절차 남아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260927024600003",
+      "pubDate": "Sun, 27 Sep 2026 11:49:28 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"엔비디아 너무 비싸\"…1200조 시장 노리는 K반도체",
-      "link": "https://www.hankyung.com/article/2026092769927",
-      "pubDate": "Sun, 27 Sep 2026 07:56:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "1만원 목욕탕 놔두고 9만원 낸다…'예약 전쟁' 벌어진 이곳 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202609220866g",
-      "pubDate": "Sun, 27 Sep 2026 07:45:04 +0900"
+      "title": "\"대출 무조건 갈아타는 게 이득?\"…뚜껑 열어보니 달랐다",
+      "link": "https://www.hankyung.com/article/2026092772567",
+      "pubDate": "Sun, 27 Sep 2026 11:23:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LG전자, 전기쿡탑 종주국 미국서 줄줄이 최고 평가",
-      "link": "https://www.yna.co.kr/view/AKR20260923100700003",
-      "pubDate": "Sun, 27 Sep 2026 07:45:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
-      "link": "https://www.hankyung.com/article/2026092769727",
-      "pubDate": "Sun, 27 Sep 2026 07:39:58 +0900"
+      "title": "'서울 외국인 채용박람회' 참여기업 내달 16일까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260924022400004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "1천조 시장 열리는 AI반도체…\"정부, 공급망 진출 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923100300003",
-      "pubDate": "Sun, 27 Sep 2026 07:31:00 +0900"
+      "title": "중장년 사회공헌활동 일자리 소개…서울시 '가치동행한마당'",
+      "link": "https://www.yna.co.kr/view/AKR20260924024100004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260923161100008",
-      "pubDate": "Sun, 27 Sep 2026 07:15:02 +0900"
+      "title": "구로역 일대·공항로 지구단위계획 재정비…'그늘보행권' 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260927011100004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경기도, 내년 개발제한구역 주민지원사업 국비 123억원 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260923130100061",
-      "pubDate": "Sun, 27 Sep 2026 07:01:04 +0900"
+      "title": "[부고] 홍수용(머니투데이방송 부국장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260927022500004",
+      "pubDate": "Sun, 27 Sep 2026 11:14:33 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"AI 전기 너무 먹네\" 골치였는데…삼성도 꽂힌 신기술 나왔다",
-      "link": "https://www.hankyung.com/article/202609276925i",
-      "pubDate": "Sun, 27 Sep 2026 07:00:15 +0900"
+      "source": "연합뉴스",
+      "title": "해수부, '연안 선박 현대화 펀드' 지원 대상 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260923138900051",
+      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "해수부, 항만·어항 등 해양수산 건설공사 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260923142500051",
+      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
     }
   ]
 }
