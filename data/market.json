@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:09:05.148Z",
+  "updatedAt": "2026-09-27T15:09:54.164Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,6 +120,30 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "[동포의 창] 인천서 한상 네트워크 구축하는 '동행의 밤' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260927055400371",
+      "pubDate": "Sun, 27 Sep 2026 22:32:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
+      "link": "https://www.hankyung.com/article/202609277830i",
+      "pubDate": "Sun, 27 Sep 2026 21:00:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "예탁원, 결제촉진대금에 증권납부 허용…국채 담보인정 최대 98%",
+      "link": "https://www.yna.co.kr/view/AKR20260927051600008",
+      "pubDate": "Sun, 27 Sep 2026 20:28:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일, 첫 경제현안간담회…전기차 정책·퇴직연금 개선 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260927051000002",
+      "pubDate": "Sun, 27 Sep 2026 20:04:30 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "車업계 휴머노이드 대전…中 샤오펑·둥펑 연내 공장 투입",
       "link": "https://www.hankyung.com/article/2026092776581",
@@ -184,30 +208,6 @@
       "title": "LG전자, 엔비디아 냉각 분야 파트너로 선정",
       "link": "https://www.hankyung.com/article/2026092776211",
       "pubDate": "Sun, 27 Sep 2026 17:41:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "반도체 호황에…올 초과세수 50조 웃돌 듯",
-      "link": "https://www.hankyung.com/article/2026092776271",
-      "pubDate": "Sun, 27 Sep 2026 17:36:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미래기금 사업 131건…감액은 6건에 그쳤다",
-      "link": "https://www.hankyung.com/article/2026092776131",
-      "pubDate": "Sun, 27 Sep 2026 17:33:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"국민성장펀드 일부 떼어내 코스닥 활성화에 투입해야\"",
-      "link": "https://www.hankyung.com/article/2026092776311",
-      "pubDate": "Sun, 27 Sep 2026 17:27:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "TYM \"내년 자율주행 트랙터 상용화…스마트 농기계로 도약\"",
-      "link": "https://www.hankyung.com/article/2026092775951",
-      "pubDate": "Sun, 27 Sep 2026 17:27:07 +0900"
     }
   ]
 }
