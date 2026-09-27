@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T04:24:02.127Z",
+  "updatedAt": "2026-09-27T10:09:05.148Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260927027051003",
-      "pubDate": "Sun, 27 Sep 2026 13:17:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로",
-      "link": "https://www.yna.co.kr/view/AKR20260927027000003",
-      "pubDate": "Sun, 27 Sep 2026 12:54:22 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"전력망 유연성 높이는 에너지저장장치 특허 한국이 주도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923088200063",
-      "pubDate": "Sun, 27 Sep 2026 12:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260926046000530",
-      "pubDate": "Sun, 27 Sep 2026 12:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중장년 인생2막 활짝…노동부 '중장년고용 강조 주간' 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260926044400530",
-      "pubDate": "Sun, 27 Sep 2026 12:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "직장인 72% \"기간제 2+2년 메가특구법, 정규직 일자리 줄여\" 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260927010300004",
-      "pubDate": "Sun, 27 Sep 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260927016500003",
-      "pubDate": "Sun, 27 Sep 2026 12:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "늦어지는 대미투자 발표…산업부 \"미국 내부 절차 남아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260927024600003",
-      "pubDate": "Sun, 27 Sep 2026 11:49:28 +0900"
+      "source": "한국경제",
+      "title": "車업계 휴머노이드 대전…中 샤오펑·둥펑 연내 공장 투입",
+      "link": "https://www.hankyung.com/article/2026092776581",
+      "pubDate": "Sun, 27 Sep 2026 17:57:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"대출 무조건 갈아타는 게 이득?\"…뚜껑 열어보니 달랐다",
-      "link": "https://www.hankyung.com/article/2026092772567",
-      "pubDate": "Sun, 27 Sep 2026 11:23:43 +0900"
+      "title": "외환시장 24시간 개방에도…오전 2~9시 거래는 1%뿐",
+      "link": "https://www.hankyung.com/article/2026092776121",
+      "pubDate": "Sun, 27 Sep 2026 17:52:58 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "'서울 외국인 채용박람회' 참여기업 내달 16일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260924022400004",
-      "pubDate": "Sun, 27 Sep 2026 11:15:03 +0900"
+      "source": "한국경제",
+      "title": "공정위 퇴직 공무원 86명, 대형 로펌行",
+      "link": "https://www.hankyung.com/article/2026092776151",
+      "pubDate": "Sun, 27 Sep 2026 17:52:43 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "중장년 사회공헌활동 일자리 소개…서울시 '가치동행한마당'",
-      "link": "https://www.yna.co.kr/view/AKR20260924024100004",
-      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
+      "source": "한국경제",
+      "title": "\"韓 부동산에 2.8조원 이상 추가 투자…운용사 M&A도 검토\"",
+      "link": "https://www.hankyung.com/article/2026092776791",
+      "pubDate": "Sun, 27 Sep 2026 17:50:27 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "구로역 일대·공항로 지구단위계획 재정비…'그늘보행권' 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260927011100004",
-      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
+      "source": "한국경제",
+      "title": "강관·봉형강 수출 '깜짝 반등'…美 고율관세 뚫었다",
+      "link": "https://www.hankyung.com/article/2026092775581",
+      "pubDate": "Sun, 27 Sep 2026 17:48:42 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[부고] 홍수용(머니투데이방송 부국장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260927022500004",
-      "pubDate": "Sun, 27 Sep 2026 11:14:33 +0900"
+      "source": "한국경제",
+      "title": "데이터센터發 수요 폭발…비철금속 수출 급증",
+      "link": "https://www.hankyung.com/article/2026092775571",
+      "pubDate": "Sun, 27 Sep 2026 17:46:48 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "해수부, '연안 선박 현대화 펀드' 지원 대상 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260923138900051",
-      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
+      "source": "한국경제",
+      "title": "KFC·공차·맘스터치…PEF가 외식업체에 입맛들인 까닭",
+      "link": "https://www.hankyung.com/article/2026092776171",
+      "pubDate": "Sun, 27 Sep 2026 17:44:38 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "해수부, 항만·어항 등 해양수산 건설공사 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260923142500051",
-      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
+      "source": "한국경제",
+      "title": "[포토] 멕시코서 'AI 연결' 선보인 삼성전자",
+      "link": "https://www.hankyung.com/article/2026092776201",
+      "pubDate": "Sun, 27 Sep 2026 17:44:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "솔리다임, 내년 美 상장 추진",
+      "link": "https://www.hankyung.com/article/2026092776191",
+      "pubDate": "Sun, 27 Sep 2026 17:43:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "신형 팰리세이드, 20개월 만에 30만대 판매",
+      "link": "https://www.hankyung.com/article/2026092776181",
+      "pubDate": "Sun, 27 Sep 2026 17:42:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "LG전자, 엔비디아 냉각 분야 파트너로 선정",
+      "link": "https://www.hankyung.com/article/2026092776211",
+      "pubDate": "Sun, 27 Sep 2026 17:41:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "반도체 호황에…올 초과세수 50조 웃돌 듯",
+      "link": "https://www.hankyung.com/article/2026092776271",
+      "pubDate": "Sun, 27 Sep 2026 17:36:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "미래기금 사업 131건…감액은 6건에 그쳤다",
+      "link": "https://www.hankyung.com/article/2026092776131",
+      "pubDate": "Sun, 27 Sep 2026 17:33:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"국민성장펀드 일부 떼어내 코스닥 활성화에 투입해야\"",
+      "link": "https://www.hankyung.com/article/2026092776311",
+      "pubDate": "Sun, 27 Sep 2026 17:27:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "TYM \"내년 자율주행 트랙터 상용화…스마트 농기계로 도약\"",
+      "link": "https://www.hankyung.com/article/2026092775951",
+      "pubDate": "Sun, 27 Sep 2026 17:27:07 +0900"
     }
   ]
 }
