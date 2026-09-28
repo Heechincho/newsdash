@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-28T05:57:31.256Z",
+  "updatedAt": "2026-09-28T13:41:23.452Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7743.41,
-      "changePercent": 0.51,
-      "previousClose": 7650.5,
+      "price": 7700.59,
+      "changePercent": -0.553,
+      "previousClose": 7764.7,
       "currency": "USD",
       "history": [
-        7764.7001953125,
         7764.64013671875,
         7706.02978515625,
         7704.1298828125,
-        7743.41015625
+        7743.41015625,
+        7700.58984375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27068.717,
-      "changePercent": 0.48,
-      "previousClose": 26522.54,
+      "price": 26905.299,
+      "changePercent": -0.604,
+      "previousClose": 27122.09,
       "currency": "USD",
       "history": [
-        27122.08984375,
         27244.279296875,
         26936.0390625,
         26939.369140625,
-        27068.720703125
+        27068.720703125,
+        26905.298828125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51828.62,
-      "changePercent": 0.932,
-      "previousClose": 51682.64,
+      "price": 51475.3,
+      "changePercent": -0.682,
+      "previousClose": 52048.83,
       "currency": "USD",
       "history": [
-        52048.828125,
         51863.69140625,
         51511.58984375,
         51349.98046875,
-        51828.62109375
+        51828.62109375,
+        51475.30078125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.41,
-      "changePercent": 2.164,
+      "price": 94.32,
+      "changePercent": 2.067,
       "previousClose": 92.16,
       "currency": "USD",
       "history": [
         92.16000366210938,
         94.61000061035156,
         92.41000366210938,
-        94.41000366210938
+        94.31999969482422
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4215,
-      "changePercent": -2.458,
+      "price": 4172.1,
+      "changePercent": -3.45,
       "previousClose": 4318.4,
       "currency": "USD",
       "history": [
         4318.39990234375,
         4298,
         4321.2001953125,
-        4215
+        4172.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.147,
-      "changePercent": 0.174,
+      "price": 101.192,
+      "changePercent": 0.219,
       "previousClose": 101.1,
       "currency": "USD",
       "history": [
         101.0999984741211,
         101.29000091552734,
         100.97000122070312,
-        101.14700317382812
+        101.19200134277344
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.87,
-      "changePercent": -5.105,
-      "previousClose": 14.87,
+      "price": 16.02,
+      "changePercent": 7.734,
+      "previousClose": 14.21,
       "currency": "USD",
       "history": [
-        14.869999885559082,
         14.210000038146973,
         15.180000305175781,
         15.670000076293945,
-        14.869999885559082
+        14.869999885559082,
+        16.020000457763672
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "iM금융, 차기 회장 선임절차 개시…\"공정·투명성 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260928102700053",
-      "pubDate": "Mon, 28 Sep 2026 14:48:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 관세청, '대일관세' 두모진 해관 기념식",
-      "link": "https://www.yna.co.kr/view/AKR20260928093500002",
-      "pubDate": "Mon, 28 Sep 2026 14:46:26 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB 기준 3분기 서울 오피스텔 매매가격 0.16% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260928100800003",
-      "pubDate": "Mon, 28 Sep 2026 14:38:28 +0900"
+      "source": "한국경제",
+      "title": "엔비디아, \"자사주 204조원 추가 매입\"…사상 최대규모",
+      "link": "https://www.hankyung.com/article/202609280470i",
+      "pubDate": "Mon, 28 Sep 2026 21:29:13 +0900"
     },
     {
       "source": "한국경제",
-      "title": "포스코인터, '알짜' 에너지 사업 투자 확대...美 가스전까지 진출",
-      "link": "https://www.hankyung.com/article/202609277822i",
-      "pubDate": "Mon, 28 Sep 2026 14:37:39 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "AIA생명, 차기 대표이사에 리오 응 내정",
-      "link": "https://www.yna.co.kr/view/AKR20260928094500002",
-      "pubDate": "Mon, 28 Sep 2026 14:34:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "강원대, 영국서 AI 교육 혁신 논의…해외 대학과 교류 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260928099100062",
-      "pubDate": "Mon, 28 Sep 2026 14:32:28 +0900"
+      "title": "치과의사가 갤럭시를 쓰는 이유…아이폰서 '여권폰' 환승",
+      "link": "https://www.hankyung.com/article/2026092804447",
+      "pubDate": "Mon, 28 Sep 2026 20:57:29 +0900"
     },
     {
       "source": "한국경제",
-      "title": "인천공항 추석 연휴 이용객 110만명…역대 추석 최다",
-      "link": "https://www.hankyung.com/article/2026092894637",
-      "pubDate": "Mon, 28 Sep 2026 14:31:36 +0900"
+      "title": "中, 민간 AI기업과 반도체 전문가들 해외여행 제한",
+      "link": "https://www.hankyung.com/article/202609280385i",
+      "pubDate": "Mon, 28 Sep 2026 20:55:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "은행장 16명과 머리 맞댄 한은 총재 \"현장 얘기 많이 들어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260928161100002",
+      "pubDate": "Mon, 28 Sep 2026 20:50:38 +0900"
     },
     {
       "source": "한국경제",
-      "title": "엔화예금 1.1조원 돌파…'역대급 엔저'에 베팅하는 사람들",
-      "link": "https://www.hankyung.com/article/202609256074i",
-      "pubDate": "Mon, 28 Sep 2026 14:30:02 +0900"
+      "title": "中,엔비디아 RTX프로5500구매 풀면…삼전·닉스 DDR7 '수혜'주목",
+      "link": "https://www.hankyung.com/article/202609280407i",
+      "pubDate": "Mon, 28 Sep 2026 20:15:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "시장도 마트도 쿠팡도 아니다…'상추 800원' 난리 난 핫플 [박수림의 요즘 여기]",
+      "link": "https://www.hankyung.com/article/202609289061g",
+      "pubDate": "Mon, 28 Sep 2026 20:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260928096400011",
-      "pubDate": "Mon, 28 Sep 2026 14:30:00 +0900"
+      "title": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260928159900061",
+      "pubDate": "Mon, 28 Sep 2026 19:58:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "연천군, 착한가격업소 지역화폐 5% 추가 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260928093900060",
-      "pubDate": "Mon, 28 Sep 2026 14:17:05 +0900"
+      "title": "[동포의 창] \"동포사회 리더 한자리에\"…세계한인대회 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260928159100371",
+      "pubDate": "Mon, 28 Sep 2026 19:52:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중동 원유 수출 하루 1280만배럴…이란전쟁 후 최대",
+      "link": "https://www.hankyung.com/article/202609280392i",
+      "pubDate": "Mon, 28 Sep 2026 19:43:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "은행, 내년 4월부터 9시30분에 연다",
+      "link": "https://www.hankyung.com/article/2026092804041",
+      "pubDate": "Mon, 28 Sep 2026 19:38:42 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아저씨도 줄 서서 사 가요\"…인기 폭발한 '이 음식' 뭐길래 [박수빈의 발굴단]",
+      "link": "https://www.hankyung.com/article/202609289515H",
+      "pubDate": "Mon, 28 Sep 2026 19:35:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산 동구, 주소 불명 체납자 188명 재산조회",
-      "link": "https://www.yna.co.kr/view/AKR20260928096900057",
-      "pubDate": "Mon, 28 Sep 2026 14:16:36 +0900"
+      "title": "솔리스·럭스코·셀트릭스, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260928156200008",
+      "pubDate": "Mon, 28 Sep 2026 19:24:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아,AI에이전트 해킹막는 보안시스템 공개…\"밀리초만에 격리\"",
+      "link": "https://www.hankyung.com/article/202609280328i",
+      "pubDate": "Mon, 28 Sep 2026 19:15:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산 상어 '부캉이' 밈 코인 등장…\"잘못 샀다 물린다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260928095300002",
-      "pubDate": "Mon, 28 Sep 2026 14:11:22 +0900"
+      "title": "은행 점포 30분 늦게 연다…\"디지털 금융 확산 등 반영\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260928149551002",
+      "pubDate": "Mon, 28 Sep 2026 19:14:28 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 한투증권, 데이터센터PF·GPU파이낸싱 금융구조 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260928090400008",
-      "pubDate": "Mon, 28 Sep 2026 14:08:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "원주 유승아파트 주민들, 단구지구 지구단위계획 변경 철회 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260928094000062",
-      "pubDate": "Mon, 28 Sep 2026 14:03:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농진청, 'K-딸기' 수직농장 중동 수출 기업에 기술 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260928093000055",
-      "pubDate": "Mon, 28 Sep 2026 14:02:44 +0900"
+      "source": "한국경제",
+      "title": "LG, 스마일 캠페인 전개…\"사회에 긍정 에너지 전파\"",
+      "link": "https://www.hankyung.com/article/2026092802171",
+      "pubDate": "Mon, 28 Sep 2026 18:48:24 +0900"
     }
   ]
 }
