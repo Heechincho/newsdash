@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:01:06.863Z",
+  "updatedAt": "2026-09-28T00:41:01.135Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.41,
-      "changePercent": -2.325,
+      "price": 93.44,
+      "changePercent": 1.115,
       "previousClose": 94.59,
       "currency": "USD",
       "history": [
         94.58999633789062,
         92.16000366210938,
         94.61000061035156,
-        92.41000366210938
+        92.41000366210938,
+        93.44000244140625
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4321.2,
-      "changePercent": 0.54,
+      "price": 4283.4,
+      "changePercent": -0.875,
       "previousClose": 4376.4,
       "currency": "USD",
       "history": [
         4376.39990234375,
         4318.39990234375,
         4298,
-        4321.2001953125
+        4321.2001953125,
+        4283.39990234375
       ],
       "ok": true
     },
@@ -121,93 +123,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "\"다주택 규제 피하자\"…집합건물 다소유자 7년9개월만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260926024500003",
-      "pubDate": "Mon, 28 Sep 2026 06:01:02 +0900"
+      "title": "연후 마치고 돌아온 코스피, 하락 출발해 보합권(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260928038000008",
+      "pubDate": "Mon, 28 Sep 2026 09:34:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상가 8곳 중 1곳은 비어있다…공실률, 2021년 이후 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260927038100003",
-      "pubDate": "Mon, 28 Sep 2026 06:01:01 +0900"
+      "title": "\"면접비 받으세요\" 군산시, 지역 기업 구직 청년에 5만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260928031400055",
+      "pubDate": "Mon, 28 Sep 2026 09:28:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "단체급식장에 무알코올 맥주 증가세…군부대·구내식당서도 인기",
-      "link": "https://www.yna.co.kr/view/AKR20260927040800030",
-      "pubDate": "Mon, 28 Sep 2026 06:01:00 +0900"
+      "title": "LH, 공공주택 공사비 산정 방식 변경…2030년까지 4천억원 절감",
+      "link": "https://www.yna.co.kr/view/AKR20260928034000003",
+      "pubDate": "Mon, 28 Sep 2026 09:22:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시, 공시가격 검증지원센터 세미나…지자체 역할 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260927017800004",
-      "pubDate": "Mon, 28 Sep 2026 06:00:08 +0900"
+      "title": "[특징주] 연휴서 돌아온 삼전·닉스, 장초반 1∼2%대 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260928034500008",
+      "pubDate": "Mon, 28 Sep 2026 09:21:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중동 긴장 재고조에…기업 경기전망 한달만에 다시 '부정적'",
-      "link": "https://www.yna.co.kr/view/AKR20260927029600003",
-      "pubDate": "Mon, 28 Sep 2026 06:00:05 +0900"
+      "title": "삼성물산, '국내 최고 내진성능' PC 건식 접합공법 인증",
+      "link": "https://www.yna.co.kr/view/AKR20260928033400003",
+      "pubDate": "Mon, 28 Sep 2026 09:21:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "건설공사 2분기 계약액 작년보다 27%↑…반도체 시설 등 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260927035800003",
-      "pubDate": "Mon, 28 Sep 2026 06:00:05 +0900"
+      "title": "이찬진 금감원장, 여명학교 탈북청소년 찾아 금융 특강",
+      "link": "https://www.yna.co.kr/view/AKR20260927029900002",
+      "pubDate": "Mon, 28 Sep 2026 09:20:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신보, 보증사고로 9조원 회수 못 해…10년 넘은 채권도 1조원대",
-      "link": "https://www.yna.co.kr/view/AKR20260922166600001",
-      "pubDate": "Mon, 28 Sep 2026 06:00:04 +0900"
+      "title": "CJ제일제당, 멕시코 K-박람회서 '비비고' 알리기 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260928033500030",
+      "pubDate": "Mon, 28 Sep 2026 09:18:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“비싸야 명문” 공식 흔들…美 사립대, 등록금 최대 45% 인하",
+      "link": "https://www.hankyung.com/article/202609288325i",
+      "pubDate": "Mon, 28 Sep 2026 09:14:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중국이 쓸어담는 휴머노이드 특허…한국 점유율은 한자릿수",
-      "link": "https://www.yna.co.kr/view/AKR20260925026700001",
-      "pubDate": "Mon, 28 Sep 2026 06:00:03 +0900"
+      "title": "[게시판] 국민은행장 '사람 살리는 금융 릴레이 캠페인' 동참",
+      "link": "https://www.yna.co.kr/view/AKR20260928032600002",
+      "pubDate": "Mon, 28 Sep 2026 09:14:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아직 9월인데 벌써?\"…기온 뚝 떨어지자 편의점서 '불티'",
+      "link": "https://www.hankyung.com/article/202609288328g",
+      "pubDate": "Mon, 28 Sep 2026 09:12:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대차·인제군, '2026 인제 월드 투어링카 페스티벌' 개최",
+      "link": "https://www.hankyung.com/article/202609288413g",
+      "pubDate": "Mon, 28 Sep 2026 09:11:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국내 최대 자본시장 IR행사 '코리아 프리미엄 위크' 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260927047700002",
-      "pubDate": "Mon, 28 Sep 2026 06:00:03 +0900"
+      "title": "BBQ \"8월 국내 치킨 브랜드 중 소비자 관심도 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260928030700030",
+      "pubDate": "Mon, 28 Sep 2026 09:10:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "외국 가버린 뒤엔 빚 상환 6%뿐…캠코 미회수액 6천억 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260927049900002",
-      "pubDate": "Mon, 28 Sep 2026 05:59:01 +0900"
+      "title": "한투운용 \"'ACE 머니마켓액티브ETF' 순자산 1조원 돌파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260928031100008",
+      "pubDate": "Mon, 28 Sep 2026 09:10:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "카드론 돌려막기 1.7조 육박…올해 들어 23%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260927044800002",
-      "pubDate": "Mon, 28 Sep 2026 05:58:00 +0900"
+      "title": "식품업계, 지역아동센터·군 장병·택배기사에 온정 나눔",
+      "link": "https://www.yna.co.kr/view/AKR20260928027500030",
+      "pubDate": "Mon, 28 Sep 2026 09:07:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "1개당 0.000508원…동전주도 안되는 '소수점 코인' 수십개",
-      "link": "https://www.yna.co.kr/view/AKR20260924044500002",
-      "pubDate": "Mon, 28 Sep 2026 05:57:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전세대 아우르는 '치매·간병인 보험' 신계약 2년새 50% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260925027300002",
-      "pubDate": "Mon, 28 Sep 2026 05:56:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'안 주거나 덜 주거나'…보험금 부당지급 적발 5년간 1천건 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260924000800002",
-      "pubDate": "Mon, 28 Sep 2026 05:55:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한은 직원 개인정보 무더기 유출…5년여간 해킹 시도 2천번",
-      "link": "https://www.yna.co.kr/view/AKR20260923136300002",
-      "pubDate": "Mon, 28 Sep 2026 05:53:01 +0900"
+      "title": "코스피, 소폭 약세 출발해 보합권",
+      "link": "https://www.yna.co.kr/view/AKR20260928030100008",
+      "pubDate": "Mon, 28 Sep 2026 09:06:27 +0900"
     }
   ]
 }
