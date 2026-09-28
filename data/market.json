@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-28T13:41:23.452Z",
+  "updatedAt": "2026-09-28T20:16:06.406Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7700.59,
-      "changePercent": -0.553,
+      "price": 7683.69,
+      "changePercent": -0.771,
       "previousClose": 7764.7,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7706.02978515625,
         7704.1298828125,
         7743.41015625,
-        7700.58984375
+        7683.68994140625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26905.299,
-      "changePercent": -0.604,
+      "price": 26820.38,
+      "changePercent": -0.917,
       "previousClose": 27122.09,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26936.0390625,
         26939.369140625,
         27068.720703125,
-        26905.298828125
+        26820.380859375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51475.3,
-      "changePercent": -0.682,
+      "price": 51481.51,
+      "changePercent": -0.67,
       "previousClose": 52048.83,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51511.58984375,
         51349.98046875,
         51828.62109375,
-        51475.30078125
+        51481.51171875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.32,
-      "changePercent": 2.067,
+      "price": 92.97,
+      "changePercent": 0.606,
       "previousClose": 92.16,
       "currency": "USD",
       "history": [
         92.16000366210938,
         94.61000061035156,
         92.41000366210938,
-        94.31999969482422
+        92.97000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4172.1,
-      "changePercent": -3.45,
+      "price": 4154,
+      "changePercent": -3.869,
       "previousClose": 4318.4,
       "currency": "USD",
       "history": [
         4318.39990234375,
         4298,
         4321.2001953125,
-        4172.10009765625
+        4154
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.192,
-      "changePercent": 0.219,
+      "price": 101.199,
+      "changePercent": 0.226,
       "previousClose": 101.1,
       "currency": "USD",
       "history": [
         101.0999984741211,
         101.29000091552734,
         100.97000122070312,
-        101.19200134277344
+        101.1989974975586
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.02,
-      "changePercent": 7.734,
+      "price": 16.07,
+      "changePercent": 8.075,
       "previousClose": 14.21,
       "currency": "USD",
       "history": [
@@ -113,15 +113,33 @@
         15.180000305175781,
         15.670000076293945,
         14.869999885559082,
-        16.020000457763672
+        16.06999969482422
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "[재산공개] 조상호 세종시장 3억9천만원…배우자, 미국에 연립주택",
+      "link": "https://www.yna.co.kr/view/AKR20260928083000063",
+      "pubDate": "Tue, 29 Sep 2026 00:00:01 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "엔비디아, \"자사주 204조원 추가 매입\"…사상 최대규모",
+      "title": "유가와 국채수익률 상승에 눌린 美증시…나스닥 1.2%↓",
+      "link": "https://www.hankyung.com/article/202609280546i",
+      "pubDate": "Mon, 28 Sep 2026 23:55:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "스페이스X 스타십,사상 첫 궤도진입…V3위성 26개 궤도 배치",
+      "link": "https://www.hankyung.com/article/202609280506i",
+      "pubDate": "Mon, 28 Sep 2026 22:58:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아 \"자사주 204조원 추가 매입\"…사상 최대규모",
       "link": "https://www.hankyung.com/article/202609280470i",
       "pubDate": "Mon, 28 Sep 2026 21:29:13 +0900"
     },
@@ -190,24 +208,6 @@
       "title": "솔리스·럭스코·셀트릭스, 코스닥 상장예심 통과",
       "link": "https://www.yna.co.kr/view/AKR20260928156200008",
       "pubDate": "Mon, 28 Sep 2026 19:24:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아,AI에이전트 해킹막는 보안시스템 공개…\"밀리초만에 격리\"",
-      "link": "https://www.hankyung.com/article/202609280328i",
-      "pubDate": "Mon, 28 Sep 2026 19:15:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "은행 점포 30분 늦게 연다…\"디지털 금융 확산 등 반영\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260928149551002",
-      "pubDate": "Mon, 28 Sep 2026 19:14:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LG, 스마일 캠페인 전개…\"사회에 긍정 에너지 전파\"",
-      "link": "https://www.hankyung.com/article/2026092802171",
-      "pubDate": "Mon, 28 Sep 2026 18:48:24 +0900"
     }
   ]
 }
