@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:01:07.706Z",
+  "updatedAt": "2026-09-29T12:45:47.824Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.1,
-      "changePercent": 1.62,
+      "price": 90.37,
+      "changePercent": -2.408,
       "previousClose": 94.61,
       "currency": "USD",
       "history": [
         94.61000061035156,
         92.41000366210938,
         92.5999984741211,
-        94.0999984741211
+        90.37000274658203
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4169.7,
-      "changePercent": 0.031,
+      "price": 4187.7,
+      "changePercent": 0.463,
       "previousClose": 4298,
       "currency": "USD",
       "history": [
         4298,
         4321.2001953125,
         4168.39990234375,
-        4169.7001953125
+        4187.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.327,
-      "changePercent": 0.128,
+      "price": 101.342,
+      "changePercent": 0.143,
       "previousClose": 101.29,
       "currency": "USD",
       "history": [
         101.29000091552734,
         100.97000122070312,
         101.19999694824219,
-        101.3270034790039
+        101.34200286865234
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.07,
-      "changePercent": 8.07,
-      "previousClose": 14.21,
+      "price": 15.84,
+      "changePercent": -1.432,
+      "previousClose": 15.18,
       "currency": "USD",
       "history": [
-        14.210000038146973,
         15.180000305175781,
         15.670000076293945,
         14.869999885559082,
-        16.06999969482422
+        16.06999969482422,
+        15.84000015258789
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "삼성전자 \"파운드리 고객사, 2029년까지 4배로 늘 것\"",
-      "link": "https://www.hankyung.com/article/202609292122i",
-      "pubDate": "Tue, 29 Sep 2026 14:43:29 +0900"
+      "title": "\"가수는 절대 안 돼\" 정유경 회장, 딸 애니 뮤비 '여기' 띄웠다",
+      "link": "https://www.hankyung.com/article/202609292491g",
+      "pubDate": "Tue, 29 Sep 2026 20:00:54 +0900"
     },
     {
       "source": "한국경제",
-      "title": "3만개 부품 로봇이 '척척'…독립기지 구축한 한화시스템",
-      "link": "https://www.hankyung.com/article/202609292075i",
-      "pubDate": "Tue, 29 Sep 2026 14:29:47 +0900"
+      "title": "앤스로픽 투자설명서,\"AI,시스템종료에 저항,정보은폐,협박\"경고",
+      "link": "https://www.hankyung.com/article/202609292966i",
+      "pubDate": "Tue, 29 Sep 2026 19:50:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[동정] 이억원, 美나스닥·DTCC·홍콩거래소 고위급 면담",
+      "link": "https://www.yna.co.kr/view/AKR20260929180200002",
+      "pubDate": "Tue, 29 Sep 2026 19:49:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260929177100504",
+      "pubDate": "Tue, 29 Sep 2026 19:30:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "세미파이브, 신규 고객 상대로 703억 '잭팟'…역대 최대 수주",
-      "link": "https://www.hankyung.com/article/202609292007i",
-      "pubDate": "Tue, 29 Sep 2026 14:14:22 +0900"
+      "title": "\"내가 月 200만원 벌기도 힘들 줄은\"…60대 퇴직자 '눈물'",
+      "link": "https://www.hankyung.com/article/2026092927211",
+      "pubDate": "Tue, 29 Sep 2026 19:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "8월 수출 68.7% 늘어 동월 최대…반도체 타고 대기업 독주",
-      "link": "https://www.hankyung.com/article/2026092918167",
-      "pubDate": "Tue, 29 Sep 2026 12:54:25 +0900"
+      "title": "이재용·최태원·젠슨 황, 맨해튼서 'AI동맹' 과시",
+      "link": "https://www.hankyung.com/article/2026092928231",
+      "pubDate": "Tue, 29 Sep 2026 18:37:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "현대차그룹, 美 실리콘밸리서 'HMG 테크 탤런트 포럼' 성료",
-      "link": "https://www.hankyung.com/article/202609291827g",
-      "pubDate": "Tue, 29 Sep 2026 12:35:06 +0900"
+      "title": "삼성그룹, AI 인프라 베팅…美 헬릭스에 10억弗 투자",
+      "link": "https://www.hankyung.com/article/2026092928241",
+      "pubDate": "Tue, 29 Sep 2026 18:35:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"신입은 어쩌라고\"…경력직에 밀리고 AI에 치인 청년들 '한숨'",
-      "link": "https://www.hankyung.com/article/202609291175g",
-      "pubDate": "Tue, 29 Sep 2026 12:00:04 +0900"
+      "title": "폭스바겐은 어쩌다…中 샤오펑·고션에 손 내밀었나",
+      "link": "https://www.hankyung.com/article/2026092928311",
+      "pubDate": "Tue, 29 Sep 2026 18:33:46 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] SBI저축은행, 교보생명 인수 뒤 새 사명 '교보SBI저축은행'",
-      "link": "https://www.hankyung.com/article/202609291529i",
-      "pubDate": "Tue, 29 Sep 2026 11:29:54 +0900"
+      "title": "LG이노텍, 자율차 국내 도로 주행",
+      "link": "https://www.hankyung.com/article/2026092928251",
+      "pubDate": "Tue, 29 Sep 2026 18:32:47 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"전지현처럼 먹고 싶어요\"…中 열광하더니 12년 만에 '깜짝'",
-      "link": "https://www.hankyung.com/article/202609291615g",
-      "pubDate": "Tue, 29 Sep 2026 11:23:11 +0900"
+      "title": "DB그룹 \"보유 부지에 데이터센터 착공 검토\"",
+      "link": "https://www.hankyung.com/article/2026092928321",
+      "pubDate": "Tue, 29 Sep 2026 18:32:31 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미국 의약품 관세 발효…한국산 ADC·유전자치료제는 0%",
+      "link": "https://www.yna.co.kr/view/AKR20260929168800017",
+      "pubDate": "Tue, 29 Sep 2026 18:24:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "쟁글, 아부다비 법인 '오리엔트' 설립…내년 서비스 출시 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260929171700002",
+      "pubDate": "Tue, 29 Sep 2026 18:18:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'명문대 경영동아리'가 '미공개정보 카르텔'로…\"200억원대 부당이득\"",
-      "link": "https://www.hankyung.com/article/2026092913886",
-      "pubDate": "Tue, 29 Sep 2026 11:00:08 +0900"
+      "title": "가전제품 만들던 구미산단, 천궁Ⅱ·KF-21 두뇌 생산기지로",
+      "link": "https://www.hankyung.com/article/2026092927631",
+      "pubDate": "Tue, 29 Sep 2026 18:13:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "가입 즉시 3.7% 이자 받는 예금 나왔다",
-      "link": "https://www.hankyung.com/article/202609291549i",
-      "pubDate": "Tue, 29 Sep 2026 10:54:01 +0900"
+      "title": "미사일·레이더 싣고 전쟁터 질주…K군용차 '무기 플랫폼'으로 변신",
+      "link": "https://www.hankyung.com/article/2026092927621",
+      "pubDate": "Tue, 29 Sep 2026 18:12:24 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"젠슨의 법칙 들어봤나\"…최태원 건배사에 담긴 뜻은?",
-      "link": "https://www.hankyung.com/article/202609291511g",
-      "pubDate": "Tue, 29 Sep 2026 10:53:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'제니 안경' 썼더니 길안내까지…메타, 네이버지도 연동",
-      "link": "https://www.hankyung.com/article/202609291455g",
-      "pubDate": "Tue, 29 Sep 2026 10:38:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, 뉴욕 한복판에 젠슨 황 띄웠다…밴 플리트상 수상 축하",
-      "link": "https://www.hankyung.com/article/202609291266i",
-      "pubDate": "Tue, 29 Sep 2026 10:10:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] SC제일은행, 내달 1일부터 주담대 MCI 전면 재개",
-      "link": "https://www.hankyung.com/article/202609290593i",
-      "pubDate": "Tue, 29 Sep 2026 10:08:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“47년째 조연은 그만”…롯데리아 간판 노리는 '떼리앙'",
-      "link": "https://www.hankyung.com/article/202609290880i",
-      "pubDate": "Tue, 29 Sep 2026 10:00:05 +0900"
+      "source": "연합뉴스",
+      "title": "농산물 수급조절위, 법정 심의 기구로 격상",
+      "link": "https://www.yna.co.kr/view/AKR20260929166700030",
+      "pubDate": "Tue, 29 Sep 2026 18:12:04 +0900"
     }
   ]
 }
