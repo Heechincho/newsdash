@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:16:06.406Z",
+  "updatedAt": "2026-09-29T00:25:22.352Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.97,
-      "changePercent": 0.606,
+      "price": 93.48,
+      "changePercent": 0.95,
       "previousClose": 92.16,
       "currency": "USD",
       "history": [
         92.16000366210938,
         94.61000061035156,
         92.41000366210938,
-        92.97000122070312
+        93.4800033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4154,
-      "changePercent": -3.869,
+      "price": 4153.2,
+      "changePercent": -0.365,
       "previousClose": 4318.4,
       "currency": "USD",
       "history": [
         4318.39990234375,
         4298,
         4321.2001953125,
-        4154
+        4153.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.199,
-      "changePercent": 0.226,
+      "price": 101.24,
+      "changePercent": 0.042,
       "previousClose": 101.1,
       "currency": "USD",
       "history": [
         101.0999984741211,
         101.29000091552734,
         100.97000122070312,
-        101.1989974975586
+        101.23999786376953
       ],
       "ok": true
     },
@@ -105,7 +105,7 @@
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
       "price": 16.07,
-      "changePercent": 8.075,
+      "changePercent": 8.07,
       "previousClose": 14.21,
       "currency": "USD",
       "history": [
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[재산공개] 조상호 세종시장 3억9천만원…배우자, 미국에 연립주택",
-      "link": "https://www.yna.co.kr/view/AKR20260928083000063",
-      "pubDate": "Tue, 29 Sep 2026 00:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유가와 국채수익률 상승에 눌린 美증시…나스닥 1.2%↓",
-      "link": "https://www.hankyung.com/article/202609280546i",
-      "pubDate": "Mon, 28 Sep 2026 23:55:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "스페이스X 스타십,사상 첫 궤도진입…V3위성 26개 궤도 배치",
-      "link": "https://www.hankyung.com/article/202609280506i",
-      "pubDate": "Mon, 28 Sep 2026 22:58:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 \"자사주 204조원 추가 매입\"…사상 최대규모",
-      "link": "https://www.hankyung.com/article/202609280470i",
-      "pubDate": "Mon, 28 Sep 2026 21:29:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "치과의사가 갤럭시를 쓰는 이유…아이폰서 '여권폰' 환승",
-      "link": "https://www.hankyung.com/article/2026092804447",
-      "pubDate": "Mon, 28 Sep 2026 20:57:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中, 민간 AI기업과 반도체 전문가들 해외여행 제한",
-      "link": "https://www.hankyung.com/article/202609280385i",
-      "pubDate": "Mon, 28 Sep 2026 20:55:46 +0900"
+      "title": "\"윤리적 소비문화 확산\"…시흥시, 공정무역 도시 3차 재인증",
+      "link": "https://www.yna.co.kr/view/AKR20260929040000061",
+      "pubDate": "Tue, 29 Sep 2026 09:22:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "은행장 16명과 머리 맞댄 한은 총재 \"현장 얘기 많이 들어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260928161100002",
-      "pubDate": "Mon, 28 Sep 2026 20:50:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中,엔비디아 RTX프로5500구매 풀면…삼전·닉스 DDR7 '수혜'주목",
-      "link": "https://www.hankyung.com/article/202609280407i",
-      "pubDate": "Mon, 28 Sep 2026 20:15:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "시장도 마트도 쿠팡도 아니다…'상추 800원' 난리 난 핫플 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202609289061g",
-      "pubDate": "Mon, 28 Sep 2026 20:00:03 +0900"
+      "title": "아산시, '삼성발 훈풍' 발판 10월 2일 서울서 첫 투자유치설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260929039200063",
+      "pubDate": "Tue, 29 Sep 2026 09:22:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "성남시, 내년 분당재건축 2만5천호 선정…'예비구역' 첫 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260928159900061",
-      "pubDate": "Mon, 28 Sep 2026 19:58:31 +0900"
+      "title": "[특징주] 삼성전기, 6조원대 기판 증설 소식에 장초반 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260929038200008",
+      "pubDate": "Tue, 29 Sep 2026 09:19:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동포의 창] \"동포사회 리더 한자리에\"…세계한인대회 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260928159100371",
-      "pubDate": "Mon, 28 Sep 2026 19:52:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "중동 원유 수출 하루 1280만배럴…이란전쟁 후 최대",
-      "link": "https://www.hankyung.com/article/202609280392i",
-      "pubDate": "Mon, 28 Sep 2026 19:43:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "은행, 내년 4월부터 9시30분에 연다",
-      "link": "https://www.hankyung.com/article/2026092804041",
-      "pubDate": "Mon, 28 Sep 2026 19:38:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"아저씨도 줄 서서 사 가요\"…인기 폭발한 '이 음식' 뭐길래 [박수빈의 발굴단]",
-      "link": "https://www.hankyung.com/article/202609289515H",
-      "pubDate": "Mon, 28 Sep 2026 19:35:01 +0900"
+      "title": "미래운용 \"'미국S&P500' ETF, 올해 개인 순매수액 국내 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929036700008",
+      "pubDate": "Tue, 29 Sep 2026 09:15:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "솔리스·럭스코·셀트릭스, 코스닥 상장예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260928156200008",
-      "pubDate": "Mon, 28 Sep 2026 19:24:26 +0900"
+      "title": "농진원, 내달 19일 농산업 해외시장 진출 포럼…5개국 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260929034000055",
+      "pubDate": "Tue, 29 Sep 2026 09:12:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한투운용 \"'ACE 미국나스닥100' 연초 이후 개인 순매수 5천억원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929035400008",
+      "pubDate": "Tue, 29 Sep 2026 09:10:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대우건설 컨소시엄, 8천686억원 용인 반도체국가산단 1공구 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260929035200003",
+      "pubDate": "Tue, 29 Sep 2026 09:09:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스피, 하락 출발 6,800선 중반…코스닥도 내려",
+      "link": "https://www.yna.co.kr/view/AKR20260929034200008",
+      "pubDate": "Tue, 29 Sep 2026 09:07:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주병기, 쿠팡 현장조사 재착수 시사…\"무너진 정의 다시 세울것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929031500002",
+      "pubDate": "Tue, 29 Sep 2026 09:03:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "하이트진로 투자 스타트업 2곳, 올해 팁스 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260929029800030",
+      "pubDate": "Tue, 29 Sep 2026 08:56:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증권가, 'FC-BGA 증설' 삼성전기 실적 눈높이 잇달아 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260929029700008",
+      "pubDate": "Tue, 29 Sep 2026 08:54:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "급등한 美 금리, 9월 고용보고서가 방향 가를까",
+      "link": "https://www.yna.co.kr/view/AKR20260929028500008",
+      "pubDate": "Tue, 29 Sep 2026 08:52:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "고양시-메쎄이상, 출산 장려 활성화 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260929029200060",
+      "pubDate": "Tue, 29 Sep 2026 08:49:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권 \"한섬, 의류판매 호조·신규 브랜드 성장\"…목표가↑",
+      "link": "https://www.yna.co.kr/view/AKR20260929028000008",
+      "pubDate": "Tue, 29 Sep 2026 08:47:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "내년 해외여행 가려고 했는데…\"7000원이 2만원?\" 화들짝 [김익환의 부처 핸즈업]",
+      "link": "https://www.hankyung.com/article/202609255871i",
+      "pubDate": "Tue, 29 Sep 2026 08:45:39 +0900"
     }
   ]
 }
