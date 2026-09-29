@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-29T12:45:47.824Z",
+  "updatedAt": "2026-09-29T18:19:36.717Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7683.69,
-      "changePercent": -0.771,
-      "previousClose": 7764.7,
+      "price": 7668.35,
+      "changePercent": -0.2,
+      "previousClose": 7764.64,
       "currency": "USD",
       "history": [
-        7764.64013671875,
         7706.02978515625,
         7704.1298828125,
         7743.41015625,
-        7683.68994140625
+        7683.68994140625,
+        7668.35009765625
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26820.38,
-      "changePercent": -0.917,
-      "previousClose": 27122.09,
+      "price": 26783.482,
+      "changePercent": -0.138,
+      "previousClose": 27244.28,
       "currency": "USD",
       "history": [
-        27244.279296875,
         26936.0390625,
         26939.369140625,
         27068.720703125,
-        26820.380859375
+        26820.380859375,
+        26783.482421875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51481.51,
-      "changePercent": -0.67,
-      "previousClose": 52048.83,
+      "price": 51274.31,
+      "changePercent": -0.402,
+      "previousClose": 51863.69,
       "currency": "USD",
       "history": [
-        51863.69140625,
         51511.58984375,
         51349.98046875,
         51828.62109375,
-        51481.51171875
+        51481.51171875,
+        51274.30859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.37,
-      "changePercent": -2.408,
+      "price": 89.8,
+      "changePercent": -3.024,
       "previousClose": 94.61,
       "currency": "USD",
       "history": [
         94.61000061035156,
         92.41000366210938,
         92.5999984741211,
-        90.37000274658203
+        89.80000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,14 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4187.7,
-      "changePercent": 0.463,
+      "price": 4192.2,
+      "changePercent": 0.571,
       "previousClose": 4298,
       "currency": "USD",
       "history": [
         4298,
         4321.2001953125,
-        4168.39990234375,
-        4187.7001953125
+        4192.2001953125
       ],
       "ok": true
     },
@@ -88,15 +87,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.342,
-      "changePercent": 0.143,
+      "price": 101.463,
+      "changePercent": 0.263,
       "previousClose": 101.29,
       "currency": "USD",
       "history": [
         101.29000091552734,
         100.97000122070312,
         101.19999694824219,
-        101.34200286865234
+        101.46299743652344
       ],
       "ok": true
     },
@@ -104,8 +103,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.84,
-      "changePercent": -1.432,
+      "price": 16.27,
+      "changePercent": 1.243,
       "previousClose": 15.18,
       "currency": "USD",
       "history": [
@@ -113,12 +112,66 @@
         15.670000076293945,
         14.869999885559082,
         16.06999969482422,
-        15.84000015258789
+        16.270000457763672
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "美 30년물국채 수익률 5.609%…2002년 이후 최고치",
+      "link": "https://www.hankyung.com/article/202609303116i",
+      "pubDate": "Wed, 30 Sep 2026 01:05:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까",
+      "link": "https://www.hankyung.com/article/202609293017i",
+      "pubDate": "Wed, 30 Sep 2026 00:41:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 9월 소비자신뢰도 12년만에 최저…유가급등에 생활비 위기 확대",
+      "link": "https://www.hankyung.com/article/202609303107i",
+      "pubDate": "Wed, 30 Sep 2026 00:29:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI '안전'과 '확장' 사이…앤트로픽과 메타의 다른 승부수 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202609293089i",
+      "pubDate": "Tue, 29 Sep 2026 23:50:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 8월 구인공고 710만건…예상치 밑돌아",
+      "link": "https://www.hankyung.com/article/202609293097i",
+      "pubDate": "Tue, 29 Sep 2026 23:34:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동",
+      "link": "https://www.hankyung.com/article/202609293066i",
+      "pubDate": "Tue, 29 Sep 2026 22:47:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260929185700004",
+      "pubDate": "Tue, 29 Sep 2026 22:08:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"떡볶이 하나로 매출 2700억\"…루저 김대리의 '인생 역전' [씬메이커]",
+      "link": "https://www.hankyung.com/article/202609292186g",
+      "pubDate": "Tue, 29 Sep 2026 22:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"HBM 판매가 내년 121% 오른다\"…삼전·닉스 메모리 호황 2027년에도",
+      "link": "https://www.hankyung.com/article/202609293035i",
+      "pubDate": "Tue, 29 Sep 2026 21:51:21 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"가수는 절대 안 돼\" 정유경 회장, 딸 애니 뮤비 '여기' 띄웠다",
@@ -154,60 +207,6 @@
       "title": "이재용·최태원·젠슨 황, 맨해튼서 'AI동맹' 과시",
       "link": "https://www.hankyung.com/article/2026092928231",
       "pubDate": "Tue, 29 Sep 2026 18:37:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성그룹, AI 인프라 베팅…美 헬릭스에 10억弗 투자",
-      "link": "https://www.hankyung.com/article/2026092928241",
-      "pubDate": "Tue, 29 Sep 2026 18:35:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "폭스바겐은 어쩌다…中 샤오펑·고션에 손 내밀었나",
-      "link": "https://www.hankyung.com/article/2026092928311",
-      "pubDate": "Tue, 29 Sep 2026 18:33:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LG이노텍, 자율차 국내 도로 주행",
-      "link": "https://www.hankyung.com/article/2026092928251",
-      "pubDate": "Tue, 29 Sep 2026 18:32:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "DB그룹 \"보유 부지에 데이터센터 착공 검토\"",
-      "link": "https://www.hankyung.com/article/2026092928321",
-      "pubDate": "Tue, 29 Sep 2026 18:32:31 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미국 의약품 관세 발효…한국산 ADC·유전자치료제는 0%",
-      "link": "https://www.yna.co.kr/view/AKR20260929168800017",
-      "pubDate": "Tue, 29 Sep 2026 18:24:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "쟁글, 아부다비 법인 '오리엔트' 설립…내년 서비스 출시 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260929171700002",
-      "pubDate": "Tue, 29 Sep 2026 18:18:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "가전제품 만들던 구미산단, 천궁Ⅱ·KF-21 두뇌 생산기지로",
-      "link": "https://www.hankyung.com/article/2026092927631",
-      "pubDate": "Tue, 29 Sep 2026 18:13:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미사일·레이더 싣고 전쟁터 질주…K군용차 '무기 플랫폼'으로 변신",
-      "link": "https://www.hankyung.com/article/2026092927621",
-      "pubDate": "Tue, 29 Sep 2026 18:12:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농산물 수급조절위, 법정 심의 기구로 격상",
-      "link": "https://www.yna.co.kr/view/AKR20260929166700030",
-      "pubDate": "Tue, 29 Sep 2026 18:12:04 +0900"
     }
   ]
 }
