@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-29T18:19:36.717Z",
+  "updatedAt": "2026-09-29T22:26:25.951Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7668.35,
-      "changePercent": -0.2,
+      "price": 7670.84,
+      "changePercent": -0.167,
       "previousClose": 7764.64,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7704.1298828125,
         7743.41015625,
         7683.68994140625,
-        7668.35009765625
+        7670.83984375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26783.482,
-      "changePercent": -0.138,
+      "price": 26797.541,
+      "changePercent": -0.085,
       "previousClose": 27244.28,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26939.369140625,
         27068.720703125,
         26820.380859375,
-        26783.482421875
+        26797.541015625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51274.31,
-      "changePercent": -0.402,
+      "price": 51349.92,
+      "changePercent": -0.256,
       "previousClose": 51863.69,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51349.98046875,
         51828.62109375,
         51481.51171875,
-        51274.30859375
+        51349.921875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.8,
-      "changePercent": -3.024,
+      "price": 88.65,
+      "changePercent": -0.817,
       "previousClose": 94.61,
       "currency": "USD",
       "history": [
         94.61000061035156,
         92.41000366210938,
         92.5999984741211,
-        89.80000305175781
+        88.6500015258789
       ],
       "ok": true
     },
@@ -72,14 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4192.2,
-      "changePercent": 0.571,
+      "price": 4213.9,
+      "changePercent": 0.818,
       "previousClose": 4298,
       "currency": "USD",
       "history": [
         4298,
         4321.2001953125,
-        4192.2001953125
+        4168.39990234375,
+        4213.89990234375
       ],
       "ok": true
     },
@@ -87,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.463,
-      "changePercent": 0.263,
+      "price": 101.377,
+      "changePercent": 0.178,
       "previousClose": 101.29,
       "currency": "USD",
       "history": [
         101.29000091552734,
         100.97000122070312,
         101.19999694824219,
-        101.46299743652344
+        101.37699890136719
       ],
       "ok": true
     },
@@ -103,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.27,
-      "changePercent": 1.243,
+      "price": 16.04,
+      "changePercent": -0.187,
       "previousClose": 15.18,
       "currency": "USD",
       "history": [
@@ -112,101 +113,101 @@
         15.670000076293945,
         14.869999885559082,
         16.06999969482422,
-        16.270000457763672
+        16.040000915527344
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "美 30년물국채 수익률 5.609%…2002년 이후 최고치",
-      "link": "https://www.hankyung.com/article/202609303116i",
-      "pubDate": "Wed, 30 Sep 2026 01:05:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까",
-      "link": "https://www.hankyung.com/article/202609293017i",
-      "pubDate": "Wed, 30 Sep 2026 00:41:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 9월 소비자신뢰도 12년만에 최저…유가급등에 생활비 위기 확대",
-      "link": "https://www.hankyung.com/article/202609303107i",
-      "pubDate": "Wed, 30 Sep 2026 00:29:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI '안전'과 '확장' 사이…앤트로픽과 메타의 다른 승부수 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202609293089i",
-      "pubDate": "Tue, 29 Sep 2026 23:50:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 8월 구인공고 710만건…예상치 밑돌아",
-      "link": "https://www.hankyung.com/article/202609293097i",
-      "pubDate": "Tue, 29 Sep 2026 23:34:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동",
-      "link": "https://www.hankyung.com/article/202609293066i",
-      "pubDate": "Tue, 29 Sep 2026 22:47:19 +0900"
+      "source": "연합뉴스",
+      "title": "[글로컬] 출근 당기지 않으려 개점 30분 늦춘다는 은행",
+      "link": "https://www.yna.co.kr/view/AKR20260929086500546",
+      "pubDate": "Wed, 30 Sep 2026 07:07:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260929185700004",
-      "pubDate": "Tue, 29 Sep 2026 22:08:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"떡볶이 하나로 매출 2700억\"…루저 김대리의 '인생 역전' [씬메이커]",
-      "link": "https://www.hankyung.com/article/202609292186g",
-      "pubDate": "Tue, 29 Sep 2026 22:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"HBM 판매가 내년 121% 오른다\"…삼전·닉스 메모리 호황 2027년에도",
-      "link": "https://www.hankyung.com/article/202609293035i",
-      "pubDate": "Tue, 29 Sep 2026 21:51:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"가수는 절대 안 돼\" 정유경 회장, 딸 애니 뮤비 '여기' 띄웠다",
-      "link": "https://www.hankyung.com/article/202609292491g",
-      "pubDate": "Tue, 29 Sep 2026 20:00:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "앤스로픽 투자설명서,\"AI,시스템종료에 저항,정보은폐,협박\"경고",
-      "link": "https://www.hankyung.com/article/202609292966i",
-      "pubDate": "Tue, 29 Sep 2026 19:50:03 +0900"
+      "title": "상어 '부캉이'가 울린 경종…기후변화로 급변한 해양생태계",
+      "link": "https://www.yna.co.kr/view/AKR20260929149600051",
+      "pubDate": "Wed, 30 Sep 2026 07:01:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동정] 이억원, 美나스닥·DTCC·홍콩거래소 고위급 면담",
-      "link": "https://www.yna.co.kr/view/AKR20260929180200002",
-      "pubDate": "Tue, 29 Sep 2026 19:49:50 +0900"
+      "title": "내수 부진에…중국 완성차, 수출 늘리고 해외 현지생산 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260929153500003",
+      "pubDate": "Wed, 30 Sep 2026 07:01:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국-리비아 경제협력포럼…기업 중동 진출·건설수주 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260929177100504",
-      "pubDate": "Tue, 29 Sep 2026 19:30:40 +0900"
+      "title": "[AI프리즘] AI데이터센터 경제효과 따져보니…최대 3.5조",
+      "link": "https://www.yna.co.kr/view/AKR20260929161900017",
+      "pubDate": "Wed, 30 Sep 2026 06:33:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"온라인도매시장서 25% '이상거래'…특수관계·순환거래 기승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929128400030",
+      "pubDate": "Wed, 30 Sep 2026 06:30:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "HD현대중 노사, 임단협 잠정합의…기본급 12만원 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260930009600057",
+      "pubDate": "Wed, 30 Sep 2026 06:26:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"입찰 담합 적발되고도 LH 사업 3천억 가까이 수주\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929161500003",
+      "pubDate": "Wed, 30 Sep 2026 06:07:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929148700530",
+      "pubDate": "Wed, 30 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "연말까지 농어촌 기본소득 연계 사회연대경제 활성화 모델 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260929119800030",
+      "pubDate": "Wed, 30 Sep 2026 06:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'주택공급 선행지표' 서울 인허가 올들어 개선 추세",
+      "link": "https://www.yna.co.kr/view/AKR20260929143100003",
+      "pubDate": "Wed, 30 Sep 2026 06:00:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260929150400530",
+      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전국지자체 62곳, 미래기금發 지방교부세 축소에 우려·반대",
+      "link": "https://www.yna.co.kr/view/AKR20260929133400001",
+      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농어촌 기본소득 지역에 '찾아가는 식품 서비스' 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260929120300030",
+      "pubDate": "Wed, 30 Sep 2026 06:00:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"내가 月 200만원 벌기도 힘들 줄은\"…60대 퇴직자 '눈물'",
-      "link": "https://www.hankyung.com/article/2026092927211",
-      "pubDate": "Tue, 29 Sep 2026 19:00:03 +0900"
+      "title": "\"돈잔치? 남의 집 얘기\"…'반도체 집중' 한국도 대만도 고민",
+      "link": "https://www.hankyung.com/article/202609292461g",
+      "pubDate": "Wed, 30 Sep 2026 06:00:09 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "이재용·최태원·젠슨 황, 맨해튼서 'AI동맹' 과시",
-      "link": "https://www.hankyung.com/article/2026092928231",
-      "pubDate": "Tue, 29 Sep 2026 18:37:58 +0900"
+      "source": "연합뉴스",
+      "title": "지난해 늘어난 건축물 연면적 축구장 8천400여개 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260929162300003",
+      "pubDate": "Wed, 30 Sep 2026 06:00:07 +0900"
     }
   ]
 }
