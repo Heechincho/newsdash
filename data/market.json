@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-30T07:17:31.321Z",
+  "updatedAt": "2026-09-30T13:55:25.437Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7670.84,
-      "changePercent": -0.167,
-      "previousClose": 7764.64,
+      "price": 7704.67,
+      "changePercent": 0.441,
+      "previousClose": 7706.03,
       "currency": "USD",
       "history": [
-        7706.02978515625,
         7704.1298828125,
         7743.41015625,
         7683.68994140625,
-        7670.83984375
+        7670.83984375,
+        7704.669921875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26797.541,
-      "changePercent": -0.085,
-      "previousClose": 27244.28,
+      "price": 26995.314,
+      "changePercent": 0.738,
+      "previousClose": 26936.04,
       "currency": "USD",
       "history": [
-        26936.0390625,
         26939.369140625,
         27068.720703125,
         26820.380859375,
-        26797.5390625
+        26797.5390625,
+        26995.314453125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51349.9,
-      "changePercent": -0.256,
-      "previousClose": 51863.69,
+      "price": 51397.41,
+      "changePercent": 0.092,
+      "previousClose": 51511.59,
       "currency": "USD",
       "history": [
-        51511.58984375,
         51349.98046875,
         51828.62109375,
         51481.51171875,
-        51349.921875
+        51349.921875,
+        51397.41015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.28,
-      "changePercent": -0.112,
+      "price": 91.16,
+      "changePercent": 1.992,
       "previousClose": 92.41,
       "currency": "USD",
       "history": [
         92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        89.27999877929688
+        91.16000366210938
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4227,
-      "changePercent": 1.132,
+      "price": 4211.7,
+      "changePercent": 0.766,
       "previousClose": 4321.2,
       "currency": "USD",
       "history": [
         4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4227
+        4211.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.24,
-      "changePercent": -0.13,
+      "price": 101.226,
+      "changePercent": -0.144,
       "previousClose": 100.97,
       "currency": "USD",
       "history": [
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.23999786376953
+        101.22599792480469
       ],
       "ok": true
     },
@@ -104,15 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.04,
-      "changePercent": -0.187,
+      "price": 15.79,
+      "changePercent": -1.562,
       "previousClose": 15.67,
       "currency": "USD",
       "history": [
         15.670000076293945,
         14.869999885559082,
         16.06999969482422,
-        16.040000915527344
+        16.040000915527344,
+        15.789999961853027
       ],
       "ok": true
     }
@@ -120,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "파인디앤씨 \"종속회사 VINA에 136억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930150000008",
-      "pubDate": "Wed, 30 Sep 2026 16:08:05 +0900"
+      "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
+      "link": "https://www.yna.co.kr/view/AKR20260930196400082",
+      "pubDate": "Wed, 30 Sep 2026 22:43:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 8월 PCE 물가 3.4% 상승…예상치 밑돌았다",
+      "link": "https://www.hankyung.com/article/202609305951i",
+      "pubDate": "Wed, 30 Sep 2026 22:12:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "7주만에 최저 금값…\"그럼에도 실물수요 등 보유할 이유 많아\"",
+      "link": "https://www.hankyung.com/article/202609305927i",
+      "pubDate": "Wed, 30 Sep 2026 21:25:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소상공인에 최대 1억 대출…포항시·금융기관, 특례보증 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260930146900053",
-      "pubDate": "Wed, 30 Sep 2026 16:06:45 +0900"
+      "title": "증선위, 대표 시세조종행위 등 불공정거래 3건 檢 고발·통보",
+      "link": "https://www.yna.co.kr/view/AKR20260930190900002",
+      "pubDate": "Wed, 30 Sep 2026 21:18:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] IBK기업은행, 국군의날 기념 나라사랑카드 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260930140900002",
-      "pubDate": "Wed, 30 Sep 2026 16:02:23 +0900"
+      "title": "韓총리 \"주택공급 예측가능성 높이는 게 중요…신뢰 회복해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930167051001",
+      "pubDate": "Wed, 30 Sep 2026 20:29:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KB국민은행, 4.4조 GTX-C노선 민간투자사업 금융약정",
-      "link": "https://www.yna.co.kr/view/AKR20260930139500002",
-      "pubDate": "Wed, 30 Sep 2026 16:02:07 +0900"
+      "title": "2차 국민참여성장펀드 첫날 2천억원 판매…일부 온라인한도 소진",
+      "link": "https://www.yna.co.kr/view/AKR20260930189800002",
+      "pubDate": "Wed, 30 Sep 2026 20:27:54 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "74조원 알래스카 LNG, 선뜻 참여하기 어려운 이유는?",
+      "link": "https://www.hankyung.com/article/202609305877i",
+      "pubDate": "Wed, 30 Sep 2026 20:25:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중진공·기업은행, 中企 재직자 우대저축공제 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260930146600030",
-      "pubDate": "Wed, 30 Sep 2026 16:01:44 +0900"
+      "title": "삼립 \"2030년 영업익 1천700억·해외 매출 5천억 달성 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930189700030",
+      "pubDate": "Wed, 30 Sep 2026 20:19:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[르포] 계열사 10개 청라로 집결하는 하나금융, 본사 건물부터 '시너지' 강조",
+      "link": "https://www.hankyung.com/article/202609304779i",
+      "pubDate": "Wed, 30 Sep 2026 20:03:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "KB·하나·우리, 자회사 CEO 선임 착수",
+      "link": "https://www.hankyung.com/article/2026093058431",
+      "pubDate": "Wed, 30 Sep 2026 19:49:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "카카오뱅크, 달러 세이프박스 금리 인상…연 2.3%",
-      "link": "https://www.yna.co.kr/view/AKR20260930138300002",
-      "pubDate": "Wed, 30 Sep 2026 16:01:17 +0900"
+      "title": "9월 D램·낸드 가격 또 역대 최고…상승폭은 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260930184700003",
+      "pubDate": "Wed, 30 Sep 2026 19:37:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한국인들 美쳤다…지구 반대편서 '10조' 놓고 벌어진 일",
+      "link": "https://www.hankyung.com/article/2026093055041",
+      "pubDate": "Wed, 30 Sep 2026 19:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
-      "link": "https://www.yna.co.kr/view/AKR20260930146500002",
-      "pubDate": "Wed, 30 Sep 2026 16:01:03 +0900"
+      "title": "[청주소식] 차기 시 금고에 농협·신한은행 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260930182700064",
+      "pubDate": "Wed, 30 Sep 2026 18:53:45 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "인천시, '청년재단 설립'·'청년기금 조성' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260930056200065",
-      "pubDate": "Wed, 30 Sep 2026 16:00:08 +0900"
+      "source": "한국경제",
+      "title": "'은둔의 경영자' 최평규 \"인재 양성, 기업인 책무\"",
+      "link": "https://www.hankyung.com/article/2026093056481",
+      "pubDate": "Wed, 30 Sep 2026 18:38:16 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "역대급 세수에 '미래대응기금' 200조원 넘길까(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260930059151002",
-      "pubDate": "Wed, 30 Sep 2026 15:59:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중랑천옆 중곡1동 A구역 재개발…최고 35층 2천200세대",
-      "link": "https://www.yna.co.kr/view/AKR20260930147800004",
-      "pubDate": "Wed, 30 Sep 2026 15:59:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "킨텍스-고양산업진흥원 '첨단기술 실증·사업화' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260930146300060",
-      "pubDate": "Wed, 30 Sep 2026 15:56:59 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "마이크론 실적 경계감? 삼전 1.5%↓…하이닉스 0.6%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260930042451008",
-      "pubDate": "Wed, 30 Sep 2026 15:56:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[특징주] 덕산넵코어스, 코스닥 상장 첫날 20%대 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260930042551008",
-      "pubDate": "Wed, 30 Sep 2026 15:41:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"지배·일반주주 지분 매수 차별 안돼\"…의무공개매수 보류 거듭 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260930127900008",
-      "pubDate": "Wed, 30 Sep 2026 15:41:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "파인테크닉스, 10억원 유상증자…성진홀딩스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260930143400008",
-      "pubDate": "Wed, 30 Sep 2026 15:39:50 +0900"
+      "source": "한국경제",
+      "title": "신한銀, 법률구조공단에 17.5억 기부",
+      "link": "https://www.hankyung.com/article/2026093056461",
+      "pubDate": "Wed, 30 Sep 2026 18:34:23 +0900"
     }
   ]
 }
