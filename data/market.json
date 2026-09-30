@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:26:25.951Z",
+  "updatedAt": "2026-09-30T01:27:46.999Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.65,
-      "changePercent": -0.817,
+      "price": 89.77,
+      "changePercent": 0.436,
       "previousClose": 94.61,
       "currency": "USD",
       "history": [
         94.61000061035156,
         92.41000366210938,
         92.5999984741211,
-        88.6500015258789
+        89.7699966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4213.9,
-      "changePercent": 0.818,
+      "price": 4204.7,
+      "changePercent": 0.598,
       "previousClose": 4298,
       "currency": "USD",
       "history": [
         4298,
         4321.2001953125,
         4168.39990234375,
-        4213.89990234375
+        4204.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.377,
-      "changePercent": 0.178,
+      "price": 101.38,
+      "changePercent": 0.008,
       "previousClose": 101.29,
       "currency": "USD",
       "history": [
         101.29000091552734,
         100.97000122070312,
         101.19999694824219,
-        101.37699890136719
+        101.37000274658203,
+        101.37999725341797
       ],
       "ok": true
     },
@@ -121,93 +122,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[글로컬] 출근 당기지 않으려 개점 30분 늦춘다는 은행",
-      "link": "https://www.yna.co.kr/view/AKR20260929086500546",
-      "pubDate": "Wed, 30 Sep 2026 07:07:00 +0900"
+      "title": "금융위 부위원장, 2차 국민참여성장펀드 판매 첫날 가입",
+      "link": "https://www.yna.co.kr/view/AKR20260930061900002",
+      "pubDate": "Wed, 30 Sep 2026 10:18:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상어 '부캉이'가 울린 경종…기후변화로 급변한 해양생태계",
-      "link": "https://www.yna.co.kr/view/AKR20260929149600051",
-      "pubDate": "Wed, 30 Sep 2026 07:01:01 +0900"
+      "title": "충북 내년도 공립 중등 신규교사 185명 선발…올해보다 34.9% ↓",
+      "link": "https://www.yna.co.kr/view/AKR20260930064000064",
+      "pubDate": "Wed, 30 Sep 2026 10:18:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "내수 부진에…중국 완성차, 수출 늘리고 해외 현지생산 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260929153500003",
-      "pubDate": "Wed, 30 Sep 2026 07:01:00 +0900"
+      "title": "\"스테이블코인 18개월 연속 순유출…약 14조원 규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930061400002",
+      "pubDate": "Wed, 30 Sep 2026 10:17:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI프리즘] AI데이터센터 경제효과 따져보니…최대 3.5조",
-      "link": "https://www.yna.co.kr/view/AKR20260929161900017",
-      "pubDate": "Wed, 30 Sep 2026 06:33:00 +0900"
+      "title": "[동정] 농식품부 장관, 산단 노동자 '천원의 아침밥' 현장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260930060200030",
+      "pubDate": "Wed, 30 Sep 2026 10:15:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"온라인도매시장서 25% '이상거래'…특수관계·순환거래 기승\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929128400030",
-      "pubDate": "Wed, 30 Sep 2026 06:30:02 +0900"
+      "title": "[게시판] LX하우시스, 2026 고객만족도 조사서 6년 연속 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260930062900003",
+      "pubDate": "Wed, 30 Sep 2026 10:12:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "HD현대중 노사, 임단협 잠정합의…기본급 12만원 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260930009600057",
-      "pubDate": "Wed, 30 Sep 2026 06:26:17 +0900"
+      "title": "코오롱생명과학, 차세대 전자소재 원료 생산능력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260930058900017",
+      "pubDate": "Wed, 30 Sep 2026 10:12:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"입찰 담합 적발되고도 LH 사업 3천억 가까이 수주\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929161500003",
-      "pubDate": "Wed, 30 Sep 2026 06:07:01 +0900"
+      "title": "신한증권, MTS 배당 투자 서비스 전면 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260930061200008",
+      "pubDate": "Wed, 30 Sep 2026 10:11:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929148700530",
-      "pubDate": "Wed, 30 Sep 2026 06:01:01 +0900"
+      "title": "상생협력기금 첫 모펀드 결성…\"지원 넘어 투자로 영역 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930060600030",
+      "pubDate": "Wed, 30 Sep 2026 10:10:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "연말까지 농어촌 기본소득 연계 사회연대경제 활성화 모델 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260929119800030",
-      "pubDate": "Wed, 30 Sep 2026 06:00:13 +0900"
+      "title": "치폴레, 공식 앱 출시…매장 방문 전 픽업 주문 가능",
+      "link": "https://www.yna.co.kr/view/AKR20260930048100030",
+      "pubDate": "Wed, 30 Sep 2026 10:07:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'주택공급 선행지표' 서울 인허가 올들어 개선 추세",
-      "link": "https://www.yna.co.kr/view/AKR20260929143100003",
-      "pubDate": "Wed, 30 Sep 2026 06:00:12 +0900"
+      "title": "노동감독관, 10월부터 검사지휘 없이 직접수사…수사심의위 설치",
+      "link": "https://www.yna.co.kr/view/AKR20260930056100530",
+      "pubDate": "Wed, 30 Sep 2026 10:07:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260929150400530",
-      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+      "title": "서학개미, 추석 연휴 빅테크·반도체주 대거 '사자'…메타 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260930056900008",
+      "pubDate": "Wed, 30 Sep 2026 10:02:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전국지자체 62곳, 미래기금發 지방교부세 축소에 우려·반대",
-      "link": "https://www.yna.co.kr/view/AKR20260929133400001",
-      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+      "title": "[게시판] 현대카드, 제네시스 고객 맞춤형 프리미엄 카드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260930058400002",
+      "pubDate": "Wed, 30 Sep 2026 10:02:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농어촌 기본소득 지역에 '찾아가는 식품 서비스' 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260929120300030",
-      "pubDate": "Wed, 30 Sep 2026 06:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"돈잔치? 남의 집 얘기\"…'반도체 집중' 한국도 대만도 고민",
-      "link": "https://www.hankyung.com/article/202609292461g",
-      "pubDate": "Wed, 30 Sep 2026 06:00:09 +0900"
+      "title": "[게시판] 농협은행, 모바일 자원봉사자증 발급 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20260930058600002",
+      "pubDate": "Wed, 30 Sep 2026 10:02:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "지난해 늘어난 건축물 연면적 축구장 8천400여개 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260929162300003",
-      "pubDate": "Wed, 30 Sep 2026 06:00:07 +0900"
+      "title": "신한은행, 법률구조공단에 17억5천만원…위기 채무자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260930056700002",
+      "pubDate": "Wed, 30 Sep 2026 10:01:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "재정·금융 수장들 \"국고채 금리 상승 과도하면 긴급바이백\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930057200002",
+      "pubDate": "Wed, 30 Sep 2026 10:01:32 +0900"
     }
   ]
 }
