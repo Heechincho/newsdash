@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T01:27:46.999Z",
+  "updatedAt": "2026-09-30T07:17:31.321Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26939.369140625,
         27068.720703125,
         26820.380859375,
-        26797.541015625
+        26797.5390625
       ],
       "ok": true
     },
@@ -39,7 +39,7 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51349.92,
+      "price": 51349.9,
       "changePercent": -0.256,
       "previousClose": 51863.69,
       "currency": "USD",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.77,
-      "changePercent": 0.436,
-      "previousClose": 94.61,
+      "price": 89.28,
+      "changePercent": -0.112,
+      "previousClose": 92.41,
       "currency": "USD",
       "history": [
-        94.61000061035156,
         92.41000366210938,
         92.5999984741211,
-        89.7699966430664
+        89.37999725341797,
+        89.27999877929688
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4204.7,
-      "changePercent": 0.598,
-      "previousClose": 4298,
+      "price": 4227,
+      "changePercent": 1.132,
+      "previousClose": 4321.2,
       "currency": "USD",
       "history": [
-        4298,
         4321.2001953125,
         4168.39990234375,
-        4204.7001953125
+        4179.7001953125,
+        4227
       ],
       "ok": true
     },
@@ -88,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.38,
-      "changePercent": 0.008,
-      "previousClose": 101.29,
+      "price": 101.24,
+      "changePercent": -0.13,
+      "previousClose": 100.97,
       "currency": "USD",
       "history": [
-        101.29000091552734,
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.37999725341797
+        101.23999786376953
       ],
       "ok": true
     },
@@ -107,10 +106,9 @@
       "symbol": "^VIX",
       "price": 16.04,
       "changePercent": -0.187,
-      "previousClose": 15.18,
+      "previousClose": 15.67,
       "currency": "USD",
       "history": [
-        15.180000305175781,
         15.670000076293945,
         14.869999885559082,
         16.06999969482422,
@@ -122,93 +120,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "금융위 부위원장, 2차 국민참여성장펀드 판매 첫날 가입",
-      "link": "https://www.yna.co.kr/view/AKR20260930061900002",
-      "pubDate": "Wed, 30 Sep 2026 10:18:35 +0900"
+      "title": "파인디앤씨 \"종속회사 VINA에 136억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930150000008",
+      "pubDate": "Wed, 30 Sep 2026 16:08:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "충북 내년도 공립 중등 신규교사 185명 선발…올해보다 34.9% ↓",
-      "link": "https://www.yna.co.kr/view/AKR20260930064000064",
-      "pubDate": "Wed, 30 Sep 2026 10:18:33 +0900"
+      "title": "소상공인에 최대 1억 대출…포항시·금융기관, 특례보증 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260930146900053",
+      "pubDate": "Wed, 30 Sep 2026 16:06:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"스테이블코인 18개월 연속 순유출…약 14조원 규모\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930061400002",
-      "pubDate": "Wed, 30 Sep 2026 10:17:02 +0900"
+      "title": "[게시판] IBK기업은행, 국군의날 기념 나라사랑카드 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260930140900002",
+      "pubDate": "Wed, 30 Sep 2026 16:02:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동정] 농식품부 장관, 산단 노동자 '천원의 아침밥' 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260930060200030",
-      "pubDate": "Wed, 30 Sep 2026 10:15:53 +0900"
+      "title": "KB국민은행, 4.4조 GTX-C노선 민간투자사업 금융약정",
+      "link": "https://www.yna.co.kr/view/AKR20260930139500002",
+      "pubDate": "Wed, 30 Sep 2026 16:02:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] LX하우시스, 2026 고객만족도 조사서 6년 연속 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260930062900003",
-      "pubDate": "Wed, 30 Sep 2026 10:12:40 +0900"
+      "title": "중진공·기업은행, 中企 재직자 우대저축공제 활성화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260930146600030",
+      "pubDate": "Wed, 30 Sep 2026 16:01:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코오롱생명과학, 차세대 전자소재 원료 생산능력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260930058900017",
-      "pubDate": "Wed, 30 Sep 2026 10:12:13 +0900"
+      "title": "카카오뱅크, 달러 세이프박스 금리 인상…연 2.3%",
+      "link": "https://www.yna.co.kr/view/AKR20260930138300002",
+      "pubDate": "Wed, 30 Sep 2026 16:01:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한증권, MTS 배당 투자 서비스 전면 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260930061200008",
-      "pubDate": "Wed, 30 Sep 2026 10:11:07 +0900"
+      "title": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
+      "link": "https://www.yna.co.kr/view/AKR20260930146500002",
+      "pubDate": "Wed, 30 Sep 2026 16:01:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상생협력기금 첫 모펀드 결성…\"지원 넘어 투자로 영역 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930060600030",
-      "pubDate": "Wed, 30 Sep 2026 10:10:10 +0900"
+      "title": "인천시, '청년재단 설립'·'청년기금 조성' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260930056200065",
+      "pubDate": "Wed, 30 Sep 2026 16:00:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "치폴레, 공식 앱 출시…매장 방문 전 픽업 주문 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260930048100030",
-      "pubDate": "Wed, 30 Sep 2026 10:07:40 +0900"
+      "title": "역대급 세수에 '미래대응기금' 200조원 넘길까(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930059151002",
+      "pubDate": "Wed, 30 Sep 2026 15:59:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노동감독관, 10월부터 검사지휘 없이 직접수사…수사심의위 설치",
-      "link": "https://www.yna.co.kr/view/AKR20260930056100530",
-      "pubDate": "Wed, 30 Sep 2026 10:07:09 +0900"
+      "title": "중랑천옆 중곡1동 A구역 재개발…최고 35층 2천200세대",
+      "link": "https://www.yna.co.kr/view/AKR20260930147800004",
+      "pubDate": "Wed, 30 Sep 2026 15:59:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서학개미, 추석 연휴 빅테크·반도체주 대거 '사자'…메타 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260930056900008",
-      "pubDate": "Wed, 30 Sep 2026 10:02:24 +0900"
+      "title": "킨텍스-고양산업진흥원 '첨단기술 실증·사업화' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260930146300060",
+      "pubDate": "Wed, 30 Sep 2026 15:56:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 현대카드, 제네시스 고객 맞춤형 프리미엄 카드 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260930058400002",
-      "pubDate": "Wed, 30 Sep 2026 10:02:14 +0900"
+      "title": "마이크론 실적 경계감? 삼전 1.5%↓…하이닉스 0.6%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930042451008",
+      "pubDate": "Wed, 30 Sep 2026 15:56:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 농협은행, 모바일 자원봉사자증 발급 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260930058600002",
-      "pubDate": "Wed, 30 Sep 2026 10:02:07 +0900"
+      "title": "[특징주] 덕산넵코어스, 코스닥 상장 첫날 20%대 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930042551008",
+      "pubDate": "Wed, 30 Sep 2026 15:41:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한은행, 법률구조공단에 17억5천만원…위기 채무자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260930056700002",
-      "pubDate": "Wed, 30 Sep 2026 10:01:53 +0900"
+      "title": "\"지배·일반주주 지분 매수 차별 안돼\"…의무공개매수 보류 거듭 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260930127900008",
+      "pubDate": "Wed, 30 Sep 2026 15:41:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "재정·금융 수장들 \"국고채 금리 상승 과도하면 긴급바이백\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930057200002",
-      "pubDate": "Wed, 30 Sep 2026 10:01:32 +0900"
+      "title": "파인테크닉스, 10억원 유상증자…성진홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260930143400008",
+      "pubDate": "Wed, 30 Sep 2026 15:39:50 +0900"
     }
   ]
 }
