@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-30T13:55:25.437Z",
+  "updatedAt": "2026-09-30T18:55:30.975Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7704.67,
-      "changePercent": 0.441,
+      "price": 7691.17,
+      "changePercent": 0.265,
       "previousClose": 7706.03,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7743.41015625,
         7683.68994140625,
         7670.83984375,
-        7704.669921875
+        7691.169921875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26995.314,
-      "changePercent": 0.738,
+      "price": 27009.678,
+      "changePercent": 0.792,
       "previousClose": 26936.04,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27068.720703125,
         26820.380859375,
         26797.5390625,
-        26995.314453125
+        27009.677734375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51397.41,
-      "changePercent": 0.092,
+      "price": 51115.74,
+      "changePercent": -0.456,
       "previousClose": 51511.59,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51828.62109375,
         51481.51171875,
         51349.921875,
-        51397.41015625
+        51115.73828125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.16,
-      "changePercent": 1.992,
+      "price": 90.66,
+      "changePercent": 1.432,
       "previousClose": 92.41,
       "currency": "USD",
       "history": [
         92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        91.16000366210938
+        90.66000366210938
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4211.7,
-      "changePercent": 0.766,
+      "price": 4184.2,
+      "changePercent": 0.108,
       "previousClose": 4321.2,
       "currency": "USD",
       "history": [
         4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4211.7001953125
+        4184.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.226,
-      "changePercent": -0.144,
+      "price": 101.451,
+      "changePercent": 0.078,
       "previousClose": 100.97,
       "currency": "USD",
       "history": [
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.22599792480469
+        101.45099639892578
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.79,
-      "changePercent": -1.562,
+      "price": 15.91,
+      "changePercent": -0.81,
       "previousClose": 15.67,
       "currency": "USD",
       "history": [
@@ -113,17 +113,47 @@
         14.869999885559082,
         16.06999969482422,
         16.040000915527344,
-        15.789999961853027
+        15.90999984741211
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "美 8월 PCE 물가 예상치 밑돌아",
+      "link": "https://www.hankyung.com/article/2026093059721",
+      "pubDate": "Thu, 01 Oct 2026 01:50:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "트럼프 60개국에 대한 '강제노동' 관세도 법정행",
+      "link": "https://www.hankyung.com/article/202609305998i",
+      "pubDate": "Thu, 01 Oct 2026 00:14:40 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
       "link": "https://www.yna.co.kr/view/AKR20260930196400082",
       "pubDate": "Wed, 30 Sep 2026 22:43:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
+      "link": "https://www.hankyung.com/article/202609305956i",
+      "pubDate": "Wed, 30 Sep 2026 22:37:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아이폰, 멋대로 꺼지더니 또\"…이번엔 '스피커' 오류 주장",
+      "link": "https://www.hankyung.com/article/2026093059577",
+      "pubDate": "Wed, 30 Sep 2026 22:27:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 2분기 성장률 2.2% 확정…잠정치보다 0.7%P↑",
+      "link": "https://www.hankyung.com/article/202609305959i",
+      "pubDate": "Wed, 30 Sep 2026 22:19:01 +0900"
     },
     {
       "source": "한국경제",
@@ -178,36 +208,6 @@
       "title": "KB·하나·우리, 자회사 CEO 선임 착수",
       "link": "https://www.hankyung.com/article/2026093058431",
       "pubDate": "Wed, 30 Sep 2026 19:49:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "9월 D램·낸드 가격 또 역대 최고…상승폭은 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260930184700003",
-      "pubDate": "Wed, 30 Sep 2026 19:37:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한국인들 美쳤다…지구 반대편서 '10조' 놓고 벌어진 일",
-      "link": "https://www.hankyung.com/article/2026093055041",
-      "pubDate": "Wed, 30 Sep 2026 19:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[청주소식] 차기 시 금고에 농협·신한은행 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260930182700064",
-      "pubDate": "Wed, 30 Sep 2026 18:53:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'은둔의 경영자' 최평규 \"인재 양성, 기업인 책무\"",
-      "link": "https://www.hankyung.com/article/2026093056481",
-      "pubDate": "Wed, 30 Sep 2026 18:38:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신한銀, 법률구조공단에 17.5억 기부",
-      "link": "https://www.hankyung.com/article/2026093056461",
-      "pubDate": "Wed, 30 Sep 2026 18:34:23 +0900"
     }
   ]
 }
