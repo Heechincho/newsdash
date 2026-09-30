@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-30T18:55:30.975Z",
+  "updatedAt": "2026-09-30T22:52:36.077Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7691.17,
-      "changePercent": 0.265,
+      "price": 7651.54,
+      "changePercent": -0.252,
       "previousClose": 7706.03,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7743.41015625,
         7683.68994140625,
         7670.83984375,
-        7691.169921875
+        7651.5400390625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27009.678,
-      "changePercent": 0.792,
+      "price": 26861.064,
+      "changePercent": 0.237,
       "previousClose": 26936.04,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27068.720703125,
         26820.380859375,
         26797.5390625,
-        27009.677734375
+        26861.064453125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51115.74,
-      "changePercent": -0.456,
+      "price": 50906.05,
+      "changePercent": -0.864,
       "previousClose": 51511.59,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51828.62109375,
         51481.51171875,
         51349.921875,
-        51115.73828125
+        50906.05078125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.66,
-      "changePercent": 1.432,
+      "price": 90.08,
+      "changePercent": -0.376,
       "previousClose": 92.41,
       "currency": "USD",
       "history": [
         92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        90.66000366210938
+        90.08000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4184.2,
-      "changePercent": 0.108,
+      "price": 4185.5,
+      "changePercent": -0.029,
       "previousClose": 4321.2,
       "currency": "USD",
       "history": [
         4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4184.2001953125
+        4185.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.451,
-      "changePercent": 0.078,
+      "price": 101.461,
+      "changePercent": 0.088,
       "previousClose": 100.97,
       "currency": "USD",
       "history": [
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.45099639892578
+        101.46099853515625
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.91,
-      "changePercent": -0.81,
+      "price": 16.34,
+      "changePercent": 1.87,
       "previousClose": 15.67,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         14.869999885559082,
         16.06999969482422,
         16.040000915527344,
-        15.90999984741211
+        16.34000015258789
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "美 8월 PCE 물가 예상치 밑돌아",
-      "link": "https://www.hankyung.com/article/2026093059721",
-      "pubDate": "Thu, 01 Oct 2026 01:50:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "트럼프 60개국에 대한 '강제노동' 관세도 법정행",
-      "link": "https://www.hankyung.com/article/202609305998i",
-      "pubDate": "Thu, 01 Oct 2026 00:14:40 +0900"
+      "source": "연합뉴스",
+      "title": "알래스카 '추가검토' 분류한 한국에 500억불 투자 못박은 미국",
+      "link": "https://www.yna.co.kr/view/AKR20261001016400003",
+      "pubDate": "Thu, 1 Oct 2026 07:46:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
-      "link": "https://www.yna.co.kr/view/AKR20260930196400082",
-      "pubDate": "Wed, 30 Sep 2026 22:43:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
-      "link": "https://www.hankyung.com/article/202609305956i",
-      "pubDate": "Wed, 30 Sep 2026 22:37:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"아이폰, 멋대로 꺼지더니 또\"…이번엔 '스피커' 오류 주장",
-      "link": "https://www.hankyung.com/article/2026093059577",
-      "pubDate": "Wed, 30 Sep 2026 22:27:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 2분기 성장률 2.2% 확정…잠정치보다 0.7%P↑",
-      "link": "https://www.hankyung.com/article/202609305959i",
-      "pubDate": "Wed, 30 Sep 2026 22:19:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 8월 PCE 물가 3.4% 상승…예상치 밑돌았다",
-      "link": "https://www.hankyung.com/article/202609305951i",
-      "pubDate": "Wed, 30 Sep 2026 22:12:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "7주만에 최저 금값…\"그럼에도 실물수요 등 보유할 이유 많아\"",
-      "link": "https://www.hankyung.com/article/202609305927i",
-      "pubDate": "Wed, 30 Sep 2026 21:25:26 +0900"
+      "title": "한국 통신비 세계 최고가?…기준 바꾸니 순위 뒤집혔다",
+      "link": "https://www.yna.co.kr/view/AKR20260930152000017",
+      "pubDate": "Thu, 1 Oct 2026 07:45:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "증선위, 대표 시세조종행위 등 불공정거래 3건 檢 고발·통보",
-      "link": "https://www.yna.co.kr/view/AKR20260930190900002",
-      "pubDate": "Wed, 30 Sep 2026 21:18:00 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261001015200011",
+      "pubDate": "Thu, 1 Oct 2026 07:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "韓총리 \"주택공급 예측가능성 높이는 게 중요…신뢰 회복해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260930167051001",
-      "pubDate": "Wed, 30 Sep 2026 20:29:47 +0900"
+      "title": "나체사진을 담보로…여성 노린 '성착취' 불법사금융 기승",
+      "link": "https://www.yna.co.kr/view/AKR20260930116200065",
+      "pubDate": "Thu, 1 Oct 2026 07:17:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"등록금도 아닌데 빚 냈어요\"…대학생 45만명 대출받은 이유",
+      "link": "https://www.hankyung.com/article/2026100161857",
+      "pubDate": "Thu, 01 Oct 2026 07:11:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "2차 국민참여성장펀드 첫날 2천억원 판매…일부 온라인한도 소진",
-      "link": "https://www.yna.co.kr/view/AKR20260930189800002",
-      "pubDate": "Wed, 30 Sep 2026 20:27:54 +0900"
+      "title": "\"주유소 휘발유 가격, SK에너지가 가장 비싸고 EX알뜰이 가장 저렴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930149700001",
+      "pubDate": "Thu, 1 Oct 2026 07:10:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "74조원 알래스카 LNG, 선뜻 참여하기 어려운 이유는?",
-      "link": "https://www.hankyung.com/article/202609305877i",
-      "pubDate": "Wed, 30 Sep 2026 20:25:55 +0900"
+      "title": "\"신차 귀하다더니 반갑네\"…현대차 '이 차'로 美공략 나선다",
+      "link": "https://www.hankyung.com/article/202609305329g",
+      "pubDate": "Thu, 01 Oct 2026 07:01:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일]",
+      "link": "https://www.hankyung.com/article/202609305889i",
+      "pubDate": "Thu, 01 Oct 2026 07:00:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼립 \"2030년 영업익 1천700억·해외 매출 5천억 달성 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930189700030",
-      "pubDate": "Wed, 30 Sep 2026 20:19:58 +0900"
+      "title": "[우분투칼럼] 아프리카와 개발협력(17): 보릿고개를 이겨낸 말라위 창고 사업",
+      "link": "https://www.yna.co.kr/view/AKR20260922029800898",
+      "pubDate": "Thu, 1 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"'영세 납세자 보루' 국선대리인 지원 2년새 18%↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260930161100002",
+      "pubDate": "Thu, 1 Oct 2026 06:57:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[르포] 계열사 10개 청라로 집결하는 하나금융, 본사 건물부터 '시너지' 강조",
-      "link": "https://www.hankyung.com/article/202609304779i",
-      "pubDate": "Wed, 30 Sep 2026 20:03:02 +0900"
+      "title": "삼전닉스 호남 주거비까지 혈세로?…'2000억 지원' 논란",
+      "link": "https://www.hankyung.com/article/202610016129g",
+      "pubDate": "Thu, 01 Oct 2026 06:36:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "KB·하나·우리, 자회사 CEO 선임 착수",
-      "link": "https://www.hankyung.com/article/2026093058431",
-      "pubDate": "Wed, 30 Sep 2026 19:49:15 +0900"
+      "title": "3분기 거래대금 무너지며 코스피 6800선 마감…4분기는? [분석+]",
+      "link": "https://www.hankyung.com/article/2026093053446",
+      "pubDate": "Thu, 01 Oct 2026 06:30:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[팩트체크] 보조배터리 부풀어 오르면 소금물에 넣어라?…화재 대응법은",
+      "link": "https://www.yna.co.kr/view/AKR20260930110000518",
+      "pubDate": "Thu, 1 Oct 2026 06:30:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업장관 \"대미투자, 관세 압박 관리 차원…15% 상한선 재확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923159400003",
+      "pubDate": "Thu, 1 Oct 2026 06:09:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가스발전·원전·알래스카…대미투자 어떤 내용 담겼나",
+      "link": "https://www.yna.co.kr/view/AKR20260922195200003",
+      "pubDate": "Thu, 1 Oct 2026 06:07:03 +0900"
     }
   ]
 }
