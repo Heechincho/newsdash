@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-01T15:39:18.183Z",
+  "updatedAt": "2026-10-01T20:31:46.389Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7635.54,
-      "changePercent": -0.209,
+      "price": 7666.45,
+      "changePercent": 0.195,
       "previousClose": 7704.13,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7683.68994140625,
         7670.83984375,
         7651.5400390625,
-        7635.5400390625
+        7666.4501953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26796.924,
-      "changePercent": -0.239,
+      "price": 26871.596,
+      "changePercent": 0.039,
       "previousClose": 26939.37,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26820.380859375,
         26797.5390625,
         26861.060546875,
-        26796.923828125
+        26871.595703125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 50681.61,
-      "changePercent": -0.441,
+      "price": 50926.56,
+      "changePercent": 0.04,
       "previousClose": 51349.98,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51481.51171875,
         51349.921875,
         50906.05078125,
-        50681.609375
+        50926.55859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.55,
-      "changePercent": 2.356,
+      "price": 92.93,
+      "changePercent": 2.776,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
         92.5999984741211,
         89.37999725341797,
         90.41999816894531,
-        92.55000305175781
+        92.93000030517578
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4196.3,
-      "changePercent": 0.229,
+      "price": 4208.3,
+      "changePercent": 0.516,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
         4168.39990234375,
         4179.7001953125,
         4186.7001953125,
-        4196.2998046875
+        4208.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.911,
-      "changePercent": 0.453,
+      "price": 102.015,
+      "changePercent": 0.556,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
         101.19999694824219,
         101.37000274658203,
         101.44999694824219,
-        101.91100311279297
+        102.01499938964844
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.15,
-      "changePercent": 4.954,
+      "price": 16.39,
+      "changePercent": 0.306,
       "previousClose": 14.87,
       "currency": "USD",
       "history": [
@@ -113,21 +113,33 @@
         16.06999969482422,
         16.040000915527344,
         16.34000015258789,
-        17.149999618530273
+        16.389999389648438
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "中 석유제품 수출 중단에 美 추가파병까지…브렌트유 4%대 급등",
+      "link": "https://www.yna.co.kr/view/AKR20261002006600072",
+      "pubDate": "Fri, 2 Oct 2026 05:22:03 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "美9월 제조업지수 54.5 확장지속…비용상승에 속도는 둔화",
+      "title": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
+      "link": "https://www.hankyung.com/article/202610028887i",
+      "pubDate": "Fri, 02 Oct 2026 00:40:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 9월 제조업지수 54.5 확장 지속…비용 상승에 속도는 둔화",
       "link": "https://www.hankyung.com/article/202610018877i",
       "pubDate": "Thu, 01 Oct 2026 23:27:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "구글 AI칩 TPU,스페이스X로켓타고 우주로…우주데이터센터 첫걸음",
+      "title": "구글 AI칩 TPU, 스페이스X 로켓타고 우주로…우주데이터센터 첫걸음",
       "link": "https://www.hankyung.com/article/202610018869i",
       "pubDate": "Thu, 01 Oct 2026 23:00:54 +0900"
     },
@@ -181,13 +193,13 @@
     },
     {
       "source": "한국경제",
-      "title": "英상륙 '이건희 컬렉션'…JY \"韓문화 이해하는 계기 되길\"",
+      "title": "英 상륙 '이건희 컬렉션'…JY \"韓문화 이해하는 계기 되길\"",
       "link": "https://www.hankyung.com/article/2026100186081",
       "pubDate": "Thu, 01 Oct 2026 19:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 미소금융 연체채권 새도약기금에 넘긴다",
+      "title": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다",
       "link": "https://www.hankyung.com/article/2026100185041",
       "pubDate": "Thu, 01 Oct 2026 18:38:58 +0900"
     },
@@ -196,18 +208,6 @@
       "title": "정몽윤의 뚝심…日서 13배 성장한 현대해상",
       "link": "https://www.hankyung.com/article/2026100185001",
       "pubDate": "Thu, 01 Oct 2026 18:38:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신한은행 고객정보 유출…AI 에이전트에 당했나",
-      "link": "https://www.hankyung.com/article/2026100185031",
-      "pubDate": "Thu, 01 Oct 2026 18:37:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "방글라데시 영업 30년…우리은행, 금융협력 확대",
-      "link": "https://www.hankyung.com/article/2026100185021",
-      "pubDate": "Thu, 01 Oct 2026 18:37:11 +0900"
     }
   ]
 }
