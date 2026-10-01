@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:52:06.258Z",
+  "updatedAt": "2026-10-01T08:31:53.353Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         27068.720703125,
         26820.380859375,
         26797.5390625,
-        26861.064453125
+        26861.060546875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.22,
-      "changePercent": -0.221,
-      "previousClose": 92.41,
+      "price": 92.42,
+      "changePercent": 2.212,
+      "previousClose": 92.6,
       "currency": "USD",
       "history": [
-        92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        90.22000122070312
+        90.41999816894531,
+        92.41999816894531
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4192,
-      "changePercent": 0.127,
-      "previousClose": 4321.2,
+      "price": 4186.2,
+      "changePercent": -0.012,
+      "previousClose": 4168.4,
       "currency": "USD",
       "history": [
-        4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4192
+        4186.7001953125,
+        4186.2001953125
       ],
       "ok": true
     },
@@ -88,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.512,
-      "changePercent": 0.06,
-      "previousClose": 100.97,
+      "price": 101.781,
+      "changePercent": 0.325,
+      "previousClose": 101.2,
       "currency": "USD",
       "history": [
-        100.97000122070312,
         101.19999694824219,
         101.37000274658203,
         101.44999694824219,
-        101.51200103759766
+        101.78099822998047
       ],
       "ok": true
     },
@@ -105,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.34,
-      "changePercent": 1.87,
-      "previousClose": 15.67,
+      "price": 16.74,
+      "changePercent": 2.448,
+      "previousClose": 14.87,
       "currency": "USD",
       "history": [
-        15.670000076293945,
         14.869999885559082,
         16.06999969482422,
         16.040000915527344,
-        16.34000015258789
+        16.34000015258789,
+        16.739999771118164
       ],
       "ok": true
     }
@@ -122,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "한화에어로 '나이 제한 고용상 차별'로 고발돼…인권위 진정도",
-      "link": "https://www.yna.co.kr/view/AKR20261001079300004",
-      "pubDate": "Thu, 1 Oct 2026 10:46:01 +0900"
+      "title": "프락시스 CEO \"서울 모처에 디지털국가 대사관 짓겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001176500002",
+      "pubDate": "Thu, 1 Oct 2026 17:27:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'수출 1조달러' 11월 조기 달성 유력…미·중·독 이어 4번째",
-      "link": "https://www.yna.co.kr/view/AKR20261001076700003",
-      "pubDate": "Thu, 1 Oct 2026 10:45:46 +0900"
+      "title": "[인사] 한화투자증권",
+      "link": "https://www.yna.co.kr/view/AKR20261001159900008",
+      "pubDate": "Thu, 1 Oct 2026 17:11:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"전쟁을 기회로\"…5년간 16조원대 담합 석화업체 6곳 재판행",
-      "link": "https://www.yna.co.kr/view/AKR20261001075700004",
-      "pubDate": "Thu, 1 Oct 2026 10:43:45 +0900"
+      "title": "\"10주만 사줘\"…다올증권, AI-증권계좌 연결 서비스 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261001170100008",
+      "pubDate": "Thu, 1 Oct 2026 17:06:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업장관 \"연 수출 1조달러 기대…4분기 상승 모멘텀 이어갈 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001077700003",
-      "pubDate": "Thu, 1 Oct 2026 10:42:49 +0900"
+      "title": "[게시판] 농식품부, 여성 농업인 정책 권역별 간담회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261001080300030",
+      "pubDate": "Thu, 1 Oct 2026 17:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국 수출 8천억달러 첫 돌파…9월 1천209억달러 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261001033752003",
-      "pubDate": "Thu, 1 Oct 2026 10:40:35 +0900"
+      "title": "이형일, 첫 유관기관 간담회…\"모든 판단 출발점, 국민과 현장\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001159200002",
+      "pubDate": "Thu, 1 Oct 2026 17:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시, 장애인 '권리중심일자리' 조례 재의요구…\"직무기준 불명확\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001074700004",
-      "pubDate": "Thu, 1 Oct 2026 10:35:52 +0900"
+      "title": "VIP운용·TS인베, '아늑 호텔' 운영사 더휴식에 650억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20261001168000008",
+      "pubDate": "Thu, 1 Oct 2026 16:56:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261001068300011",
-      "pubDate": "Thu, 1 Oct 2026 10:30:00 +0900"
+      "title": "마이크론·수출로 확인한 반도체 수요…증시 상승탄력 촉매될까(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261001085451008",
+      "pubDate": "Thu, 1 Oct 2026 16:54:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "권익위 \"4년간 공인민간자격 36개 응시료 올라…심사 강화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001069300001",
-      "pubDate": "Thu, 1 Oct 2026 10:29:26 +0900"
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20261001167900002",
+      "pubDate": "Thu, 1 Oct 2026 16:52:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "핑거 \"푸른재무안정 신기술투자조합 제1호 주식 140억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001167600008",
+      "pubDate": "Thu, 1 Oct 2026 16:50:47 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'반도체 광풍' 일본도 들썩이더니…한물간 공장 팔아치웠다",
-      "link": "https://www.hankyung.com/article/202610016836g",
-      "pubDate": "Thu, 01 Oct 2026 10:28:58 +0900"
+      "title": "GM 한국사업장, 9월 4만1101대…전년 대비 73.3% 증가",
+      "link": "https://www.hankyung.com/article/202610018345g",
+      "pubDate": "Thu, 01 Oct 2026 16:49:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "양주시, 필리핀 카빈티시와 '외국인 계절근로자' 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261001072500060",
-      "pubDate": "Thu, 1 Oct 2026 10:28:07 +0900"
+      "title": "한국금융지주, 수요예측에 모집액 7배 몰려…고려아연도 3배(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261001163500008",
+      "pubDate": "Thu, 1 Oct 2026 16:49:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "KG모빌리티, 9월 8863대 판매…전년 대비 16.7% 감소",
+      "link": "https://www.hankyung.com/article/202610018338g",
+      "pubDate": "Thu, 01 Oct 2026 16:45:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국내 첫 리츠 방식 '제물포역 북측 복합사업' 연내 착공 가시화",
-      "link": "https://www.yna.co.kr/view/AKR20261001073200065",
-      "pubDate": "Thu, 1 Oct 2026 10:27:47 +0900"
+      "title": "국고채 금리 혼조세…3년물 연 4.010%",
+      "link": "https://www.yna.co.kr/view/AKR20261001164800008",
+      "pubDate": "Thu, 1 Oct 2026 16:43:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "기아, 3분기 84만대 넘게 팔았다…창사 이래 역대 최다",
+      "link": "https://www.hankyung.com/article/202610018298g",
+      "pubDate": "Thu, 01 Oct 2026 16:42:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 사조푸디스트·아시아문화전당재단·굿에코랩, 복지관 식사 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261001065700030",
-      "pubDate": "Thu, 1 Oct 2026 10:22:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "삼성물산 패션, '멀티시즌' 경량 패딩 강화…겹쳐입기 수요공략",
-      "link": "https://www.yna.co.kr/view/AKR20261001068900030",
-      "pubDate": "Thu, 1 Oct 2026 10:22:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "시민사회 \"정부 주거안정플랜, 취약계층 지원방안 부족\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001066600004",
-      "pubDate": "Thu, 1 Oct 2026 10:19:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "우리은행 방글라데시 지점 30주년…\"중앙은행 총재와 협력 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001067000002",
-      "pubDate": "Thu, 1 Oct 2026 10:18:06 +0900"
+      "title": "추미애 제안 '지방세 3대 과제', 국회 입법 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261001162500061",
+      "pubDate": "Thu, 1 Oct 2026 16:38:04 +0900"
     }
   ]
 }
