@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:52:36.077Z",
+  "updatedAt": "2026-10-01T01:52:06.258Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.08,
-      "changePercent": -0.376,
+      "price": 90.22,
+      "changePercent": -0.221,
       "previousClose": 92.41,
       "currency": "USD",
       "history": [
         92.41000366210938,
         92.5999984741211,
         89.37999725341797,
-        90.08000183105469
+        90.22000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4185.5,
-      "changePercent": -0.029,
+      "price": 4192,
+      "changePercent": 0.127,
       "previousClose": 4321.2,
       "currency": "USD",
       "history": [
         4321.2001953125,
         4168.39990234375,
         4179.7001953125,
-        4185.5
+        4192
       ],
       "ok": true
     },
@@ -88,15 +88,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.461,
-      "changePercent": 0.088,
+      "price": 101.512,
+      "changePercent": 0.06,
       "previousClose": 100.97,
       "currency": "USD",
       "history": [
         100.97000122070312,
         101.19999694824219,
         101.37000274658203,
-        101.46099853515625
+        101.44999694824219,
+        101.51200103759766
       ],
       "ok": true
     },
@@ -121,93 +122,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "알래스카 '추가검토' 분류한 한국에 500억불 투자 못박은 미국",
-      "link": "https://www.yna.co.kr/view/AKR20261001016400003",
-      "pubDate": "Thu, 1 Oct 2026 07:46:28 +0900"
+      "title": "한화에어로 '나이 제한 고용상 차별'로 고발돼…인권위 진정도",
+      "link": "https://www.yna.co.kr/view/AKR20261001079300004",
+      "pubDate": "Thu, 1 Oct 2026 10:46:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국 통신비 세계 최고가?…기준 바꾸니 순위 뒤집혔다",
-      "link": "https://www.yna.co.kr/view/AKR20260930152000017",
-      "pubDate": "Thu, 1 Oct 2026 07:45:01 +0900"
+      "title": "'수출 1조달러' 11월 조기 달성 유력…미·중·독 이어 4번째",
+      "link": "https://www.yna.co.kr/view/AKR20261001076700003",
+      "pubDate": "Thu, 1 Oct 2026 10:45:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261001015200011",
-      "pubDate": "Thu, 1 Oct 2026 07:30:01 +0900"
+      "title": "\"전쟁을 기회로\"…5년간 16조원대 담합 석화업체 6곳 재판행",
+      "link": "https://www.yna.co.kr/view/AKR20261001075700004",
+      "pubDate": "Thu, 1 Oct 2026 10:43:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "나체사진을 담보로…여성 노린 '성착취' 불법사금융 기승",
-      "link": "https://www.yna.co.kr/view/AKR20260930116200065",
-      "pubDate": "Thu, 1 Oct 2026 07:17:00 +0900"
+      "title": "산업장관 \"연 수출 1조달러 기대…4분기 상승 모멘텀 이어갈 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001077700003",
+      "pubDate": "Thu, 1 Oct 2026 10:42:49 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국 수출 8천억달러 첫 돌파…9월 1천209억달러 역대 최대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261001033752003",
+      "pubDate": "Thu, 1 Oct 2026 10:40:35 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시, 장애인 '권리중심일자리' 조례 재의요구…\"직무기준 불명확\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001074700004",
+      "pubDate": "Thu, 1 Oct 2026 10:35:52 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261001068300011",
+      "pubDate": "Thu, 1 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "권익위 \"4년간 공인민간자격 36개 응시료 올라…심사 강화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001069300001",
+      "pubDate": "Thu, 1 Oct 2026 10:29:26 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"등록금도 아닌데 빚 냈어요\"…대학생 45만명 대출받은 이유",
-      "link": "https://www.hankyung.com/article/2026100161857",
-      "pubDate": "Thu, 01 Oct 2026 07:11:33 +0900"
+      "title": "'반도체 광풍' 일본도 들썩이더니…한물간 공장 팔아치웠다",
+      "link": "https://www.hankyung.com/article/202610016836g",
+      "pubDate": "Thu, 01 Oct 2026 10:28:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"주유소 휘발유 가격, SK에너지가 가장 비싸고 EX알뜰이 가장 저렴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930149700001",
-      "pubDate": "Thu, 1 Oct 2026 07:10:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"신차 귀하다더니 반갑네\"…현대차 '이 차'로 美공략 나선다",
-      "link": "https://www.hankyung.com/article/202609305329g",
-      "pubDate": "Thu, 01 Oct 2026 07:01:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일]",
-      "link": "https://www.hankyung.com/article/202609305889i",
-      "pubDate": "Thu, 01 Oct 2026 07:00:12 +0900"
+      "title": "양주시, 필리핀 카빈티시와 '외국인 계절근로자' 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20261001072500060",
+      "pubDate": "Thu, 1 Oct 2026 10:28:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 아프리카와 개발협력(17): 보릿고개를 이겨낸 말라위 창고 사업",
-      "link": "https://www.yna.co.kr/view/AKR20260922029800898",
-      "pubDate": "Thu, 1 Oct 2026 07:00:04 +0900"
+      "title": "국내 첫 리츠 방식 '제물포역 북측 복합사업' 연내 착공 가시화",
+      "link": "https://www.yna.co.kr/view/AKR20261001073200065",
+      "pubDate": "Thu, 1 Oct 2026 10:27:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"'영세 납세자 보루' 국선대리인 지원 2년새 18%↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930161100002",
-      "pubDate": "Thu, 1 Oct 2026 06:57:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼전닉스 호남 주거비까지 혈세로?…'2000억 지원' 논란",
-      "link": "https://www.hankyung.com/article/202610016129g",
-      "pubDate": "Thu, 01 Oct 2026 06:36:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "3분기 거래대금 무너지며 코스피 6800선 마감…4분기는? [분석+]",
-      "link": "https://www.hankyung.com/article/2026093053446",
-      "pubDate": "Thu, 01 Oct 2026 06:30:04 +0900"
+      "title": "[게시판] 사조푸디스트·아시아문화전당재단·굿에코랩, 복지관 식사 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261001065700030",
+      "pubDate": "Thu, 1 Oct 2026 10:22:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[팩트체크] 보조배터리 부풀어 오르면 소금물에 넣어라?…화재 대응법은",
-      "link": "https://www.yna.co.kr/view/AKR20260930110000518",
-      "pubDate": "Thu, 1 Oct 2026 06:30:02 +0900"
+      "title": "삼성물산 패션, '멀티시즌' 경량 패딩 강화…겹쳐입기 수요공략",
+      "link": "https://www.yna.co.kr/view/AKR20261001068900030",
+      "pubDate": "Thu, 1 Oct 2026 10:22:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업장관 \"대미투자, 관세 압박 관리 차원…15% 상한선 재확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923159400003",
-      "pubDate": "Thu, 1 Oct 2026 06:09:34 +0900"
+      "title": "시민사회 \"정부 주거안정플랜, 취약계층 지원방안 부족\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001066600004",
+      "pubDate": "Thu, 1 Oct 2026 10:19:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가스발전·원전·알래스카…대미투자 어떤 내용 담겼나",
-      "link": "https://www.yna.co.kr/view/AKR20260922195200003",
-      "pubDate": "Thu, 1 Oct 2026 06:07:03 +0900"
+      "title": "우리은행 방글라데시 지점 30주년…\"중앙은행 총재와 협력 논의\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001067000002",
+      "pubDate": "Thu, 1 Oct 2026 10:18:06 +0900"
     }
   ]
 }
