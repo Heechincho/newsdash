@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-02T12:06:53.976Z",
+  "updatedAt": "2026-10-02T17:51:33.789Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7666.45,
-      "changePercent": 0.195,
-      "previousClose": 7704.13,
+      "price": 7720.97,
+      "changePercent": 0.711,
+      "previousClose": 7743.41,
       "currency": "USD",
       "history": [
-        7743.41015625,
         7683.68994140625,
         7670.83984375,
         7651.5400390625,
-        7666.4501953125
+        7666.4501953125,
+        7720.97021484375
       ],
       "ok": true
     },
@@ -22,23 +22,33 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "ok": false,
-      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
+      "price": 27182.475,
+      "changePercent": 1.157,
+      "previousClose": 27068.72,
+      "currency": "USD",
+      "history": [
+        26820.380859375,
+        26797.5390625,
+        26861.060546875,
+        26871.599609375,
+        27182.474609375
+      ],
+      "ok": true
     },
     {
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 50926.56,
-      "changePercent": 0.04,
-      "previousClose": 51349.98,
+      "price": 51151.59,
+      "changePercent": 0.442,
+      "previousClose": 51828.62,
       "currency": "USD",
       "history": [
-        51828.62109375,
         51481.51171875,
         51349.921875,
         50906.05078125,
-        50926.55859375
+        50926.55859375,
+        51151.58984375
       ],
       "ok": true
     },
@@ -46,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.48,
-      "changePercent": -3.65,
+      "price": 91.56,
+      "changePercent": -1.411,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
@@ -55,7 +65,7 @@
         89.37999725341797,
         90.41999816894531,
         92.87000274658203,
-        89.4800033569336
+        91.55999755859375
       ],
       "ok": true
     },
@@ -63,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4212.7,
-      "changePercent": 0.247,
+      "price": 4165.3,
+      "changePercent": -0.88,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
@@ -72,7 +82,7 @@
         4179.7001953125,
         4186.7001953125,
         4202.2998046875,
-        4212.7001953125
+        4165.2998046875
       ],
       "ok": true
     },
@@ -80,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.019,
-      "changePercent": -0.078,
+      "price": 101.925,
+      "changePercent": -0.17,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
@@ -89,7 +99,7 @@
         101.37000274658203,
         101.44999694824219,
         102.0999984741211,
-        102.01899719238281
+        101.92500305175781
       ],
       "ok": true
     },
@@ -97,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.06,
-      "changePercent": -2.013,
+      "price": 15.8,
+      "changePercent": -3.6,
       "previousClose": 16.07,
       "currency": "USD",
       "history": [
@@ -106,12 +116,72 @@
         16.040000915527344,
         16.34000015258789,
         16.389999389648438,
-        16.059999465942383
+        15.800000190734863
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202610031364i",
+      "pubDate": "Sat, 03 Oct 2026 02:12:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610031370i",
+      "pubDate": "Sat, 03 Oct 2026 01:44:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업부 \"트럼프 언급 84억불 석유프로젝트, 배경 확인 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002185600003",
+      "pubDate": "Fri, 2 Oct 2026 23:38:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 9월 '비농업 고용 쇼크'…추가 금리인상 제동 걸리나",
+      "link": "https://www.hankyung.com/article/2026100213271",
+      "pubDate": "Fri, 02 Oct 2026 23:20:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "10대 1 뚫은 '경복궁 결혼식'…첫 주인공은 유튜버 마이",
+      "link": "https://www.hankyung.com/article/2026100213297",
+      "pubDate": "Fri, 02 Oct 2026 22:58:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "예가람저축은행 고객 개인정보 유출…2금융권서 해킹",
+      "link": "https://www.hankyung.com/article/202610021315i",
+      "pubDate": "Fri, 02 Oct 2026 22:53:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "日 좋아하던 중국인들 변했다…中 여행객 몰린 '이 나라'",
+      "link": "https://www.hankyung.com/article/2026100212907",
+      "pubDate": "Fri, 02 Oct 2026 22:17:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"올겨울 깍두기 담그기 겁나네\"…시장 갔다가 놀란 이유",
+      "link": "https://www.hankyung.com/article/2026100212837",
+      "pubDate": "Fri, 02 Oct 2026 21:49:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
+      "link": "https://www.yna.co.kr/view/AKR20261002178500002",
+      "pubDate": "Fri, 2 Oct 2026 21:38:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
+      "link": "https://www.yna.co.kr/view/AKR20261002179600530",
+      "pubDate": "Fri, 2 Oct 2026 21:25:58 +0900"
+    },
     {
       "source": "한국경제",
       "title": "CJ제일제당, 美 ADM과 사료용 아미노산 합작사 설립한다",
@@ -138,69 +208,9 @@
     },
     {
       "source": "한국경제",
-      "title": "'AI 해킹'에 줄줄이 뚫렸다…신한·국민·하나銀 개인정보 유출",
+      "title": "'AI 해킹'에 은행들 뚫렸다…신한·국민·하나은행 개인정보 유출",
       "link": "https://www.hankyung.com/article/2026100212011",
       "pubDate": "Fri, 02 Oct 2026 19:39:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금융위 \"국민 불안하지 않게 신속 파악\"…은행·카드에 점검지시(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002154551002",
-      "pubDate": "Fri, 2 Oct 2026 19:37:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신한은행에 '중국어 AI 침투' 흔적…해킹 공포 금융권 확산(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261002042352017",
-      "pubDate": "Fri, 2 Oct 2026 19:27:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"미국인들이 이렇게 좋아할 줄이야\"…15조 잭팟 터진 K뷰티",
-      "link": "https://www.hankyung.com/article/2026100211377",
-      "pubDate": "Fri, 02 Oct 2026 19:19:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002128851002",
-      "pubDate": "Fri, 2 Oct 2026 19:16:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI프리즘] 은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002098551017",
-      "pubDate": "Fri, 2 Oct 2026 19:09:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민·하나·부산은행도 당했다…금융권 해킹 피해 확산(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261002086352002",
-      "pubDate": "Fri, 2 Oct 2026 19:05:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 中企 인수 접은 KT…실사자료 속 호텔·골프 키웠나",
-      "link": "https://www.hankyung.com/article/202610029969H",
-      "pubDate": "Fri, 02 Oct 2026 19:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'돈벼락 맞으면 뭐하나'…명품족 몰려들어도 한숨 쏟아졌다",
-      "link": "https://www.hankyung.com/article/2026100208701",
-      "pubDate": "Fri, 02 Oct 2026 19:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] HD현대중공업 임단협 잠정합의안, 조합원 투표서 부결",
-      "link": "https://www.hankyung.com/article/2026100211487",
-      "pubDate": "Fri, 02 Oct 2026 18:39:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "BNK부산은행도 해킹당해…외주 개발직원 정보 11건 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002164651051",
-      "pubDate": "Fri, 2 Oct 2026 18:37:57 +0900"
     }
   ]
 }
