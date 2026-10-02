@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:51:38.967Z",
+  "updatedAt": "2026-10-02T12:06:53.976Z",
   "instruments": [
     {
       "key": "sp500",
@@ -22,18 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26871.596,
-      "changePercent": 0.039,
-      "previousClose": 26939.37,
-      "currency": "USD",
-      "history": [
-        27068.720703125,
-        26820.380859375,
-        26797.5390625,
-        26861.060546875,
-        26871.599609375
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
     },
     {
       "key": "dow",
@@ -56,8 +46,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.47,
-      "changePercent": -0.431,
+      "price": 89.48,
+      "changePercent": -3.65,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
@@ -65,7 +55,7 @@
         89.37999725341797,
         90.41999816894531,
         92.87000274658203,
-        92.47000122070312
+        89.4800033569336
       ],
       "ok": true
     },
@@ -73,8 +63,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4218.5,
-      "changePercent": 0.386,
+      "price": 4212.7,
+      "changePercent": 0.247,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
@@ -82,7 +72,7 @@
         4179.7001953125,
         4186.7001953125,
         4202.2998046875,
-        4218.5
+        4212.7001953125
       ],
       "ok": true
     },
@@ -90,8 +80,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.949,
-      "changePercent": -0.147,
+      "price": 102.019,
+      "changePercent": -0.078,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
@@ -99,7 +89,7 @@
         101.37000274658203,
         101.44999694824219,
         102.0999984741211,
-        101.9489974975586
+        102.01899719238281
       ],
       "ok": true
     },
@@ -107,110 +97,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.39,
-      "changePercent": 0.306,
-      "previousClose": 14.87,
+      "price": 16.06,
+      "changePercent": -2.013,
+      "previousClose": 16.07,
       "currency": "USD",
       "history": [
-        14.869999885559082,
         16.06999969482422,
         16.040000915527344,
         16.34000015258789,
-        16.389999389648438
+        16.389999389648438,
+        16.059999465942383
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 코스콤, 안양시에 'IT희망교실 1호' 열어",
-      "link": "https://www.yna.co.kr/view/AKR20261002112800008",
-      "pubDate": "Fri, 2 Oct 2026 14:42:30 +0900"
+      "source": "한국경제",
+      "title": "CJ제일제당, 美 ADM과 사료용 아미노산 합작사 설립한다",
+      "link": "https://www.hankyung.com/article/2026100212407",
+      "pubDate": "Fri, 02 Oct 2026 20:40:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산대, 지난해 지역 생산유발효과 1조5천억원·일자리 1만2천명",
-      "link": "https://www.yna.co.kr/view/AKR20261002109100051",
-      "pubDate": "Fri, 2 Oct 2026 14:38:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LH, 보상 기간제 인력 250명 채용…수도권 주택공급 속도↑",
-      "link": "https://www.yna.co.kr/view/AKR20261002109400003",
-      "pubDate": "Fri, 2 Oct 2026 14:31:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20261002107100011",
-      "pubDate": "Fri, 2 Oct 2026 14:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "남양주시, 낡은 공동주택 보수 비용 최대 3천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261002108700060",
-      "pubDate": "Fri, 2 Oct 2026 14:28:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "울주군, '찾아가는 노동법 아카데미'…협력 노사문화 정착",
-      "link": "https://www.yna.co.kr/view/AKR20261002109000057",
-      "pubDate": "Fri, 2 Oct 2026 14:25:22 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신한 이어 KB국민은행도 해킹당해…119명 고객정보 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002086351002",
-      "pubDate": "Fri, 2 Oct 2026 14:19:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "횡성군, LA 한인축제서 농특산물 미국 판로 확대 모색",
-      "link": "https://www.yna.co.kr/view/AKR20261002043600062",
-      "pubDate": "Fri, 2 Oct 2026 14:13:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "관세청장 \"중동산 원유 우회운송 비용 증가분 비과세 특례 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002104100002",
-      "pubDate": "Fri, 2 Oct 2026 14:11:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국벤처투자·아모레퍼시픽홀딩스, K-뷰티 기업 육성 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261002028500030",
-      "pubDate": "Fri, 2 Oct 2026 14:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "키움증권, '암살자(들)' 논란 속 유해진 광고캠페인 종료",
-      "link": "https://www.yna.co.kr/view/AKR20261002100500008",
-      "pubDate": "Fri, 2 Oct 2026 13:59:24 +0900"
+      "title": "\"은행 믿고 정보 맡겼는데\"…잇단 사고에 금융소비자들 '불안'",
+      "link": "https://www.yna.co.kr/view/AKR20261002176800002",
+      "pubDate": "Fri, 2 Oct 2026 20:20:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "공정위 상임위원에 김자봉 한국금융연구원 선임연구위원… 17년 만에 외부 수혈",
-      "link": "https://www.hankyung.com/article/202610020148i",
-      "pubDate": "Fri, 02 Oct 2026 13:56:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서부발전, 전남개발공사와 전남광주 육상풍력 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20261002102500063",
-      "pubDate": "Fri, 2 Oct 2026 13:55:13 +0900"
+      "title": "\"'암살자(들)' 논란에 욕설 쏟아졌다\"…버거킹 댓글창 폐쇄 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610020547i",
+      "pubDate": "Fri, 02 Oct 2026 20:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "국민은행, 고객 119명 이름·전화번호 등 유출",
-      "link": "https://www.hankyung.com/article/202610020245i",
-      "pubDate": "Fri, 02 Oct 2026 13:53:00 +0900"
+      "title": "기업 지배구조의 신규 리스크…오너의 이혼 [화우의 가사분쟁 솔루션]",
+      "link": "https://www.hankyung.com/article/202610029426i",
+      "pubDate": "Fri, 02 Oct 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'AI 해킹'에 줄줄이 뚫렸다…신한·국민·하나銀 개인정보 유출",
+      "link": "https://www.hankyung.com/article/2026100212011",
+      "pubDate": "Fri, 02 Oct 2026 19:39:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI프리즘] 은행도 뚫리나…AI 에이전트가 바꾼 해킹의 공식",
-      "link": "https://www.yna.co.kr/view/AKR20261002098500017",
-      "pubDate": "Fri, 2 Oct 2026 13:51:22 +0900"
+      "title": "금융위 \"국민 불안하지 않게 신속 파악\"…은행·카드에 점검지시(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002154551002",
+      "pubDate": "Fri, 2 Oct 2026 19:37:27 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한은행에 '중국어 AI 침투' 흔적…해킹 공포 금융권 확산(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261002042352017",
+      "pubDate": "Fri, 2 Oct 2026 19:27:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"미국인들이 이렇게 좋아할 줄이야\"…15조 잭팟 터진 K뷰티",
+      "link": "https://www.hankyung.com/article/2026100211377",
+      "pubDate": "Fri, 02 Oct 2026 19:19:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002128851002",
+      "pubDate": "Fri, 2 Oct 2026 19:16:54 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI프리즘] 은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002098551017",
+      "pubDate": "Fri, 2 Oct 2026 19:09:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국민·하나·부산은행도 당했다…금융권 해킹 피해 확산(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261002086352002",
+      "pubDate": "Fri, 2 Oct 2026 19:05:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 中企 인수 접은 KT…실사자료 속 호텔·골프 키웠나",
+      "link": "https://www.hankyung.com/article/202610029969H",
+      "pubDate": "Fri, 02 Oct 2026 19:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'돈벼락 맞으면 뭐하나'…명품족 몰려들어도 한숨 쏟아졌다",
+      "link": "https://www.hankyung.com/article/2026100208701",
+      "pubDate": "Fri, 02 Oct 2026 19:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] HD현대중공업 임단협 잠정합의안, 조합원 투표서 부결",
+      "link": "https://www.hankyung.com/article/2026100211487",
+      "pubDate": "Fri, 02 Oct 2026 18:39:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "BNK부산은행도 해킹당해…외주 개발직원 정보 11건 유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002164651051",
+      "pubDate": "Fri, 2 Oct 2026 18:37:57 +0900"
     }
   ]
 }
