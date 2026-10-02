@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-02T17:51:33.789Z",
+  "updatedAt": "2026-10-02T21:57:29.810Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7720.97,
-      "changePercent": 0.711,
+      "price": 7722.72,
+      "changePercent": 0.734,
       "previousClose": 7743.41,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7670.83984375,
         7651.5400390625,
         7666.4501953125,
-        7720.97021484375
+        7722.72021484375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27182.475,
-      "changePercent": 1.157,
+      "price": 27190.863,
+      "changePercent": 1.188,
       "previousClose": 27068.72,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26797.5390625,
         26861.060546875,
         26871.599609375,
-        27182.474609375
+        27190.86328125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51151.59,
-      "changePercent": 0.442,
+      "price": 51176.96,
+      "changePercent": 0.492,
       "previousClose": 51828.62,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51349.921875,
         50906.05078125,
         50926.55859375,
-        51151.58984375
+        51176.9609375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.56,
-      "changePercent": -1.411,
+      "price": 91.26,
+      "changePercent": -1.734,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         89.37999725341797,
         90.41999816894531,
         92.87000274658203,
-        91.55999755859375
+        91.26000213623047
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4165.3,
-      "changePercent": -0.88,
+      "price": 4172.1,
+      "changePercent": -0.719,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4179.7001953125,
         4186.7001953125,
         4202.2998046875,
-        4165.2998046875
+        4172.10009765625
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.925,
-      "changePercent": -0.17,
+      "price": 101.924,
+      "changePercent": -0.171,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.37000274658203,
         101.44999694824219,
         102.0999984741211,
-        101.92500305175781
+        101.92400360107422
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.8,
-      "changePercent": -3.6,
+      "price": 15.31,
+      "changePercent": -6.589,
       "previousClose": 16.07,
       "currency": "USD",
       "history": [
@@ -116,12 +116,54 @@
         16.040000915527344,
         16.34000015258789,
         16.389999389648438,
-        15.800000190734863
+        15.3100004196167
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[AI돋보기] \"은행도 뚫렸다\"…AI 해킹 시대 내 계정 지키는 법",
+      "link": "https://www.yna.co.kr/view/AKR20261002183500017",
+      "pubDate": "Sat, 3 Oct 2026 06:33:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[대구소식] 공공시설공단 직원 155명 공개 채용",
+      "link": "https://www.yna.co.kr/view/AKR20261002116100053",
+      "pubDate": "Sat, 3 Oct 2026 06:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "새마을금고, 지자체 금고시장 진출 승부수…농협 아성 겨냥",
+      "link": "https://www.yna.co.kr/view/AKR20261002122800002",
+      "pubDate": "Sat, 3 Oct 2026 06:01:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
+      "link": "https://www.hankyung.com/article/202610029307i",
+      "pubDate": "Sat, 03 Oct 2026 06:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
+      "link": "https://www.hankyung.com/article/2026100209761",
+      "pubDate": "Sat, 03 Oct 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 부산 '서면 지원 더뷰 드림' 아파트 등 185가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261002139600003",
+      "pubDate": "Sat, 3 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'큰 돈 벌고도 보안은 뒷전'…대형證, 전산사고 배상 70억 달해",
+      "link": "https://www.yna.co.kr/view/AKR20261002183100002",
+      "pubDate": "Sat, 3 Oct 2026 05:56:00 +0900"
+    },
     {
       "source": "한국경제",
       "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
@@ -169,48 +211,6 @@
       "title": "\"올겨울 깍두기 담그기 겁나네\"…시장 갔다가 놀란 이유",
       "link": "https://www.hankyung.com/article/2026100212837",
       "pubDate": "Fri, 02 Oct 2026 21:49:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민참여성장펀드 판매 3일차 목표액 절반 남아…온라인 비중↑",
-      "link": "https://www.yna.co.kr/view/AKR20261002178500002",
-      "pubDate": "Fri, 2 Oct 2026 21:38:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "메가특구 사회적 대화 2차 실무협의…정부, 노사에 특별법 설명",
-      "link": "https://www.yna.co.kr/view/AKR20261002179600530",
-      "pubDate": "Fri, 2 Oct 2026 21:25:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "CJ제일제당, 美 ADM과 사료용 아미노산 합작사 설립한다",
-      "link": "https://www.hankyung.com/article/2026100212407",
-      "pubDate": "Fri, 02 Oct 2026 20:40:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"은행 믿고 정보 맡겼는데\"…잇단 사고에 금융소비자들 '불안'",
-      "link": "https://www.yna.co.kr/view/AKR20261002176800002",
-      "pubDate": "Fri, 2 Oct 2026 20:20:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"'암살자(들)' 논란에 욕설 쏟아졌다\"…버거킹 댓글창 폐쇄 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610020547i",
-      "pubDate": "Fri, 02 Oct 2026 20:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "기업 지배구조의 신규 리스크…오너의 이혼 [화우의 가사분쟁 솔루션]",
-      "link": "https://www.hankyung.com/article/202610029426i",
-      "pubDate": "Fri, 02 Oct 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'AI 해킹'에 은행들 뚫렸다…신한·국민·하나은행 개인정보 유출",
-      "link": "https://www.hankyung.com/article/2026100212011",
-      "pubDate": "Fri, 02 Oct 2026 19:39:10 +0900"
     }
   ]
 }
