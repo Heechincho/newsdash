@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:12:17.077Z",
+  "updatedAt": "2026-10-02T05:51:38.967Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26820.380859375,
         26797.5390625,
         26861.060546875,
-        26871.595703125
+        26871.599609375
       ],
       "ok": true
     },
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.97,
-      "changePercent": 0.108,
+      "price": 92.47,
+      "changePercent": -0.431,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
         92.5999984741211,
         89.37999725341797,
         90.41999816894531,
-        92.97000122070312
+        92.87000274658203,
+        92.47000122070312
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4209.7,
-      "changePercent": 0.176,
+      "price": 4218.5,
+      "changePercent": 0.386,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
         4168.39990234375,
         4179.7001953125,
         4186.7001953125,
-        4209.7001953125
+        4202.2998046875,
+        4218.5
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.978,
-      "changePercent": -0.119,
+      "price": 101.949,
+      "changePercent": -0.147,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
         101.19999694824219,
         101.37000274658203,
         101.44999694824219,
-        101.97799682617188
+        102.0999984741211,
+        101.9489974975586
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[속보] 코스닥, 장중 900선 회복…0.67% 오른 900.32",
-      "link": "https://www.yna.co.kr/view/AKR20261002034300008",
-      "pubDate": "Fri, 2 Oct 2026 09:03:17 +0900"
+      "title": "[게시판] 코스콤, 안양시에 'IT희망교실 1호' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20261002112800008",
+      "pubDate": "Fri, 2 Oct 2026 14:42:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "양주시. 정부에 '공공의료원' 조기 건립 지원 건의",
-      "link": "https://www.yna.co.kr/view/AKR20261002031400060",
-      "pubDate": "Fri, 2 Oct 2026 09:02:22 +0900"
+      "title": "부산대, 지난해 지역 생산유발효과 1조5천억원·일자리 1만2천명",
+      "link": "https://www.yna.co.kr/view/AKR20261002109100051",
+      "pubDate": "Fri, 2 Oct 2026 14:38:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "동원몰, 생성형인공지능 기반 'AI 쇼핑 어시스턴트' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20261002030400030",
-      "pubDate": "Fri, 2 Oct 2026 09:02:10 +0900"
+      "title": "LH, 보상 기간제 인력 250명 채용…수도권 주택공급 속도↑",
+      "link": "https://www.yna.co.kr/view/AKR20261002109400003",
+      "pubDate": "Fri, 2 Oct 2026 14:31:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중국산 매트리스 6만여개 한국산으로 속여 수출한 40대 집유",
-      "link": "https://www.yna.co.kr/view/AKR20261001089800051",
-      "pubDate": "Fri, 2 Oct 2026 09:00:04 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20261002107100011",
+      "pubDate": "Fri, 2 Oct 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코이카, 필리핀 농기업보육센터 착공…한계농가 소득증대 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20261002022800371",
-      "pubDate": "Fri, 2 Oct 2026 09:00:00 +0900"
+      "title": "남양주시, 낡은 공동주택 보수 비용 최대 3천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261002108700060",
+      "pubDate": "Fri, 2 Oct 2026 14:28:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "DL이앤씨, 사업비 2조 성수2지구 단지명 '아크로 성수' 제안",
-      "link": "https://www.yna.co.kr/view/AKR20261002031200003",
-      "pubDate": "Fri, 2 Oct 2026 08:53:00 +0900"
+      "title": "울주군, '찾아가는 노동법 아카데미'…협력 노사문화 정착",
+      "link": "https://www.yna.co.kr/view/AKR20261002109000057",
+      "pubDate": "Fri, 2 Oct 2026 14:25:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산 9월 소비자물가 2.7% 상승…기름값↑·신선식품↓",
-      "link": "https://www.yna.co.kr/view/AKR20261002030200051",
-      "pubDate": "Fri, 2 Oct 2026 08:48:17 +0900"
+      "title": "신한 이어 KB국민은행도 해킹당해…119명 고객정보 유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002086351002",
+      "pubDate": "Fri, 2 Oct 2026 14:19:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권 \"대미투자 수혜 가장 클 국내 건설주는 현대건설\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002026800008",
-      "pubDate": "Fri, 2 Oct 2026 08:47:37 +0900"
+      "title": "횡성군, LA 한인축제서 농특산물 미국 판로 확대 모색",
+      "link": "https://www.yna.co.kr/view/AKR20261002043600062",
+      "pubDate": "Fri, 2 Oct 2026 14:13:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'아산탕정2 도시개발사업' 착공…주택 2만1천35가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20261002029900063",
-      "pubDate": "Fri, 2 Oct 2026 08:45:58 +0900"
+      "title": "관세청장 \"중동산 원유 우회운송 비용 증가분 비과세 특례 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002104100002",
+      "pubDate": "Fri, 2 Oct 2026 14:11:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"호르무즈 해협 지나던 유조선, 피격에 화재…선원 무사\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002028900009",
-      "pubDate": "Fri, 2 Oct 2026 08:45:32 +0900"
+      "title": "한국벤처투자·아모레퍼시픽홀딩스, K-뷰티 기업 육성 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261002028500030",
+      "pubDate": "Fri, 2 Oct 2026 14:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성증권, 스튜디오드래곤 목표가↓…\"제작 줄어도 수익성 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002027800008",
-      "pubDate": "Fri, 2 Oct 2026 08:41:28 +0900"
+      "title": "키움증권, '암살자(들)' 논란 속 유해진 광고캠페인 종료",
+      "link": "https://www.yna.co.kr/view/AKR20261002100500008",
+      "pubDate": "Fri, 2 Oct 2026 13:59:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "공정위 상임위원에 김자봉 한국금융연구원 선임연구위원… 17년 만에 외부 수혈",
+      "link": "https://www.hankyung.com/article/202610020148i",
+      "pubDate": "Fri, 02 Oct 2026 13:56:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한증권, LG전자 목표가↑…\"주가 방향성 '가전→로봇' 이동\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002027600008",
-      "pubDate": "Fri, 2 Oct 2026 08:40:00 +0900"
+      "title": "서부발전, 전남개발공사와 전남광주 육상풍력 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20261002102500063",
+      "pubDate": "Fri, 2 Oct 2026 13:55:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국민은행, 고객 119명 이름·전화번호 등 유출",
+      "link": "https://www.hankyung.com/article/202610020245i",
+      "pubDate": "Fri, 02 Oct 2026 13:53:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "9월 소비자물가 2.9%↑…석유류·가공식품·IT기기 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002019751002",
-      "pubDate": "Fri, 2 Oct 2026 08:38:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "9월 농산물 가격 전년 동월 대비 4% 하락…축산물은 3.7% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261002027400030",
-      "pubDate": "Fri, 2 Oct 2026 08:37:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농협, 보급형 스마트팜 2천500농가로 확대…작년의 2.5배",
-      "link": "https://www.yna.co.kr/view/AKR20261002025300030",
-      "pubDate": "Fri, 2 Oct 2026 08:33:24 +0900"
+      "title": "[AI프리즘] 은행도 뚫리나…AI 에이전트가 바꾼 해킹의 공식",
+      "link": "https://www.yna.co.kr/view/AKR20261002098500017",
+      "pubDate": "Fri, 2 Oct 2026 13:51:22 +0900"
     }
   ]
 }
