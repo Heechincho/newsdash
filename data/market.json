@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T20:31:46.389Z",
+  "updatedAt": "2026-10-02T00:12:17.077Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.93,
-      "changePercent": 2.776,
+      "price": 92.97,
+      "changePercent": 0.108,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
         92.5999984741211,
         89.37999725341797,
         90.41999816894531,
-        92.93000030517578
+        92.97000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4208.3,
-      "changePercent": 0.516,
+      "price": 4209.7,
+      "changePercent": 0.176,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
         4168.39990234375,
         4179.7001953125,
         4186.7001953125,
-        4208.2998046875
+        4209.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.015,
-      "changePercent": 0.556,
+      "price": 101.978,
+      "changePercent": -0.119,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
         101.19999694824219,
         101.37000274658203,
         101.44999694824219,
-        102.01499938964844
+        101.97799682617188
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "中 석유제품 수출 중단에 美 추가파병까지…브렌트유 4%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20261002006600072",
-      "pubDate": "Fri, 2 Oct 2026 05:22:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美소비자 \"기름값 무서워 하이브리드로\"…현대차 3분기 포드제쳐",
-      "link": "https://www.hankyung.com/article/202610028887i",
-      "pubDate": "Fri, 02 Oct 2026 00:40:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 9월 제조업지수 54.5 확장 지속…비용 상승에 속도는 둔화",
-      "link": "https://www.hankyung.com/article/202610018877i",
-      "pubDate": "Thu, 01 Oct 2026 23:27:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "구글 AI칩 TPU, 스페이스X 로켓타고 우주로…우주데이터센터 첫걸음",
-      "link": "https://www.hankyung.com/article/202610018869i",
-      "pubDate": "Thu, 01 Oct 2026 23:00:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "밀·옥수수·대두가격 3분기에 13%↑…4분기 식탁물가 비상",
-      "link": "https://www.hankyung.com/article/202610018832i",
-      "pubDate": "Thu, 01 Oct 2026 22:00:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "오픈AI \"中문샷이 추론정보 추출시도\"…美·中 AI \"탈취 VS 수성 전쟁\"",
-      "link": "https://www.hankyung.com/article/202610018799i",
-      "pubDate": "Thu, 01 Oct 2026 20:57:16 +0900"
+      "title": "[속보] 코스닥, 장중 900선 회복…0.67% 오른 900.32",
+      "link": "https://www.yna.co.kr/view/AKR20261002034300008",
+      "pubDate": "Fri, 2 Oct 2026 09:03:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261001145452002",
-      "pubDate": "Thu, 1 Oct 2026 20:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"새로 나온 것도 아닌데 왜 이래\"…스마트폰 바꾸려다 '당황'",
-      "link": "https://www.hankyung.com/article/2026100187447",
-      "pubDate": "Thu, 01 Oct 2026 19:57:23 +0900"
+      "title": "양주시. 정부에 '공공의료원' 조기 건립 지원 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261002031400060",
+      "pubDate": "Fri, 2 Oct 2026 09:02:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산 동구 환경미화원 노사, 구청 중재로 대화 물꼬",
-      "link": "https://www.yna.co.kr/view/AKR20261001190700057",
-      "pubDate": "Thu, 1 Oct 2026 19:52:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 10년물 국채금리 5.34% \"24년만에 최고\"…전세계 채권 수익률 일제 급등 왜?",
-      "link": "https://www.hankyung.com/article/202610018739i",
-      "pubDate": "Thu, 01 Oct 2026 19:33:29 +0900"
+      "title": "동원몰, 생성형인공지능 기반 'AI 쇼핑 어시스턴트' 도입",
+      "link": "https://www.yna.co.kr/view/AKR20261002030400030",
+      "pubDate": "Fri, 2 Oct 2026 09:02:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "제주 5성급 호텔서 59명 염소가스 흡입…조선호텔 \"깊이 사과\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261001114152030",
-      "pubDate": "Thu, 1 Oct 2026 19:19:26 +0900"
+      "title": "중국산 매트리스 6만여개 한국산으로 속여 수출한 40대 집유",
+      "link": "https://www.yna.co.kr/view/AKR20261001089800051",
+      "pubDate": "Fri, 2 Oct 2026 09:00:04 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "에쓰오일, '올해의 시민영웅' 시상식",
-      "link": "https://www.hankyung.com/article/2026100186031",
-      "pubDate": "Thu, 01 Oct 2026 19:03:14 +0900"
+      "source": "연합뉴스",
+      "title": "코이카, 필리핀 농기업보육센터 착공…한계농가 소득증대 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20261002022800371",
+      "pubDate": "Fri, 2 Oct 2026 09:00:00 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "英 상륙 '이건희 컬렉션'…JY \"韓문화 이해하는 계기 되길\"",
-      "link": "https://www.hankyung.com/article/2026100186081",
-      "pubDate": "Thu, 01 Oct 2026 19:00:03 +0900"
+      "source": "연합뉴스",
+      "title": "DL이앤씨, 사업비 2조 성수2지구 단지명 '아크로 성수' 제안",
+      "link": "https://www.yna.co.kr/view/AKR20261002031200003",
+      "pubDate": "Fri, 2 Oct 2026 08:53:00 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다",
-      "link": "https://www.hankyung.com/article/2026100185041",
-      "pubDate": "Thu, 01 Oct 2026 18:38:58 +0900"
+      "source": "연합뉴스",
+      "title": "부산 9월 소비자물가 2.7% 상승…기름값↑·신선식품↓",
+      "link": "https://www.yna.co.kr/view/AKR20261002030200051",
+      "pubDate": "Fri, 2 Oct 2026 08:48:17 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "정몽윤의 뚝심…日서 13배 성장한 현대해상",
-      "link": "https://www.hankyung.com/article/2026100185001",
-      "pubDate": "Thu, 01 Oct 2026 18:38:09 +0900"
+      "source": "연합뉴스",
+      "title": "키움증권 \"대미투자 수혜 가장 클 국내 건설주는 현대건설\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002026800008",
+      "pubDate": "Fri, 2 Oct 2026 08:47:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'아산탕정2 도시개발사업' 착공…주택 2만1천35가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20261002029900063",
+      "pubDate": "Fri, 2 Oct 2026 08:45:58 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"호르무즈 해협 지나던 유조선, 피격에 화재…선원 무사\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002028900009",
+      "pubDate": "Fri, 2 Oct 2026 08:45:32 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성증권, 스튜디오드래곤 목표가↓…\"제작 줄어도 수익성 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002027800008",
+      "pubDate": "Fri, 2 Oct 2026 08:41:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한증권, LG전자 목표가↑…\"주가 방향성 '가전→로봇' 이동\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002027600008",
+      "pubDate": "Fri, 2 Oct 2026 08:40:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 소비자물가 2.9%↑…석유류·가공식품·IT기기 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261002019751002",
+      "pubDate": "Fri, 2 Oct 2026 08:38:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 농산물 가격 전년 동월 대비 4% 하락…축산물은 3.7% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261002027400030",
+      "pubDate": "Fri, 2 Oct 2026 08:37:54 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농협, 보급형 스마트팜 2천500농가로 확대…작년의 2.5배",
+      "link": "https://www.yna.co.kr/view/AKR20261002025300030",
+      "pubDate": "Fri, 2 Oct 2026 08:33:24 +0900"
     }
   ]
 }
