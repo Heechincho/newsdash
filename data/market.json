@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:07:45.984Z",
+  "updatedAt": "2026-10-03T19:12:51.605Z",
   "instruments": [
     {
       "key": "sp500",
@@ -107,18 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.31,
-      "changePercent": -6.589,
-      "previousClose": 16.07,
-      "currency": "USD",
-      "history": [
-        16.06999969482422,
-        16.040000915527344,
-        16.34000015258789,
-        16.389999389648438,
-        15.3100004196167
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?interval=1d&range=5d"
     }
   ],
   "news": [
