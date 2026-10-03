@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:12:51.605Z",
+  "updatedAt": "2026-10-03T22:12:05.042Z",
   "instruments": [
     {
       "key": "sp500",
@@ -107,100 +107,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "ok": false,
-      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?interval=1d&range=5d"
+      "price": 15.31,
+      "changePercent": -6.589,
+      "previousClose": 16.07,
+      "currency": "USD",
+      "history": [
+        16.06999969482422,
+        16.040000915527344,
+        16.34000015258789,
+        16.389999389648438,
+        15.3100004196167
+      ],
+      "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "요즘 사람들이 제일 많이 찾는 카드 따로 있었다…1위 봤더니",
-      "link": "https://www.hankyung.com/article/2026100319487",
-      "pubDate": "Sat, 03 Oct 2026 21:12:46 +0900"
+      "source": "연합뉴스",
+      "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
+      "link": "https://www.yna.co.kr/view/AKR20261004004000003",
+      "pubDate": "Sun, 4 Oct 2026 07:03:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'해킹피해' 2금융권 확산…금융당국 투톱, 내일 全업권 긴급소집(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261003047151002",
-      "pubDate": "Sat, 3 Oct 2026 20:40:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "은행·저축은행·캐피탈까지 뚫리자…금융당국, CEO 긴급 소집",
-      "link": "https://www.hankyung.com/article/2026100319347",
-      "pubDate": "Sat, 03 Oct 2026 20:17:32 +0900"
+      "title": "'세계경주포럼' 8∼9일 개최…경주를 '문화의 다보스'로 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20261001144900053",
+      "pubDate": "Sun, 4 Oct 2026 07:02:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "당국, '해킹피해' 2금융권 확산에 내일 全업권 긴급소집",
-      "link": "https://www.yna.co.kr/view/AKR20261003047100002",
-      "pubDate": "Sat, 3 Oct 2026 20:07:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통기한]",
-      "link": "https://www.hankyung.com/article/202610021279i",
-      "pubDate": "Sat, 03 Oct 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금융권 해킹 '도미노'…예가람저축은행도 고객정보 4만명 유출",
-      "link": "https://www.hankyung.com/article/2026100319047",
-      "pubDate": "Sat, 03 Oct 2026 19:35:46 +0900"
+      "title": "GV80 하이브리드, 7천만원대 중후반에 나온다…흥행에 방점",
+      "link": "https://www.yna.co.kr/view/AKR20261002150200003",
+      "pubDate": "Sun, 4 Oct 2026 07:01:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261003038151002",
-      "pubDate": "Sat, 3 Oct 2026 17:19:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "모기 물릴 걱정 없겠네…133만원 퇴치기 등장에 '난리'",
-      "link": "https://www.hankyung.com/article/2026100318187",
-      "pubDate": "Sat, 03 Oct 2026 16:59:21 +0900"
+      "title": "이소영 \"청년창업사관학교 유지할 것…돈으로 환산할 수 없는 가치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004002800030",
+      "pubDate": "Sun, 4 Oct 2026 06:46:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261003035051002",
-      "pubDate": "Sat, 3 Oct 2026 16:36:35 +0900"
+      "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261003020600030",
+      "pubDate": "Sun, 4 Oct 2026 06:40:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261003038100002",
-      "pubDate": "Sat, 3 Oct 2026 16:27:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'암살자(들)' 300억대 투자에 외부개입?…산은·기업은행 입 열었다",
-      "link": "https://www.hankyung.com/article/2026100317647",
-      "pubDate": "Sat, 03 Oct 2026 15:32:09 +0900"
+      "title": "반도체 설비투자 확대로 공급 확대? \"내후년 하반기는 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261002179200008",
+      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정",
-      "link": "https://www.yna.co.kr/view/AKR20261003035000002",
-      "pubDate": "Sat, 3 Oct 2026 15:12:40 +0900"
+      "title": "산업부, 석유 최고가격제 격차 100원당 예산 1.5조 산정",
+      "link": "https://www.yna.co.kr/view/AKR20261001198200003",
+      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전남대병원 금융부채 273억원…연간 이자만 12억원",
-      "link": "https://www.yna.co.kr/view/AKR20261003032600054",
-      "pubDate": "Sat, 3 Oct 2026 14:40:46 +0900"
+      "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+      "link": "https://www.yna.co.kr/view/AKR20261003032000008",
+      "pubDate": "Sun, 4 Oct 2026 06:20:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "100세 시대, 은퇴설계의 질문이 달라져야 한다",
-      "link": "https://www.hankyung.com/article/202609280082i",
-      "pubDate": "Sat, 03 Oct 2026 14:00:05 +0900"
+      "source": "연합뉴스",
+      "title": "중기부, 정책자금 받아 부동산 사업 벌인 업체 40곳 적발",
+      "link": "https://www.yna.co.kr/view/AKR20261002165600030",
+      "pubDate": "Sun, 4 Oct 2026 06:11:00 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"우리 또 만났네요\" 2500만 터졌다…고윤정·허남준에 난리 [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202610020253g",
-      "pubDate": "Sat, 03 Oct 2026 13:00:01 +0900"
+      "source": "연합뉴스",
+      "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
+      "link": "https://www.yna.co.kr/view/AKR20261003023200008",
+      "pubDate": "Sun, 4 Oct 2026 06:10:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국민연금, 코스닥 투자 100조 넘어…다른 공적연금은 '미미'",
+      "link": "https://www.yna.co.kr/view/AKR20261002179500008",
+      "pubDate": "Sun, 4 Oct 2026 06:05:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI해킹] ② AI가 해커 손에 들렸다…은행권 덮친 '해킹의 진화'",
+      "link": "https://www.yna.co.kr/view/AKR20261002175500017",
+      "pubDate": "Sun, 4 Oct 2026 06:03:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
+      "link": "https://www.yna.co.kr/view/AKR20261002138900017",
+      "pubDate": "Sun, 4 Oct 2026 06:03:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대출 더 조이면 누가 영향받나…노도강 매입자금 30%대가 대출",
+      "link": "https://www.yna.co.kr/view/AKR20261003043500003",
+      "pubDate": "Sun, 4 Oct 2026 06:03:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "정부, 농축산물 할인 지원에 6년간 1조3천억…예산 25배 급증",
+      "link": "https://www.yna.co.kr/view/AKR20261003032900030",
+      "pubDate": "Sun, 4 Oct 2026 06:01:01 +0900"
     }
   ]
 }
