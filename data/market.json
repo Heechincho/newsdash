@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T06:27:43.504Z",
+  "updatedAt": "2026-10-03T11:57:18.942Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,54 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "'해킹피해' 2금융권 확산…금융당국 투톱, 내일 全업권 긴급소집(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003047151002",
+      "pubDate": "Sat, 3 Oct 2026 20:40:26 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "당국, '해킹피해' 2금융권 확산에 내일 全업권 긴급소집",
+      "link": "https://www.yna.co.kr/view/AKR20261003047100002",
+      "pubDate": "Sat, 3 Oct 2026 20:07:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "금융권 해킹 '도미노'…예가람저축은행도 고객정보 4만명 유출",
+      "link": "https://www.hankyung.com/article/2026100319047",
+      "pubDate": "Sat, 03 Oct 2026 19:35:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003038151002",
+      "pubDate": "Sat, 3 Oct 2026 17:19:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "모기 물릴 걱정 없겠네…133만원 퇴치기 등장에 '난리'",
+      "link": "https://www.hankyung.com/article/2026100318187",
+      "pubDate": "Sat, 03 Oct 2026 16:59:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003035051002",
+      "pubDate": "Sat, 3 Oct 2026 16:36:35 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261003038100002",
+      "pubDate": "Sat, 3 Oct 2026 16:27:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'암살자(들)' 300억대 투자에 외부개입?…산은·기업은행 입 열었다",
+      "link": "https://www.hankyung.com/article/2026100317647",
+      "pubDate": "Sat, 03 Oct 2026 15:32:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정",
       "link": "https://www.yna.co.kr/view/AKR20261003035000002",
       "pubDate": "Sat, 3 Oct 2026 15:12:40 +0900"
@@ -163,54 +211,6 @@
       "title": "AI 붐과 한국경제, 이번에는 다를까?",
       "link": "https://www.hankyung.com/article/202609220337i",
       "pubDate": "Sat, 03 Oct 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[마이더스] 주식투자, 법인이 항상 유리하다?",
-      "link": "https://www.yna.co.kr/view/AKR20261002136300980",
-      "pubDate": "Sat, 3 Oct 2026 10:30:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261003022900011",
-      "pubDate": "Sat, 3 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"기업 유치, 보조금 지원 벗어나 산업생태계 형성 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003023400063",
-      "pubDate": "Sat, 3 Oct 2026 10:27:58 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
-      "link": "https://www.yna.co.kr/view/AKR20261003015700002",
-      "pubDate": "Sat, 3 Oct 2026 09:20:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261002064300054",
-      "pubDate": "Sat, 3 Oct 2026 09:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "돼지는 적자 닭은 방어…원스식품 실적 바닥 통과하나",
-      "link": "https://www.hankyung.com/article/202609120339i",
-      "pubDate": "Sat, 03 Oct 2026 09:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20261002136000008",
-      "pubDate": "Sat, 3 Oct 2026 08:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
-      "link": "https://www.hankyung.com/article/2026100314707",
-      "pubDate": "Sat, 03 Oct 2026 07:33:20 +0900"
     }
   ]
 }
