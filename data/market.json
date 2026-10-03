@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T01:02:50.995Z",
+  "updatedAt": "2026-10-03T06:27:43.504Z",
   "instruments": [
     {
       "key": "sp500",
@@ -22,8 +22,18 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "ok": false,
-      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
+      "price": 27190.863,
+      "changePercent": 1.188,
+      "previousClose": 27068.72,
+      "currency": "USD",
+      "history": [
+        26820.380859375,
+        26797.5390625,
+        26861.060546875,
+        26871.599609375,
+        27190.859375
+      ],
+      "ok": true
     },
     {
       "key": "dow",
@@ -46,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.26,
-      "changePercent": -1.734,
+      "price": 91.11,
+      "changePercent": -1.895,
       "previousClose": 92.6,
       "currency": "USD",
       "history": [
@@ -55,7 +65,7 @@
         89.37999725341797,
         90.41999816894531,
         92.87000274658203,
-        91.26000213623047
+        91.11000061035156
       ],
       "ok": true
     },
@@ -63,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4172.1,
-      "changePercent": -0.719,
+      "price": 4162.3,
+      "changePercent": -0.952,
       "previousClose": 4168.4,
       "currency": "USD",
       "history": [
@@ -72,7 +82,7 @@
         4179.7001953125,
         4186.7001953125,
         4202.2998046875,
-        4172.10009765625
+        4162.2998046875
       ],
       "ok": true
     },
@@ -81,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 101.924,
-      "changePercent": -0.171,
+      "changePercent": -0.008,
       "previousClose": 101.2,
       "currency": "USD",
       "history": [
@@ -89,7 +99,7 @@
         101.37000274658203,
         101.44999694824219,
         102.0999984741211,
-        101.92400360107422
+        101.93000030517578
       ],
       "ok": true
     },
@@ -112,6 +122,66 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정",
+      "link": "https://www.yna.co.kr/view/AKR20261003035000002",
+      "pubDate": "Sat, 3 Oct 2026 15:12:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전남대병원 금융부채 273억원…연간 이자만 12억원",
+      "link": "https://www.yna.co.kr/view/AKR20261003032600054",
+      "pubDate": "Sat, 3 Oct 2026 14:40:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "100세 시대, 은퇴설계의 질문이 달라져야 한다",
+      "link": "https://www.hankyung.com/article/202609280082i",
+      "pubDate": "Sat, 03 Oct 2026 14:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"우리 또 만났네요\" 2500만 터졌다…고윤정·허남준에 난리 [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202610020253g",
+      "pubDate": "Sat, 03 Oct 2026 13:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"화장품·양주 다 제쳤다\"…외국인들 공항서 싹쓸이한 '이것'",
+      "link": "https://www.hankyung.com/article/2026100315947",
+      "pubDate": "Sat, 03 Oct 2026 12:07:26 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "기업은행·산업은행 \"영화 암살자(들) 투자 외부 요청 없었다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003026100002",
+      "pubDate": "Sat, 3 Oct 2026 12:07:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 붐과 한국경제, 이번에는 다를까?",
+      "link": "https://www.hankyung.com/article/202609220337i",
+      "pubDate": "Sat, 03 Oct 2026 12:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[마이더스] 주식투자, 법인이 항상 유리하다?",
+      "link": "https://www.yna.co.kr/view/AKR20261002136300980",
+      "pubDate": "Sat, 3 Oct 2026 10:30:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261003022900011",
+      "pubDate": "Sat, 3 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"기업 유치, 보조금 지원 벗어나 산업생태계 형성 지원해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003023400063",
+      "pubDate": "Sat, 3 Oct 2026 10:27:58 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
@@ -141,66 +211,6 @@
       "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
       "link": "https://www.hankyung.com/article/2026100314707",
       "pubDate": "Sat, 03 Oct 2026 07:33:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
-      "link": "https://www.hankyung.com/article/2026100314527",
-      "pubDate": "Sat, 03 Oct 2026 07:10:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
-      "link": "https://www.yna.co.kr/view/AKR20261002168300003",
-      "pubDate": "Sat, 3 Oct 2026 07:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202610021316i",
-      "pubDate": "Sat, 03 Oct 2026 07:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 에뛰드 '님프 듀이 젤리 프렙'·네파 '에어써밋 시리즈'",
-      "link": "https://www.yna.co.kr/view/AKR20261002073900030",
-      "pubDate": "Sat, 3 Oct 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
-      "link": "https://www.yna.co.kr/view/AKR20261002152800001",
-      "pubDate": "Sat, 3 Oct 2026 07:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
-      "link": "https://www.hankyung.com/article/202610021347i",
-      "pubDate": "Sat, 03 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'",
-      "link": "https://www.yna.co.kr/view/AKR20261002075900030",
-      "pubDate": "Sat, 3 Oct 2026 07:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI돋보기] \"은행도 뚫렸다\"…AI 해킹 시대 내 계정 지키는 법",
-      "link": "https://www.yna.co.kr/view/AKR20261002183500017",
-      "pubDate": "Sat, 3 Oct 2026 06:33:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[대구소식] 공공시설공단 직원 155명 공개 채용",
-      "link": "https://www.yna.co.kr/view/AKR20261002116100053",
-      "pubDate": "Sat, 3 Oct 2026 06:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "새마을금고, 지자체 금고시장 진출 승부수…농협 아성 겨냥",
-      "link": "https://www.yna.co.kr/view/AKR20261002122800002",
-      "pubDate": "Sat, 3 Oct 2026 06:01:01 +0900"
     }
   ]
 }
