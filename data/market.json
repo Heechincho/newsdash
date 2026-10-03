@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:57:18.942Z",
+  "updatedAt": "2026-10-03T16:07:45.984Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,16 +123,34 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "요즘 사람들이 제일 많이 찾는 카드 따로 있었다…1위 봤더니",
+      "link": "https://www.hankyung.com/article/2026100319487",
+      "pubDate": "Sat, 03 Oct 2026 21:12:46 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "'해킹피해' 2금융권 확산…금융당국 투톱, 내일 全업권 긴급소집(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261003047151002",
       "pubDate": "Sat, 3 Oct 2026 20:40:26 +0900"
     },
     {
+      "source": "한국경제",
+      "title": "은행·저축은행·캐피탈까지 뚫리자…금융당국, CEO 긴급 소집",
+      "link": "https://www.hankyung.com/article/2026100319347",
+      "pubDate": "Sat, 03 Oct 2026 20:17:32 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "당국, '해킹피해' 2금융권 확산에 내일 全업권 긴급소집",
       "link": "https://www.yna.co.kr/view/AKR20261003047100002",
       "pubDate": "Sat, 3 Oct 2026 20:07:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"560만원 준다고요?\"…결혼 앞둔 예비부부 몰려든 곳이 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202610021279i",
+      "pubDate": "Sat, 03 Oct 2026 20:00:01 +0900"
     },
     {
       "source": "한국경제",
@@ -193,24 +211,6 @@
       "title": "\"우리 또 만났네요\" 2500만 터졌다…고윤정·허남준에 난리 [김소연의 얼굴전략]",
       "link": "https://www.hankyung.com/article/202610020253g",
       "pubDate": "Sat, 03 Oct 2026 13:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"화장품·양주 다 제쳤다\"…외국인들 공항서 싹쓸이한 '이것'",
-      "link": "https://www.hankyung.com/article/2026100315947",
-      "pubDate": "Sat, 03 Oct 2026 12:07:26 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "기업은행·산업은행 \"영화 암살자(들) 투자 외부 요청 없었다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003026100002",
-      "pubDate": "Sat, 3 Oct 2026 12:07:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 붐과 한국경제, 이번에는 다를까?",
-      "link": "https://www.hankyung.com/article/202609220337i",
-      "pubDate": "Sat, 03 Oct 2026 12:00:02 +0900"
     }
   ]
 }
