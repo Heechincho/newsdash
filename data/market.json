@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:57:29.810Z",
+  "updatedAt": "2026-10-03T01:02:50.995Z",
   "instruments": [
     {
       "key": "sp500",
@@ -22,18 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27190.863,
-      "changePercent": 1.188,
-      "previousClose": 27068.72,
-      "currency": "USD",
-      "history": [
-        26820.380859375,
-        26797.5390625,
-        26861.060546875,
-        26871.599609375,
-        27190.86328125
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
     },
     {
       "key": "dow",
@@ -124,6 +114,78 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
+      "link": "https://www.yna.co.kr/view/AKR20261003015700002",
+      "pubDate": "Sat, 3 Oct 2026 09:20:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261002064300054",
+      "pubDate": "Sat, 3 Oct 2026 09:00:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "돼지는 적자 닭은 방어…원스식품 실적 바닥 통과하나",
+      "link": "https://www.hankyung.com/article/202609120339i",
+      "pubDate": "Sat, 03 Oct 2026 09:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20261002136000008",
+      "pubDate": "Sat, 3 Oct 2026 08:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+      "link": "https://www.hankyung.com/article/2026100314707",
+      "pubDate": "Sat, 03 Oct 2026 07:33:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
+      "link": "https://www.hankyung.com/article/2026100314527",
+      "pubDate": "Sat, 03 Oct 2026 07:10:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
+      "link": "https://www.yna.co.kr/view/AKR20261002168300003",
+      "pubDate": "Sat, 3 Oct 2026 07:01:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"나흘간 2900명\"…뉴욕 뒤흔든 'K뷰티 자판기' 정체 [장서우의 하입:hype]",
+      "link": "https://www.hankyung.com/article/202610021316i",
+      "pubDate": "Sat, 03 Oct 2026 07:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[금주핫템] 에뛰드 '님프 듀이 젤리 프렙'·네파 '에어써밋 시리즈'",
+      "link": "https://www.yna.co.kr/view/AKR20261002073900030",
+      "pubDate": "Sat, 3 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "19년간 못판 상업용지…LH 미매각 토지 규모 21.9조원 기록",
+      "link": "https://www.yna.co.kr/view/AKR20261002152800001",
+      "pubDate": "Sat, 3 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "돈 빌려주고 월급에서 까달라던 직원…퇴직 날 '뒤통수' [사장님 고충백서]",
+      "link": "https://www.hankyung.com/article/202610021347i",
+      "pubDate": "Sat, 03 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'",
+      "link": "https://www.yna.co.kr/view/AKR20261002075900030",
+      "pubDate": "Sat, 3 Oct 2026 07:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "[AI돋보기] \"은행도 뚫렸다\"…AI 해킹 시대 내 계정 지키는 법",
       "link": "https://www.yna.co.kr/view/AKR20261002183500017",
       "pubDate": "Sat, 3 Oct 2026 06:33:00 +0900"
@@ -139,78 +201,6 @@
       "title": "새마을금고, 지자체 금고시장 진출 승부수…농협 아성 겨냥",
       "link": "https://www.yna.co.kr/view/AKR20261002122800002",
       "pubDate": "Sat, 3 Oct 2026 06:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "日총리도 감탄…명동 빌딩 팔고 한옥 지은 60대의 15년 '땀방울' [권용훈의 직업불만족(族)]",
-      "link": "https://www.hankyung.com/article/202610029307i",
-      "pubDate": "Sat, 03 Oct 2026 06:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"고양이 이빨 3개 뽑았는데\"…카드 결제내역 보고 '깜짝'",
-      "link": "https://www.hankyung.com/article/2026100209761",
-      "pubDate": "Sat, 03 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 부산 '서면 지원 더뷰 드림' 아파트 등 185가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20261002139600003",
-      "pubDate": "Sat, 3 Oct 2026 06:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'큰 돈 벌고도 보안은 뒷전'…대형證, 전산사고 배상 70억 달해",
-      "link": "https://www.yna.co.kr/view/AKR20261002183100002",
-      "pubDate": "Sat, 3 Oct 2026 05:56:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최악 9월 끝 10월부터 랠리?…AI에이전트 시대 투자 방향은?[월가 백브리핑]",
-      "link": "https://www.hankyung.com/article/202610031364i",
-      "pubDate": "Sat, 03 Oct 2026 02:12:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202610031370i",
-      "pubDate": "Sat, 03 Oct 2026 01:44:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "산업부 \"트럼프 언급 84억불 석유프로젝트, 배경 확인 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002185600003",
-      "pubDate": "Fri, 2 Oct 2026 23:38:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 9월 '비농업 고용 쇼크'…추가 금리인상 제동 걸리나",
-      "link": "https://www.hankyung.com/article/2026100213271",
-      "pubDate": "Fri, 02 Oct 2026 23:20:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "10대 1 뚫은 '경복궁 결혼식'…첫 주인공은 유튜버 마이",
-      "link": "https://www.hankyung.com/article/2026100213297",
-      "pubDate": "Fri, 02 Oct 2026 22:58:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "예가람저축은행 고객 개인정보 유출…2금융권서 해킹",
-      "link": "https://www.hankyung.com/article/202610021315i",
-      "pubDate": "Fri, 02 Oct 2026 22:53:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "日 좋아하던 중국인들 변했다…中 여행객 몰린 '이 나라'",
-      "link": "https://www.hankyung.com/article/2026100212907",
-      "pubDate": "Fri, 02 Oct 2026 22:17:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"올겨울 깍두기 담그기 겁나네\"…시장 갔다가 놀란 이유",
-      "link": "https://www.hankyung.com/article/2026100212837",
-      "pubDate": "Fri, 02 Oct 2026 21:49:07 +0900"
     }
   ]
 }
