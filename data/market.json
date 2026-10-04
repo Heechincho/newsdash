@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:44:58.826Z",
+  "updatedAt": "2026-10-04T06:25:40.954Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,10 +58,9 @@
       "symbol": "CL=F",
       "price": 91.11,
       "changePercent": -1.895,
-      "previousClose": 92.6,
+      "previousClose": 89.38,
       "currency": "USD",
       "history": [
-        92.5999984741211,
         89.37999725341797,
         90.41999816894531,
         92.87000274658203,
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4162.3,
       "changePercent": -0.952,
-      "previousClose": 4168.4,
+      "previousClose": 4179.7,
       "currency": "USD",
       "history": [
-        4168.39990234375,
         4179.7001953125,
         4186.7001953125,
         4202.2998046875,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 101.924,
       "changePercent": -0.008,
-      "previousClose": 101.2,
+      "previousClose": 101.37,
       "currency": "USD",
       "history": [
-        101.19999694824219,
         101.37000274658203,
         101.44999694824219,
         102.0999984741211,
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "시흥에 투자하는 기업에 최대 6억원 보조금…공격적 투자유치",
-      "link": "https://www.yna.co.kr/view/AKR20261002138600061",
-      "pubDate": "Sun, 4 Oct 2026 09:09:00 +0900"
+      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261004024951002",
+      "pubDate": "Sun, 4 Oct 2026 15:00:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261004023900011",
+      "pubDate": "Sun, 4 Oct 2026 15:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004024900002",
+      "pubDate": "Sun, 4 Oct 2026 14:35:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 이억원 \"AI활용 해킹공격 가능성…민감정보 유출은 미확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004024000002",
+      "pubDate": "Sun, 4 Oct 2026 14:21:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 美 AI 인프라 투자 올라탄 TMC…광·전력케이블로 매출 5000억 겨냥",
-      "link": "https://www.hankyung.com/article/202610042164i",
-      "pubDate": "Sun, 04 Oct 2026 09:00:13 +0900"
+      "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
+      "link": "https://www.hankyung.com/article/2026100424527",
+      "pubDate": "Sun, 04 Oct 2026 14:19:29 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004023200002",
+      "pubDate": "Sun, 4 Oct 2026 14:17:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한국인 넘치더니 \"이젠 안 가요\"…사이판에 무슨 일이",
-      "link": "https://www.hankyung.com/article/202610031986H",
-      "pubDate": "Sun, 04 Oct 2026 09:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "적자회사 주식으로 상속세 84억 납부?…\"당국 불허 적법\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003027400004",
-      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신한은행 \"기계·부품·소재 기업 금융지원 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003016300002",
-      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
+      "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
+      "link": "https://www.hankyung.com/article/2026100424507",
+      "pubDate": "Sun, 04 Oct 2026 14:17:23 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업]",
-      "link": "https://www.hankyung.com/article/2026100204986",
-      "pubDate": "Sun, 04 Oct 2026 09:00:01 +0900"
+      "title": "[속보] 이억원 \"공격정보 사례 이어 유사 사고 발생시 엄정 책임 묻겠다\"",
+      "link": "https://www.hankyung.com/article/2026100424477",
+      "pubDate": "Sun, 04 Oct 2026 14:15:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004023100002",
+      "pubDate": "Sun, 4 Oct 2026 14:15:38 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'컵밥'으로 한 끼 때웠는데…\"사 먹기 무섭네\" 화들짝",
-      "link": "https://www.hankyung.com/article/2026100421717",
-      "pubDate": "Sun, 04 Oct 2026 08:35:09 +0900"
+      "title": "[속보] 이억원 \"금융권 침해 사고, AI 활용 해킹공격 가능성 배제 못해\"",
+      "link": "https://www.hankyung.com/article/2026100424467",
+      "pubDate": "Sun, 04 Oct 2026 14:12:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004008400030",
-      "pubDate": "Sun, 4 Oct 2026 08:32:40 +0900"
+      "title": "웰컴저축은행도 정보유출 확인…법인고객 정보 2천200건 추정",
+      "link": "https://www.yna.co.kr/view/AKR20261004022400002",
+      "pubDate": "Sun, 4 Oct 2026 13:56:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
-      "link": "https://www.yna.co.kr/view/AKR20261002068500051",
-      "pubDate": "Sun, 4 Oct 2026 08:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202610031362i",
-      "pubDate": "Sun, 04 Oct 2026 08:00:11 +0900"
+      "title": "우원식 의원 \"재외동포교육문화센터 건립 재추진해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004021500371",
+      "pubDate": "Sun, 4 Oct 2026 13:51:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
-      "link": "https://www.yna.co.kr/view/AKR20261002157900003",
-      "pubDate": "Sun, 4 Oct 2026 07:11:01 +0900"
+      "title": "李대통령, 금융기관 개인정보 유출에 \"엄중 인식, 철저 조사\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004021800001",
+      "pubDate": "Sun, 4 Oct 2026 13:44:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
-      "link": "https://www.yna.co.kr/view/AKR20261002175300030",
-      "pubDate": "Sun, 4 Oct 2026 07:10:00 +0900"
+      "title": "트럼프 알래스카 LNG 투자 압박, 한미 안보협의 새 변수 되나",
+      "link": "https://www.yna.co.kr/view/AKR20261004016600504",
+      "pubDate": "Sun, 4 Oct 2026 12:47:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
-      "link": "https://www.yna.co.kr/view/AKR20261004004000003",
-      "pubDate": "Sun, 4 Oct 2026 07:03:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'세계경주포럼' 8∼9일 개최…경주를 '문화의 다보스'로 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20261001144900053",
-      "pubDate": "Sun, 4 Oct 2026 07:02:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "GV80 하이브리드, 7천만원대 중후반에 나온다…흥행에 방점",
-      "link": "https://www.yna.co.kr/view/AKR20261002150200003",
-      "pubDate": "Sun, 4 Oct 2026 07:01:00 +0900"
+      "title": "[imazine] 도쿄 시공간 투어 ② 빌딩 숲에 던진 파문",
+      "link": "https://www.yna.co.kr/view/AKR20260915043700542",
+      "pubDate": "Sun, 4 Oct 2026 12:00:11 +0900"
     }
   ]
 }
