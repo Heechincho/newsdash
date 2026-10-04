@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:12:05.042Z",
+  "updatedAt": "2026-10-04T00:44:58.826Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,78 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "시흥에 투자하는 기업에 최대 6억원 보조금…공격적 투자유치",
+      "link": "https://www.yna.co.kr/view/AKR20261002138600061",
+      "pubDate": "Sun, 4 Oct 2026 09:09:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 美 AI 인프라 투자 올라탄 TMC…광·전력케이블로 매출 5000억 겨냥",
+      "link": "https://www.hankyung.com/article/202610042164i",
+      "pubDate": "Sun, 04 Oct 2026 09:00:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한국인 넘치더니 \"이젠 안 가요\"…사이판에 무슨 일이",
+      "link": "https://www.hankyung.com/article/202610031986H",
+      "pubDate": "Sun, 04 Oct 2026 09:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "적자회사 주식으로 상속세 84억 납부?…\"당국 불허 적법\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003027400004",
+      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한은행 \"기계·부품·소재 기업 금융지원 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003016300002",
+      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업]",
+      "link": "https://www.hankyung.com/article/2026100204986",
+      "pubDate": "Sun, 04 Oct 2026 09:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'컵밥'으로 한 끼 때웠는데…\"사 먹기 무섭네\" 화들짝",
+      "link": "https://www.hankyung.com/article/2026100421717",
+      "pubDate": "Sun, 04 Oct 2026 08:35:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004008400030",
+      "pubDate": "Sun, 4 Oct 2026 08:32:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
+      "link": "https://www.yna.co.kr/view/AKR20261002068500051",
+      "pubDate": "Sun, 4 Oct 2026 08:01:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:hype]",
+      "link": "https://www.hankyung.com/article/202610031362i",
+      "pubDate": "Sun, 04 Oct 2026 08:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
+      "link": "https://www.yna.co.kr/view/AKR20261002157900003",
+      "pubDate": "Sun, 4 Oct 2026 07:11:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
+      "link": "https://www.yna.co.kr/view/AKR20261002175300030",
+      "pubDate": "Sun, 4 Oct 2026 07:10:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "민간아파트 부정청약 적발 5년간 1천699건…83%가 위장전입",
       "link": "https://www.yna.co.kr/view/AKR20261004004000003",
       "pubDate": "Sun, 4 Oct 2026 07:03:00 +0900"
@@ -139,78 +211,6 @@
       "title": "GV80 하이브리드, 7천만원대 중후반에 나온다…흥행에 방점",
       "link": "https://www.yna.co.kr/view/AKR20261002150200003",
       "pubDate": "Sun, 4 Oct 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이소영 \"청년창업사관학교 유지할 것…돈으로 환산할 수 없는 가치\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004002800030",
-      "pubDate": "Sun, 4 Oct 2026 06:46:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261003020600030",
-      "pubDate": "Sun, 4 Oct 2026 06:40:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "반도체 설비투자 확대로 공급 확대? \"내후년 하반기는 돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002179200008",
-      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "산업부, 석유 최고가격제 격차 100원당 예산 1.5조 산정",
-      "link": "https://www.yna.co.kr/view/AKR20261001198200003",
-      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-      "link": "https://www.yna.co.kr/view/AKR20261003032000008",
-      "pubDate": "Sun, 4 Oct 2026 06:20:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기부, 정책자금 받아 부동산 사업 벌인 업체 40곳 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261002165600030",
-      "pubDate": "Sun, 4 Oct 2026 06:11:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20261003023200008",
-      "pubDate": "Sun, 4 Oct 2026 06:10:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민연금, 코스닥 투자 100조 넘어…다른 공적연금은 '미미'",
-      "link": "https://www.yna.co.kr/view/AKR20261002179500008",
-      "pubDate": "Sun, 4 Oct 2026 06:05:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI해킹] ② AI가 해커 손에 들렸다…은행권 덮친 '해킹의 진화'",
-      "link": "https://www.yna.co.kr/view/AKR20261002175500017",
-      "pubDate": "Sun, 4 Oct 2026 06:03:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
-      "link": "https://www.yna.co.kr/view/AKR20261002138900017",
-      "pubDate": "Sun, 4 Oct 2026 06:03:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대출 더 조이면 누가 영향받나…노도강 매입자금 30%대가 대출",
-      "link": "https://www.yna.co.kr/view/AKR20261003043500003",
-      "pubDate": "Sun, 4 Oct 2026 06:03:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부, 농축산물 할인 지원에 6년간 1조3천억…예산 25배 급증",
-      "link": "https://www.yna.co.kr/view/AKR20261003032900030",
-      "pubDate": "Sun, 4 Oct 2026 06:01:01 +0900"
     }
   ]
 }
