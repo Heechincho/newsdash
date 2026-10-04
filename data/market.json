@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:25:40.954Z",
+  "updatedAt": "2026-10-04T12:46:29.868Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261004024951002",
-      "pubDate": "Sun, 4 Oct 2026 15:00:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20261004023900011",
-      "pubDate": "Sun, 4 Oct 2026 15:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004024900002",
-      "pubDate": "Sun, 4 Oct 2026 14:35:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] 이억원 \"AI활용 해킹공격 가능성…민감정보 유출은 미확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004024000002",
-      "pubDate": "Sun, 4 Oct 2026 14:21:42 +0900"
+      "title": "\"차명계좌 적발 NH농협·국민·농축협·신한銀 순으로 많아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003049251002",
+      "pubDate": "Sun, 4 Oct 2026 20:19:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
-      "link": "https://www.hankyung.com/article/2026100424527",
-      "pubDate": "Sun, 04 Oct 2026 14:19:29 +0900"
+      "title": "\"혹시 '그 빵' 들어왔어요?\"…3040男 편의점에 몰린 까닭",
+      "link": "https://www.hankyung.com/article/2026100427607",
+      "pubDate": "Sun, 04 Oct 2026 19:41:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004023200002",
-      "pubDate": "Sun, 4 Oct 2026 14:17:42 +0900"
+      "title": "금융권 해킹에 정부 비상대응…기업 2만8천곳 보안점검 권고",
+      "link": "https://www.yna.co.kr/view/AKR20261004035700017",
+      "pubDate": "Sun, 4 Oct 2026 18:18:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
-      "link": "https://www.hankyung.com/article/2026100424507",
-      "pubDate": "Sun, 04 Oct 2026 14:17:23 +0900"
+      "title": "5대 은행, 보안에 순익의 1%만 투자",
+      "link": "https://www.hankyung.com/article/2026100427041",
+      "pubDate": "Sun, 04 Oct 2026 18:18:13 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 이억원 \"공격정보 사례 이어 유사 사고 발생시 엄정 책임 묻겠다\"",
-      "link": "https://www.hankyung.com/article/2026100424477",
-      "pubDate": "Sun, 04 Oct 2026 14:15:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004023100002",
-      "pubDate": "Sun, 4 Oct 2026 14:15:38 +0900"
+      "title": "\"세수 들쭉날쭉한데 지출은 안 줄어…200조 미래기금 지속가능성 우려\"",
+      "link": "https://www.hankyung.com/article/2026100426371",
+      "pubDate": "Sun, 04 Oct 2026 18:17:51 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 이억원 \"금융권 침해 사고, AI 활용 해킹공격 가능성 배제 못해\"",
-      "link": "https://www.hankyung.com/article/2026100424467",
-      "pubDate": "Sun, 04 Oct 2026 14:12:44 +0900"
+      "title": "연구실 단계부터 투자…美도 '기술 구루' 우대",
+      "link": "https://www.hankyung.com/article/2026100426711",
+      "pubDate": "Sun, 04 Oct 2026 18:17:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'K기판 르네상스'…역대 최대 수출액 노린다",
+      "link": "https://www.hankyung.com/article/2026100426341",
+      "pubDate": "Sun, 04 Oct 2026 18:16:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "휘발유·경유 수출 제한속…정유업계 '효자'된 항공유",
+      "link": "https://www.hankyung.com/article/2026100426331",
+      "pubDate": "Sun, 04 Oct 2026 18:16:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 꺼낸다",
+      "link": "https://www.hankyung.com/article/2026100426291",
+      "pubDate": "Sun, 04 Oct 2026 18:16:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 삼성전자, 지역민에 '용인 반도체산단' 미래 모습 소개",
+      "link": "https://www.hankyung.com/article/2026100426301",
+      "pubDate": "Sun, 04 Oct 2026 18:15:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "웰컴저축은행도 정보유출 확인…법인고객 정보 2천200건 추정",
-      "link": "https://www.yna.co.kr/view/AKR20261004022400002",
-      "pubDate": "Sun, 4 Oct 2026 13:56:20 +0900"
+      "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261004008451030",
+      "pubDate": "Sun, 4 Oct 2026 18:13:04 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "우원식 의원 \"재외동포교육문화센터 건립 재추진해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004021500371",
-      "pubDate": "Sun, 4 Oct 2026 13:51:01 +0900"
+      "source": "한국경제",
+      "title": "[포토] LG전자, 아동복지시설 가전 점검 봉사",
+      "link": "https://www.hankyung.com/article/2026100426391",
+      "pubDate": "Sun, 04 Oct 2026 18:03:31 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "李대통령, 금융기관 개인정보 유출에 \"엄중 인식, 철저 조사\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004021800001",
-      "pubDate": "Sun, 4 Oct 2026 13:44:36 +0900"
+      "source": "한국경제",
+      "title": "현대백화점, 네팔 수해 복구 성금 3억 전달",
+      "link": "https://www.hankyung.com/article/2026100426411",
+      "pubDate": "Sun, 04 Oct 2026 18:02:50 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "트럼프 알래스카 LNG 투자 압박, 한미 안보협의 새 변수 되나",
-      "link": "https://www.yna.co.kr/view/AKR20261004016600504",
-      "pubDate": "Sun, 4 Oct 2026 12:47:19 +0900"
+      "source": "한국경제",
+      "title": "中 AI에 '옆문' 뚫린 줄도 몰랐다…금융권 해킹 '5대 미스터리'",
+      "link": "https://www.hankyung.com/article/2026100427061",
+      "pubDate": "Sun, 04 Oct 2026 17:58:13 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[imazine] 도쿄 시공간 투어 ② 빌딩 숲에 던진 파문",
-      "link": "https://www.yna.co.kr/view/AKR20260915043700542",
-      "pubDate": "Sun, 4 Oct 2026 12:00:11 +0900"
+      "source": "한국경제",
+      "title": "초유의 AI 해킹, 2금융권까지 덮쳤다",
+      "link": "https://www.hankyung.com/article/2026100426961",
+      "pubDate": "Sun, 04 Oct 2026 17:54:13 +0900"
     }
   ]
 }
