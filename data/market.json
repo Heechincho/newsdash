@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T12:46:29.868Z",
+  "updatedAt": "2026-10-04T17:05:46.175Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,12 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "시총 기준 상폐요건 강화에 법원 제동…\"비례 원칙에 어긋나\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004043100008",
+      "pubDate": "Sun, 4 Oct 2026 22:31:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "\"차명계좌 적발 NH농협·국민·농축협·신한銀 순으로 많아\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261003049251002",
       "pubDate": "Sun, 4 Oct 2026 20:19:50 +0900"
@@ -169,7 +175,7 @@
     },
     {
       "source": "한국경제",
-      "title": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 꺼낸다",
+      "title": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 내놓는다",
       "link": "https://www.hankyung.com/article/2026100426291",
       "pubDate": "Sun, 04 Oct 2026 18:16:07 +0900"
     },
@@ -199,15 +205,9 @@
     },
     {
       "source": "한국경제",
-      "title": "中 AI에 '옆문' 뚫린 줄도 몰랐다…금융권 해킹 '5대 미스터리'",
+      "title": "중국산 AI에 '우회로' 뚫렸다…기업·공공기관도 해킹 사정권",
       "link": "https://www.hankyung.com/article/2026100427061",
       "pubDate": "Sun, 04 Oct 2026 17:58:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "초유의 AI 해킹, 2금융권까지 덮쳤다",
-      "link": "https://www.hankyung.com/article/2026100426961",
-      "pubDate": "Sun, 04 Oct 2026 17:54:13 +0900"
     }
   ]
 }
