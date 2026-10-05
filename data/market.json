@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T23:10:44.834Z",
+  "updatedAt": "2026-10-05T02:05:16.551Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.02,
-      "changePercent": -0.099,
+      "price": 90.16,
+      "changePercent": -1.043,
       "previousClose": 89.38,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         90.41999816894531,
         92.87000274658203,
         91.11000061035156,
-        91.0199966430664
+        90.16000366210938
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4175,
-      "changePercent": 0.305,
+      "price": 4186.9,
+      "changePercent": 0.591,
       "previousClose": 4179.7,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4186.7001953125,
         4202.2998046875,
         4162.2998046875,
-        4175
+        4186.89990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.873,
-      "changePercent": -0.058,
+      "price": 102.04,
+      "changePercent": 0.106,
       "previousClose": 101.37,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.44999694824219,
         102.0999984741211,
         101.93000030517578,
-        101.87300109863281
+        102.04000091552734
       ],
       "ok": true
     },
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[통합시 100일] ③ '800조 반도체' 유치…초광역 산업생태계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20261001175700054",
-      "pubDate": "Mon, 5 Oct 2026 08:00:11 +0900"
+      "title": "[게시판] 한농대, 임업진흥원과 '청년 임업 창업 교육' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20261005023000030",
+      "pubDate": "Mon, 5 Oct 2026 11:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "익산시-원광대, 지역인재 취업에 맞손…7일 취업박람회",
-      "link": "https://www.yna.co.kr/view/AKR20261002101400055",
-      "pubDate": "Mon, 5 Oct 2026 08:00:05 +0900"
+      "title": "[게시판] 스타벅스, '별빛 라이브' 통해 청년 문화예술 후원",
+      "link": "https://www.yna.co.kr/view/AKR20261005025000030",
+      "pubDate": "Mon, 5 Oct 2026 10:57:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "청주 가경동 '터미널·공원·시장' 연계 개발 구상",
-      "link": "https://www.yna.co.kr/view/AKR20261002160800064",
-      "pubDate": "Mon, 5 Oct 2026 08:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"아직 미성년자인데 통장에 10억?\"…52명이나 있었다",
-      "link": "https://www.hankyung.com/article/2026100529637",
-      "pubDate": "Mon, 05 Oct 2026 07:14:14 +0900"
+      "title": "호르무즈 봉쇄 후 3번째 한국 선박 수에즈운하로 원유 운송",
+      "link": "https://www.yna.co.kr/view/AKR20261005025400051",
+      "pubDate": "Mon, 5 Oct 2026 10:48:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[고립의 장기화] ② \"나는 도태된 사람\"…스스로를 가둔 청년들",
-      "link": "https://www.yna.co.kr/view/AKR20261003040100004",
-      "pubDate": "Mon, 5 Oct 2026 07:01:02 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261005021200011",
+      "pubDate": "Mon, 5 Oct 2026 10:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[고립의 장기화] ① 은둔청년이 중년으로…'한국형 8050 경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261003026800530",
-      "pubDate": "Mon, 5 Oct 2026 07:01:00 +0900"
+      "title": "삼성바이오·SK바이오팜·한미약품, 아태 10대 바이오거래 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261005012400017",
+      "pubDate": "Mon, 5 Oct 2026 10:19:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인터뷰] 우상호 \"AI 데이터센터 집중…정부 메가프로젝트 강원이 이끈다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002142900062",
-      "pubDate": "Mon, 5 Oct 2026 07:00:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 세계 1위 보일러 설계사 품은 미코…다음 승부처는 美 AI 전력시장",
-      "link": "https://www.hankyung.com/article/202610020790i",
-      "pubDate": "Mon, 05 Oct 2026 07:00:07 +0900"
+      "title": "CJ대한통운·토스, 소상공인·소비자 택배 서비스 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261005021400030",
+      "pubDate": "Mon, 5 Oct 2026 10:15:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "추미애, 국토장관에 40개 사업 국가철도망 구축계획 반영 요청",
-      "link": "https://www.yna.co.kr/view/AKR20261004015100060",
-      "pubDate": "Mon, 5 Oct 2026 07:00:05 +0900"
+      "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+      "link": "https://www.yna.co.kr/view/AKR20261004021100002",
+      "pubDate": "Mon, 5 Oct 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"6년간 수은·무보 구매자금융 60조…전략수출금융기금은 제자리\"",
-      "link": "https://www.yna.co.kr/view/AKR20261004025400001",
-      "pubDate": "Mon, 5 Oct 2026 07:00:05 +0900"
+      "title": "현대백화점, 장인 식재료로 만든 '명인명촌 김치' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261005019600030",
+      "pubDate": "Mon, 5 Oct 2026 09:55:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"aT 인수 농산물 비축기지 6곳, 6년간 순손실 121억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003020700030",
-      "pubDate": "Mon, 5 Oct 2026 07:00:01 +0900"
+      "title": "[반려동물] 반려견 사이 반려양도 뛰었다…경주 호반길 달군 펫 러닝",
+      "link": "https://www.yna.co.kr/view/AKR20261005000200030",
+      "pubDate": "Mon, 5 Oct 2026 09:45:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI돋보기] 은행도 플랫폼도 털렸다…AI로 개인정보 조각 맞춘다",
-      "link": "https://www.yna.co.kr/view/AKR20261004035100017",
-      "pubDate": "Mon, 5 Oct 2026 06:33:01 +0900"
+      "title": "쌀쌀해진 날씨에 겨울 먹거리 '불티'…CU, 즉석 파이 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261005017500030",
+      "pubDate": "Mon, 5 Oct 2026 09:44:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이번주 크레딧 2조원 발행…파라다이스 수요예측도",
-      "link": "https://www.yna.co.kr/view/AKR20261003025100008",
-      "pubDate": "Mon, 5 Oct 2026 06:25:00 +0900"
+      "title": "대우건설 이강석 대표 취임…도약 위한 '3대 경영방향' 제시",
+      "link": "https://www.yna.co.kr/view/AKR20261005017000003",
+      "pubDate": "Mon, 5 Oct 2026 09:24:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스닥 지난달 최악 수익률은 제약…금리·반도체 쏠림에 직격탄",
-      "link": "https://www.yna.co.kr/view/AKR20261003033300008",
-      "pubDate": "Mon, 5 Oct 2026 06:20:01 +0900"
+      "title": "경북도, 미국 유타주·유타대와 AI·반도체 등 첨단산업 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261005015400053",
+      "pubDate": "Mon, 5 Oct 2026 09:17:14 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "'왕조현이 20년 만에 돌아왔다'…드라마 43만편 쏟아진 中 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610042500i",
-      "pubDate": "Mon, 05 Oct 2026 06:18:01 +0900"
+      "source": "연합뉴스",
+      "title": "CJ제일제당 '자리', 뉴욕 이어 LA 진출…K-증류주 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20261005015800030",
+      "pubDate": "Mon, 5 Oct 2026 09:15:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "체납 징수에 복지 발굴까지…울산시 체납관리단 성과",
+      "link": "https://www.yna.co.kr/view/AKR20261002131100057",
+      "pubDate": "Mon, 5 Oct 2026 09:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "우리은행, '우다페' 연계 '다함께 적금'…최고 연 9.0% 금리",
+      "link": "https://www.yna.co.kr/view/AKR20261004020300002",
+      "pubDate": "Mon, 5 Oct 2026 09:00:03 +0900"
     }
   ]
 }
