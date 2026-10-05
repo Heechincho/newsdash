@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-05T08:56:45.866Z",
+  "updatedAt": "2026-10-05T18:16:13.002Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7722.72,
-      "changePercent": 0.734,
-      "previousClose": 7743.41,
+      "price": 7776.71,
+      "changePercent": 0.699,
+      "previousClose": 7683.69,
       "currency": "USD",
       "history": [
-        7683.68994140625,
         7670.83984375,
         7651.5400390625,
         7666.4501953125,
-        7722.72021484375
+        7722.72021484375,
+        7776.7099609375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27190.863,
-      "changePercent": 1.188,
-      "previousClose": 27068.72,
+      "price": 27458.02,
+      "changePercent": 0.983,
+      "previousClose": 26820.38,
       "currency": "USD",
       "history": [
-        26820.380859375,
         26797.5390625,
         26861.060546875,
         26871.599609375,
-        27190.859375
+        27190.859375,
+        27458.01953125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51176.96,
-      "changePercent": 0.492,
-      "previousClose": 51828.62,
+      "price": 51304.06,
+      "changePercent": 0.248,
+      "previousClose": 51481.51,
       "currency": "USD",
       "history": [
-        51481.51171875,
         51349.921875,
         50906.05078125,
         50926.55859375,
-        51176.9609375
+        51176.9609375,
+        51304.05859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.05,
-      "changePercent": -0.066,
+      "price": 90,
+      "changePercent": -1.218,
       "previousClose": 90.42,
       "currency": "USD",
       "history": [
         90.41999816894531,
         92.87000274658203,
         91.11000061035156,
-        91.05000305175781
+        90
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4190.1,
-      "changePercent": 0.668,
+      "price": 4168.7,
+      "changePercent": 0.154,
       "previousClose": 4186.7,
       "currency": "USD",
       "history": [
         4186.7001953125,
         4202.2998046875,
         4162.2998046875,
-        4190.10009765625
+        4168.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.154,
-      "changePercent": 0.218,
+      "price": 102.163,
+      "changePercent": 0.227,
       "previousClose": 101.45,
       "currency": "USD",
       "history": [
         101.44999694824219,
         102.0999984741211,
         101.93000030517578,
-        102.15399932861328
+        102.16300201416016
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.26,
-      "changePercent": 6.205,
+      "price": 15.57,
+      "changePercent": 1.698,
       "previousClose": 16.04,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         16.34000015258789,
         16.389999389648438,
         15.3100004196167,
-        16.260000228881836
+        15.569999694824219
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "판매대금 정산·월급 지급…기업, 스테이블코인 결제 확 늘었다",
-      "link": "https://www.hankyung.com/article/2026100537761",
-      "pubDate": "Mon, 05 Oct 2026 17:43:39 +0900"
+      "source": "연합뉴스",
+      "title": "트럼프, 휘발윳값에 우크라·야당탓…\"호르무즈 문제 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261006002200071",
+      "pubDate": "Tue, 6 Oct 2026 03:07:48 +0900"
     },
     {
       "source": "한국경제",
-      "title": "스테이블코인 결제 540조원…판 커진다",
-      "link": "https://www.hankyung.com/article/2026100537891",
-      "pubDate": "Mon, 05 Oct 2026 17:43:00 +0900"
+      "title": "美증시,국채금리 올라도 나스닥 사상최고…엔비디아도 최고치 돌파",
+      "link": "https://www.hankyung.com/article/202610064008i",
+      "pubDate": "Tue, 06 Oct 2026 00:55:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "공장·방송국 부지에 데이터센터…'귀한 몸' 된 도심 자투리 땅",
-      "link": "https://www.hankyung.com/article/2026100537311",
-      "pubDate": "Mon, 05 Oct 2026 17:35:04 +0900"
+      "title": "머스크 '테라팹'에 TSMC도 참여?…인텔주가 하락",
+      "link": "https://www.hankyung.com/article/202610053989i",
+      "pubDate": "Tue, 06 Oct 2026 00:27:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 서비스 물가 4년 만에 최고치…고용도 다시 확장세",
+      "link": "https://www.hankyung.com/article/202610053994i",
+      "pubDate": "Mon, 05 Oct 2026 23:40:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"AI반도체주 아직도 싸다?\"…그래도 불안하면 이 종목[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610053986i",
+      "pubDate": "Mon, 05 Oct 2026 23:27:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중동 원유수출 전쟁전수준 회복에도 유가 안떨어지는 이유는?",
+      "link": "https://www.hankyung.com/article/202610053981i",
+      "pubDate": "Mon, 05 Oct 2026 23:09:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "LG전자 '美 AI센터 냉각설비' 5조 계약 따냈다",
+      "link": "https://www.hankyung.com/article/2026100539141",
+      "pubDate": "Mon, 05 Oct 2026 22:13:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美, 데이터센터 반대여론에도 건설 계속…2027년 90GW 전망",
+      "link": "https://www.hankyung.com/article/202610053953i",
+      "pubDate": "Mon, 05 Oct 2026 22:05:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "폭스콘, AI수요 힙입어 3분기 매출 47% 급증",
+      "link": "https://www.hankyung.com/article/202610053926i",
+      "pubDate": "Mon, 05 Oct 2026 20:29:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "리사 수 AMD 회장 7개월 만에 방한…'AI 동맹' 넓히나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261005043951017",
-      "pubDate": "Mon, 5 Oct 2026 17:20:46 +0900"
+      "title": "이형일, 하준경 등과 현안간담회…사회정책·초과세수 활용 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261005057300002",
+      "pubDate": "Mon, 5 Oct 2026 20:14:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'추울 땐 역시 롱패딩'이라더니…\"이젠 안 입을래요\" 돌변 [박수림의 트렌딧(Trend:it)]",
+      "link": "https://www.hankyung.com/article/202610029783g",
+      "pubDate": "Mon, 05 Oct 2026 19:57:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
-      "link": "https://www.yna.co.kr/view/AKR20261005046100085",
-      "pubDate": "Mon, 5 Oct 2026 17:11:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "케이뱅크, 업비트와 1년 더 간다…은행권 '거래소 쟁탈전' 일단락",
-      "link": "https://www.hankyung.com/article/202610053525i",
-      "pubDate": "Mon, 05 Oct 2026 16:42:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 실결제 540조원…스테이블코인, 기업이 쓰기 시작했다",
-      "link": "https://www.hankyung.com/article/202610053421i",
-      "pubDate": "Mon, 05 Oct 2026 16:30:03 +0900"
+      "title": "\"농식품부 고위공직자 모친 소유 농지 3필지 휴경\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261005050051030",
+      "pubDate": "Mon, 5 Oct 2026 19:27:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "리사 수 AMD 회장 7개월 만에 방한…7일 용산서 '게이머데이'",
-      "link": "https://www.yna.co.kr/view/AKR20261005043900017",
-      "pubDate": "Mon, 5 Oct 2026 16:20:23 +0900"
+      "title": "개인정보 유출 공포 전방위로…금융 이어 한전·대학도 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261005052800017",
+      "pubDate": "Mon, 5 Oct 2026 19:23:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "양육시설 찾아 낡은 벽지·바닥재 교체…침구·주방·화장실 구석구석 청소·살균",
-      "link": "https://www.hankyung.com/article/2026100532141",
-      "pubDate": "Mon, 05 Oct 2026 16:09:22 +0900"
+      "title": "프랑스 채무에 유로화 17개월만에 최저치 급락…살까 말까",
+      "link": "https://www.hankyung.com/article/202610053873i",
+      "pubDate": "Mon, 05 Oct 2026 19:19:46 +0900"
     },
     {
       "source": "한국경제",
-      "title": "위기의 해운업 정책금융 18조로 재건…해양강국 향해 출항",
-      "link": "https://www.hankyung.com/article/2026100532111",
-      "pubDate": "Mon, 05 Oct 2026 16:08:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "폭염·잠수 현장서 '사람 중심' 안전 전략…협력사엔 고가 스마트 장비 무상대여",
-      "link": "https://www.hankyung.com/article/2026100532101",
-      "pubDate": "Mon, 05 Oct 2026 16:08:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "무탄소 전원 늘리고 기후테크 육성…미국·오만 뚫고 K에너지 판로 넓힌다",
-      "link": "https://www.hankyung.com/article/2026100532041",
-      "pubDate": "Mon, 05 Oct 2026 16:07:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "사우디 기업과 중앙亞 재생에너지 공략…국내 중소기업 우즈베크 진출도 도와",
-      "link": "https://www.hankyung.com/article/2026100532031",
-      "pubDate": "Mon, 05 Oct 2026 16:07:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "타코에 담고, 전통주 곁들이고…K-씨푸드에 빠진 미국·멕시코",
-      "link": "https://www.hankyung.com/article/2026100532001",
-      "pubDate": "Mon, 05 Oct 2026 16:06:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "오디오북부터 작은도서관까지…10년 넘게 독서 접근성 높였다",
-      "link": "https://www.hankyung.com/article/2026100531961",
-      "pubDate": "Mon, 05 Oct 2026 16:04:02 +0900"
+      "title": "佛 재정 불안, 유럽 전역 번지나…유로화 17개월來 최저",
+      "link": "https://www.hankyung.com/article/2026100537641",
+      "pubDate": "Mon, 05 Oct 2026 18:30:19 +0900"
     }
   ]
 }
