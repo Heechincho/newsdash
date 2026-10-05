@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:05:16.551Z",
+  "updatedAt": "2026-10-05T08:56:45.866Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.16,
-      "changePercent": -1.043,
-      "previousClose": 89.38,
+      "price": 91.05,
+      "changePercent": -0.066,
+      "previousClose": 90.42,
       "currency": "USD",
       "history": [
-        89.37999725341797,
         90.41999816894531,
         92.87000274658203,
         91.11000061035156,
-        90.16000366210938
+        91.05000305175781
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4186.9,
-      "changePercent": 0.591,
-      "previousClose": 4179.7,
+      "price": 4190.1,
+      "changePercent": 0.668,
+      "previousClose": 4186.7,
       "currency": "USD",
       "history": [
-        4179.7001953125,
         4186.7001953125,
         4202.2998046875,
         4162.2998046875,
-        4186.89990234375
+        4190.10009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.04,
-      "changePercent": 0.106,
-      "previousClose": 101.37,
+      "price": 102.154,
+      "changePercent": 0.218,
+      "previousClose": 101.45,
       "currency": "USD",
       "history": [
-        101.37000274658203,
         101.44999694824219,
         102.0999984741211,
         101.93000030517578,
-        102.04000091552734
+        102.15399932861328
       ],
       "ok": true
     },
@@ -107,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.31,
-      "changePercent": -6.589,
-      "previousClose": 16.07,
+      "price": 16.26,
+      "changePercent": 6.205,
+      "previousClose": 16.04,
       "currency": "USD",
       "history": [
-        16.06999969482422,
         16.040000915527344,
         16.34000015258789,
         16.389999389648438,
-        15.3100004196167
+        15.3100004196167,
+        16.260000228881836
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 한농대, 임업진흥원과 '청년 임업 창업 교육' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261005023000030",
-      "pubDate": "Mon, 5 Oct 2026 11:00:00 +0900"
+      "source": "한국경제",
+      "title": "판매대금 정산·월급 지급…기업, 스테이블코인 결제 확 늘었다",
+      "link": "https://www.hankyung.com/article/2026100537761",
+      "pubDate": "Mon, 05 Oct 2026 17:43:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "스테이블코인 결제 540조원…판 커진다",
+      "link": "https://www.hankyung.com/article/2026100537891",
+      "pubDate": "Mon, 05 Oct 2026 17:43:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "공장·방송국 부지에 데이터센터…'귀한 몸' 된 도심 자투리 땅",
+      "link": "https://www.hankyung.com/article/2026100537311",
+      "pubDate": "Mon, 05 Oct 2026 17:35:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 스타벅스, '별빛 라이브' 통해 청년 문화예술 후원",
-      "link": "https://www.yna.co.kr/view/AKR20261005025000030",
-      "pubDate": "Mon, 5 Oct 2026 10:57:21 +0900"
+      "title": "리사 수 AMD 회장 7개월 만에 방한…'AI 동맹' 넓히나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261005043951017",
+      "pubDate": "Mon, 5 Oct 2026 17:20:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "호르무즈 봉쇄 후 3번째 한국 선박 수에즈운하로 원유 운송",
-      "link": "https://www.yna.co.kr/view/AKR20261005025400051",
-      "pubDate": "Mon, 5 Oct 2026 10:48:24 +0900"
+      "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
+      "link": "https://www.yna.co.kr/view/AKR20261005046100085",
+      "pubDate": "Mon, 5 Oct 2026 17:11:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "케이뱅크, 업비트와 1년 더 간다…은행권 '거래소 쟁탈전' 일단락",
+      "link": "https://www.hankyung.com/article/202610053525i",
+      "pubDate": "Mon, 05 Oct 2026 16:42:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 실결제 540조원…스테이블코인, 기업이 쓰기 시작했다",
+      "link": "https://www.hankyung.com/article/202610053421i",
+      "pubDate": "Mon, 05 Oct 2026 16:30:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261005021200011",
-      "pubDate": "Mon, 5 Oct 2026 10:30:00 +0900"
+      "title": "리사 수 AMD 회장 7개월 만에 방한…7일 용산서 '게이머데이'",
+      "link": "https://www.yna.co.kr/view/AKR20261005043900017",
+      "pubDate": "Mon, 5 Oct 2026 16:20:23 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "삼성바이오·SK바이오팜·한미약품, 아태 10대 바이오거래 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261005012400017",
-      "pubDate": "Mon, 5 Oct 2026 10:19:26 +0900"
+      "source": "한국경제",
+      "title": "양육시설 찾아 낡은 벽지·바닥재 교체…침구·주방·화장실 구석구석 청소·살균",
+      "link": "https://www.hankyung.com/article/2026100532141",
+      "pubDate": "Mon, 05 Oct 2026 16:09:22 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "CJ대한통운·토스, 소상공인·소비자 택배 서비스 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261005021400030",
-      "pubDate": "Mon, 5 Oct 2026 10:15:11 +0900"
+      "source": "한국경제",
+      "title": "위기의 해운업 정책금융 18조로 재건…해양강국 향해 출항",
+      "link": "https://www.hankyung.com/article/2026100532111",
+      "pubDate": "Mon, 05 Oct 2026 16:08:55 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
-      "link": "https://www.yna.co.kr/view/AKR20261004021100002",
-      "pubDate": "Mon, 5 Oct 2026 10:00:01 +0900"
+      "source": "한국경제",
+      "title": "폭염·잠수 현장서 '사람 중심' 안전 전략…협력사엔 고가 스마트 장비 무상대여",
+      "link": "https://www.hankyung.com/article/2026100532101",
+      "pubDate": "Mon, 05 Oct 2026 16:08:07 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "현대백화점, 장인 식재료로 만든 '명인명촌 김치' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261005019600030",
-      "pubDate": "Mon, 5 Oct 2026 09:55:25 +0900"
+      "source": "한국경제",
+      "title": "무탄소 전원 늘리고 기후테크 육성…미국·오만 뚫고 K에너지 판로 넓힌다",
+      "link": "https://www.hankyung.com/article/2026100532041",
+      "pubDate": "Mon, 05 Oct 2026 16:07:37 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[반려동물] 반려견 사이 반려양도 뛰었다…경주 호반길 달군 펫 러닝",
-      "link": "https://www.yna.co.kr/view/AKR20261005000200030",
-      "pubDate": "Mon, 5 Oct 2026 09:45:30 +0900"
+      "source": "한국경제",
+      "title": "사우디 기업과 중앙亞 재생에너지 공략…국내 중소기업 우즈베크 진출도 도와",
+      "link": "https://www.hankyung.com/article/2026100532031",
+      "pubDate": "Mon, 05 Oct 2026 16:07:08 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "쌀쌀해진 날씨에 겨울 먹거리 '불티'…CU, 즉석 파이 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261005017500030",
-      "pubDate": "Mon, 5 Oct 2026 09:44:07 +0900"
+      "source": "한국경제",
+      "title": "타코에 담고, 전통주 곁들이고…K-씨푸드에 빠진 미국·멕시코",
+      "link": "https://www.hankyung.com/article/2026100532001",
+      "pubDate": "Mon, 05 Oct 2026 16:06:11 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "대우건설 이강석 대표 취임…도약 위한 '3대 경영방향' 제시",
-      "link": "https://www.yna.co.kr/view/AKR20261005017000003",
-      "pubDate": "Mon, 5 Oct 2026 09:24:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경북도, 미국 유타주·유타대와 AI·반도체 등 첨단산업 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261005015400053",
-      "pubDate": "Mon, 5 Oct 2026 09:17:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "CJ제일제당 '자리', 뉴욕 이어 LA 진출…K-증류주 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261005015800030",
-      "pubDate": "Mon, 5 Oct 2026 09:15:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "체납 징수에 복지 발굴까지…울산시 체납관리단 성과",
-      "link": "https://www.yna.co.kr/view/AKR20261002131100057",
-      "pubDate": "Mon, 5 Oct 2026 09:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "우리은행, '우다페' 연계 '다함께 적금'…최고 연 9.0% 금리",
-      "link": "https://www.yna.co.kr/view/AKR20261004020300002",
-      "pubDate": "Mon, 5 Oct 2026 09:00:03 +0900"
+      "source": "한국경제",
+      "title": "오디오북부터 작은도서관까지…10년 넘게 독서 접근성 높였다",
+      "link": "https://www.hankyung.com/article/2026100531961",
+      "pubDate": "Mon, 05 Oct 2026 16:04:02 +0900"
     }
   ]
 }
