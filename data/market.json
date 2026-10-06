@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T13:31:21.159Z",
+  "updatedAt": "2026-10-06T19:02:58.585Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7815.39,
-      "changePercent": 0.533,
+      "price": 7829.16,
+      "changePercent": 0.71,
       "previousClose": 7670.84,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7666.4501953125,
         7722.72021484375,
         7773.9501953125,
-        7815.39013671875
+        7829.16015625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27672.084,
-      "changePercent": 0.709,
+      "price": 27651.488,
+      "changePercent": 0.634,
       "previousClose": 26797.54,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26871.599609375,
         27190.859375,
         27477.310546875,
-        27672.083984375
+        27651.48828125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51431.52,
-      "changePercent": 0.319,
+      "price": 51553.78,
+      "changePercent": 0.558,
       "previousClose": 51349.92,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         50926.55859375,
         51176.9609375,
         51267.8984375,
-        51431.51953125
+        51553.78125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 87.96,
-      "changePercent": -1.644,
+      "price": 89.56,
+      "changePercent": 0.145,
       "previousClose": 92.87,
       "currency": "USD",
       "history": [
         92.87000274658203,
         91.11000061035156,
         89.43000030517578,
-        87.95999908447266
+        89.55999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4193.9,
-      "changePercent": 0.893,
+      "price": 4199.9,
+      "changePercent": 1.037,
       "previousClose": 4202.3,
       "currency": "USD",
       "history": [
         4202.2998046875,
         4162.2998046875,
         4156.7998046875,
-        4193.89990234375
+        4199.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.85,
-      "changePercent": -0.31,
+      "price": 101.857,
+      "changePercent": -0.303,
       "previousClose": 102.1,
       "currency": "USD",
       "history": [
         102.0999984741211,
         101.93000030517578,
         102.16999816894531,
-        101.8499984741211
+        101.85700225830078
       ],
       "ok": true
     },
@@ -104,20 +104,45 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.3,
-      "changePercent": -0.065,
-      "previousClose": 16.04,
+      "price": 15.03,
+      "changePercent": -3.157,
+      "previousClose": 16.34,
       "currency": "USD",
       "history": [
         16.34000015258789,
         16.389999389648438,
         15.3100004196167,
-        15.520000457763672
+        15.520000457763672,
+        15.029999732971191
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "美 안두릴, 잠수함 생산 지원에 신규 조선 건설",
+      "link": "https://www.hankyung.com/article/202610066728i",
+      "pubDate": "Wed, 07 Oct 2026 00:40:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유가·美 국채 내리자…S&P500·나스닥 사상 최고치 돌파",
+      "link": "https://www.hankyung.com/article/202610066710i",
+      "pubDate": "Tue, 06 Oct 2026 23:21:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "최병오 섬산련 회장 \"韓-대만, 새로운 협력관계 기대\"",
+      "link": "https://www.hankyung.com/article/202610066692i",
+      "pubDate": "Tue, 06 Oct 2026 22:52:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 8월 무역적자 142조원…트럼프 관세 폭탄 이후 최대",
+      "link": "https://www.hankyung.com/article/202610066688i",
+      "pubDate": "Tue, 06 Oct 2026 22:37:01 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "국민참여성장펀드 나흘간 3천억원 남짓 팔려…목표액의 52.7%",
@@ -126,7 +151,13 @@
     },
     {
       "source": "한국경제",
-      "title": "요즘 술 덜 마신다는데…\"딱 한 잔만 먹자\" 2030 몰린 '술집' [현장+]",
+      "title": "메타 '스마트 안경' 규제 확산…\"사생활 침해우려\"",
+      "link": "https://www.hankyung.com/article/202610066641i",
+      "pubDate": "Tue, 06 Oct 2026 21:59:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'부어라 마셔라' 대신 \"한 잔을 제대로\"…2030 몰린 '맥줏집' 정체 [현장+]",
       "link": "https://www.hankyung.com/article/202610029621g",
       "pubDate": "Tue, 06 Oct 2026 21:00:05 +0900"
     },
@@ -144,7 +175,7 @@
     },
     {
       "source": "한국경제",
-      "title": "李대통령 치킨값 언급 엿새 만에 가격담합 전격 조사 나선 공정위",
+      "title": "이 대통령 치킨값 언급 엿새 만에 가격담합 전격 조사 나선 공정위",
       "link": "https://www.hankyung.com/article/2026100665631",
       "pubDate": "Tue, 06 Oct 2026 20:05:00 +0900"
     },
@@ -177,36 +208,6 @@
       "title": "\"현금 안 가져왔는데 어쩌죠?\"…성당서 벌어진 '낯선 풍경'",
       "link": "https://www.hankyung.com/article/2026100663651",
       "pubDate": "Tue, 06 Oct 2026 19:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "케이뱅크, 소상공인 우수제품 구매 기부",
-      "link": "https://www.hankyung.com/article/2026100664271",
-      "pubDate": "Tue, 06 Oct 2026 18:23:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차, 서울서 美 체험형 과학 전시",
-      "link": "https://www.hankyung.com/article/2026100664291",
-      "pubDate": "Tue, 06 Oct 2026 18:22:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "韓총리, 공공지원 민간임대주택 찾아 \"집 선택권 보장해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006177400001",
-      "pubDate": "Tue, 6 Oct 2026 18:18:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "여야, 재경부 국감서 대미투자·부동산 시장엔 한목소리 지적(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261006088751001",
-      "pubDate": "Tue, 6 Oct 2026 18:17:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한미반도체, 삼성전기서 244억 장비 수주",
-      "link": "https://www.hankyung.com/article/2026100663021",
-      "pubDate": "Tue, 06 Oct 2026 18:03:54 +0900"
     }
   ]
 }
