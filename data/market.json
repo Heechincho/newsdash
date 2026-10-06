@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:09:30.493Z",
+  "updatedAt": "2026-10-06T06:21:35.041Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.22,
-      "changePercent": -0.235,
-      "previousClose": 90.42,
+      "price": 89.3,
+      "changePercent": -0.145,
+      "previousClose": 92.87,
       "currency": "USD",
       "history": [
-        90.41999816894531,
         92.87000274658203,
         91.11000061035156,
-        89.22000122070312
+        89.43000030517578,
+        89.30000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4161.6,
-      "changePercent": 0.115,
-      "previousClose": 4186.7,
+      "price": 4146.1,
+      "changePercent": -0.257,
+      "previousClose": 4202.3,
       "currency": "USD",
       "history": [
-        4186.7001953125,
         4202.2998046875,
         4162.2998046875,
-        4161.60009765625
+        4156.7998046875,
+        4146.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.161,
-      "changePercent": -0.006,
-      "previousClose": 101.45,
+      "price": 102.276,
+      "changePercent": 0.107,
+      "previousClose": 102.1,
       "currency": "USD",
       "history": [
-        101.44999694824219,
         102.0999984741211,
         101.93000030517578,
-        102.16100311279297
+        102.16999816894531,
+        102.2760009765625
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "CJ제일제당, CJ더마켓 '마스코트' 공개…고객 참여로 이름 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261006034800030",
-      "pubDate": "Tue, 6 Oct 2026 09:02:02 +0900"
+      "title": "수협은행장 인선 장기화…2차 회의서도 선정 불발",
+      "link": "https://www.yna.co.kr/view/AKR20261006133600002",
+      "pubDate": "Tue, 6 Oct 2026 15:16:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SK케미칼, 영호남·제주 폐현수막 순환경제 협력 체계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20261006032700003",
-      "pubDate": "Tue, 6 Oct 2026 09:01:28 +0900"
+      "title": "마산대 졸업 베트남 유학생, 간호사 시험 합격해 지역 병원 취업",
+      "link": "https://www.yna.co.kr/view/AKR20261006130300052",
+      "pubDate": "Tue, 6 Oct 2026 15:06:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "스타벅스 \"블랙 글레이즈드 라떼, 누적 판매 3천만잔 넘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006031400030",
-      "pubDate": "Tue, 6 Oct 2026 08:58:59 +0900"
+      "title": "설악산 울산바위 인근 아파트 추진 소식에 속초지역서 반발 확산",
+      "link": "https://www.yna.co.kr/view/AKR20261006127600062",
+      "pubDate": "Tue, 6 Oct 2026 15:03:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권, '강소기업' 15개사 만날수 있는 콥데이 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261006032100008",
-      "pubDate": "Tue, 6 Oct 2026 08:57:58 +0900"
+      "title": "IPARK현대산업개발, 2천812억원 규모 부산 연산13구역 수주",
+      "link": "https://www.yna.co.kr/view/AKR20261006121700003",
+      "pubDate": "Tue, 6 Oct 2026 14:52:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "올해 청약시장 1순위 경쟁률 평균 5.6대 1…최고는 '아크로서초'",
-      "link": "https://www.yna.co.kr/view/AKR20261006030400003",
-      "pubDate": "Tue, 6 Oct 2026 08:53:39 +0900"
+      "title": "'한림 맛 페스티벌' 이달 9∼10일 열려",
+      "link": "https://www.yna.co.kr/view/AKR20261006123000056",
+      "pubDate": "Tue, 6 Oct 2026 14:52:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "빽다방, 라테 제품군 강화…바리스타 챔피언 협업 메뉴 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261006026300030",
-      "pubDate": "Tue, 6 Oct 2026 08:52:52 +0900"
+      "title": "LH 비주택 리모델링에 2천100호 신청…목표치 상회",
+      "link": "https://www.yna.co.kr/view/AKR20261006120900003",
+      "pubDate": "Tue, 6 Oct 2026 14:52:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "메리츠증권 \"증권사 3분기 순익 72% 급감…우려는 선반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006027700008",
-      "pubDate": "Tue, 6 Oct 2026 08:46:21 +0900"
+      "title": "[게시판] 하나카드, 신세계백화점과 '신세계 by JADE' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261006120300002",
+      "pubDate": "Tue, 6 Oct 2026 14:46:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'마운자로를 중고거래'…식약처, 약사법 위반 게시물 949건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261006025500017",
-      "pubDate": "Tue, 6 Oct 2026 08:39:14 +0900"
+      "title": "두산에너빌, 스페이스XAI에 가스터빈 1호 출하…첫 해외 수출",
+      "link": "https://www.yna.co.kr/view/AKR20261006119000003",
+      "pubDate": "Tue, 6 Oct 2026 14:46:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "CU, 소셜미디어 유행 탄 K-디저트 '피자절편' 8일 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261006022600030",
-      "pubDate": "Tue, 6 Oct 2026 08:35:39 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20261006116500011",
+      "pubDate": "Tue, 6 Oct 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "다올증권 \"삼성바이오, 유상증자에 목표가↓…성장동력은 유효\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006026000008",
-      "pubDate": "Tue, 6 Oct 2026 08:29:32 +0900"
+      "title": "금감원 \"금융권 해킹 공격 주소 28개 전파…국가 정보도 공유\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261006071451002",
+      "pubDate": "Tue, 6 Oct 2026 14:22:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "DS증권, 현대로템 목표가↓…\"환율 등 영향에 실적전망 하향\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006025300008",
-      "pubDate": "Tue, 6 Oct 2026 08:28:11 +0900"
+      "title": "오세훈 \"李대통령 정신승리 거듭…부동산 지옥만 길어질 뿐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261006110400004",
+      "pubDate": "Tue, 6 Oct 2026 14:21:56 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"텅 비었던 양양공항 북적대겠네\"…상하이 직항 열린다",
+      "link": "https://www.hankyung.com/article/202610065564g",
+      "pubDate": "Tue, 06 Oct 2026 14:19:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "10년 전 철수 아픔 씻는다…교촌 2027년 도쿄 간다",
+      "link": "https://www.hankyung.com/article/202610065446g",
+      "pubDate": "Tue, 06 Oct 2026 14:19:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경찰, 금융기관 해킹 정식수사로 전환…중수청 통보 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261006022251004",
-      "pubDate": "Tue, 6 Oct 2026 08:27:36 +0900"
+      "title": "네스프레소, 부산국제영화제 공식 스폰서…커피 라운지 운영",
+      "link": "https://www.yna.co.kr/view/AKR20261006114700030",
+      "pubDate": "Tue, 6 Oct 2026 14:15:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"10월 코스피 6,400∼7,600 예상…유동성 위축·금리 반락 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006024200008",
-      "pubDate": "Tue, 6 Oct 2026 08:23:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "iM증권, 심텍 목표가↑…\"AI CPU 수요확대 수혜로 지속 성장\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006023000008",
-      "pubDate": "Tue, 6 Oct 2026 08:15:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "소진공, 홈플러스 피해 소상공인 '대출연장·상환유예' 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261006023500030",
-      "pubDate": "Tue, 6 Oct 2026 08:15:05 +0900"
+      "title": "진안군-전북개발공사, 반값 공공임대주택 120세대 2031년 공급",
+      "link": "https://www.yna.co.kr/view/AKR20261006111900055",
+      "pubDate": "Tue, 6 Oct 2026 14:13:48 +0900"
     }
   ]
 }
