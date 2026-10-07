@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-07T16:19:18.756Z",
+  "updatedAt": "2026-10-07T21:23:52.023Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7793.1,
-      "changePercent": -0.33,
+      "price": 7801.77,
+      "changePercent": -0.219,
       "previousClose": 7651.54,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7722.72021484375,
         7773.9501953125,
         7818.93017578125,
-        7793.10009765625
+        7801.77001953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27472.883,
-      "changePercent": -0.46,
+      "price": 27538.691,
+      "changePercent": -0.222,
       "previousClose": 26861.06,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27190.859375,
         27477.310546875,
         27599.7890625,
-        27472.8828125
+        27538.69140625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51155.54,
-      "changePercent": -0.71,
+      "price": 51179.87,
+      "changePercent": -0.663,
       "previousClose": 50906.05,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51176.9609375,
         51267.8984375,
         51521.28125,
-        51155.5390625
+        51179.87109375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.56,
-      "changePercent": -0.984,
+      "price": 88.94,
+      "changePercent": -0.559,
       "previousClose": 91.11,
       "currency": "USD",
       "history": [
         91.11000061035156,
         89.43000030517578,
         89.44000244140625,
-        88.55999755859375
+        88.94000244140625
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4137.7,
-      "changePercent": -1.18,
+      "price": 4136.7,
+      "changePercent": -1.204,
       "previousClose": 4162.3,
       "currency": "USD",
       "history": [
         4162.2998046875,
         4156.7998046875,
         4187.10009765625,
-        4137.7001953125
+        4136.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.291,
-      "changePercent": 0.45,
+      "price": 102.295,
+      "changePercent": 0.454,
       "previousClose": 101.93,
       "currency": "USD",
       "history": [
         101.93000030517578,
         102.16999816894531,
         101.83000183105469,
-        102.29100036621094
+        102.29499816894531
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.35,
-      "changePercent": 2.265,
+      "price": 15.08,
+      "changePercent": 0.466,
       "previousClose": 16.39,
       "currency": "USD",
       "history": [
@@ -113,12 +113,60 @@
         15.3100004196167,
         15.520000457763672,
         15.010000228881836,
-        15.350000381469727
+        15.079999923706055
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "\"증권사, 레버리지ETF 판매前 '고객에 권유 불가' 등 자체 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007194200001",
+      "pubDate": "Thu, 8 Oct 2026 06:10:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "수조원대 다단계 사기 혐의 '콕 코인'…법적 판단 '감감'",
+      "link": "https://www.yna.co.kr/view/AKR20261006187900002",
+      "pubDate": "Thu, 8 Oct 2026 06:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국립종자원, 우수품종 경진대회 대통령상에 배추 '청명가을'",
+      "link": "https://www.yna.co.kr/view/AKR20261007128900030",
+      "pubDate": "Thu, 8 Oct 2026 06:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융지주 순이익 또 '역대 최대'…올해 상반기 17.6조원",
+      "link": "https://www.yna.co.kr/view/AKR20261007183100002",
+      "pubDate": "Thu, 8 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "시중은행 동산담보대출 연체율 9%대도…일반대출의 최고 11배",
+      "link": "https://www.yna.co.kr/view/AKR20261007171300002",
+      "pubDate": "Thu, 8 Oct 2026 05:57:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지방재정 버팀목 3년새 반토막…\"미래기금보다 자체 여력 보강\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007166300002",
+      "pubDate": "Thu, 8 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "피해기업 구제 늦어질라…기술 탈취 공정위 제재까지 703일 걸려",
+      "link": "https://www.yna.co.kr/view/AKR20261007156500002",
+      "pubDate": "Thu, 8 Oct 2026 05:53:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "또 당한 기업은행…사고기업 사장 세운 회사서 94억 금융사고",
+      "link": "https://www.yna.co.kr/view/AKR20261007195700002",
+      "pubDate": "Thu, 8 Oct 2026 05:51:00 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고",
@@ -160,54 +208,6 @@
       "title": "NH농협생명, 올해 신계약 CSM 1조 추진",
       "link": "https://www.yna.co.kr/view/AKR20261007198600002",
       "pubDate": "Wed, 7 Oct 2026 21:47:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민참여성장펀드 닷새간 3천300억원 팔려…목표액 55% 달성",
-      "link": "https://www.yna.co.kr/view/AKR20261007198200002",
-      "pubDate": "Wed, 7 Oct 2026 21:46:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "생물 '거울형 이성질체' 난제 푼 과학자들에 노벨화학상",
-      "link": "https://www.yna.co.kr/view/AKR20261007201500017",
-      "pubDate": "Wed, 7 Oct 2026 21:27:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"엔비디아칩 사려고 54조원 빚낸다\"…스페이스X, 400억달러 조달 추진",
-      "link": "https://www.hankyung.com/article/202610079441i",
-      "pubDate": "Wed, 07 Oct 2026 20:47:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "올해 수은 해킹 시도 283건, 작년의 8배…지난달 한은 공격도(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261007044852002",
-      "pubDate": "Wed, 7 Oct 2026 20:11:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007188851001",
-      "pubDate": "Wed, 7 Oct 2026 20:10:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이소영 \"모두의창업 업체 재지정해 새 플랫폼 구축…보안 조치\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007180951030",
-      "pubDate": "Wed, 7 Oct 2026 20:05:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"삼성전자, 중국산에 추월당할 수도\"…그야말로 '비상'",
-      "link": "https://www.hankyung.com/article/202610077420g",
-      "pubDate": "Wed, 07 Oct 2026 20:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "BGF, 자회사로 KNW 편입…반도체 소재에 힘준다",
-      "link": "https://www.hankyung.com/article/2026100794091",
-      "pubDate": "Wed, 07 Oct 2026 19:53:36 +0900"
     }
   ]
 }
