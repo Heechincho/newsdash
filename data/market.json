@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-07T08:57:45.527Z",
+  "updatedAt": "2026-10-07T16:19:18.756Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7818.93,
-      "changePercent": 0.579,
-      "previousClose": 7670.84,
+      "price": 7793.1,
+      "changePercent": -0.33,
+      "previousClose": 7651.54,
       "currency": "USD",
       "history": [
-        7651.5400390625,
         7666.4501953125,
         7722.72021484375,
         7773.9501953125,
-        7818.93017578125
+        7818.93017578125,
+        7793.10009765625
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27599.887,
-      "changePercent": 0.446,
-      "previousClose": 26797.54,
+      "price": 27472.883,
+      "changePercent": -0.46,
+      "previousClose": 26861.06,
       "currency": "USD",
       "history": [
-        26861.060546875,
         26871.599609375,
         27190.859375,
         27477.310546875,
-        27599.7890625
+        27599.7890625,
+        27472.8828125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51521.28,
-      "changePercent": 0.494,
-      "previousClose": 51349.92,
+      "price": 51155.54,
+      "changePercent": -0.71,
+      "previousClose": 50906.05,
       "currency": "USD",
       "history": [
-        50906.05078125,
         50926.55859375,
         51176.9609375,
         51267.8984375,
-        51521.28125
+        51521.28125,
+        51155.5390625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.5,
-      "changePercent": 0.067,
+      "price": 88.56,
+      "changePercent": -0.984,
       "previousClose": 91.11,
       "currency": "USD",
       "history": [
         91.11000061035156,
         89.43000030517578,
         89.44000244140625,
-        89.5
+        88.55999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4153.1,
-      "changePercent": -0.812,
+      "price": 4137.7,
+      "changePercent": -1.18,
       "previousClose": 4162.3,
       "currency": "USD",
       "history": [
         4162.2998046875,
         4156.7998046875,
         4187.10009765625,
-        4153.10009765625
+        4137.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.239,
-      "changePercent": 0.399,
+      "price": 102.291,
+      "changePercent": 0.45,
       "previousClose": 101.93,
       "currency": "USD",
       "history": [
         101.93000030517578,
         102.16999816894531,
         101.83000183105469,
-        102.23899841308594
+        102.29100036621094
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.25,
-      "changePercent": 1.599,
+      "price": 15.35,
+      "changePercent": 2.265,
       "previousClose": 16.39,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         15.3100004196167,
         15.520000457763672,
         15.010000228881836,
-        15.25
+        15.350000381469727
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "미래운용, '스테이트타워 남산' 매각 추진…KIC 등 입주",
-      "link": "https://www.yna.co.kr/view/AKR20261007178700008",
-      "pubDate": "Wed, 7 Oct 2026 17:44:51 +0900"
+      "source": "한국경제",
+      "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고",
+      "link": "https://www.hankyung.com/article/202610089559i",
+      "pubDate": "Thu, 08 Oct 2026 00:45:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "월가분석가 \"마이크론 PER19배 간다\"…4배인 삼전·SK하이닉스는?",
+      "link": "https://www.hankyung.com/article/202610079546i",
+      "pubDate": "Wed, 07 Oct 2026 23:46:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610079548i",
+      "pubDate": "Wed, 07 Oct 2026 23:36:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "개인 간 중고 거래도 신용카드로…혁신금융서비스 지정",
-      "link": "https://www.yna.co.kr/view/AKR20261007177900002",
-      "pubDate": "Wed, 7 Oct 2026 17:40:55 +0900"
+      "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261007207300072",
+      "pubDate": "Wed, 7 Oct 2026 23:05:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 10년물 국채 5.35%로 또 24년 만에 최고…인플레·재정우려에 국채 투매",
+      "link": "https://www.hankyung.com/article/202610079499i",
+      "pubDate": "Wed, 07 Oct 2026 22:11:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산바위 인근 아파트 건립 두고 지역사회 '엇갈린 시선'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007129351062",
-      "pubDate": "Wed, 7 Oct 2026 17:34:47 +0900"
+      "title": "인도중앙은행, 3년8개월만 첫 기준금리 인상…\"인플레 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007203000084",
+      "pubDate": "Wed, 7 Oct 2026 21:51:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산플랜트산업협의회 \"지역 전기요금제에 울산기여도 반영돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007172900057",
-      "pubDate": "Wed, 7 Oct 2026 17:33:30 +0900"
+      "title": "NH농협생명, 올해 신계약 CSM 1조 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261007198600002",
+      "pubDate": "Wed, 7 Oct 2026 21:47:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인사] 한국은행",
-      "link": "https://www.yna.co.kr/view/AKR20261007170900002",
-      "pubDate": "Wed, 7 Oct 2026 17:29:31 +0900"
+      "title": "국민참여성장펀드 닷새간 3천300억원 팔려…목표액 55% 달성",
+      "link": "https://www.yna.co.kr/view/AKR20261007198200002",
+      "pubDate": "Wed, 7 Oct 2026 21:46:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "에피소드컴퍼니, 140억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20261007174800008",
-      "pubDate": "Wed, 7 Oct 2026 17:29:15 +0900"
+      "title": "생물 '거울형 이성질체' 난제 푼 과학자들에 노벨화학상",
+      "link": "https://www.yna.co.kr/view/AKR20261007201500017",
+      "pubDate": "Wed, 7 Oct 2026 21:27:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"엔비디아칩 사려고 54조원 빚낸다\"…스페이스X, 400억달러 조달 추진",
+      "link": "https://www.hankyung.com/article/202610079441i",
+      "pubDate": "Wed, 07 Oct 2026 20:47:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "예보, OK금융그룹과 예별손보 주식매매계약서 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261007174300002",
-      "pubDate": "Wed, 7 Oct 2026 17:27:33 +0900"
+      "title": "올해 수은 해킹 시도 283건, 작년의 8배…지난달 한은 공격도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261007044852002",
+      "pubDate": "Wed, 7 Oct 2026 20:11:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-      "link": "https://www.yna.co.kr/view/AKR20261007173900002",
-      "pubDate": "Wed, 7 Oct 2026 17:26:31 +0900"
+      "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261007188851001",
+      "pubDate": "Wed, 7 Oct 2026 20:10:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우상호 강원지사, 日 돗토리현 지사와 화상면담…교류 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261007172300062",
-      "pubDate": "Wed, 7 Oct 2026 17:18:32 +0900"
+      "title": "이소영 \"모두의창업 업체 재지정해 새 플랫폼 구축…보안 조치\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261007180951030",
+      "pubDate": "Wed, 7 Oct 2026 20:05:03 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "유가 반등에 국고채 금리 대체로 상승…3년물 3.961%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007163251008",
-      "pubDate": "Wed, 7 Oct 2026 17:17:54 +0900"
+      "source": "한국경제",
+      "title": "\"삼성전자, 중국산에 추월당할 수도\"…그야말로 '비상'",
+      "link": "https://www.hankyung.com/article/202610077420g",
+      "pubDate": "Wed, 07 Oct 2026 20:00:01 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "금융권 해킹 도구 '아르텍스' 한국어판 등장…탐지규칙도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261007170700017",
-      "pubDate": "Wed, 7 Oct 2026 17:15:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "법원에 제동걸린 '시총 미달 상폐'…거래소 \"후속 상폐절차 유예\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007128851008",
-      "pubDate": "Wed, 7 Oct 2026 17:15:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "NH농협은행, 비대면 주담대 금리 0.1%p 인하…12일부터",
-      "link": "https://www.yna.co.kr/view/AKR20261007171500002",
-      "pubDate": "Wed, 7 Oct 2026 17:14:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "실외기 1대로 냉난방…삼성·LG전자, 히트펌프 보급 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20261007155200003",
-      "pubDate": "Wed, 7 Oct 2026 16:58:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이소영 장관 \"최저임금 업종별 차등 적용, 고민 필요한 부분\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007166500030",
-      "pubDate": "Wed, 7 Oct 2026 16:56:45 +0900"
+      "source": "한국경제",
+      "title": "BGF, 자회사로 KNW 편입…반도체 소재에 힘준다",
+      "link": "https://www.hankyung.com/article/2026100794091",
+      "pubDate": "Wed, 07 Oct 2026 19:53:36 +0900"
     }
   ]
 }
