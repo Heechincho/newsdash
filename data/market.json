@@ -1,213 +1,146 @@
 {
-  "updatedAt": "2026-10-06T23:00:58.538Z",
+  "updatedAt": "2026-10-07T02:19:57.095Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7818.93,
-      "changePercent": 0.579,
-      "previousClose": 7670.84,
-      "currency": "USD",
-      "history": [
-        7651.5400390625,
-        7666.4501953125,
-        7722.72021484375,
-        7773.9501953125,
-        7818.93017578125
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=5d"
     },
     {
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27599.887,
-      "changePercent": 0.446,
-      "previousClose": 26797.54,
-      "currency": "USD",
-      "history": [
-        26861.060546875,
-        26871.599609375,
-        27190.859375,
-        27477.310546875,
-        27599.88671875
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
     },
     {
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51521.28,
-      "changePercent": 0.494,
-      "previousClose": 51349.92,
-      "currency": "USD",
-      "history": [
-        50906.05078125,
-        50926.55859375,
-        51176.9609375,
-        51267.8984375,
-        51521.28125
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&range=5d"
     },
     {
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.71,
-      "changePercent": 0.302,
-      "previousClose": 92.87,
-      "currency": "USD",
-      "history": [
-        92.87000274658203,
-        91.11000061035156,
-        89.43000030517578,
-        89.70999908447266
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=1d&range=5d"
     },
     {
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4190.3,
-      "changePercent": 0.076,
-      "previousClose": 4202.3,
-      "currency": "USD",
-      "history": [
-        4202.2998046875,
-        4162.2998046875,
-        4156.7998046875,
-        4190.2998046875
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?interval=1d&range=5d"
     },
     {
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.845,
-      "changePercent": -0.315,
-      "previousClose": 102.1,
-      "currency": "USD",
-      "history": [
-        102.0999984741211,
-        101.93000030517578,
-        102.16999816894531,
-        101.84500122070312
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=1d&range=5d"
     },
     {
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.01,
-      "changePercent": -3.286,
-      "previousClose": 16.34,
-      "currency": "USD",
-      "history": [
-        16.34000015258789,
-        16.389999389648438,
-        15.3100004196167,
-        15.520000457763672,
-        15.010000228881836
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?interval=1d&range=5d"
     }
   ],
   "news": [
     {
       "source": "연합뉴스",
-      "title": "롯데바이오, 알보텍과 생산 수주 계약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261007020300017",
-      "pubDate": "Wed, 7 Oct 2026 07:53:28 +0900"
+      "title": "고가 아파트 약세에 서울 아파트 경매 낙찰가율 1년7개월만 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261007075100003",
+      "pubDate": "Wed, 7 Oct 2026 11:14:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261007014400011",
-      "pubDate": "Wed, 7 Oct 2026 07:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "세계 경제 분절화 속 한일 협력은…미래경제포럼 11월3일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261006125800898",
-      "pubDate": "Wed, 7 Oct 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "3주 파업 예고한 삼성바이오 노조…생산·수주 불확실성 커진다",
-      "link": "https://www.yna.co.kr/view/AKR20261006102700017",
-      "pubDate": "Wed, 7 Oct 2026 06:33:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"농업용 드론 보험금 지급 3년 새 4.7배…안전관리 과제\"",
-      "link": "https://www.yna.co.kr/view/AKR20261006127300030",
-      "pubDate": "Wed, 7 Oct 2026 06:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "스마트시티 서비스 10개 중 4개 운영차질…국비 환수는 0건",
-      "link": "https://www.yna.co.kr/view/AKR20261006124400003",
-      "pubDate": "Wed, 7 Oct 2026 06:15:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "건설현장 사망자 절반 이상이 추락사…5년여간 642명",
-      "link": "https://www.yna.co.kr/view/AKR20261006146400003",
-      "pubDate": "Wed, 7 Oct 2026 06:09:00 +0900"
+      "title": "취임 100일 이장섭 청주시장 \"메가성장 청주 본격 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007062000064",
+      "pubDate": "Wed, 7 Oct 2026 11:12:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"돈 싸들고 줄부터 섰다\"…삼전닉스 '대박 전망' 나온 이유 [테크로그]",
-      "link": "https://www.hankyung.com/article/202610017885g",
-      "pubDate": "Wed, 07 Oct 2026 06:00:14 +0900"
+      "title": "대만 보디빌더 400명이 대회때 입었다는 K애슬레저 뭐길래",
+      "link": "https://www.hankyung.com/article/202610077823i",
+      "pubDate": "Wed, 07 Oct 2026 11:12:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"알리익스프레스 관련 소비자 피해구제 신청 4년간 1천건 육박\"",
-      "link": "https://www.yna.co.kr/view/AKR20260930165200001",
-      "pubDate": "Wed, 7 Oct 2026 06:00:13 +0900"
+      "title": "'24년 동결' 국제선 여객 인천공항 이용료 5천원 인상 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261007076400065",
+      "pubDate": "Wed, 7 Oct 2026 11:07:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "원전수출 시대 본격 추진…산·학·연·관 '리더스포럼' 출범",
-      "link": "https://www.yna.co.kr/view/AKR20261006182500003",
-      "pubDate": "Wed, 7 Oct 2026 06:00:03 +0900"
+      "title": "초록우산-교육학술정보원, 국제교육개발협력 공동사업 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261007073500371",
+      "pubDate": "Wed, 7 Oct 2026 11:07:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 토스뱅크, 'AI 채팅 에이전트' 도입",
+      "link": "https://www.yna.co.kr/view/AKR20261007065800002",
+      "pubDate": "Wed, 7 Oct 2026 11:06:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"정산 빨라져도 눈앞이 캄캄\"…쿠팡·다이소 거래처들 '긴장' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610064731i",
-      "pubDate": "Wed, 07 Oct 2026 06:00:03 +0900"
+      "title": "[속보] LG전자 3분기 영업익 7818억원…전년比 13.5%↑",
+      "link": "https://www.hankyung.com/article/2026100777907",
+      "pubDate": "Wed, 07 Oct 2026 11:02:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "실손24 EMR업체에 지원금 72억원…청구 실적 없어도 유지비 준다",
-      "link": "https://www.yna.co.kr/view/AKR20261006188200002",
-      "pubDate": "Wed, 7 Oct 2026 05:57:00 +0900"
+      "title": "건설현장 불법하도급 연말까지 집중단속…공공현장 275곳 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261007029600003",
+      "pubDate": "Wed, 7 Oct 2026 11:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기업은행, '가짜 기술평가' 의심 기업들에 1천500억원대 대출",
-      "link": "https://www.yna.co.kr/view/AKR20261006172600002",
-      "pubDate": "Wed, 7 Oct 2026 05:55:00 +0900"
+      "title": "국립해양조사원, AI 활용해 수온·염분 자료 처리 간소화",
+      "link": "https://www.yna.co.kr/view/AKR20261007053000051",
+      "pubDate": "Wed, 7 Oct 2026 11:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "은행 해킹 피해자 집단소송 움직임…로펌서 손해배상 원고 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261006170400002",
-      "pubDate": "Wed, 7 Oct 2026 05:53:00 +0900"
+      "title": "이형일, 상의 등 경제6단체 간담회…소통과 청년정책 강조",
+      "link": "https://www.yna.co.kr/view/AKR20261007066800002",
+      "pubDate": "Wed, 7 Oct 2026 11:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해외IB, 올해 한국 성장 전망치 3.5%로 상향…JP모건 4% 제시",
-      "link": "https://www.yna.co.kr/view/AKR20261006176700002",
-      "pubDate": "Wed, 7 Oct 2026 05:51:00 +0900"
+      "title": "첫 법정기념일 맞은 '한식의 날'…23∼25일 한식대축제",
+      "link": "https://www.yna.co.kr/view/AKR20261007050300030",
+      "pubDate": "Wed, 7 Oct 2026 11:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "8월 대구 제조업 생산 4.8%↑·경북 3.2%↓…수출은 동반 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261007071000053",
+      "pubDate": "Wed, 7 Oct 2026 10:56:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한운용, 'SOL 글로벌DRAM반도체플러스 ETF' 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261007071800008",
+      "pubDate": "Wed, 7 Oct 2026 10:52:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 빙그레 따옴, 아름다운 우리말 상표 선정대회 최우수상",
+      "link": "https://www.yna.co.kr/view/AKR20261007061300030",
+      "pubDate": "Wed, 7 Oct 2026 10:50:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "HS효성, 한글날 맞아 'HS효성체' 무료 배포",
+      "link": "https://www.yna.co.kr/view/AKR20261007070200003",
+      "pubDate": "Wed, 7 Oct 2026 10:50:43 +0900"
     }
   ]
 }
