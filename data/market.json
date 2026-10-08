@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:12:24.648Z",
+  "updatedAt": "2026-10-08T07:31:52.012Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         27190.859375,
         27477.310546875,
         27599.7890625,
-        27538.69140625
+        27538.689453125
       ],
       "ok": true
     },
@@ -39,7 +39,7 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51179.87,
+      "price": 51179.9,
       "changePercent": -0.663,
       "previousClose": 50906.05,
       "currency": "USD",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.12,
-      "changePercent": 0.952,
-      "previousClose": 91.11,
+      "price": 91.3,
+      "changePercent": 3.421,
+      "previousClose": 89.43,
       "currency": "USD",
       "history": [
-        91.11000061035156,
         89.43000030517578,
         89.44000244140625,
-        89.12000274658203
+        88.27999877929688,
+        91.30000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4153.6,
-      "changePercent": 0.312,
-      "previousClose": 4162.3,
+      "price": 4152.7,
+      "changePercent": 0.29,
+      "previousClose": 4156.8,
       "currency": "USD",
       "history": [
-        4162.2998046875,
         4156.7998046875,
         4187.10009765625,
-        4153.60009765625
+        4140.7001953125,
+        4152.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.253,
-      "changePercent": 0.011,
-      "previousClose": 101.93,
+      "price": 102.295,
+      "changePercent": 0.052,
+      "previousClose": 102.17,
       "currency": "USD",
       "history": [
-        101.93000030517578,
         102.16999816894531,
         101.83000183105469,
-        102.25299835205078
+        102.23999786376953,
+        102.29499816894531
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.08,
-      "changePercent": 0.466,
-      "previousClose": 16.39,
+      "price": 15.67,
+      "changePercent": 3.91,
+      "previousClose": 15.31,
       "currency": "USD",
       "history": [
-        16.389999389648438,
         15.3100004196167,
         15.520000457763672,
         15.010000228881836,
-        15.079999923706055
+        15.079999923706055,
+        15.670000076293945
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 신한금융, 민단 창단 80주년 기념식서 재일교포 금융상담",
-      "link": "https://www.yna.co.kr/view/AKR20261008060300002",
-      "pubDate": "Thu, 8 Oct 2026 10:04:39 +0900"
+      "title": "셀온? 리밸런싱?…삼성전자 역대 최대 실적에도 코스피 2.6% 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008093451008",
+      "pubDate": "Thu, 8 Oct 2026 16:27:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "광주경총, 안전시설 개선비 회사당 300만원 지원…120개사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261008058200054",
-      "pubDate": "Thu, 8 Oct 2026 10:03:52 +0900"
+      "title": "한글날 맞아 기업 '우리말 마케팅'…뉴욕 타임스퀘어 광고도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261008035052030",
+      "pubDate": "Thu, 8 Oct 2026 16:27:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "하나은행, 1천343억원 규모 장기연체채권 소각",
-      "link": "https://www.yna.co.kr/view/AKR20261008059000002",
-      "pubDate": "Thu, 8 Oct 2026 10:03:30 +0900"
+      "title": "IBK기업은행 \"취약차주 4천700여곳에 2천138억원 채무조정\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008158500002",
+      "pubDate": "Thu, 8 Oct 2026 16:21:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산 공립유치원·초등·특수교사 임용시험 경쟁률 3.41대 1",
-      "link": "https://www.yna.co.kr/view/AKR20261007153300057",
-      "pubDate": "Thu, 8 Oct 2026 10:00:04 +0900"
+      "title": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다",
+      "link": "https://www.yna.co.kr/view/AKR20261008158200063",
+      "pubDate": "Thu, 8 Oct 2026 16:19:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업부, CPTPP 가입 관련 서비스·지식재산권 업계 의견 수렴",
-      "link": "https://www.yna.co.kr/view/AKR20261007182700003",
-      "pubDate": "Thu, 8 Oct 2026 10:00:04 +0900"
+      "title": "'반도체 밸류체인 투자' 등 ETF 4종 13일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261008157800008",
+      "pubDate": "Thu, 8 Oct 2026 16:15:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "피싱에 속은 모친에게 은행원이 실수로 아들 예금을 깨줬다면?",
-      "link": "https://www.yna.co.kr/view/AKR20261008046900002",
-      "pubDate": "Thu, 8 Oct 2026 10:00:01 +0900"
+      "title": "코스피, 삼전 영업익 107조에도 2.6% 급락해 6,600대로 털썩(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008143151008",
+      "pubDate": "Thu, 8 Oct 2026 16:09:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "케이뱅크, 18일 새벽 서비스 일시 중단…\"시스템 업데이트\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008052900002",
-      "pubDate": "Thu, 8 Oct 2026 09:54:01 +0900"
+      "title": "토스증권 김규빈 대표 연임…\"윤리·준법, 성장보다 앞에 둘 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008105800008",
+      "pubDate": "Thu, 8 Oct 2026 16:07:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "충남도, 외국인 지방세 체납자 전용보험도 압류 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261008056900063",
-      "pubDate": "Thu, 8 Oct 2026 09:53:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"겨울 日여행지 넓힌다\"…제주항공, 가고시마·하코다테 노선 운항 재개",
-      "link": "https://www.hankyung.com/article/202610080128g",
-      "pubDate": "Thu, 08 Oct 2026 09:51:52 +0900"
+      "title": "거제시·삼성중공업·거제공고, 지역인재 채용 업무 협약",
+      "link": "https://www.yna.co.kr/view/AKR20261008152600052",
+      "pubDate": "Thu, 8 Oct 2026 16:04:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "GS건설, '연제 갤러리 자이' 견본주택 오픈…84㎡ 499가구 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261008054000051",
-      "pubDate": "Thu, 8 Oct 2026 09:51:48 +0900"
+      "title": "원/달러 환율 1.9원 내린 1,338.5원…박스권 등락",
+      "link": "https://www.yna.co.kr/view/AKR20261008151700002",
+      "pubDate": "Thu, 8 Oct 2026 16:01:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 한국소비자원, 치과 임플란트 피해 예방 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20261008046700030",
-      "pubDate": "Thu, 8 Oct 2026 09:50:45 +0900"
+      "title": "\"해외 예측시장 플랫폼 거래대금 2년 만에 230배로 불어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008145900002",
+      "pubDate": "Thu, 8 Oct 2026 15:59:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 한국디지털에셋, 피그먼트와 맞손…이더리움 스테이킹 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261008054200002",
-      "pubDate": "Thu, 8 Oct 2026 09:46:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LG에너지솔루션, 3분기 영업익 7560억원…분기 최대 매출",
-      "link": "https://www.hankyung.com/article/202610080287g",
-      "pubDate": "Thu, 08 Oct 2026 09:45:33 +0900"
+      "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008050351008",
+      "pubDate": "Thu, 8 Oct 2026 15:54:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "에쓰오일, 사무직 신입사원 채용…내달 14일까지 온라인 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261008053700003",
-      "pubDate": "Thu, 8 Oct 2026 09:45:08 +0900"
+      "title": "삼성전자, 역대 최대 실적에도 2%대 급락…SK하이닉스도 내려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008048651008",
+      "pubDate": "Thu, 8 Oct 2026 15:53:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "8월 경상수지 461.1억달러 흑자, 역대 2위…반도체 수출 호조(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261008019551002",
-      "pubDate": "Thu, 8 Oct 2026 09:43:02 +0900"
+      "title": "'농어촌 기본소득' 시범사업 18개군 추가 공모…국비 50%로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261008148300030",
+      "pubDate": "Thu, 8 Oct 2026 15:50:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "우리자산신탁, 해운대2구역 통합재건축 주민대표단과 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20261008143200002",
+      "pubDate": "Thu, 8 Oct 2026 15:48:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이억원 \"단일 레버리지 ETF, 여러 의견 듣고 도입\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008092451002",
+      "pubDate": "Thu, 8 Oct 2026 15:47:49 +0900"
     }
   ]
 }
