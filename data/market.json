@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T21:23:52.023Z",
+  "updatedAt": "2026-10-08T01:12:24.648Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.94,
-      "changePercent": -0.559,
+      "price": 89.12,
+      "changePercent": 0.952,
       "previousClose": 91.11,
       "currency": "USD",
       "history": [
         91.11000061035156,
         89.43000030517578,
         89.44000244140625,
-        88.94000244140625
+        89.12000274658203
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4136.7,
-      "changePercent": -1.204,
+      "price": 4153.6,
+      "changePercent": 0.312,
       "previousClose": 4162.3,
       "currency": "USD",
       "history": [
         4162.2998046875,
         4156.7998046875,
         4187.10009765625,
-        4136.7001953125
+        4153.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.295,
-      "changePercent": 0.454,
+      "price": 102.253,
+      "changePercent": 0.011,
       "previousClose": 101.93,
       "currency": "USD",
       "history": [
         101.93000030517578,
         102.16999816894531,
         101.83000183105469,
-        102.29499816894531
+        102.25299835205078
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "\"증권사, 레버리지ETF 판매前 '고객에 권유 불가' 등 자체 조치\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007194200001",
-      "pubDate": "Thu, 8 Oct 2026 06:10:00 +0900"
+      "title": "[게시판] 신한금융, 민단 창단 80주년 기념식서 재일교포 금융상담",
+      "link": "https://www.yna.co.kr/view/AKR20261008060300002",
+      "pubDate": "Thu, 8 Oct 2026 10:04:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수조원대 다단계 사기 혐의 '콕 코인'…법적 판단 '감감'",
-      "link": "https://www.yna.co.kr/view/AKR20261006187900002",
-      "pubDate": "Thu, 8 Oct 2026 06:01:00 +0900"
+      "title": "광주경총, 안전시설 개선비 회사당 300만원 지원…120개사 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261008058200054",
+      "pubDate": "Thu, 8 Oct 2026 10:03:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국립종자원, 우수품종 경진대회 대통령상에 배추 '청명가을'",
-      "link": "https://www.yna.co.kr/view/AKR20261007128900030",
-      "pubDate": "Thu, 8 Oct 2026 06:00:06 +0900"
+      "title": "하나은행, 1천343억원 규모 장기연체채권 소각",
+      "link": "https://www.yna.co.kr/view/AKR20261008059000002",
+      "pubDate": "Thu, 8 Oct 2026 10:03:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융지주 순이익 또 '역대 최대'…올해 상반기 17.6조원",
-      "link": "https://www.yna.co.kr/view/AKR20261007183100002",
-      "pubDate": "Thu, 8 Oct 2026 06:00:00 +0900"
+      "title": "울산 공립유치원·초등·특수교사 임용시험 경쟁률 3.41대 1",
+      "link": "https://www.yna.co.kr/view/AKR20261007153300057",
+      "pubDate": "Thu, 8 Oct 2026 10:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "시중은행 동산담보대출 연체율 9%대도…일반대출의 최고 11배",
-      "link": "https://www.yna.co.kr/view/AKR20261007171300002",
-      "pubDate": "Thu, 8 Oct 2026 05:57:01 +0900"
+      "title": "산업부, CPTPP 가입 관련 서비스·지식재산권 업계 의견 수렴",
+      "link": "https://www.yna.co.kr/view/AKR20261007182700003",
+      "pubDate": "Thu, 8 Oct 2026 10:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "지방재정 버팀목 3년새 반토막…\"미래기금보다 자체 여력 보강\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007166300002",
-      "pubDate": "Thu, 8 Oct 2026 05:55:00 +0900"
+      "title": "피싱에 속은 모친에게 은행원이 실수로 아들 예금을 깨줬다면?",
+      "link": "https://www.yna.co.kr/view/AKR20261008046900002",
+      "pubDate": "Thu, 8 Oct 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "피해기업 구제 늦어질라…기술 탈취 공정위 제재까지 703일 걸려",
-      "link": "https://www.yna.co.kr/view/AKR20261007156500002",
-      "pubDate": "Thu, 8 Oct 2026 05:53:01 +0900"
+      "title": "케이뱅크, 18일 새벽 서비스 일시 중단…\"시스템 업데이트\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008052900002",
+      "pubDate": "Thu, 8 Oct 2026 09:54:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "또 당한 기업은행…사고기업 사장 세운 회사서 94억 금융사고",
-      "link": "https://www.yna.co.kr/view/AKR20261007195700002",
-      "pubDate": "Thu, 8 Oct 2026 05:51:00 +0900"
+      "title": "충남도, 외국인 지방세 체납자 전용보험도 압류 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261008056900063",
+      "pubDate": "Thu, 8 Oct 2026 09:53:51 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고",
-      "link": "https://www.hankyung.com/article/202610089559i",
-      "pubDate": "Thu, 08 Oct 2026 00:45:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "월가분석가 \"마이크론 PER19배 간다\"…4배인 삼전·SK하이닉스는?",
-      "link": "https://www.hankyung.com/article/202610079546i",
-      "pubDate": "Wed, 07 Oct 2026 23:46:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "고금리 누가 이길까…메타 '골든크로스'에 마이크론 목표가 3000달러 [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202610079548i",
-      "pubDate": "Wed, 07 Oct 2026 23:36:37 +0900"
+      "title": "\"겨울 日여행지 넓힌다\"…제주항공, 가고시마·하코다테 노선 운항 재개",
+      "link": "https://www.hankyung.com/article/202610080128g",
+      "pubDate": "Thu, 08 Oct 2026 09:51:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20261007207300072",
-      "pubDate": "Wed, 7 Oct 2026 23:05:07 +0900"
+      "title": "GS건설, '연제 갤러리 자이' 견본주택 오픈…84㎡ 499가구 규모",
+      "link": "https://www.yna.co.kr/view/AKR20261008054000051",
+      "pubDate": "Thu, 8 Oct 2026 09:51:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 한국소비자원, 치과 임플란트 피해 예방 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20261008046700030",
+      "pubDate": "Thu, 8 Oct 2026 09:50:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 한국디지털에셋, 피그먼트와 맞손…이더리움 스테이킹 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261008054200002",
+      "pubDate": "Thu, 8 Oct 2026 09:46:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美 10년물 국채 5.35%로 또 24년 만에 최고…인플레·재정우려에 국채 투매",
-      "link": "https://www.hankyung.com/article/202610079499i",
-      "pubDate": "Wed, 07 Oct 2026 22:11:48 +0900"
+      "title": "LG에너지솔루션, 3분기 영업익 7560억원…분기 최대 매출",
+      "link": "https://www.hankyung.com/article/202610080287g",
+      "pubDate": "Thu, 08 Oct 2026 09:45:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "인도중앙은행, 3년8개월만 첫 기준금리 인상…\"인플레 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007203000084",
-      "pubDate": "Wed, 7 Oct 2026 21:51:03 +0900"
+      "title": "에쓰오일, 사무직 신입사원 채용…내달 14일까지 온라인 접수",
+      "link": "https://www.yna.co.kr/view/AKR20261008053700003",
+      "pubDate": "Thu, 8 Oct 2026 09:45:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "NH농협생명, 올해 신계약 CSM 1조 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261007198600002",
-      "pubDate": "Wed, 7 Oct 2026 21:47:23 +0900"
+      "title": "8월 경상수지 461.1억달러 흑자, 역대 2위…반도체 수출 호조(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261008019551002",
+      "pubDate": "Thu, 8 Oct 2026 09:43:02 +0900"
     }
   ]
 }
