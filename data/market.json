@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-09T13:50:54.409Z",
+  "updatedAt": "2026-10-09T19:19:49.492Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7785.72,
-      "changePercent": 0.262,
+      "price": 7817.72,
+      "changePercent": 0.674,
       "previousClose": 7722.72,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7818.93017578125,
         7801.77001953125,
         7765.35986328125,
-        7785.72021484375
+        7817.72021484375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27271.969,
-      "changePercent": 0.289,
+      "price": 27383.012,
+      "changePercent": 0.697,
       "previousClose": 27190.86,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27599.7890625,
         27538.689453125,
         27193.33984375,
-        27271.96875
+        27383.01171875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51419.43,
-      "changePercent": 0.367,
+      "price": 51738.42,
+      "changePercent": 0.989,
       "previousClose": 51176.96,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51521.28125,
         51179.87109375,
         51231.640625,
-        51419.4296875
+        51738.421875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.31,
-      "changePercent": -0.197,
+      "price": 91.17,
+      "changePercent": -0.35,
       "previousClose": 89.43,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         89.44000244140625,
         88.27999877929688,
         91.48999786376953,
-        91.30999755859375
+        91.16999816894531
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4212.4,
-      "changePercent": 1.333,
+      "price": 4224.4,
+      "changePercent": 1.621,
       "previousClose": 4156.8,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4187.10009765625,
         4140.7001953125,
         4157,
-        4212.39990234375
+        4224.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.297,
-      "changePercent": 0.156,
+      "price": 102.21,
+      "changePercent": 0.07,
       "previousClose": 102.17,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.83000183105469,
         102.23999786376953,
         102.13999938964844,
-        102.2969970703125
+        102.20999908447266
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.08,
-      "changePercent": -2.143,
+      "price": 14.82,
+      "changePercent": -3.829,
       "previousClose": 15.52,
       "currency": "USD",
       "history": [
@@ -116,12 +116,18 @@
         15.010000228881836,
         15.079999923706055,
         15.40999984741211,
-        15.079999923706055
+        14.819999694824219
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202610103126i",
+      "pubDate": "Sat, 10 Oct 2026 02:17:12 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"한국 여행 필수코스\" 외국인 몰리더니…'매출 폭등' 대반전 [현장+]",
@@ -178,13 +184,13 @@
     },
     {
       "source": "한국경제",
-      "title": "주민 반발·자원 부족…인도 'AI 데이터센터' 확충 제동 걸리나",
+      "title": "주민 반발에…印 '데이터센터' 확충 제동",
       "link": "https://www.hankyung.com/article/2026100929071",
       "pubDate": "Fri, 09 Oct 2026 18:02:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "주파수 탐내는 머스크…美 이동통신 3사 '긴장'",
+      "title": "美 전역 주파수 탐내는 머스크…통신 3사 '긴장'",
       "link": "https://www.hankyung.com/article/2026100929081",
       "pubDate": "Fri, 09 Oct 2026 18:02:15 +0900"
     },
@@ -202,15 +208,9 @@
     },
     {
       "source": "한국경제",
-      "title": "[단독] 메모리 넘어 AI 부품·전력 기기 확보전…빅테크 '5년 계약' 줄섰다",
+      "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다",
       "link": "https://www.hankyung.com/article/2026100929011",
       "pubDate": "Fri, 09 Oct 2026 17:49:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다",
-      "link": "https://www.hankyung.com/article/2026100929291",
-      "pubDate": "Fri, 09 Oct 2026 17:47:49 +0900"
     }
   ]
 }
