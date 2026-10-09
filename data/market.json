@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-09T06:44:29.390Z",
+  "updatedAt": "2026-10-09T13:50:54.409Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7765.36,
-      "changePercent": -0.467,
-      "previousClose": 7666.45,
+      "price": 7785.72,
+      "changePercent": 0.262,
+      "previousClose": 7722.72,
       "currency": "USD",
       "history": [
-        7722.72021484375,
         7773.9501953125,
         7818.93017578125,
         7801.77001953125,
-        7765.35986328125
+        7765.35986328125,
+        7785.72021484375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27193.34,
-      "changePercent": -1.254,
-      "previousClose": 26871.6,
+      "price": 27271.969,
+      "changePercent": 0.289,
+      "previousClose": 27190.86,
       "currency": "USD",
       "history": [
-        27190.859375,
         27477.310546875,
         27599.7890625,
         27538.689453125,
-        27193.33984375
+        27193.33984375,
+        27271.96875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51231.64,
-      "changePercent": 0.101,
-      "previousClose": 50926.56,
+      "price": 51419.43,
+      "changePercent": 0.367,
+      "previousClose": 51176.96,
       "currency": "USD",
       "history": [
-        51176.9609375,
         51267.8984375,
         51521.28125,
         51179.87109375,
-        51231.640625
+        51231.640625,
+        51419.4296875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.8,
-      "changePercent": -0.754,
+      "price": 91.31,
+      "changePercent": -0.197,
       "previousClose": 89.43,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         89.44000244140625,
         88.27999877929688,
         91.48999786376953,
-        90.80000305175781
+        91.30999755859375
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4216.5,
-      "changePercent": 1.431,
+      "price": 4212.4,
+      "changePercent": 1.333,
       "previousClose": 4156.8,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4187.10009765625,
         4140.7001953125,
         4157,
-        4216.5
+        4212.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.047,
-      "changePercent": -0.089,
+      "price": 102.297,
+      "changePercent": 0.156,
       "previousClose": 102.17,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.83000183105469,
         102.23999786376953,
         102.13999938964844,
-        102.0469970703125
+        102.2969970703125
       ],
       "ok": true
     },
@@ -107,110 +107,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.41,
-      "changePercent": 2.188,
-      "previousClose": 15.31,
+      "price": 15.08,
+      "changePercent": -2.143,
+      "previousClose": 15.52,
       "currency": "USD",
       "history": [
-        15.3100004196167,
         15.520000457763672,
         15.010000228881836,
         15.079999923706055,
-        15.40999984741211
+        15.40999984741211,
+        15.079999923706055
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20261009043000002",
-      "pubDate": "Fri, 9 Oct 2026 15:33:31 +0900"
+      "source": "한국경제",
+      "title": "\"한국 여행 필수코스\" 외국인 몰리더니…'매출 폭등' 대반전 [현장+]",
+      "link": "https://www.hankyung.com/article/202610081720g",
+      "pubDate": "Fri, 09 Oct 2026 20:30:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "일·중 홀린 프리미엄 군산 김…1억달러 수출 계약 성사",
-      "link": "https://www.hankyung.com/article/202610092706i",
-      "pubDate": "Fri, 09 Oct 2026 15:10:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20261009039200011",
-      "pubDate": "Fri, 9 Oct 2026 15:00:00 +0900"
+      "title": "비상장주식의 상속, 온전한 기업승계를 위하여 [세종의 가사분쟁 솔루션]",
+      "link": "https://www.hankyung.com/article/202610081327i",
+      "pubDate": "Fri, 09 Oct 2026 20:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 최태원 \"호남권 반도체 규모는 용인 3분의 2 수준\"",
-      "link": "https://www.hankyung.com/article/2026100926837",
-      "pubDate": "Fri, 09 Oct 2026 14:55:50 +0900"
+      "title": "\"우리만 팝니다\"…면세점 '독점' 경쟁, 이유 있었네",
+      "link": "https://www.hankyung.com/article/202610080071g",
+      "pubDate": "Fri, 09 Oct 2026 19:26:57 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[속보] 최태원 \"호남 반도체 인프라 늦어지면 팹 먼저…비용 안 아낀다\"",
-      "link": "https://www.hankyung.com/article/2026100926857",
-      "pubDate": "Fri, 09 Oct 2026 14:55:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "김승수 \"한국어교원 10명 중 7명은 활동 안해…고용·처우 열악\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009038600001",
-      "pubDate": "Fri, 9 Oct 2026 14:53:46 +0900"
+      "title": "떡볶이부터 붕어빵까지…노재헌의 'K푸드 외교' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610092990i",
+      "pubDate": "Fri, 09 Oct 2026 19:03:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한국서 '1000억 잭팟'…길거리서 줄 세우던 中 브랜드 결국 일냈다 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202610080165g",
-      "pubDate": "Fri, 09 Oct 2026 13:00:02 +0900"
+      "title": "제7대 경제단체 될까…박종범 \"제도 기반 마련에 교감”",
+      "link": "https://www.hankyung.com/article/202610092969i",
+      "pubDate": "Fri, 09 Oct 2026 18:23:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20261009029500030",
-      "pubDate": "Fri, 9 Oct 2026 12:01:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "IPARK현대산업개발, '5천500억원' 숙대입구역세권 재개발 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261009028100003",
-      "pubDate": "Fri, 9 Oct 2026 11:10:05 +0900"
+      "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009052500063",
+      "pubDate": "Fri, 9 Oct 2026 18:20:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "백화점까지 진출한 '페이스페이'…신촌 현대百에 토스 입성",
-      "link": "https://www.hankyung.com/article/202610092505i",
-      "pubDate": "Fri, 09 Oct 2026 11:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부, '러트닉, 김정관에 국정원 불신 전달' 보도에 \"사실 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009025900504",
-      "pubDate": "Fri, 9 Oct 2026 10:38:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261009024900011",
-      "pubDate": "Fri, 9 Oct 2026 10:30:00 +0900"
+      "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
+      "link": "https://www.hankyung.com/article/2026100928931",
+      "pubDate": "Fri, 09 Oct 2026 18:08:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"페루에 장갑차 30대 먼저\"…현대로템 20억달러 수주 승부수",
-      "link": "https://www.hankyung.com/article/202610081531i",
-      "pubDate": "Fri, 09 Oct 2026 10:00:07 +0900"
+      "title": "탈탄소 전환 급한데…값싼 전기 공급엔 소극적인 정부",
+      "link": "https://www.hankyung.com/article/2026100928441",
+      "pubDate": "Fri, 09 Oct 2026 18:07:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"반도체 직접 만들겠다\"는 머스크…삼성맨 고개 저은 이유 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026100821906",
-      "pubDate": "Fri, 09 Oct 2026 10:00:04 +0900"
+      "title": "사망자에 연금 퍼주기…복지부 3년 넘게 몰랐다",
+      "link": "https://www.hankyung.com/article/2026100928471",
+      "pubDate": "Fri, 09 Oct 2026 18:06:36 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "홍콩반점, 대구 막창구이 활용 '막창짬뽕' 한정 판매",
-      "link": "https://www.yna.co.kr/view/AKR20261009022900030",
-      "pubDate": "Fri, 9 Oct 2026 09:58:07 +0900"
+      "source": "한국경제",
+      "title": "주민 반발·자원 부족…인도 'AI 데이터센터' 확충 제동 걸리나",
+      "link": "https://www.hankyung.com/article/2026100929071",
+      "pubDate": "Fri, 09 Oct 2026 18:02:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "주파수 탐내는 머스크…美 이동통신 3사 '긴장'",
+      "link": "https://www.hankyung.com/article/2026100929081",
+      "pubDate": "Fri, 09 Oct 2026 18:02:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "트럼프 \"내달 3일까지 이란 공격 안해\"",
+      "link": "https://www.hankyung.com/article/2026100929091",
+      "pubDate": "Fri, 09 Oct 2026 18:02:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "15세 안윤주, 아시아 주니어 골프 초대 챔피언",
+      "link": "https://www.hankyung.com/article/2026100929241",
+      "pubDate": "Fri, 09 Oct 2026 17:56:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 메모리 넘어 AI 부품·전력 기기 확보전…빅테크 '5년 계약' 줄섰다",
+      "link": "https://www.hankyung.com/article/2026100929011",
+      "pubDate": "Fri, 09 Oct 2026 17:49:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다",
+      "link": "https://www.hankyung.com/article/2026100929291",
+      "pubDate": "Fri, 09 Oct 2026 17:47:49 +0900"
     }
   ]
 }
