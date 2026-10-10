@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:59:04.004Z",
+  "updatedAt": "2026-10-10T15:14:14.401Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,24 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"돌잔치 가기 겁나네\"…귀금속상가서 반지 사려다 '화들짝' [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610103321i",
+      "pubDate": "Sat, 10 Oct 2026 20:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "매출 2배 터졌다…러닝족·외국인 몰린 편의점 '파격 실험' [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202610081249i",
+      "pubDate": "Sat, 10 Oct 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"립스틱 색깔마다 인증 받아야\"…코트라가 본 중국 수출 '복병'은",
+      "link": "https://www.hankyung.com/article/202610103537i",
+      "pubDate": "Sat, 10 Oct 2026 18:01:28 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상",
       "link": "https://www.yna.co.kr/view/AKR20261010032200530",
@@ -193,24 +211,6 @@
       "title": "\"아이 키우려면 돈 벌어야 하는데\"…26세 싱글맘의 눈물 [차이나 워치]",
       "link": "https://www.hankyung.com/article/202610079376i",
       "pubDate": "Sat, 10 Oct 2026 09:49:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "치폴레, 이번엔 백화점으로…내달 신세계 강남에 2호점 연다",
-      "link": "https://www.hankyung.com/article/202610103307i",
-      "pubDate": "Sat, 10 Oct 2026 09:36:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
-      "link": "https://www.yna.co.kr/view/AKR20261010018000002",
-      "pubDate": "Sat, 10 Oct 2026 09:03:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
-      "link": "https://www.hankyung.com/article/202609144116i",
-      "pubDate": "Sat, 10 Oct 2026 09:00:07 +0900"
     }
   ]
 }
