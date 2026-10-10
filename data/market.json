@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:35:20.827Z",
+  "updatedAt": "2026-10-10T08:59:04.004Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.66,
-      "changePercent": 0.186,
+      "price": 91.85,
+      "changePercent": 0.393,
       "previousClose": 89.43,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         89.44000244140625,
         88.27999877929688,
         91.48999786376953,
-        91.66000366210938
+        91.8499984741211
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4220.3,
-      "changePercent": 1.523,
+      "price": 4216.3,
+      "changePercent": 1.427,
       "previousClose": 4156.8,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4187.10009765625,
         4140.7001953125,
         4157,
-        4220.2998046875
+        4216.2998046875
       ],
       "ok": true
     },
@@ -99,7 +99,7 @@
         101.83000183105469,
         102.23999786376953,
         102.13999938964844,
-        102.23100280761719
+        102.20999908447266
       ],
       "ok": true
     },
@@ -122,6 +122,60 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261010032200530",
+      "pubDate": "Sat, 10 Oct 2026 15:19:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "소송 끝난 뒤 '세금 폭탄' 터진다…개정 유류분법에 복잡해진 셈법",
+      "link": "https://www.hankyung.com/article/202610077375i",
+      "pubDate": "Sat, 10 Oct 2026 14:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "32년된 건물 마감재 무너졌는데…정기 안전점검 의무대상 아니었다",
+      "link": "https://www.yna.co.kr/view/AKR20261010028000053",
+      "pubDate": "Sat, 10 Oct 2026 13:59:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"효도하고 받은 집, 유류분 방어하려면\"…증여 재산 지키는 법",
+      "link": "https://www.hankyung.com/article/202610020211i",
+      "pubDate": "Sat, 10 Oct 2026 13:42:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[테크톡노트] 중국어로 지시했는데 한국 금융권 공격…어떻게 가능했나",
+      "link": "https://www.yna.co.kr/view/AKR20261009030600017",
+      "pubDate": "Sat, 10 Oct 2026 13:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "똑같은 금메달인데…'100억' 안세영 웃고 나이키는 '낭패' [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202610080917g",
+      "pubDate": "Sat, 10 Oct 2026 13:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'양배추가 양상추보다 비싸졌다'…뒤집힌 채소값 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610103315i",
+      "pubDate": "Sat, 10 Oct 2026 13:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한·중 청년기업가 200명 선전에 모여…“글로벌 협력 확대”",
+      "link": "https://www.hankyung.com/article/202610103408i",
+      "pubDate": "Sat, 10 Oct 2026 12:26:31 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261009048851002",
+      "pubDate": "Sat, 10 Oct 2026 11:28:45 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
@@ -157,60 +211,6 @@
       "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
       "link": "https://www.hankyung.com/article/202609144116i",
       "pubDate": "Sat, 10 Oct 2026 09:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008175900004",
-      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
-      "link": "https://www.yna.co.kr/view/AKR20261008073000008",
-      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"국내은행, 외형 성장 한계…'위험 대비 수익성'으로 전환해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009050300002",
-      "pubDate": "Sat, 10 Oct 2026 09:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"김장을 왜 해요?\"…1kg '3만원' 김치 불티나는 이유 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610078534i",
-      "pubDate": "Sat, 10 Oct 2026 09:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"뭐가 진짜 불닭면이지?\"…짝퉁 한 방에 가르는 기막힌 기술",
-      "link": "https://www.hankyung.com/article/2026101032617",
-      "pubDate": "Sat, 10 Oct 2026 08:32:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
-      "link": "https://www.yna.co.kr/view/AKR20260921172200079",
-      "pubDate": "Sat, 10 Oct 2026 08:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부 '원양어선 안전펀드' 지원받은 11척 중 2척 중국서 건조",
-      "link": "https://www.yna.co.kr/view/AKR20261008084400051",
-      "pubDate": "Sat, 10 Oct 2026 07:01:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 롯데칠성 '순하리 청레몬진'·연세유업 '공주의밤 생크림빵'",
-      "link": "https://www.yna.co.kr/view/AKR20261008168100030",
-      "pubDate": "Sat, 10 Oct 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] LG생건 '시크릿 에센스'·미즈노 '멀티 패딩 라이트'",
-      "link": "https://www.yna.co.kr/view/AKR20261008155300030",
-      "pubDate": "Sat, 10 Oct 2026 07:00:02 +0900"
     }
   ]
 }
