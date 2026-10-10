@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T23:21:50.602Z",
+  "updatedAt": "2026-10-10T02:35:20.827Z",
   "instruments": [
     {
       "key": "sp500",
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 102.231,
-      "changePercent": 0.091,
+      "changePercent": 0.018,
       "previousClose": 102.17,
       "currency": "USD",
       "history": [
@@ -124,6 +124,72 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+      "link": "https://www.yna.co.kr/view/AKR20261010022500017",
+      "pubDate": "Sat, 10 Oct 2026 10:59:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261010021400011",
+      "pubDate": "Sat, 10 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아이 키우려면 돈 벌어야 하는데\"…26세 싱글맘의 눈물 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610079376i",
+      "pubDate": "Sat, 10 Oct 2026 09:49:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "치폴레, 이번엔 백화점으로…내달 신세계 강남에 2호점 연다",
+      "link": "https://www.hankyung.com/article/202610103307i",
+      "pubDate": "Sat, 10 Oct 2026 09:36:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+      "link": "https://www.yna.co.kr/view/AKR20261010018000002",
+      "pubDate": "Sat, 10 Oct 2026 09:03:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "검색 제국 흔들리는 바이두…AI 클라우드·로보택시서 돌파구",
+      "link": "https://www.hankyung.com/article/202609144116i",
+      "pubDate": "Sat, 10 Oct 2026 09:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008175900004",
+      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261008073000008",
+      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"국내은행, 외형 성장 한계…'위험 대비 수익성'으로 전환해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009050300002",
+      "pubDate": "Sat, 10 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"김장을 왜 해요?\"…1kg '3만원' 김치 불티나는 이유 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610078534i",
+      "pubDate": "Sat, 10 Oct 2026 09:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"뭐가 진짜 불닭면이지?\"…짝퉁 한 방에 가르는 기막힌 기술",
+      "link": "https://www.hankyung.com/article/2026101032617",
+      "pubDate": "Sat, 10 Oct 2026 08:32:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
       "link": "https://www.yna.co.kr/view/AKR20260921172200079",
       "pubDate": "Sat, 10 Oct 2026 08:00:07 +0900"
@@ -145,72 +211,6 @@
       "title": "[금주핫템] LG생건 '시크릿 에센스'·미즈노 '멀티 패딩 라이트'",
       "link": "https://www.yna.co.kr/view/AKR20261008155300030",
       "pubDate": "Sat, 10 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
-      "link": "https://www.yna.co.kr/view/AKR20261002022300017",
-      "pubDate": "Sat, 10 Oct 2026 06:33:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "검사 지휘 폐지됐는데…산안감독관 절반은 수사경력 '1년 미만'",
-      "link": "https://www.yna.co.kr/view/AKR20261009051000530",
-      "pubDate": "Sat, 10 Oct 2026 06:05:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "온라인 정기결제·자동갱신 피해구제 최근 5년간 8.8배↑",
-      "link": "https://www.yna.co.kr/view/AKR20261008146100001",
-      "pubDate": "Sat, 10 Oct 2026 06:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국내 기름값 21주째 하락…휘발유·경유 1천800원대 지속",
-      "link": "https://www.yna.co.kr/view/AKR20261008122800003",
-      "pubDate": "Sat, 10 Oct 2026 06:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 향남역 그로브 스위첸 등 1천829가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20261009050400003",
-      "pubDate": "Sat, 10 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"저 친구 퇴사할거 같은데요\"…AI가 먼저 알려준다 [임다연의 요즘 CEO 경영법]",
-      "link": "https://www.hankyung.com/article/202610081389i",
-      "pubDate": "Sat, 10 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009048800002",
-      "pubDate": "Sat, 10 Oct 2026 05:57:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "작년 체납자 은닉재산 신고포상 32건 12.5억원…평균액 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261009048600002",
-      "pubDate": "Sat, 10 Oct 2026 05:55:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
-      "link": "https://www.yna.co.kr/view/AKR20261009056800002",
-      "pubDate": "Sat, 10 Oct 2026 05:53:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
-      "link": "https://www.yna.co.kr/view/AKR20261009021400002",
-      "pubDate": "Sat, 10 Oct 2026 05:51:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "푸틴에 손벌린 트럼프 \"러 경유 공급 합의\"…대러 제재 완화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261010004551071",
-      "pubDate": "Sat, 10 Oct 2026 05:10:13 +0900"
     }
   ]
 }
