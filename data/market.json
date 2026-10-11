@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T01:38:53.652Z",
+  "updatedAt": "2026-10-11T07:50:09.730Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,10 +58,9 @@
       "symbol": "CL=F",
       "price": 91.85,
       "changePercent": 0.393,
-      "previousClose": 89.43,
+      "previousClose": 89.44,
       "currency": "USD",
       "history": [
-        89.43000030517578,
         89.44000244140625,
         88.27999877929688,
         91.48999786376953,
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4216.3,
       "changePercent": 1.427,
-      "previousClose": 4156.8,
+      "previousClose": 4187.1,
       "currency": "USD",
       "history": [
-        4156.7998046875,
         4187.10009765625,
         4140.7001953125,
         4157,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 102.231,
       "changePercent": 0.018,
-      "previousClose": 102.17,
+      "previousClose": 101.83,
       "currency": "USD",
       "history": [
-        102.16999816894531,
         101.83000183105469,
         102.23999786376953,
         102.13999938964844,
@@ -123,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261011016400011",
-      "pubDate": "Sun, 11 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "충청권 첫 공동 취업박람회 16일 청주오스코서 열려",
-      "link": "https://www.yna.co.kr/view/AKR20261008182500064",
-      "pubDate": "Sun, 11 Oct 2026 10:01:01 +0900"
+      "source": "한국경제",
+      "title": "체질 바꾼 롯데, 핵심·신사업 주력…질적 성장 속도낸다",
+      "link": "https://www.hankyung.com/article/2026101139771",
+      "pubDate": "Sun, 11 Oct 2026 16:43:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "디지털 인재 양성 지원금 94% 수도권에…취업률은 뒷걸음",
-      "link": "https://www.hankyung.com/article/202610103565i",
-      "pubDate": "Sun, 11 Oct 2026 09:45:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "수출 굴, 미국서 6차례 노로바이러스로 폐기…관리 예산 미편성",
-      "link": "https://www.yna.co.kr/view/AKR20261011013900030",
-      "pubDate": "Sun, 11 Oct 2026 09:33:48 +0900"
+      "title": "\"비싸고 좋은 거 먹을래\"…선우용여 냉장고 열어보니 '깜짝' [트렌드+]",
+      "link": "https://www.hankyung.com/article/202610081092g",
+      "pubDate": "Sun, 11 Oct 2026 16:42:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "현대차, 30년 만에 대기록 썼다…인도서 누적 판매 1000만대",
-      "link": "https://www.hankyung.com/article/202610113913g",
-      "pubDate": "Sun, 11 Oct 2026 09:27:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대구시, '지방 주택시장 맞춤형 처방' 정부에 건의",
-      "link": "https://www.yna.co.kr/view/AKR20261011013200053",
-      "pubDate": "Sun, 11 Oct 2026 09:10:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "SK오션플랜트 인수 디오션, 지역상생 내용에 관심",
-      "link": "https://www.yna.co.kr/view/AKR20261008036600052",
-      "pubDate": "Sun, 11 Oct 2026 09:05:00 +0900"
+      "title": "롯데 \"AX는 생존\"…그룹 DNA를 AI로 다시 쓴다",
+      "link": "https://www.hankyung.com/article/2026101139781",
+      "pubDate": "Sun, 11 Oct 2026 16:42:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "코인·예측시장·주식 품은 슈퍼앱... 달러化 서막 오른다 [김민승의 ₿피셜]",
-      "link": "https://www.hankyung.com/article/202610093061i",
-      "pubDate": "Sun, 11 Oct 2026 09:00:12 +0900"
+      "title": "철강·리튬·에너지에 힘 싣는 포스코…핵심자원 '삼각축 체제' 가동",
+      "link": "https://www.hankyung.com/article/2026101139801",
+      "pubDate": "Sun, 11 Oct 2026 16:41:43 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"수익률 좇다간 큰일 난다\"…연금 관리 이렇게 하라는데 [김연지의 연금빌드업]",
-      "link": "https://www.hankyung.com/article/2026100811296",
-      "pubDate": "Sun, 11 Oct 2026 09:00:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 에코델타시티 18·19블록 계약취소 2가구 재공급",
-      "link": "https://www.yna.co.kr/view/AKR20261008078400051",
-      "pubDate": "Sun, 11 Oct 2026 09:00:05 +0900"
+      "title": "GS그룹, 중소기업에 AI 에이전트 무상 공유…스타트업과 데이터센터 기술 협력",
+      "link": "https://www.hankyung.com/article/2026101139821",
+      "pubDate": "Sun, 11 Oct 2026 16:40:57 +0900"
     },
     {
       "source": "한국경제",
-      "title": "은퇴 후 현금흐름, 연금과 이자·배당에 달렸다",
-      "link": "https://www.hankyung.com/article/202610081017i",
-      "pubDate": "Sun, 11 Oct 2026 09:00:05 +0900"
+      "title": "'5차 발사' 누리호 만든 한화…뉴스페이스 시대 선봉장으로",
+      "link": "https://www.hankyung.com/article/2026101139841",
+      "pubDate": "Sun, 11 Oct 2026 16:40:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "월 30만원 넣고 연 9% 이자…알뜰족 홀린 '이 적금'",
-      "link": "https://www.hankyung.com/article/202610081537i",
-      "pubDate": "Sun, 11 Oct 2026 09:00:02 +0900"
+      "title": "HD현대 '미래첨단조선소' 혁신…4년 뒤엔 가상공간서 배 짓는다",
+      "link": "https://www.hankyung.com/article/2026101139851",
+      "pubDate": "Sun, 11 Oct 2026 16:39:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "양도세 12억 비과세 받으려면…조정지역 2년 내 처분",
-      "link": "https://www.hankyung.com/article/202610080320i",
-      "pubDate": "Sun, 11 Oct 2026 08:43:02 +0900"
+      "title": "두산의 'AI 종합기업' 변신…데이터센터로 에너지 공급망 넓힌다",
+      "link": "https://www.hankyung.com/article/2026101139881",
+      "pubDate": "Sun, 11 Oct 2026 16:37:37 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "인천시, 개항장 일대 체류형 관광 인프라 확충",
-      "link": "https://www.yna.co.kr/view/AKR20261011009800065",
-      "pubDate": "Sun, 11 Oct 2026 08:31:01 +0900"
+      "source": "한국경제",
+      "title": "'AI 인프라' 전력망 짜는 LS…美 빅테크에 전기터널 뚫는다",
+      "link": "https://www.hankyung.com/article/2026101139911",
+      "pubDate": "Sun, 11 Oct 2026 16:34:35 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009013200030",
-      "pubDate": "Sun, 11 Oct 2026 08:30:00 +0900"
+      "source": "한국경제",
+      "title": "효성중공업, '초고압직류송전' 찾는 AI 기업서 12조 수주…생산량 50% 늘린다",
+      "link": "https://www.hankyung.com/article/2026101139901",
+      "pubDate": "Sun, 11 Oct 2026 16:33:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "코오롱그룹, AI 가속기·우주발사체·수소용기 소재 개발",
+      "link": "https://www.hankyung.com/article/2026101139931",
+      "pubDate": "Sun, 11 Oct 2026 16:32:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "에쓰오일, '샤힌프로젝트' 가동 임박…석유화학 새 역사",
+      "link": "https://www.hankyung.com/article/2026101139941",
+      "pubDate": "Sun, 11 Oct 2026 16:31:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "동국제강그룹, '럭스틸리에' 영국 탐방으로 미래 건축가 육성",
+      "link": "https://www.hankyung.com/article/2026101139951",
+      "pubDate": "Sun, 11 Oct 2026 16:31:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "금호석유화학그룹, R&D 사활…고부가 소재·배터리 만든다",
+      "link": "https://www.hankyung.com/article/2026101139981",
+      "pubDate": "Sun, 11 Oct 2026 16:30:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼양그룹, 바이오·반도체…스페셜티 소재 키운다",
+      "link": "https://www.hankyung.com/article/2026101139991",
+      "pubDate": "Sun, 11 Oct 2026 16:29:37 +0900"
     }
   ]
 }
