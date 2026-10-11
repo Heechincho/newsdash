@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:08:22.727Z",
+  "updatedAt": "2026-10-11T22:53:59.256Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.85,
-      "changePercent": 0.393,
+      "price": 92.48,
+      "changePercent": 0.686,
       "previousClose": 89.44,
       "currency": "USD",
       "history": [
         89.44000244140625,
         88.27999877929688,
         91.48999786376953,
-        91.8499984741211
+        91.8499984741211,
+        92.4800033569336
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4216.3,
-      "changePercent": 1.427,
+      "price": 4212.6,
+      "changePercent": -0.088,
       "previousClose": 4187.1,
       "currency": "USD",
       "history": [
         4187.10009765625,
         4140.7001953125,
         4157,
-        4216.2998046875
+        4216.2998046875,
+        4212.60009765625
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.231,
-      "changePercent": 0.018,
+      "price": 102.277,
+      "changePercent": 0.063,
       "previousClose": 101.83,
       "currency": "USD",
       "history": [
         101.83000183105469,
         102.23999786376953,
         102.13999938964844,
-        102.20999908447266
+        102.20999908447266,
+        102.2770004272461
       ],
       "ok": true
     },
@@ -120,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "이의순 세방그룹 창업주 별세…향년 103세",
-      "link": "https://www.hankyung.com/article/2026101147011",
-      "pubDate": "Mon, 12 Oct 2026 00:33:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"룸서비스 되나요?\" 말 걸었더니…호텔 직원의 '반전 정체'",
-      "link": "https://www.hankyung.com/article/202610081420g",
-      "pubDate": "Sun, 11 Oct 2026 21:37:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금리 불안에 주춤한 비트코인... 1억1000만원대 횡보",
-      "link": "https://www.hankyung.com/article/202610093056i",
-      "pubDate": "Sun, 11 Oct 2026 20:40:03 +0900"
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261012007600011",
+      "pubDate": "Mon, 12 Oct 2026 07:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일, 경제현안간담회서 온누리상품권·민생물가 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261011050200002",
-      "pubDate": "Sun, 11 Oct 2026 20:27:40 +0900"
+      "title": "인천 신항 초저온 냉열 물류단지에 데이터센터 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261008110900065",
+      "pubDate": "Mon, 12 Oct 2026 07:17:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"1조달러 보상해달라\" 머스크 제안에…주주들 열광한 이유",
-      "link": "https://www.hankyung.com/article/2026101144751",
-      "pubDate": "Sun, 11 Oct 2026 18:26:33 +0900"
+      "title": "\"어린이제품도 있는데\"…리콜 606만개 중 440만개 미회수",
+      "link": "https://www.hankyung.com/article/2026101248387",
+      "pubDate": "Mon, 12 Oct 2026 07:01:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"가장 완성도 높은 엔트리 EV\"…북미 상륙 기아 EV3에 잇단 호평",
+      "link": "https://www.yna.co.kr/view/AKR20261010001300003",
+      "pubDate": "Mon, 12 Oct 2026 07:01:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"일하면 손해\" 젊은 공무원들 짐 싸고…의사는 분만실 떠났다",
-      "link": "https://www.hankyung.com/article/2026101144721",
-      "pubDate": "Sun, 11 Oct 2026 18:25:58 +0900"
+      "title": "\"방송하는 동안만 개당 100원\" 창고로 들어간 1인 크리에이터의 세계 [장서우의 하입:hype]",
+      "link": "https://www.hankyung.com/article/202610114723i",
+      "pubDate": "Mon, 12 Oct 2026 07:00:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"유럽식 사회연대? 손 쉬운 부자 증세만으로는 불가능\"",
-      "link": "https://www.hankyung.com/article/2026101144701",
-      "pubDate": "Sun, 11 Oct 2026 18:21:27 +0900"
+      "title": "“사자마자 먹지 마세요”…햇밤, 열흘 기다리면 더 달아진다 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610114670i",
+      "pubDate": "Mon, 12 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코람코자산신탁, 여의도 ABL타워 인수 우선협상대상자로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261009038800008",
+      "pubDate": "Mon, 12 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트 계약 해제율 5년 새 2배…\"교란행위 검증해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009048700003",
+      "pubDate": "Mon, 12 Oct 2026 06:31:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"호남 반도체 국가산단 사업비 9조…인근 분양가 2배 이상\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011036100003",
+      "pubDate": "Mon, 12 Oct 2026 06:15:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"작년 한은 인수 위조지폐 9천700장…SNS엔 버젓이 판매글\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011034500001",
+      "pubDate": "Mon, 12 Oct 2026 06:13:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "해외 직구 사이트서 위해성 문제로 6천400여건 국내유통 차단",
+      "link": "https://www.yna.co.kr/view/AKR20261009028600001",
+      "pubDate": "Mon, 12 Oct 2026 06:04:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "육아기 근로시간 줄였더니 자녀돌봄 하루 47분 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20261010045200530",
+      "pubDate": "Mon, 12 Oct 2026 06:01:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "10명 중 3명 \"성공 공식은 정해져 있어\"",
-      "link": "https://www.hankyung.com/article/2026101144251",
-      "pubDate": "Sun, 11 Oct 2026 18:16:23 +0900"
+      "title": "[단독] \"열차 멈추면 어쩌나\"…해킹 19배 폭증했는데 드러난 '보안 실태'",
+      "link": "https://www.hankyung.com/article/202610103640H",
+      "pubDate": "Mon, 12 Oct 2026 06:00:11 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "4만달러시대 코앞이지만…국민 절반 \"준비 안됐다\"",
-      "link": "https://www.hankyung.com/article/2026101144241",
-      "pubDate": "Sun, 11 Oct 2026 18:16:10 +0900"
+      "source": "연합뉴스",
+      "title": "9월 전세사기 피해자 623건 추가 인정…누적 4만1천559건",
+      "link": "https://www.yna.co.kr/view/AKR20261011029300003",
+      "pubDate": "Mon, 12 Oct 2026 06:00:03 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"北경제 연구, 정량데이터 구축해 이념 아닌 과학의 영역으로\"",
-      "link": "https://www.hankyung.com/article/2026101144441",
-      "pubDate": "Sun, 11 Oct 2026 18:11:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"北경제 이해 필독서 저술…통일·외교현안 해결 공헌\"",
-      "link": "https://www.hankyung.com/article/2026101144461",
-      "pubDate": "Sun, 11 Oct 2026 18:11:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"전세·가계부채 등 韓 경제현상, 국제적 연구의제로 발전시킬 것\"",
-      "link": "https://www.hankyung.com/article/2026101144451",
-      "pubDate": "Sun, 11 Oct 2026 18:10:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中, 자동차 디지털화 제동…'물리 버튼' 의무화 추진",
-      "link": "https://www.hankyung.com/article/2026101144761",
-      "pubDate": "Sun, 11 Oct 2026 18:09:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "첨단가전·미술의 결합 'LG 시그니처'…B2B로 美 공략 속도",
-      "link": "https://www.hankyung.com/article/2026101144291",
-      "pubDate": "Sun, 11 Oct 2026 18:08:19 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "홈플러스 매출, 목표치 30% 그쳐…매각 작업 '빨간불'",
-      "link": "https://www.hankyung.com/article/2026101144301",
-      "pubDate": "Sun, 11 Oct 2026 18:07:59 +0900"
+      "source": "연합뉴스",
+      "title": "세제혜택 받고도 연체채권 계속 추심하는 관행 고친다",
+      "link": "https://www.yna.co.kr/view/AKR20261009025300002",
+      "pubDate": "Mon, 12 Oct 2026 06:00:03 +0900"
     }
   ]
 }
