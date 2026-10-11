@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:28:27.376Z",
+  "updatedAt": "2026-10-11T19:08:22.727Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,7 +121,13 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "\"룸서비스 되나요?\" 말 걸었다가…호텔 직원의 '반전 정체'",
+      "title": "이의순 세방그룹 창업주 별세…향년 103세",
+      "link": "https://www.hankyung.com/article/2026101147011",
+      "pubDate": "Mon, 12 Oct 2026 00:33:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"룸서비스 되나요?\" 말 걸었더니…호텔 직원의 '반전 정체'",
       "link": "https://www.hankyung.com/article/202610081420g",
       "pubDate": "Sun, 11 Oct 2026 21:37:46 +0900"
     },
@@ -169,7 +175,7 @@
     },
     {
       "source": "한국경제",
-      "title": "北 경제 정량데이터 구축…이념서 과학의 영역으로 연구 정립",
+      "title": "\"北경제 연구, 정량데이터 구축해 이념 아닌 과학의 영역으로\"",
       "link": "https://www.hankyung.com/article/2026101144441",
       "pubDate": "Sun, 11 Oct 2026 18:11:57 +0900"
     },
@@ -181,7 +187,7 @@
     },
     {
       "source": "한국경제",
-      "title": "세제·부동산 가격이 가계 부채·소비에 미치는 영향 분석",
+      "title": "\"전세·가계부채 등 韓 경제현상, 국제적 연구의제로 발전시킬 것\"",
       "link": "https://www.hankyung.com/article/2026101144451",
       "pubDate": "Sun, 11 Oct 2026 18:10:34 +0900"
     },
@@ -202,12 +208,6 @@
       "title": "홈플러스 매출, 목표치 30% 그쳐…매각 작업 '빨간불'",
       "link": "https://www.hankyung.com/article/2026101144301",
       "pubDate": "Sun, 11 Oct 2026 18:07:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LGD, 세계 유일 공정 기술로 OLED 성능 높이고 비용 절감",
-      "link": "https://www.hankyung.com/article/2026101144341",
-      "pubDate": "Sun, 11 Oct 2026 18:07:52 +0900"
     }
   ]
 }
