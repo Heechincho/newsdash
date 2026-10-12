@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T02:09:39.724Z",
+  "updatedAt": "2026-10-12T09:13:52.292Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.06,
-      "changePercent": -1.949,
-      "previousClose": 89.44,
+      "price": 92.5,
+      "changePercent": 0.708,
+      "previousClose": 88.28,
       "currency": "USD",
       "history": [
-        89.44000244140625,
         88.27999877929688,
         91.48999786376953,
         91.8499984741211,
-        90.05999755859375
+        92.5
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4236.2,
-      "changePercent": 0.472,
-      "previousClose": 4187.1,
+      "price": 4198.7,
+      "changePercent": -0.417,
+      "previousClose": 4140.7,
       "currency": "USD",
       "history": [
-        4187.10009765625,
         4140.7001953125,
         4157,
         4216.2998046875,
-        4236.2001953125
+        4198.7001953125
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.123,
-      "changePercent": -0.088,
-      "previousClose": 101.83,
+      "price": 102.313,
+      "changePercent": 0.098,
+      "previousClose": 102.24,
       "currency": "USD",
       "history": [
-        101.83000183105469,
         102.23999786376953,
         102.13999938964844,
         102.20999908447266,
-        102.12300109863281
+        102.31300354003906
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 14.84,
-      "changePercent": -3.699,
-      "previousClose": 15.52,
+      "price": 15.52,
+      "changePercent": 4.585,
+      "previousClose": 15.01,
       "currency": "USD",
       "history": [
-        15.520000457763672,
         15.010000228881836,
         15.079999923706055,
         15.40999984741211,
-        14.84000015258789
+        14.84000015258789,
+        15.520000457763672
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "해수부, 런던의정서 당사국총회 참석…원전오염수 안전관리 강조",
-      "link": "https://www.yna.co.kr/view/AKR20261012019600051",
-      "pubDate": "Mon, 12 Oct 2026 11:00:26 +0900"
+      "title": "한은 총재 \"환율, 아직 예년보다 높아…추가 하락 여지 있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261012161000002",
+      "pubDate": "Mon, 12 Oct 2026 18:03:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "산업부, 상하이서 중국 국가표준 설명회…소비재 수출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261012054200003",
-      "pubDate": "Mon, 12 Oct 2026 11:00:25 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261012151300011",
+      "pubDate": "Mon, 12 Oct 2026 18:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부, 30일까지 'K-푸드+ 수출탑' 후보 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261012054500030",
-      "pubDate": "Mon, 12 Oct 2026 11:00:25 +0900"
+      "title": "[게시판] 코트라, EU 포장재 규정 국가별 현황·대응 보고서 발간",
+      "link": "https://www.yna.co.kr/view/AKR20261012157300003",
+      "pubDate": "Mon, 12 Oct 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "보험사 '이익 부풀리기'에 칼 빼든 금감원",
+      "link": "https://www.hankyung.com/article/2026101269081",
+      "pubDate": "Mon, 12 Oct 2026 17:53:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "은행 예금 연 4% 시대…신한, 5대銀 중 첫 출시",
+      "link": "https://www.hankyung.com/article/2026101269111",
+      "pubDate": "Mon, 12 Oct 2026 17:52:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "우리銀, 생성형 AI로 금융사기 막는다",
+      "link": "https://www.hankyung.com/article/2026101269101",
+      "pubDate": "Mon, 12 Oct 2026 17:51:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "카뱅, 외국인 비대면 계좌 5분 내 개설",
+      "link": "https://www.hankyung.com/article/2026101269121",
+      "pubDate": "Mon, 12 Oct 2026 17:51:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "하이트진로, 日 기린맥주 생산",
+      "link": "https://www.hankyung.com/article/2026101270321",
+      "pubDate": "Mon, 12 Oct 2026 17:50:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 에버랜드 핼러윈 퍼레이드",
+      "link": "https://www.hankyung.com/article/2026101270311",
+      "pubDate": "Mon, 12 Oct 2026 17:50:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "CJ올리브영, 동남아 세포라 매장 입점",
+      "link": "https://www.hankyung.com/article/2026101270281",
+      "pubDate": "Mon, 12 Oct 2026 17:49:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "실패도 자산인데 '주홍글씨' 찍는 한국",
+      "link": "https://www.hankyung.com/article/2026101270361",
+      "pubDate": "Mon, 12 Oct 2026 17:47:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"재창업은 사치…빚 갚기 바쁘다\" 한국 청년 주저앉히는 '실패 낙인'",
+      "link": "https://www.hankyung.com/article/2026101269901",
+      "pubDate": "Mon, 12 Oct 2026 17:47:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "동국제약, 'DK센텔리안'으로 사명 변경 추진…\"글로벌시장 공략\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012070100017",
-      "pubDate": "Mon, 12 Oct 2026 10:57:03 +0900"
+      "title": "토스 \"2년간 요청 거절\" VS 네이버 \"사실 아냐\" 국감서 POS 갈등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261012150351017",
+      "pubDate": "Mon, 12 Oct 2026 17:46:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한은 총재 \"프로젝트 한강, 개인정보 감시 우려 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012070400002",
-      "pubDate": "Mon, 12 Oct 2026 10:55:39 +0900"
+      "title": "주병기 \"쿠팡, 성장한 만큼 책임 다하고 을의 권익 보호해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261012124651002",
+      "pubDate": "Mon, 12 Oct 2026 17:45:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한화오션, 정부 핵잠수함 추진 발맞춰 조직 신설·경력직 채용",
-      "link": "https://www.yna.co.kr/view/AKR20261012068900003",
-      "pubDate": "Mon, 12 Oct 2026 10:53:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "조지훈 전주시장 \"자광, 동시 착공·준공 못하면 사업 포기해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012065300055",
-      "pubDate": "Mon, 12 Oct 2026 10:50:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"투자유치 성과 구체화\"…세종시장, 100여일만 시청 집무실 복귀",
-      "link": "https://www.yna.co.kr/view/AKR20261012067800063",
-      "pubDate": "Mon, 12 Oct 2026 10:45:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한은 총재 \"재정정책 지속가능성 중요…목소리 내겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012067400002",
-      "pubDate": "Mon, 12 Oct 2026 10:44:55 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스피·코스닥, 삼전닉스 약세에 2~3%대 급락…외국인 '팔자'",
-      "link": "https://www.yna.co.kr/view/AKR20261012030552008",
-      "pubDate": "Mon, 12 Oct 2026 10:43:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"산업재산권 분쟁조정위 민간위원 6명, 1년간 활동실적 0건\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012064000063",
-      "pubDate": "Mon, 12 Oct 2026 10:36:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "평창군, 올해 반값 농자재 지원 확대…농가당 최대 3천만원",
-      "link": "https://www.yna.co.kr/view/AKR20261012062200062",
-      "pubDate": "Mon, 12 Oct 2026 10:32:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "하나은행, 자녀가 목표 달성하면 약속 금액 주는 신탁 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261012057300002",
-      "pubDate": "Mon, 12 Oct 2026 10:30:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261012057100011",
-      "pubDate": "Mon, 12 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "황종우 해수부 장관 \"내년도 북극항로 시범운항 계획 준비\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012032200051",
-      "pubDate": "Mon, 12 Oct 2026 10:28:24 +0900"
+      "title": "토스뱅크, 입금오류 닷새만에야 정정안내…당국 \"피해 파악중\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261012106151002",
+      "pubDate": "Mon, 12 Oct 2026 17:36:55 +0900"
     }
   ]
 }
