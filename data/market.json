@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-12T09:13:52.292Z",
+  "updatedAt": "2026-10-12T19:08:25.678Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7811.54,
-      "changePercent": 0.595,
-      "previousClose": 7722.72,
+      "price": 7799.98,
+      "changePercent": -0.148,
+      "previousClose": 7773.95,
       "currency": "USD",
       "history": [
-        7773.9501953125,
         7818.93017578125,
         7801.77001953125,
         7765.35986328125,
-        7811.5400390625
+        7811.5400390625,
+        7799.97998046875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27366.17,
-      "changePercent": 0.636,
-      "previousClose": 27190.86,
+      "price": 27232.893,
+      "changePercent": -0.487,
+      "previousClose": 27477.31,
       "currency": "USD",
       "history": [
-        27477.310546875,
         27599.7890625,
         27538.689453125,
         27193.33984375,
-        27366.169921875
+        27366.169921875,
+        27232.892578125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51654.95,
-      "changePercent": 0.826,
-      "previousClose": 51176.96,
+      "price": 51828.96,
+      "changePercent": 0.337,
+      "previousClose": 51267.9,
       "currency": "USD",
       "history": [
-        51267.8984375,
         51521.28125,
         51179.87109375,
         51231.640625,
-        51654.94921875
+        51654.94921875,
+        51828.9609375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 92.5,
-      "changePercent": 0.708,
+      "price": 93.58,
+      "changePercent": 1.884,
       "previousClose": 88.28,
       "currency": "USD",
       "history": [
         88.27999877929688,
         91.48999786376953,
         91.8499984741211,
-        92.5
+        93.58000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4198.7,
-      "changePercent": -0.417,
+      "price": 4191.7,
+      "changePercent": -0.583,
       "previousClose": 4140.7,
       "currency": "USD",
       "history": [
         4140.7001953125,
         4157,
         4216.2998046875,
-        4198.7001953125
+        4191.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.313,
-      "changePercent": 0.098,
+      "price": 102.591,
+      "changePercent": 0.37,
       "previousClose": 102.24,
       "currency": "USD",
       "history": [
         102.23999786376953,
         102.13999938964844,
         102.20999908447266,
-        102.31300354003906
+        102.59100341796875
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.52,
-      "changePercent": 4.585,
+      "price": 15.32,
+      "changePercent": 3.234,
       "previousClose": 15.01,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         15.079999923706055,
         15.40999984741211,
         14.84000015258789,
-        15.520000457763672
+        15.319999694824219
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "한은 총재 \"환율, 아직 예년보다 높아…추가 하락 여지 있다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261012161000002",
-      "pubDate": "Mon, 12 Oct 2026 18:03:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261012151300011",
-      "pubDate": "Mon, 12 Oct 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 코트라, EU 포장재 규정 국가별 현황·대응 보고서 발간",
-      "link": "https://www.yna.co.kr/view/AKR20261012157300003",
-      "pubDate": "Mon, 12 Oct 2026 18:00:00 +0900"
+      "source": "한국경제",
+      "title": "[포토] 대한항공-아시아나 통합 안전회의",
+      "link": "https://www.hankyung.com/article/2026101269301",
+      "pubDate": "Tue, 13 Oct 2026 00:22:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "보험사 '이익 부풀리기'에 칼 빼든 금감원",
-      "link": "https://www.hankyung.com/article/2026101269081",
-      "pubDate": "Mon, 12 Oct 2026 17:53:37 +0900"
+      "title": "'엔비디아칩 독주 저지'…MS \"자체 AI칩 내년 백만개 이상 투입\"",
+      "link": "https://www.hankyung.com/article/202610127317i",
+      "pubDate": "Tue, 13 Oct 2026 00:01:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "은행 예금 연 4% 시대…신한, 5대銀 중 첫 출시",
-      "link": "https://www.hankyung.com/article/2026101269111",
-      "pubDate": "Mon, 12 Oct 2026 17:52:21 +0900"
+      "title": "스마트폰 비싸지니…판매 20%↓, 14년 만에 최저",
+      "link": "https://www.hankyung.com/article/202610127311i",
+      "pubDate": "Mon, 12 Oct 2026 23:18:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "우리銀, 생성형 AI로 금융사기 막는다",
-      "link": "https://www.hankyung.com/article/2026101269101",
-      "pubDate": "Mon, 12 Oct 2026 17:51:58 +0900"
+      "title": "\"우드퍼드, 중앙銀 포워드 가이던스의 선구자…新케인스학파 공로 인정\"",
+      "link": "https://www.hankyung.com/article/2026101273091",
+      "pubDate": "Mon, 12 Oct 2026 23:03:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "카뱅, 외국인 비대면 계좌 5분 내 개설",
-      "link": "https://www.hankyung.com/article/2026101269121",
-      "pubDate": "Mon, 12 Oct 2026 17:51:26 +0900"
+      "title": "'사상 최고치인데 더 간다'…골드만삭스 \"기업이익 25% 증가\"",
+      "link": "https://www.hankyung.com/article/202610127280i",
+      "pubDate": "Mon, 12 Oct 2026 22:48:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "하이트진로, 日 기린맥주 생산",
-      "link": "https://www.hankyung.com/article/2026101270321",
-      "pubDate": "Mon, 12 Oct 2026 17:50:55 +0900"
+      "title": "\"바이오젠, 33% 더 오른다\"…JP모건이 바이오젠에 꽂힌 이유",
+      "link": "https://www.hankyung.com/article/202610127256i",
+      "pubDate": "Mon, 12 Oct 2026 21:34:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[포토] 에버랜드 핼러윈 퍼레이드",
-      "link": "https://www.hankyung.com/article/2026101270311",
-      "pubDate": "Mon, 12 Oct 2026 17:50:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "CJ올리브영, 동남아 세포라 매장 입점",
-      "link": "https://www.hankyung.com/article/2026101270281",
-      "pubDate": "Mon, 12 Oct 2026 17:49:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "실패도 자산인데 '주홍글씨' 찍는 한국",
-      "link": "https://www.hankyung.com/article/2026101270361",
-      "pubDate": "Mon, 12 Oct 2026 17:47:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"재창업은 사치…빚 갚기 바쁘다\" 한국 청년 주저앉히는 '실패 낙인'",
-      "link": "https://www.hankyung.com/article/2026101269901",
-      "pubDate": "Mon, 12 Oct 2026 17:47:30 +0900"
+      "title": "박홍근, 李대통령 골프 논란에 \"매뉴얼대로 대응했는지가 더 중요\"",
+      "link": "https://www.hankyung.com/article/2026101272557",
+      "pubDate": "Mon, 12 Oct 2026 21:33:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "토스 \"2년간 요청 거절\" VS 네이버 \"사실 아냐\" 국감서 POS 갈등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261012150351017",
-      "pubDate": "Mon, 12 Oct 2026 17:46:18 +0900"
+      "title": "미래 '기대'에 경기안정 해법 찾은 노벨경제학상 수상자들",
+      "link": "https://www.yna.co.kr/view/AKR20261012175100002",
+      "pubDate": "Mon, 12 Oct 2026 21:33:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "주병기 \"쿠팡, 성장한 만큼 책임 다하고 을의 권익 보호해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261012124651002",
-      "pubDate": "Mon, 12 Oct 2026 17:45:05 +0900"
+      "title": "李대통령 골프 논란에 박홍근 \"매뉴얼대로 대응했는지가 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261012177400002",
+      "pubDate": "Mon, 12 Oct 2026 21:12:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "객실 빼고 병원 차린 호텔들…외국인 의료관광 큰손 잡는다 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202610126646g",
+      "pubDate": "Mon, 12 Oct 2026 21:00:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "토스뱅크, 입금오류 닷새만에야 정정안내…당국 \"피해 파악중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261012106151002",
-      "pubDate": "Mon, 12 Oct 2026 17:36:55 +0900"
+      "title": "[동포의 창] 中 세계한인경제인대회서 4억8천600만달러 수출 상담",
+      "link": "https://www.yna.co.kr/view/AKR20261012175000371",
+      "pubDate": "Mon, 12 Oct 2026 20:37:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"EU, 중국산 하이브리드차 연 35만대로 수입 제한\"",
+      "link": "https://www.hankyung.com/article/202610127200i",
+      "pubDate": "Mon, 12 Oct 2026 20:28:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'기대'가 경제에 미치는 영향 분석…경기변동 완화 기여",
+      "link": "https://www.hankyung.com/article/2026101271811",
+      "pubDate": "Mon, 12 Oct 2026 20:03:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "케인스의 현대적 부활…올해의 노벨경제학상",
+      "link": "https://www.hankyung.com/article/2026101271731",
+      "pubDate": "Mon, 12 Oct 2026 20:02:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "제일엠앤에스, 유상증자…중소기업은행 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20261012171000008",
+      "pubDate": "Mon, 12 Oct 2026 19:52:15 +0900"
     }
   ]
 }
