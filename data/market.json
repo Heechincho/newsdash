@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T16:06:35.518Z",
+  "updatedAt": "2026-10-13T21:13:03.541Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7794.45,
-      "changePercent": -0.164,
+      "price": 7805.45,
+      "changePercent": -0.023,
       "previousClose": 7818.93,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7765.35986328125,
         7811.5400390625,
         7807.240234375,
-        7794.4501953125
+        7805.4501953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 27192.543,
-      "changePercent": -0.196,
+      "price": 27204.38,
+      "changePercent": -0.152,
       "previousClose": 27599.79,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27193.33984375,
         27366.169921875,
         27245.900390625,
-        27192.54296875
+        27204.380859375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51689.63,
-      "changePercent": -0.31,
+      "price": 51670.1,
+      "changePercent": -0.348,
       "previousClose": 51521.28,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51231.640625,
         51654.94921875,
         51850.55078125,
-        51689.62890625
+        51670.1015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.21,
-      "changePercent": 0.501,
+      "price": 94.79,
+      "changePercent": 1.12,
       "previousClose": 91.49,
       "currency": "USD",
       "history": [
         91.48999786376953,
         91.8499984741211,
         93.73999786376953,
-        94.20999908447266
+        94.79000091552734
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4180.9,
-      "changePercent": -0.231,
+      "price": 4184.2,
+      "changePercent": -0.153,
       "previousClose": 4157,
       "currency": "USD",
       "history": [
         4157,
         4216.2998046875,
         4190.60009765625,
-        4180.89990234375
+        4184.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.242,
-      "changePercent": -0.338,
+      "price": 102.201,
+      "changePercent": -0.378,
       "previousClose": 102.14,
       "currency": "USD",
       "history": [
         102.13999938964844,
         102.20999908447266,
         102.58000183105469,
-        102.24199676513672
+        102.20099639892578
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.37,
-      "changePercent": 1.052,
+      "price": 15.27,
+      "changePercent": 0.394,
       "previousClose": 15.08,
       "currency": "USD",
       "history": [
@@ -113,12 +113,66 @@
         15.40999984741211,
         14.84000015258789,
         15.210000038146973,
-        15.369999885559082
+        15.270000457763672
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "상장사, 자사주 62조 소각해 1년 새 156%↑…삼전닉스가 절반",
+      "link": "https://www.yna.co.kr/view/AKR20261013176000003",
+      "pubDate": "Wed, 14 Oct 2026 06:05:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "LH 전세임대 소년소녀 가구 46% 장기 체납…독촉 내몰려",
+      "link": "https://www.yna.co.kr/view/AKR20261013173800003",
+      "pubDate": "Wed, 14 Oct 2026 06:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"농어촌공사, 동일직종 뽑는데도 본부 심사기준 제각각\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013027300001",
+      "pubDate": "Wed, 14 Oct 2026 06:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"아일릿이 뉴진스 표절\" 민희진, 명예훼손·업무방해 혐의로 송치",
+      "link": "https://www.yna.co.kr/view/AKR20261013180200004",
+      "pubDate": "Wed, 14 Oct 2026 05:55:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "은행 밖 그림자금융 6천213조원…4년새 1천277조원 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20261013178000002",
+      "pubDate": "Wed, 14 Oct 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공정위 과징금 4천531억원 징수유예…2년 8개월새 15배로 불어",
+      "link": "https://www.yna.co.kr/view/AKR20261013154200002",
+      "pubDate": "Wed, 14 Oct 2026 05:54:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KDI \"52시간제, 제조업·중소 사업체 성과에 부정적 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013149400002",
+      "pubDate": "Wed, 14 Oct 2026 05:53:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융위, 오늘 해킹사고 점검회의…새마을금고 추가 유출도 주시",
+      "link": "https://www.yna.co.kr/view/AKR20261013187300002",
+      "pubDate": "Wed, 14 Oct 2026 05:51:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"끝난줄 알았더니 대반전\"…마이크로소프트,사상최고가 눈앞",
+      "link": "https://www.hankyung.com/article/202610149923i",
+      "pubDate": "Wed, 14 Oct 2026 00:44:53 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"주식 팔고 국채산다\"…블랙록 6년만의 투자 전망 변경",
@@ -154,60 +208,6 @@
       "title": "[속보] 李대통령, 인천 흉기난동에 \"신속·엄정 수사…피해자 신변 보호\" 지시",
       "link": "https://www.hankyung.com/article/2026101398597",
       "pubDate": "Tue, 13 Oct 2026 21:38:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"6개월내 금융시장 큰 피해\"…AI 해킹 공포에 美금융당국 '비상'",
-      "link": "https://www.hankyung.com/article/202610139838i",
-      "pubDate": "Tue, 13 Oct 2026 21:35:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"성수기 지났다\" 여행 관심 줄어드는데…나홀로 웃은 앱",
-      "link": "https://www.hankyung.com/article/202610138875g",
-      "pubDate": "Tue, 13 Oct 2026 21:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"당장 내년 상반기라니\"…빨라진 세종행에 공무원들 '뒤숭숭'",
-      "link": "https://www.hankyung.com/article/2026101395491",
-      "pubDate": "Tue, 13 Oct 2026 21:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "IMF 올해 韓 1인GDP 4만불 돌파 관측…\"성장률은 3.3%·0.7%p↑\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261013066052002",
-      "pubDate": "Tue, 13 Oct 2026 20:56:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신현송 총재 \"AI 호황이 3.3% 성장 견인…물가 잡힐 때까지 긴축\"",
-      "link": "https://www.hankyung.com/article/202610139794i",
-      "pubDate": "Tue, 13 Oct 2026 20:21:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"가방 꽉 찰 정도\"…日 관광객, 마트서 싹쓸이한 'K과자' 정체",
-      "link": "https://www.hankyung.com/article/2026101394311",
-      "pubDate": "Tue, 13 Oct 2026 20:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "새마을금고 400명대 고객정보 유출…\"피해발생시 전액보상\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261013155952002",
-      "pubDate": "Tue, 13 Oct 2026 19:50:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성월렛에 위챗페이 탑재…中 결제시장 공략",
-      "link": "https://www.hankyung.com/article/2026101397811",
-      "pubDate": "Tue, 13 Oct 2026 19:38:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'삼전닉스' 급락…中 반도체 굴기에 글로벌 반도체주 '휘청'",
-      "link": "https://www.hankyung.com/article/202610139776i",
-      "pubDate": "Tue, 13 Oct 2026 19:21:37 +0900"
     }
   ]
 }
