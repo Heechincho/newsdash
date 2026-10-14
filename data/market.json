@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:21:42.356Z",
+  "updatedAt": "2026-10-14T05:14:03.134Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.75,
-      "changePercent": 0.648,
-      "previousClose": 91.49,
+      "price": 94.77,
+      "changePercent": 0.669,
+      "previousClose": 91.85,
       "currency": "USD",
       "history": [
-        91.48999786376953,
         91.8499984741211,
         93.73999786376953,
-        94.75
+        94.13999938964844,
+        94.7699966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4184.5,
-      "changePercent": 0.172,
-      "previousClose": 4157,
+      "price": 4187.5,
+      "changePercent": 0.244,
+      "previousClose": 4216.3,
       "currency": "USD",
       "history": [
-        4157,
         4216.2998046875,
         4190.60009765625,
-        4184.5
+        4177.2998046875,
+        4187.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.166,
-      "changePercent": -0.014,
-      "previousClose": 102.14,
+      "price": 102.095,
+      "changePercent": -0.083,
+      "previousClose": 102.21,
       "currency": "USD",
       "history": [
-        102.13999938964844,
         102.20999908447266,
         102.58000183105469,
-        102.16600036621094
+        102.18000030517578,
+        102.09500122070312
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "코오롱인더스트리, 채용전환형 인턴 모집…19일까지 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261014039100003",
-      "pubDate": "Wed, 14 Oct 2026 09:13:29 +0900"
+      "title": "[게시판] KB국민은행, 지수연동예금 출시…27일까지 판매",
+      "link": "https://www.yna.co.kr/view/AKR20261014114400002",
+      "pubDate": "Wed, 14 Oct 2026 14:06:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강원경제자유구역청, 동해 북평지구 수소기업 투자 유치 나서",
-      "link": "https://www.yna.co.kr/view/AKR20261014035600062",
-      "pubDate": "Wed, 14 Oct 2026 09:13:09 +0900"
+      "title": "국토장관, 신축 매입임대주택 현장점검…\"공급 속도 높일 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014112600003",
+      "pubDate": "Wed, 14 Oct 2026 14:06:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한투운용, 펀드 한곳에서 검색·비교…'투자플러스' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261014033800008",
-      "pubDate": "Wed, 14 Oct 2026 09:10:42 +0900"
+      "title": "한은 총재 \"한국 경제 K자형 뚜렷…통화정책으로 물가 낮춰야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014107000002",
+      "pubDate": "Wed, 14 Oct 2026 13:59:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 철강주, 백악관 대변인 알래스카 LNG 언급에 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261014038300008",
-      "pubDate": "Wed, 14 Oct 2026 09:09:21 +0900"
+      "title": "광주은행 포용금융센터, 소상공인 경영위기 극복 상담 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261014110900054",
+      "pubDate": "Wed, 14 Oct 2026 13:57:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전날 급락했던 코스피, 상승 출발…1%대 오름세",
-      "link": "https://www.yna.co.kr/view/AKR20261014037100008",
-      "pubDate": "Wed, 14 Oct 2026 09:06:59 +0900"
+      "title": "[부고] 최인(두산건설 전무)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20261014108700505",
+      "pubDate": "Wed, 14 Oct 2026 13:55:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH농협은행 금융투자자문, 키움증권 영웅문S에서도 이용",
-      "link": "https://www.yna.co.kr/view/AKR20261014035100002",
-      "pubDate": "Wed, 14 Oct 2026 09:06:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "유통업계, 김장철 앞두고 절임배추 사전 예약 판매…할인 행사도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013159551030",
-      "pubDate": "Wed, 14 Oct 2026 09:05:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오는 22일 '증평 일자리 이음 취업박람회'…212명 채용 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261014036400064",
-      "pubDate": "Wed, 14 Oct 2026 09:05:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농진청, 5년간 기술이전 6천여건…제품화 성공률은 40%대 불과",
-      "link": "https://www.yna.co.kr/view/AKR20261014030900055",
-      "pubDate": "Wed, 14 Oct 2026 08:48:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대웅제약, 마이크로니들 무균 제조소 구축한다",
-      "link": "https://www.yna.co.kr/view/AKR20261014031000017",
-      "pubDate": "Wed, 14 Oct 2026 08:47:42 +0900"
+      "title": "티빙 소비자 상담 1년 새 3배…계정 공유 제한·정보 유출 여파",
+      "link": "https://www.yna.co.kr/view/AKR20261014106900030",
+      "pubDate": "Wed, 14 Oct 2026 13:49:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "호르무즈 2주간 선박 24척 피격…유조선 운임 사상 최고",
-      "link": "https://www.hankyung.com/article/202610140321i",
-      "pubDate": "Wed, 14 Oct 2026 08:41:47 +0900"
+      "title": "가입 주판알 튕기다 안방 내줬다… 韓 수출품 절반 CPTPP서 '초토화'",
+      "link": "https://www.hankyung.com/article/202610141107i",
+      "pubDate": "Wed, 14 Oct 2026 13:46:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014029000002",
-      "pubDate": "Wed, 14 Oct 2026 08:38:42 +0900"
+      "title": "[AI픽] 크래프톤, 역대 최대 공채…\"AI 인재 100명 이상 선발\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014103500017",
+      "pubDate": "Wed, 14 Oct 2026 13:30:42 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "5개월 새 거래액 2조원 늘었다…스위치원, 누적 8조원 돌파",
+      "link": "https://www.hankyung.com/article/2026101413246",
+      "pubDate": "Wed, 14 Oct 2026 13:29:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "유진투자증권, 현대오토에버 목표가↓…\"피지컬 AI 매출 지연\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014028200008",
-      "pubDate": "Wed, 14 Oct 2026 08:38:26 +0900"
+      "title": "농어촌공사 사장 \"농지조사로 임대차 해지땐 농지은행 우선지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014101500030",
+      "pubDate": "Wed, 14 Oct 2026 13:29:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "강남·홍대에 '저승사자' 떴다…'소주 가마' 끄는 행렬의 정체",
-      "link": "https://www.hankyung.com/article/202610140298i",
-      "pubDate": "Wed, 14 Oct 2026 08:36:26 +0900"
+      "title": "위챗 문 열리자 화웨이·샤오미·오포 '우르르'…中 AI폰 전쟁 새 국면",
+      "link": "https://www.hankyung.com/article/202609156466i",
+      "pubDate": "Wed, 14 Oct 2026 13:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "석탄화력 폐쇄 앞둔 경남…대체 일자리·지역경제 해법 숙의토론",
+      "link": "https://www.yna.co.kr/view/AKR20261014052600530",
+      "pubDate": "Wed, 14 Oct 2026 13:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "송미령 \"관행적 농지임대차·무허가 농업시설 적법화 특례 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014072600030",
+      "pubDate": "Wed, 14 Oct 2026 13:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서산 소상공인 5천만원 대출까지 특례보증…연 1.5% 이자도 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261014030000063",
+      "pubDate": "Wed, 14 Oct 2026 12:58:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"수량 알아서 척척\"…국밥집 사장 살린 AI 자동 발주",
-      "link": "https://www.hankyung.com/article/202610140251g",
-      "pubDate": "Wed, 14 Oct 2026 08:36:00 +0900"
+      "title": "미닉스 음처기와 얼마나 닮았길래…쿠쿠, 디자인 소송서 최종 패소",
+      "link": "https://www.hankyung.com/article/202610141201i",
+      "pubDate": "Wed, 14 Oct 2026 12:11:49 +0900"
     }
   ]
 }
