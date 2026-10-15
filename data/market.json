@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:50:32.522Z",
+  "updatedAt": "2026-10-15T05:39:31.787Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.47,
-      "changePercent": -0.652,
-      "previousClose": 91.85,
+      "price": 94.1,
+      "changePercent": -1.041,
+      "previousClose": 93.74,
       "currency": "USD",
       "history": [
-        91.8499984741211,
         93.73999786376953,
         94.13999938964844,
-        94.47000122070312
+        95.08999633789062,
+        94.0999984741211
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4162.2,
-      "changePercent": 1.322,
-      "previousClose": 4216.3,
+      "price": 4163.5,
+      "changePercent": 1.353,
+      "previousClose": 4190.6,
       "currency": "USD",
       "history": [
-        4216.2998046875,
         4190.60009765625,
         4177.2998046875,
-        4162.2001953125
+        4107.89990234375,
+        4163.5
       ],
       "ok": true
     },
@@ -88,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.202,
-      "changePercent": -0.342,
-      "previousClose": 102.21,
+      "price": 102.097,
+      "changePercent": -0.445,
+      "previousClose": 102.58,
       "currency": "USD",
       "history": [
-        102.20999908447266,
         102.58000183105469,
         102.18000030517578,
         102.55000305175781,
-        102.2020034790039
+        102.09700012207031
       ],
       "ok": true
     },
@@ -122,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 케이뱅크, 2027년 상반기 채용연계형 인턴 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261015047300002",
-      "pubDate": "Thu, 15 Oct 2026 09:42:38 +0900"
+      "title": "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
+      "link": "https://www.yna.co.kr/view/AKR20261015114900008",
+      "pubDate": "Thu, 15 Oct 2026 14:33:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'반도체 투톱' 급락에 코스피, 장 초반 5∼6% 내려 5,600대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261015034551008",
-      "pubDate": "Thu, 15 Oct 2026 09:40:59 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20261015109900011",
+      "pubDate": "Thu, 15 Oct 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "일상 소비로 비트코인 적립…빗썸, OK캐쉬백과 서비스 개시",
-      "link": "https://www.yna.co.kr/view/AKR20261015042000002",
-      "pubDate": "Thu, 15 Oct 2026 09:40:01 +0900"
+      "title": "코스피·코스닥, 두달여만에 동시 서킷브레이커…올해 5번째(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261015093552008",
+      "pubDate": "Thu, 15 Oct 2026 14:29:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 하이트진로, 규범준수 경영시스템 국제표준 인증 취득",
-      "link": "https://www.yna.co.kr/view/AKR20261015040600030",
-      "pubDate": "Thu, 15 Oct 2026 09:39:14 +0900"
+      "title": "과천시, 내달 1일부터 마을버스 요금 1천650원으로 인상",
+      "link": "https://www.yna.co.kr/view/AKR20261015112600061",
+      "pubDate": "Thu, 15 Oct 2026 14:25:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 오비맥주, 제주 섭지코지서 지역주민과 해변 정화 활동",
-      "link": "https://www.yna.co.kr/view/AKR20261015038600030",
-      "pubDate": "Thu, 15 Oct 2026 09:38:19 +0900"
+      "title": "베슬AI, 2030년까지 GPU 20만장 확보 추진…AI 인프라 승부수",
+      "link": "https://www.yna.co.kr/view/AKR20261015110000017",
+      "pubDate": "Thu, 15 Oct 2026 14:21:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "군산시, 세무조사로 지방세 11억원 추징…자신 신고·납부 유도",
-      "link": "https://www.yna.co.kr/view/AKR20261015046300055",
-      "pubDate": "Thu, 15 Oct 2026 09:37:05 +0900"
+      "title": "[게시판] 하나금융, 인천서 중장년 재취업 일자리 박람회",
+      "link": "https://www.yna.co.kr/view/AKR20261015107900002",
+      "pubDate": "Thu, 15 Oct 2026 14:19:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
-      "link": "https://www.yna.co.kr/view/AKR20261015045300008",
-      "pubDate": "Thu, 15 Oct 2026 09:34:29 +0900"
+      "title": "9월 대구·경북 수출 두 자릿수 증가…각각 10.3%·12.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260915119151053",
+      "pubDate": "Thu, 15 Oct 2026 14:19:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "CJ제일제당, 고궁 투어 외국인 관광객 6천명에 비비고 웰컴키트",
-      "link": "https://www.yna.co.kr/view/AKR20261015035600030",
-      "pubDate": "Thu, 15 Oct 2026 09:32:52 +0900"
+      "title": "전남광주 9월 무역수지 18억8천만달러 흑자",
+      "link": "https://www.yna.co.kr/view/AKR20261015109200054",
+      "pubDate": "Thu, 15 Oct 2026 14:13:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "시흥서 28일 일자리박람회…50개 기업 400명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20261015043300061",
-      "pubDate": "Thu, 15 Oct 2026 09:31:39 +0900"
+      "title": "중기중앙회, 베트남 동나이시와 中企 현지 진출 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20261014180900030",
+      "pubDate": "Thu, 15 Oct 2026 14:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 멜콘, 코스닥 입성 첫날 70%대 강세",
-      "link": "https://www.yna.co.kr/view/AKR20261015043900008",
-      "pubDate": "Thu, 15 Oct 2026 09:28:35 +0900"
+      "title": "광주지역 오피스텔 3분기 매매가격 ↓·월세 ↑",
+      "link": "https://www.yna.co.kr/view/AKR20261015065100054",
+      "pubDate": "Thu, 15 Oct 2026 14:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은, HJ중공업 선박 수출에 1.35억달러 금융 제공",
-      "link": "https://www.yna.co.kr/view/AKR20261015039600002",
-      "pubDate": "Thu, 15 Oct 2026 09:28:31 +0900"
+      "title": "중기중앙회, 대·중견기업과 中企 AI 전환 지원 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20261014184500030",
+      "pubDate": "Thu, 15 Oct 2026 14:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "셀트리온, 유럽소화기학회서 램시마SC 경쟁력 알린다",
-      "link": "https://www.yna.co.kr/view/AKR20261015037800017",
-      "pubDate": "Thu, 15 Oct 2026 09:28:15 +0900"
+      "title": "서울 아파트값 2주째 상승폭 확대…분당 등 경기남부 강세",
+      "link": "https://www.yna.co.kr/view/AKR20261015080200003",
+      "pubDate": "Thu, 15 Oct 2026 14:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20261015041600002",
-      "pubDate": "Thu, 15 Oct 2026 09:26:51 +0900"
+      "title": "9월 서울 주택 매매가격 0.84%↑…상승폭 두달째 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20261015092700003",
+      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
-      "link": "https://www.yna.co.kr/view/AKR20261015035951008",
-      "pubDate": "Thu, 15 Oct 2026 09:23:40 +0900"
+      "title": "영국 무역특사, HD현대중공업 방문…조선·해양산업 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261015102000057",
+      "pubDate": "Thu, 15 Oct 2026 13:47:47 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 다이슨, 열판 스타일링기기 코랄 쿨샤인 헤어 스트레이트너 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261015037400003",
-      "pubDate": "Thu, 15 Oct 2026 09:16:20 +0900"
+      "source": "한국경제",
+      "title": "대표 시멘트기업 쌍용C&E, 창립 64년 만에 본사 강원도로 이전",
+      "link": "https://www.hankyung.com/article/202610153940i",
+      "pubDate": "Thu, 15 Oct 2026 13:39:07 +0900"
     }
   ]
 }
