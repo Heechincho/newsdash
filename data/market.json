@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:33:16.287Z",
+  "updatedAt": "2026-10-15T00:50:32.522Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.09,
-      "changePercent": 0,
+      "price": 94.47,
+      "changePercent": -0.652,
       "previousClose": 91.85,
       "currency": "USD",
       "history": [
         91.8499984741211,
         93.73999786376953,
         94.13999938964844,
-        95.08999633789062
+        94.47000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4128,
-      "changePercent": 0.489,
+      "price": 4162.2,
+      "changePercent": 1.322,
       "previousClose": 4216.3,
       "currency": "USD",
       "history": [
         4216.2998046875,
         4190.60009765625,
         4177.2998046875,
-        4128
+        4162.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.528,
-      "changePercent": 0.34,
+      "price": 102.202,
+      "changePercent": -0.342,
       "previousClose": 102.21,
       "currency": "USD",
       "history": [
         102.20999908447266,
         102.58000183105469,
         102.18000030517578,
-        102.52799987792969
+        102.55000305175781,
+        102.2020034790039
       ],
       "ok": true
     },
@@ -121,93 +122,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
-      "link": "https://www.yna.co.kr/view/AKR20261014158300065",
-      "pubDate": "Thu, 15 Oct 2026 07:17:00 +0900"
+      "title": "[게시판] 케이뱅크, 2027년 상반기 채용연계형 인턴 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261015047300002",
+      "pubDate": "Thu, 15 Oct 2026 09:42:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014170200001",
-      "pubDate": "Thu, 15 Oct 2026 07:10:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"AI로 돈 쓸어 담는다더니\"…IMF가 경고한 이유 [분석+]",
-      "link": "https://www.hankyung.com/article/202610140981g",
-      "pubDate": "Thu, 15 Oct 2026 07:00:32 +0900"
+      "title": "'반도체 투톱' 급락에 코스피, 장 초반 5∼6% 내려 5,600대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261015034551008",
+      "pubDate": "Thu, 15 Oct 2026 09:40:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
-      "link": "https://www.yna.co.kr/view/AKR20260929074200898",
-      "pubDate": "Thu, 15 Oct 2026 07:00:16 +0900"
+      "title": "일상 소비로 비트코인 적립…빗썸, OK캐쉬백과 서비스 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261015042000002",
+      "pubDate": "Thu, 15 Oct 2026 09:40:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014164100052",
-      "pubDate": "Thu, 15 Oct 2026 07:00:14 +0900"
+      "title": "[게시판] 하이트진로, 규범준수 경영시스템 국제표준 인증 취득",
+      "link": "https://www.yna.co.kr/view/AKR20261015040600030",
+      "pubDate": "Thu, 15 Oct 2026 09:39:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
-      "link": "https://www.yna.co.kr/view/AKR20261014163900003",
-      "pubDate": "Thu, 15 Oct 2026 06:30:02 +0900"
+      "title": "[게시판] 오비맥주, 제주 섭지코지서 지역주민과 해변 정화 활동",
+      "link": "https://www.yna.co.kr/view/AKR20261015038600030",
+      "pubDate": "Thu, 15 Oct 2026 09:38:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261014131300003",
-      "pubDate": "Thu, 15 Oct 2026 06:11:01 +0900"
+      "title": "군산시, 세무조사로 지방세 11억원 추징…자신 신고·납부 유도",
+      "link": "https://www.yna.co.kr/view/AKR20261015046300055",
+      "pubDate": "Thu, 15 Oct 2026 09:37:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261014161900004",
-      "pubDate": "Thu, 15 Oct 2026 06:00:08 +0900"
+      "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
+      "link": "https://www.yna.co.kr/view/AKR20261015045300008",
+      "pubDate": "Thu, 15 Oct 2026 09:34:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
-      "link": "https://www.yna.co.kr/view/AKR20261014167600003",
-      "pubDate": "Thu, 15 Oct 2026 06:00:05 +0900"
+      "title": "CJ제일제당, 고궁 투어 외국인 관광객 6천명에 비비고 웰컴키트",
+      "link": "https://www.yna.co.kr/view/AKR20261015035600030",
+      "pubDate": "Thu, 15 Oct 2026 09:32:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "무역협회, 튀르키예서 K-할랄 상품전…국내 소비재 36개사 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261014171200003",
-      "pubDate": "Thu, 15 Oct 2026 06:00:04 +0900"
+      "title": "시흥서 28일 일자리박람회…50개 기업 400명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20261015043300061",
+      "pubDate": "Thu, 15 Oct 2026 09:31:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"기보, 수천억 팩토링금융 성과측정 없이 '깜깜이' 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014174600001",
-      "pubDate": "Thu, 15 Oct 2026 06:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"비싼 돈 주고 포르쉐 샀는데\"…5년 만에 벌어진 일 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610142514i",
-      "pubDate": "Thu, 15 Oct 2026 06:00:01 +0900"
+      "title": "[특징주] 멜콘, 코스닥 입성 첫날 70%대 강세",
+      "link": "https://www.yna.co.kr/view/AKR20261015043900008",
+      "pubDate": "Thu, 15 Oct 2026 09:28:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "컨테이너 화물 검사용 엑스레이기 3대 중 1대 노후",
-      "link": "https://www.yna.co.kr/view/AKR20261014143200002",
-      "pubDate": "Thu, 15 Oct 2026 05:58:01 +0900"
+      "title": "수은, HJ중공업 선박 수출에 1.35억달러 금융 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261015039600002",
+      "pubDate": "Thu, 15 Oct 2026 09:28:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "조달청 외부인 접촉신고 제대로 하나…\"월 평균 1건도 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014157600002",
-      "pubDate": "Thu, 15 Oct 2026 05:57:00 +0900"
+      "title": "셀트리온, 유럽소화기학회서 램시마SC 경쟁력 알린다",
+      "link": "https://www.yna.co.kr/view/AKR20261015037800017",
+      "pubDate": "Thu, 15 Oct 2026 09:28:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한은, 올해 법인카드 오사용 15건·274만원…\"관리·감독 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014175400002",
-      "pubDate": "Thu, 15 Oct 2026 05:56:01 +0900"
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20261015041600002",
+      "pubDate": "Thu, 15 Oct 2026 09:26:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미국발 한풍에 코스피·코스닥서 잇단 매도 사이드카 발동",
+      "link": "https://www.yna.co.kr/view/AKR20261015035951008",
+      "pubDate": "Thu, 15 Oct 2026 09:23:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 다이슨, 열판 스타일링기기 코랄 쿨샤인 헤어 스트레이트너 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261015037400003",
+      "pubDate": "Thu, 15 Oct 2026 09:16:20 +0900"
     }
   ]
 }
