@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:39:31.787Z",
+  "updatedAt": "2026-10-15T10:19:57.353Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 94.1,
-      "changePercent": -1.041,
+      "price": 93.62,
+      "changePercent": -0.298,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
         93.73999786376953,
         94.13999938964844,
         95.08999633789062,
-        94.0999984741211
+        93.62000274658203
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4163.5,
-      "changePercent": 1.353,
+      "price": 4177.7,
+      "changePercent": 1.699,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
         4190.60009765625,
         4177.2998046875,
         4107.89990234375,
-        4163.5
+        4177.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.097,
-      "changePercent": -0.445,
+      "price": 102.053,
+      "changePercent": -0.488,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
         102.58000183105469,
         102.18000030517578,
         102.55000305175781,
-        102.09700012207031
+        102.0530014038086
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.87,
-      "changePercent": 10.478,
-      "previousClose": 15.41,
+      "price": 17.61,
+      "changePercent": 4.389,
+      "previousClose": 14.84,
       "currency": "USD",
       "history": [
-        15.40999984741211,
         14.84000015258789,
         15.210000038146973,
         15.270000457763672,
-        16.8700008392334
+        16.8700008392334,
+        17.610000610351562
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
-      "link": "https://www.yna.co.kr/view/AKR20261015114900008",
-      "pubDate": "Thu, 15 Oct 2026 14:33:24 +0900"
+      "title": "식약처, '특발성 폐섬유증 치료' 희귀의약품 허가",
+      "link": "https://www.yna.co.kr/view/AKR20261015170800017",
+      "pubDate": "Thu, 15 Oct 2026 19:02:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20261015109900011",
-      "pubDate": "Thu, 15 Oct 2026 14:30:00 +0900"
+      "title": "'OLED 소재업체' 에스에프씨, 코스피 신규상장 예비심사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261015168700008",
+      "pubDate": "Thu, 15 Oct 2026 18:34:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스피·코스닥, 두달여만에 동시 서킷브레이커…올해 5번째(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261015093552008",
-      "pubDate": "Thu, 15 Oct 2026 14:29:10 +0900"
+      "title": "올해 상반기 대형GA 수입보험료 10조원 넘어…작년 比 16.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261015168300002",
+      "pubDate": "Thu, 15 Oct 2026 18:33:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "과천시, 내달 1일부터 마을버스 요금 1천650원으로 인상",
-      "link": "https://www.yna.co.kr/view/AKR20261015112600061",
-      "pubDate": "Thu, 15 Oct 2026 14:25:34 +0900"
+      "title": "李대통령 \"출범 500일…주요 지표 우수에도 민생회복 속도 더뎌\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261015115451001",
+      "pubDate": "Thu, 15 Oct 2026 18:32:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "베슬AI, 2030년까지 GPU 20만장 확보 추진…AI 인프라 승부수",
-      "link": "https://www.yna.co.kr/view/AKR20261015110000017",
-      "pubDate": "Thu, 15 Oct 2026 14:21:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 하나금융, 인천서 중장년 재취업 일자리 박람회",
-      "link": "https://www.yna.co.kr/view/AKR20261015107900002",
-      "pubDate": "Thu, 15 Oct 2026 14:19:39 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "9월 대구·경북 수출 두 자릿수 증가…각각 10.3%·12.9%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260915119151053",
-      "pubDate": "Thu, 15 Oct 2026 14:19:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주 9월 무역수지 18억8천만달러 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20261015109200054",
-      "pubDate": "Thu, 15 Oct 2026 14:13:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회, 베트남 동나이시와 中企 현지 진출 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261014180900030",
-      "pubDate": "Thu, 15 Oct 2026 14:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "광주지역 오피스텔 3분기 매매가격 ↓·월세 ↑",
-      "link": "https://www.yna.co.kr/view/AKR20261015065100054",
-      "pubDate": "Thu, 15 Oct 2026 14:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회, 대·중견기업과 中企 AI 전환 지원 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20261014184500030",
-      "pubDate": "Thu, 15 Oct 2026 14:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 아파트값 2주째 상승폭 확대…분당 등 경기남부 강세",
-      "link": "https://www.yna.co.kr/view/AKR20261015080200003",
-      "pubDate": "Thu, 15 Oct 2026 14:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "9월 서울 주택 매매가격 0.84%↑…상승폭 두달째 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20261015092700003",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "영국 무역특사, HD현대중공업 방문…조선·해양산업 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261015102000057",
-      "pubDate": "Thu, 15 Oct 2026 13:47:47 +0900"
+      "title": "신보 \"재도전·재창업 관련 연대보증 폐지 적극 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20261015165200002",
+      "pubDate": "Thu, 15 Oct 2026 18:14:59 +0900"
     },
     {
       "source": "한국경제",
-      "title": "대표 시멘트기업 쌍용C&E, 창립 64년 만에 본사 강원도로 이전",
-      "link": "https://www.hankyung.com/article/202610153940i",
-      "pubDate": "Thu, 15 Oct 2026 13:39:07 +0900"
+      "title": "[단독] 보금자리론 채무조정 올들어 1.4만건…5년 새 4배 이상 급증",
+      "link": "https://www.hankyung.com/article/2026101547051",
+      "pubDate": "Thu, 15 Oct 2026 18:12:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "하나금융, 인천서 중장년 취업지원 행사",
+      "link": "https://www.hankyung.com/article/2026101548401",
+      "pubDate": "Thu, 15 Oct 2026 18:09:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'수의계약·가격비교 면제'…조달청 '우수제품'이 뭐길래",
+      "link": "https://www.yna.co.kr/view/AKR20261015164600063",
+      "pubDate": "Thu, 15 Oct 2026 18:06:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "새마을금고, 아동복지시설에 농산물 전달",
+      "link": "https://www.hankyung.com/article/2026101548371",
+      "pubDate": "Thu, 15 Oct 2026 18:06:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 기준 서울 민간아파트 분양가 전월과 동일",
+      "link": "https://www.yna.co.kr/view/AKR20261015165400003",
+      "pubDate": "Thu, 15 Oct 2026 18:05:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국민 25% '노인·장애인'인데…준비 안된 한국사회",
+      "link": "https://www.hankyung.com/article/2026101548281",
+      "pubDate": "Thu, 15 Oct 2026 18:03:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"처음 보는 난민과 삽니다\"…이방인을 집으로 들인 '이 나라'",
+      "link": "https://www.hankyung.com/article/2026101548251",
+      "pubDate": "Thu, 15 Oct 2026 18:02:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 이전 금융기관, 부산은행 예치 14.9%…지역인재 채용 미달",
+      "link": "https://www.yna.co.kr/view/AKR20261015161600051",
+      "pubDate": "Thu, 15 Oct 2026 18:00:58 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"관세청이 송치한 1천582건 처리는?\"…공소청 \"순차 처리\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261014168151002",
+      "pubDate": "Thu, 15 Oct 2026 18:00:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261015157700011",
+      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0900"
     }
   ]
 }
