@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-15T15:09:35.357Z",
+  "updatedAt": "2026-10-15T19:08:29.594Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7727.2,
-      "changePercent": 0.107,
+      "price": 7739.68,
+      "changePercent": 0.269,
       "previousClose": 7765.36,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7807.240234375,
         7805.4501953125,
         7718.93994140625,
-        7727.2001953125
+        7739.68017578125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26603.457,
-      "changePercent": -0.335,
+      "price": 26677.41,
+      "changePercent": -0.058,
       "previousClose": 27193.34,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27245.900390625,
         27204.380859375,
         26692.869140625,
-        26603.45703125
+        26677.41015625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52154.69,
-      "changePercent": 1.033,
+      "price": 52167.52,
+      "changePercent": 1.058,
       "previousClose": 51231.64,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51850.55078125,
         51670.1015625,
         51621.48046875,
-        52154.69140625
+        52167.51953125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.24,
-      "changePercent": 1.427,
+      "price": 96.45,
+      "changePercent": 2.716,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
         93.73999786376953,
         94.13999938964844,
         95.08999633789062,
-        95.23999786376953
+        96.44999694824219
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4178.8,
-      "changePercent": 1.726,
+      "price": 4177.9,
+      "changePercent": 1.704,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
         4190.60009765625,
         4177.2998046875,
         4107.89990234375,
-        4178.7998046875
+        4177.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.127,
-      "changePercent": -0.415,
+      "price": 102.056,
+      "changePercent": -0.485,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
         102.58000183105469,
         102.18000030517578,
         102.55000305175781,
-        102.12699890136719
+        102.05599975585938
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.08,
-      "changePercent": 1.244,
+      "price": 16.65,
+      "changePercent": -1.304,
       "previousClose": 14.84,
       "currency": "USD",
       "history": [
@@ -113,12 +113,18 @@
         15.210000038146973,
         15.270000457763672,
         16.8700008392334,
-        17.079999923706055
+        16.649999618530273
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "하늘 나는 테슬라 로드스터…스페이스X의 테슬라 인수 큰그림?",
+      "link": "https://www.hankyung.com/article/202610165127i",
+      "pubDate": "Fri, 16 Oct 2026 00:20:56 +0900"
+    },
     {
       "source": "한국경제",
       "title": "뉴욕시 감사관 \"안전 우려 해소될 때까지 앤트로픽 IPO 연기\" 촉구",
@@ -202,12 +208,6 @@
       "title": "박진선 샘표 대표, '우리맛문화재단' 설립…한식 세계화 지원",
       "link": "https://www.yna.co.kr/view/AKR20261015174200030",
       "pubDate": "Thu, 15 Oct 2026 19:43:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中업체, ASML에 도전장…노광장비 핵심부품 공개",
-      "link": "https://www.hankyung.com/article/2026101549801",
-      "pubDate": "Thu, 15 Oct 2026 19:39:17 +0900"
     }
   ]
 }
