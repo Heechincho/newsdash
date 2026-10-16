@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T18:10:17.096Z",
+  "updatedAt": "2026-10-16T21:21:38.315Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7658.56,
-      "changePercent": -1.104,
+      "price": 7659.44,
+      "changePercent": -1.093,
       "previousClose": 7811.54,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7805.4501953125,
         7718.93994140625,
         7744.06005859375,
-        7658.56005859375
+        7659.43994140625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26162.334,
-      "changePercent": -2.061,
+      "price": 26140.033,
+      "changePercent": -2.145,
       "previousClose": 27366.17,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27204.380859375,
         26692.869140625,
         26713.029296875,
-        26162.333984375
+        26140.033203125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51956.23,
-      "changePercent": -0.424,
+      "price": 52002.41,
+      "changePercent": -0.336,
       "previousClose": 51654.95,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51670.1015625,
         51621.48046875,
         52177.69140625,
-        51956.23046875
+        52002.41015625
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.64,
-      "changePercent": 2.217,
+      "price": 99.04,
+      "changePercent": 2.632,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        98.63999938964844
+        99.04000091552734
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4183.9,
-      "changePercent": 0.331,
+      "price": 4186.7,
+      "changePercent": 0.398,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
-        4183.89990234375
+        4186.7001953125
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.89,
-      "changePercent": -0.162,
+      "price": 101.779,
+      "changePercent": -0.27,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.18000030517578,
         102.55000305175781,
         102,
-        101.88999938964844
+        101.77899932861328
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 20.33,
-      "changePercent": 23.54,
+      "price": 19.99,
+      "changePercent": 21.446,
       "previousClose": 15.21,
       "currency": "USD",
       "history": [
@@ -116,12 +116,42 @@
         15.270000457763672,
         16.8700008392334,
         16.459999084472656,
-        20.329999923706055
+        19.989999771118164
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
+      "link": "https://www.yna.co.kr/view/AKR20261016155700003",
+      "pubDate": "Sat, 17 Oct 2026 06:05:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "클릭해 예약한 컬러렌즈…안전과 편의 사이 멈춰 선 혁신",
+      "link": "https://www.yna.co.kr/view/AKR20261016090400530",
+      "pubDate": "Sat, 17 Oct 2026 06:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"옷만 봐도 딱 알겠네\"…요즘 SNS서 난리난 '부잣집 스타일'",
+      "link": "https://www.hankyung.com/article/2026101671141",
+      "pubDate": "Sat, 17 Oct 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+      "link": "https://www.yna.co.kr/view/AKR20261016169500002",
+      "pubDate": "Sat, 17 Oct 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중동도 우크라도 불안…브렌트유 109달러대, 5개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261017004900072",
+      "pubDate": "Sat, 17 Oct 2026 05:04:06 +0900"
+    },
     {
       "source": "한국경제",
       "title": "엔비디아, AI PC 'RTX 스파크' 국내 출시…\"에이전트 AI 시대 가속화\"",
@@ -181,36 +211,6 @@
       "title": "마코 루비오의 아테네 연설에 드러난 이교적 민족주의  [이번주 WSJ]",
       "link": "https://www.hankyung.com/article/202610167276i",
       "pubDate": "Fri, 16 Oct 2026 19:34:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김대자, 제13대 산단공 이사장 취임",
-      "link": "https://www.hankyung.com/article/2026101672611",
-      "pubDate": "Fri, 16 Oct 2026 19:26:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화시스템, 오션 지분 1.4조에 전량 유동화",
-      "link": "https://www.hankyung.com/article/2026101672691",
-      "pubDate": "Fri, 16 Oct 2026 19:25:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "여수신 비대면 창구 잇달아 뚫린 OK저축銀…고객 518명 정보 유출",
-      "link": "https://www.hankyung.com/article/202610167171i",
-      "pubDate": "Fri, 16 Oct 2026 19:20:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한미 재무·통화당국 첫 '2+2' 회동…\"금융충격 땐 신속 공조\"",
-      "link": "https://www.hankyung.com/article/2026101672657",
-      "pubDate": "Fri, 16 Oct 2026 19:18:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국토차관 \"강남3구 최근 안정화 흐름…매수심리 다소 진정\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016162200003",
-      "pubDate": "Fri, 16 Oct 2026 18:20:27 +0900"
     }
   ]
 }
