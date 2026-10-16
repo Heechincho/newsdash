@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:29:57.077Z",
+  "updatedAt": "2026-10-16T04:54:55.989Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         27245.900390625,
         27204.380859375,
         26692.869140625,
-        26713.025390625
+        26713.029296875
       ],
       "ok": true
     },
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.09,
-      "changePercent": -0.425,
+      "price": 95.91,
+      "changePercent": -0.611,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
         93.73999786376953,
         94.13999938964844,
         95.08999633789062,
-        96.08999633789062
+        97.97000122070312,
+        95.91000366210938
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4177.1,
-      "changePercent": 0.168,
+      "price": 4196.3,
+      "changePercent": 0.628,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
         4190.60009765625,
         4177.2998046875,
         4107.89990234375,
-        4177.10009765625
+        4170.10009765625,
+        4196.2998046875
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.076,
-      "changePercent": 0.021,
+      "price": 101.885,
+      "changePercent": -0.167,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
         102.58000183105469,
         102.18000030517578,
         102.55000305175781,
-        102.07599639892578
+        102,
+        101.88500213623047
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "GTX-B 인천시청역∼인천대입구역 추가정거장, 중투심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20261016038100065",
-      "pubDate": "Fri, 16 Oct 2026 09:23:15 +0900"
+      "title": "[게시판] 한국거래소, 부산 희귀질환 아동 치료비 지원 후원금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20261016090500008",
+      "pubDate": "Fri, 16 Oct 2026 13:36:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 삼성전자, 장 초반 1.7% 상승 중…하닉도 0.9%↑",
-      "link": "https://www.yna.co.kr/view/AKR20261016036300008",
-      "pubDate": "Fri, 16 Oct 2026 09:20:28 +0900"
+      "title": "강호동 농협회장 \"외부 감사기구 신설, 자율성·독립성 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016087100030",
+      "pubDate": "Fri, 16 Oct 2026 13:18:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미래에셋자산운용, 퇴직연금 제도 변화·운용전략 세미나 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261016035900008",
-      "pubDate": "Fri, 16 Oct 2026 09:18:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "효성중공업, 창원 초고압차단기 신공장 준공…생산능력 2배↑",
-      "link": "https://www.yna.co.kr/view/AKR20261016033500003",
-      "pubDate": "Fri, 16 Oct 2026 09:16:55 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인사] 메트라이프생명",
-      "link": "https://www.yna.co.kr/view/AKR20261016035100002",
-      "pubDate": "Fri, 16 Oct 2026 09:15:22 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "취업자 11.3만명↑…제조업 감소 끊었지만 음식숙박 감소폭 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016015952002",
-      "pubDate": "Fri, 16 Oct 2026 09:15:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "롯데이노베이트, 국내외 데이터센터 사업확대…\"성장동력 육성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016029500017",
-      "pubDate": "Fri, 16 Oct 2026 09:15:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스맥스, 연구소 폐자원 새활용…가운·앞치마 예술작품으로",
-      "link": "https://www.yna.co.kr/view/AKR20261016030000030",
-      "pubDate": "Fri, 16 Oct 2026 09:12:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "윤준병 \"농협공판장, 3년 반 동안 수입농산물 1조원 유통\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016032100055",
-      "pubDate": "Fri, 16 Oct 2026 09:06:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"추나요법 진료비 4년새 60% 급증…1명에 한해 188회 청구도\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016032300530",
-      "pubDate": "Fri, 16 Oct 2026 09:06:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'전날 7%대 급락' 코스피, 1%대 상승 출발…코스닥도 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261016033200008",
-      "pubDate": "Fri, 16 Oct 2026 09:05:17 +0900"
+      "title": "코스닥, 장중 5% 급등세에 '매수 사이드카'",
+      "link": "https://www.yna.co.kr/view/AKR20261016086100008",
+      "pubDate": "Fri, 16 Oct 2026 13:10:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"서버 한 대 값이 4배로\"…AI가 메모리 싹쓸이했다",
-      "link": "https://www.hankyung.com/article/2026101655637",
-      "pubDate": "Fri, 16 Oct 2026 09:04:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 샘표 우리맛문화재단, 한국국제교류재단과 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261016025000030",
-      "pubDate": "Fri, 16 Oct 2026 09:03:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] '전날 7%대 급락' 코스피, 1%대 상승 출발…코스닥도 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261016031800008",
-      "pubDate": "Fri, 16 Oct 2026 09:02:41 +0900"
+      "title": "'삼성 밑으로 집합'…애플·나이키·도요타·소니 모조리 눌렀다",
+      "link": "https://www.hankyung.com/article/2026101662857",
+      "pubDate": "Fri, 16 Oct 2026 13:09:22 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"도박하듯 AI 투자\"…삼전닉스 역대급 실적에도 '서늘한 경고' [테크로그]",
-      "link": "https://www.hankyung.com/article/202610165137g",
-      "pubDate": "Fri, 16 Oct 2026 09:00:10 +0900"
+      "title": "국산 비만약 얼마길래…'이젠 日 안 가도 되겠다' 환호 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610165794i",
+      "pubDate": "Fri, 16 Oct 2026 13:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "이소영 장관 \"기업성장 가로막는 규제 걷어내는 게 가장 좋은 정책\"",
+      "link": "https://www.hankyung.com/article/202610165885i",
+      "pubDate": "Fri, 16 Oct 2026 13:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 코스닥 장중 4.9% 급등에 '매수 사이드카' 발동",
+      "link": "https://www.yna.co.kr/view/AKR20261016085000008",
+      "pubDate": "Fri, 16 Oct 2026 12:57:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "넥센타이어, 다음달 18일까지 타이어 구매 프로모션",
+      "link": "https://www.hankyung.com/article/202610166269g",
+      "pubDate": "Fri, 16 Oct 2026 12:41:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"공중 떠올라 한 바퀴 회전\"…'하늘 나는 車' 나왔다 [영상]",
+      "link": "https://www.hankyung.com/article/202610166216i",
+      "pubDate": "Fri, 16 Oct 2026 12:02:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"버틸 때냐, 팔 때냐\"…'폭락장세'에 증권가 전문가들 진단은",
+      "link": "https://www.yna.co.kr/view/AKR20261016078600008",
+      "pubDate": "Fri, 16 Oct 2026 12:00:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일 \"G20, 공급망회복력 높이고 취약층 보호·성장동력 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016003400002",
+      "pubDate": "Fri, 16 Oct 2026 12:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "데이터처, 내달 4일까지 하반기 지역별 고용조사",
+      "link": "https://www.yna.co.kr/view/AKR20261016039700002",
+      "pubDate": "Fri, 16 Oct 2026 12:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 증권시장서 외국인 8개월째 매도 우위…주식도 순유출 전환",
+      "link": "https://www.yna.co.kr/view/AKR20261016063300002",
+      "pubDate": "Fri, 16 Oct 2026 12:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시 주택정책 20년백서…\"박원순 재임때 43만호 기획 사라져\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261016037451004",
+      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국고채 금리 혼조세…3년물 장중 연 3.870%",
+      "link": "https://www.yna.co.kr/view/AKR20261016076400008",
+      "pubDate": "Fri, 16 Oct 2026 11:42:16 +0900"
     }
   ]
 }
