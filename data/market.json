@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T14:14:07.708Z",
+  "updatedAt": "2026-10-16T18:10:17.096Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7738,
-      "changePercent": -0.078,
+      "price": 7658.56,
+      "changePercent": -1.104,
       "previousClose": 7811.54,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7805.4501953125,
         7718.93994140625,
         7744.06005859375,
-        7738
+        7658.56005859375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26533.771,
-      "changePercent": -0.671,
+      "price": 26162.334,
+      "changePercent": -2.061,
       "previousClose": 27366.17,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         27204.380859375,
         26692.869140625,
         26713.029296875,
-        26533.771484375
+        26162.333984375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52383.08,
-      "changePercent": 0.394,
+      "price": 51956.23,
+      "changePercent": -0.424,
       "previousClose": 51654.95,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51670.1015625,
         51621.48046875,
         52177.69140625,
-        52383.078125
+        51956.23046875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.66,
-      "changePercent": -0.87,
+      "price": 98.64,
+      "changePercent": 2.217,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        95.66000366210938
+        98.63999938964844
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4204.4,
-      "changePercent": 0.823,
+      "price": 4183.9,
+      "changePercent": 0.331,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
-        4204.39990234375
+        4183.89990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.63,
-      "changePercent": -0.416,
+      "price": 101.89,
+      "changePercent": -0.162,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.18000030517578,
         102.55000305175781,
         102,
-        101.62999725341797
+        101.88999938964844
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.94,
-      "changePercent": -3.155,
+      "price": 20.33,
+      "changePercent": 23.54,
       "previousClose": 15.21,
       "currency": "USD",
       "history": [
@@ -116,7 +116,7 @@
         15.270000457763672,
         16.8700008392334,
         16.459999084472656,
-        15.9399995803833
+        20.329999923706055
       ],
       "ok": true
     }
@@ -148,7 +148,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다",
+      "title": "\"한국 가면 꼭 사라\" 입소문 퍼지더니…'110%' 대박 터졌다",
       "link": "https://www.hankyung.com/article/2026101670691",
       "pubDate": "Fri, 16 Oct 2026 20:00:09 +0900"
     },
