@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:54:55.989Z",
+  "updatedAt": "2026-10-16T09:33:49.592Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.91,
-      "changePercent": -0.611,
+      "price": 95.36,
+      "changePercent": -1.181,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        95.91000366210938
+        95.36000061035156
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4196.3,
-      "changePercent": 0.628,
+      "price": 4208.8,
+      "changePercent": 0.928,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
-        4196.2998046875
+        4208.7998046875
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.885,
-      "changePercent": -0.167,
+      "price": 101.67,
+      "changePercent": -0.377,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.18000030517578,
         102.55000305175781,
         102,
-        101.88500213623047
+        101.66999816894531
       ],
       "ok": true
     },
@@ -107,16 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.46,
-      "changePercent": -2.43,
-      "previousClose": 14.84,
+      "price": 15.99,
+      "changePercent": -2.855,
+      "previousClose": 15.21,
       "currency": "USD",
       "history": [
-        14.84000015258789,
         15.210000038146973,
         15.270000457763672,
         16.8700008392334,
-        16.459999084472656
+        16.459999084472656,
+        15.989999771118164
       ],
       "ok": true
     }
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 한국거래소, 부산 희귀질환 아동 치료비 지원 후원금 전달",
-      "link": "https://www.yna.co.kr/view/AKR20261016090500008",
-      "pubDate": "Fri, 16 Oct 2026 13:36:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "강호동 농협회장 \"외부 감사기구 신설, 자율성·독립성 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016087100030",
-      "pubDate": "Fri, 16 Oct 2026 13:18:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스닥, 장중 5% 급등세에 '매수 사이드카'",
-      "link": "https://www.yna.co.kr/view/AKR20261016086100008",
-      "pubDate": "Fri, 16 Oct 2026 13:10:37 +0900"
+      "title": "국토차관 \"강남3구 최근 안정화 흐름…매수심리 다소 진정\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016162200003",
+      "pubDate": "Fri, 16 Oct 2026 18:20:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'삼성 밑으로 집합'…애플·나이키·도요타·소니 모조리 눌렀다",
-      "link": "https://www.hankyung.com/article/2026101662857",
-      "pubDate": "Fri, 16 Oct 2026 13:09:22 +0900"
+      "title": "한·미 재무·중앙銀, 사상 첫 '2 + 2 회의'",
+      "link": "https://www.hankyung.com/article/2026101671471",
+      "pubDate": "Fri, 16 Oct 2026 18:14:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "국산 비만약 얼마길래…'이젠 日 안 가도 되겠다' 환호 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610165794i",
-      "pubDate": "Fri, 16 Oct 2026 13:00:06 +0900"
+      "title": "줄어든 中 미세먼지에 맑아진 韓 가을 하늘",
+      "link": "https://www.hankyung.com/article/2026101671181",
+      "pubDate": "Fri, 16 Oct 2026 18:11:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "이소영 장관 \"기업성장 가로막는 규제 걷어내는 게 가장 좋은 정책\"",
-      "link": "https://www.hankyung.com/article/202610165885i",
-      "pubDate": "Fri, 16 Oct 2026 13:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] 코스닥 장중 4.9% 급등에 '매수 사이드카' 발동",
-      "link": "https://www.yna.co.kr/view/AKR20261016085000008",
-      "pubDate": "Fri, 16 Oct 2026 12:57:35 +0900"
+      "title": "테슬라, 하늘 나는 스포츠카",
+      "link": "https://www.hankyung.com/article/2026101671411",
+      "pubDate": "Fri, 16 Oct 2026 18:03:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "넥센타이어, 다음달 18일까지 타이어 구매 프로모션",
-      "link": "https://www.hankyung.com/article/202610166269g",
-      "pubDate": "Fri, 16 Oct 2026 12:41:40 +0900"
+      "title": "의대 마다한 공학도, 대만서 韓반도체 길을 묻다",
+      "link": "https://www.hankyung.com/article/2026101671091",
+      "pubDate": "Fri, 16 Oct 2026 18:02:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"공중 떠올라 한 바퀴 회전\"…'하늘 나는 車' 나왔다 [영상]",
-      "link": "https://www.hankyung.com/article/202610166216i",
-      "pubDate": "Fri, 16 Oct 2026 12:02:05 +0900"
+      "title": "네이버페이, 제주 소상공인 금융 지원",
+      "link": "https://www.hankyung.com/article/2026101671051",
+      "pubDate": "Fri, 16 Oct 2026 18:00:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "제임스 김 암참 회장, 항공대 명예박사",
+      "link": "https://www.hankyung.com/article/2026101671031",
+      "pubDate": "Fri, 16 Oct 2026 18:00:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "고유가에 수입물가 반등…최고가격제 또 동결",
+      "link": "https://www.hankyung.com/article/2026101671641",
+      "pubDate": "Fri, 16 Oct 2026 18:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"버틸 때냐, 팔 때냐\"…'폭락장세'에 증권가 전문가들 진단은",
-      "link": "https://www.yna.co.kr/view/AKR20261016078600008",
-      "pubDate": "Fri, 16 Oct 2026 12:00:21 +0900"
+      "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
+      "link": "https://www.yna.co.kr/view/AKR20261016147400003",
+      "pubDate": "Fri, 16 Oct 2026 18:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일 \"G20, 공급망회복력 높이고 취약층 보호·성장동력 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016003400002",
-      "pubDate": "Fri, 16 Oct 2026 12:00:05 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261016150600011",
+      "pubDate": "Fri, 16 Oct 2026 18:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "데이터처, 내달 4일까지 하반기 지역별 고용조사",
-      "link": "https://www.yna.co.kr/view/AKR20261016039700002",
-      "pubDate": "Fri, 16 Oct 2026 12:00:03 +0900"
+      "title": "키움증권 \"한화오션 주식 5천92억원어치 추가취득…지분율 2.7%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016157600008",
+      "pubDate": "Fri, 16 Oct 2026 17:50:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
+      "link": "https://www.hankyung.com/article/2026101670481",
+      "pubDate": "Fri, 16 Oct 2026 17:37:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대엘리베이터, 무벡스 지분 1160억 매각·자사주 1700억 소각…\"주주가치 제고\"",
+      "link": "https://www.hankyung.com/article/202610166808i",
+      "pubDate": "Fri, 16 Oct 2026 17:36:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한도 늘자…한계기업 '소액공모 유증' 급증",
+      "link": "https://www.hankyung.com/article/2026101670501",
+      "pubDate": "Fri, 16 Oct 2026 17:36:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "9월 증권시장서 외국인 8개월째 매도 우위…주식도 순유출 전환",
-      "link": "https://www.yna.co.kr/view/AKR20261016063300002",
-      "pubDate": "Fri, 16 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울시 주택정책 20년백서…\"박원순 재임때 43만호 기획 사라져\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016037451004",
-      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 혼조세…3년물 장중 연 3.870%",
-      "link": "https://www.yna.co.kr/view/AKR20261016076400008",
-      "pubDate": "Fri, 16 Oct 2026 11:42:16 +0900"
+      "title": "바이오포트 \"패밀리팜 주식 21억원어치 취득…지분율 44.5%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016155300008",
+      "pubDate": "Fri, 16 Oct 2026 17:35:51 +0900"
     }
   ]
 }
