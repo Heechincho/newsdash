@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-16T09:33:49.592Z",
+  "updatedAt": "2026-10-16T14:14:07.708Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7744.06,
-      "changePercent": 0.325,
-      "previousClose": 7765.36,
+      "price": 7738,
+      "changePercent": -0.078,
+      "previousClose": 7811.54,
       "currency": "USD",
       "history": [
-        7811.5400390625,
         7807.240234375,
         7805.4501953125,
         7718.93994140625,
-        7744.06005859375
+        7744.06005859375,
+        7738
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26713.025,
-      "changePercent": 0.076,
-      "previousClose": 27193.34,
+      "price": 26533.771,
+      "changePercent": -0.671,
+      "previousClose": 27366.17,
       "currency": "USD",
       "history": [
-        27366.169921875,
         27245.900390625,
         27204.380859375,
         26692.869140625,
-        26713.029296875
+        26713.029296875,
+        26533.771484375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52177.69,
-      "changePercent": 1.077,
-      "previousClose": 51231.64,
+      "price": 52383.08,
+      "changePercent": 0.394,
+      "previousClose": 51654.95,
       "currency": "USD",
       "history": [
-        51654.94921875,
         51850.55078125,
         51670.1015625,
         51621.48046875,
-        52177.69140625
+        52177.69140625,
+        52383.078125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.36,
-      "changePercent": -1.181,
+      "price": 95.66,
+      "changePercent": -0.87,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        95.36000061035156
+        95.66000366210938
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4208.8,
-      "changePercent": 0.928,
+      "price": 4204.4,
+      "changePercent": 0.823,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
-        4208.7998046875
+        4204.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.67,
-      "changePercent": -0.377,
+      "price": 101.63,
+      "changePercent": -0.416,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.18000030517578,
         102.55000305175781,
         102,
-        101.66999816894531
+        101.62999725341797
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 15.99,
-      "changePercent": -2.855,
+      "price": 15.94,
+      "changePercent": -3.155,
       "previousClose": 15.21,
       "currency": "USD",
       "history": [
@@ -116,101 +116,101 @@
         15.270000457763672,
         16.8700008392334,
         16.459999084472656,
-        15.989999771118164
+        15.9399995803833
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "엔비디아, AI PC 'RTX 스파크' 국내 출시…\"에이전트 AI 시대 가속화\"",
+      "link": "https://www.hankyung.com/article/202610166871i",
+      "pubDate": "Fri, 16 Oct 2026 21:08:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] \"돈 넣어둔 사람 많은데\"…'368곳' 경고등 켜졌다",
+      "link": "https://www.hankyung.com/article/2026101671461",
+      "pubDate": "Fri, 16 Oct 2026 21:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성바이오 2차 파업 미뤄지나…노조, 법원 제동에 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20261016171400017",
+      "pubDate": "Fri, 16 Oct 2026 20:45:55 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "CJ그룹, 다우키움그룹과 중앙일보 인수전 참여 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20261016170000030",
+      "pubDate": "Fri, 16 Oct 2026 20:03:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다",
+      "link": "https://www.hankyung.com/article/2026101670691",
+      "pubDate": "Fri, 16 Oct 2026 20:00:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김홍국 하림그룹 회장 \"홈플러스 익스프레스 매장 늘릴 것\"",
+      "link": "https://www.hankyung.com/article/202610167221i",
+      "pubDate": "Fri, 16 Oct 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "바니 프랭크: '워크(Woke)'를 탄핵하라  [이번주 WSJ]",
+      "link": "https://www.hankyung.com/article/202610167287i",
+      "pubDate": "Fri, 16 Oct 2026 19:47:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 붐은 어떻게 끝나는가 [이번주 WSJ]",
+      "link": "https://www.hankyung.com/article/202610167284i",
+      "pubDate": "Fri, 16 Oct 2026 19:43:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HL로보틱스, 세계 최초 실외 자율주행 주차로봇 선보여",
+      "link": "https://www.hankyung.com/article/202610167277i",
+      "pubDate": "Fri, 16 Oct 2026 19:40:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "마코 루비오의 아테네 연설에 드러난 이교적 민족주의  [이번주 WSJ]",
+      "link": "https://www.hankyung.com/article/202610167276i",
+      "pubDate": "Fri, 16 Oct 2026 19:34:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김대자, 제13대 산단공 이사장 취임",
+      "link": "https://www.hankyung.com/article/2026101672611",
+      "pubDate": "Fri, 16 Oct 2026 19:26:17 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한화시스템, 오션 지분 1.4조에 전량 유동화",
+      "link": "https://www.hankyung.com/article/2026101672691",
+      "pubDate": "Fri, 16 Oct 2026 19:25:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "여수신 비대면 창구 잇달아 뚫린 OK저축銀…고객 518명 정보 유출",
+      "link": "https://www.hankyung.com/article/202610167171i",
+      "pubDate": "Fri, 16 Oct 2026 19:20:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한미 재무·통화당국 첫 '2+2' 회동…\"금융충격 땐 신속 공조\"",
+      "link": "https://www.hankyung.com/article/2026101672657",
+      "pubDate": "Fri, 16 Oct 2026 19:18:09 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "국토차관 \"강남3구 최근 안정화 흐름…매수심리 다소 진정\"",
       "link": "https://www.yna.co.kr/view/AKR20261016162200003",
       "pubDate": "Fri, 16 Oct 2026 18:20:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한·미 재무·중앙銀, 사상 첫 '2 + 2 회의'",
-      "link": "https://www.hankyung.com/article/2026101671471",
-      "pubDate": "Fri, 16 Oct 2026 18:14:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "줄어든 中 미세먼지에 맑아진 韓 가을 하늘",
-      "link": "https://www.hankyung.com/article/2026101671181",
-      "pubDate": "Fri, 16 Oct 2026 18:11:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "테슬라, 하늘 나는 스포츠카",
-      "link": "https://www.hankyung.com/article/2026101671411",
-      "pubDate": "Fri, 16 Oct 2026 18:03:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "의대 마다한 공학도, 대만서 韓반도체 길을 묻다",
-      "link": "https://www.hankyung.com/article/2026101671091",
-      "pubDate": "Fri, 16 Oct 2026 18:02:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "네이버페이, 제주 소상공인 금융 지원",
-      "link": "https://www.hankyung.com/article/2026101671051",
-      "pubDate": "Fri, 16 Oct 2026 18:00:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "제임스 김 암참 회장, 항공대 명예박사",
-      "link": "https://www.hankyung.com/article/2026101671031",
-      "pubDate": "Fri, 16 Oct 2026 18:00:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "고유가에 수입물가 반등…최고가격제 또 동결",
-      "link": "https://www.hankyung.com/article/2026101671641",
-      "pubDate": "Fri, 16 Oct 2026 18:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
-      "link": "https://www.yna.co.kr/view/AKR20261016147400003",
-      "pubDate": "Fri, 16 Oct 2026 18:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261016150600011",
-      "pubDate": "Fri, 16 Oct 2026 18:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "키움증권 \"한화오션 주식 5천92억원어치 추가취득…지분율 2.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016157600008",
-      "pubDate": "Fri, 16 Oct 2026 17:50:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 'PPI 쇼크'에도…10년물 금리 되레 하락",
-      "link": "https://www.hankyung.com/article/2026101670481",
-      "pubDate": "Fri, 16 Oct 2026 17:37:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대엘리베이터, 무벡스 지분 1160억 매각·자사주 1700억 소각…\"주주가치 제고\"",
-      "link": "https://www.hankyung.com/article/202610166808i",
-      "pubDate": "Fri, 16 Oct 2026 17:36:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한도 늘자…한계기업 '소액공모 유증' 급증",
-      "link": "https://www.hankyung.com/article/2026101670501",
-      "pubDate": "Fri, 16 Oct 2026 17:36:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "바이오포트 \"패밀리팜 주식 21억원어치 취득…지분율 44.5%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016155300008",
-      "pubDate": "Fri, 16 Oct 2026 17:35:51 +0900"
     }
   ]
 }
