@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:16:52.390Z",
+  "updatedAt": "2026-10-16T00:29:57.077Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.05,
-      "changePercent": -0.466,
+      "price": 96.09,
+      "changePercent": -0.425,
       "previousClose": 93.74,
       "currency": "USD",
       "history": [
         93.73999786376953,
         94.13999938964844,
         95.08999633789062,
-        96.05000305175781
+        96.08999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4192.2,
-      "changePercent": 0.53,
+      "price": 4177.1,
+      "changePercent": 0.168,
       "previousClose": 4190.6,
       "currency": "USD",
       "history": [
         4190.60009765625,
         4177.2998046875,
         4107.89990234375,
-        4192.2001953125
+        4177.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.004,
-      "changePercent": -0.535,
+      "price": 102.076,
+      "changePercent": 0.021,
       "previousClose": 102.58,
       "currency": "USD",
       "history": [
         102.58000183105469,
         102.18000030517578,
         102.55000305175781,
-        102.00399780273438
+        102.07599639892578
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[글로컬] 알래스카 LNG 투자, '트럼프 압박' 넘어서야",
-      "link": "https://www.yna.co.kr/view/AKR20261015148400546",
-      "pubDate": "Fri, 16 Oct 2026 07:07:00 +0900"
+      "title": "GTX-B 인천시청역∼인천대입구역 추가정거장, 중투심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261016038100065",
+      "pubDate": "Fri, 16 Oct 2026 09:23:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 삼성전자, 장 초반 1.7% 상승 중…하닉도 0.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261016036300008",
+      "pubDate": "Fri, 16 Oct 2026 09:20:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미래에셋자산운용, 퇴직연금 제도 변화·운용전략 세미나 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261016035900008",
+      "pubDate": "Fri, 16 Oct 2026 09:18:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "효성중공업, 창원 초고압차단기 신공장 준공…생산능력 2배↑",
+      "link": "https://www.yna.co.kr/view/AKR20261016033500003",
+      "pubDate": "Fri, 16 Oct 2026 09:16:55 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[인사] 메트라이프생명",
+      "link": "https://www.yna.co.kr/view/AKR20261016035100002",
+      "pubDate": "Fri, 16 Oct 2026 09:15:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "취업자 11.3만명↑…제조업 감소 끊었지만 음식숙박 감소폭 확대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261016015952002",
+      "pubDate": "Fri, 16 Oct 2026 09:15:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "롯데이노베이트, 국내외 데이터센터 사업확대…\"성장동력 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016029500017",
+      "pubDate": "Fri, 16 Oct 2026 09:15:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스맥스, 연구소 폐자원 새활용…가운·앞치마 예술작품으로",
+      "link": "https://www.yna.co.kr/view/AKR20261016030000030",
+      "pubDate": "Fri, 16 Oct 2026 09:12:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "윤준병 \"농협공판장, 3년 반 동안 수입농산물 1조원 유통\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016032100055",
+      "pubDate": "Fri, 16 Oct 2026 09:06:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"추나요법 진료비 4년새 60% 급증…1명에 한해 188회 청구도\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016032300530",
+      "pubDate": "Fri, 16 Oct 2026 09:06:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'전날 7%대 급락' 코스피, 1%대 상승 출발…코스닥도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261016033200008",
+      "pubDate": "Fri, 16 Oct 2026 09:05:17 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"메모리 절대적 위기\"…애플, 아이폰에 中 반도체 사용 검토",
-      "link": "https://www.hankyung.com/article/2026101652367",
-      "pubDate": "Fri, 16 Oct 2026 07:03:41 +0900"
+      "title": "\"서버 한 대 값이 4배로\"…AI가 메모리 싹쓸이했다",
+      "link": "https://www.hankyung.com/article/2026101655637",
+      "pubDate": "Fri, 16 Oct 2026 09:04:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 샘표 우리맛문화재단, 한국국제교류재단과 업무협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20261016025000030",
+      "pubDate": "Fri, 16 Oct 2026 09:03:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] '전날 7%대 급락' 코스피, 1%대 상승 출발…코스닥도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261016031800008",
+      "pubDate": "Fri, 16 Oct 2026 09:02:41 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"브랜드 격 떨어진다\" 혹평하더니…'실적 효자' 된 억대 SUV",
-      "link": "https://www.hankyung.com/article/202610154581g",
-      "pubDate": "Fri, 16 Oct 2026 07:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"MZ·외국인 1년내내 등산하네\"…명동 아웃도어 매장 '들썩' [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202610155103i",
-      "pubDate": "Fri, 16 Oct 2026 07:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "무료체험 뒤 자동결제에 해지도 어려워…다크패턴 상담 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20261015108700017",
-      "pubDate": "Fri, 16 Oct 2026 06:45:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신한은행, 보안예산은 5대 은행 최저",
-      "link": "https://www.hankyung.com/article/2026101651787",
-      "pubDate": "Fri, 16 Oct 2026 06:13:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "5인미만사업장 노동법위반 신고 20만건 육박…83%가 금품 미지급",
-      "link": "https://www.yna.co.kr/view/AKR20261015160000530",
-      "pubDate": "Fri, 16 Oct 2026 06:07:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "건설현장 전자카드 발급률 90%인데 사용률은 75% 머물러",
-      "link": "https://www.yna.co.kr/view/AKR20261015148200530",
-      "pubDate": "Fri, 16 Oct 2026 06:05:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "해수부, 제주∼추자∼완도 항로 운항결손금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261015113800051",
-      "pubDate": "Fri, 16 Oct 2026 06:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "삼성전기 8조 투자 이어 SK 반도체 소재기업 세종공장 확장 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261015156600063",
-      "pubDate": "Fri, 16 Oct 2026 06:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경제인협회, 미국 싱크탱크와 한국 성장전략 모색…이창용 대담",
-      "link": "https://www.yna.co.kr/view/AKR20261015167000003",
-      "pubDate": "Fri, 16 Oct 2026 06:00:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"돈 쏟아부었는데 어쩌나\"…4700조 AI 투자에 섬뜩한 '경고' [분석+]",
-      "link": "https://www.hankyung.com/article/202610154868g",
-      "pubDate": "Fri, 16 Oct 2026 06:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "환율 내렸지만 유가 올라서…9월 수입물가 넉 달만에 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261015160300002",
-      "pubDate": "Fri, 16 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"눈만 깜빡이면 결제\"…알리바바 가세에 불붙은 AI 안경 전쟁 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610155121i",
-      "pubDate": "Fri, 16 Oct 2026 05:53:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "올해 은행 정보보호예산 KB가 최다…신한·우리는 10% 이상 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261014175600002",
-      "pubDate": "Fri, 16 Oct 2026 05:51:01 +0900"
+      "title": "\"도박하듯 AI 투자\"…삼전닉스 역대급 실적에도 '서늘한 경고' [테크로그]",
+      "link": "https://www.hankyung.com/article/202610165137g",
+      "pubDate": "Fri, 16 Oct 2026 09:00:10 +0900"
     }
   ]
 }
