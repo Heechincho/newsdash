@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:55:56.974Z",
+  "updatedAt": "2026-10-17T14:07:00.047Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,18 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"빈 방을 여행자와 삶 나누는 공간으로\"…두 '해녀'의 도전",
+      "link": "https://www.hankyung.com/article/202610166604g",
+      "pubDate": "Sat, 17 Oct 2026 21:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'한국에 쇼핑하러 오길 잘했네'…외국인 관광객들 '감탄' [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202610167273i",
+      "pubDate": "Sat, 17 Oct 2026 20:00:02 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "한은 총재 \"화폐의 단일성 중요…한은금융망 국제화 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20261017043100002",
@@ -199,18 +211,6 @@
       "title": "\"이란, 후티에 사우디 어디 어떻게 때릴지 가르쳐줬다\"",
       "link": "https://www.yna.co.kr/view/AKR20261017026500009",
       "pubDate": "Sat, 17 Oct 2026 12:54:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "총 든 로봇개·정찰 휴머노이드까지…中 대테러 작전도 AI가 맡는다 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610165935i",
-      "pubDate": "Sat, 17 Oct 2026 11:23:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261017021100011",
-      "pubDate": "Sat, 17 Oct 2026 10:30:00 +0900"
     }
   ]
 }
