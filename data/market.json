@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:12:05.705Z",
+  "updatedAt": "2026-10-17T10:55:56.974Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,13 +124,43 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "한은 총재 \"화폐의 단일성 중요…한은금융망 국제화 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261017043100002",
+      "pubDate": "Sat, 17 Oct 2026 19:32:30 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부고] 양재진(IBK투자증권 강남센터 부장)씨 빙모상",
+      "link": "https://www.yna.co.kr/view/AKR20261017044000008",
+      "pubDate": "Sat, 17 Oct 2026 18:40:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[동포의 창] 美 유타서 한인상의 공동 주최 비즈니스 엑스포 성황",
+      "link": "https://www.yna.co.kr/view/AKR20261017042600371",
+      "pubDate": "Sat, 17 Oct 2026 18:40:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
+      "link": "https://www.hankyung.com/article/2026101779027",
+      "pubDate": "Sat, 17 Oct 2026 18:06:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아내 생일 깜빡했네\"…1억뷰 터지자마자  벌어진 일 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610177754i",
+      "pubDate": "Sat, 17 Oct 2026 16:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "클릭해 예약한 컬러렌즈…안전과 편의 사이 멈춰 선 혁신(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261016090451530",
       "pubDate": "Sat, 17 Oct 2026 15:06:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "의무는 나라가 정하고 비용은 지방이 낸다, 저상버스의 재정 딜레마",
+      "title": "\"의무는 나라가 정하고 돈은 지방이\"…저상버스 '재정 딜레마'",
       "link": "https://www.hankyung.com/article/202610141445i",
       "pubDate": "Sat, 17 Oct 2026 15:00:04 +0900"
     },
@@ -148,7 +178,7 @@
     },
     {
       "source": "한국경제",
-      "title": "“문과가 뭘 알아” '끼리끼리 문화' 싫어 미국행…'벌레잡이'로 대박냈다 [이광식의 거상열전]",
+      "title": "\"벌레 잡아 매년 26억 번다\"…대기업 때려치우고 '인생 역전' [이광식의 거상열전]",
       "link": "https://www.hankyung.com/article/202610177724i",
       "pubDate": "Sat, 17 Oct 2026 14:00:01 +0900"
     },
@@ -181,36 +211,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261017021100011",
       "pubDate": "Sat, 17 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"반도체는 워싱턴서 결정\"…SK가 HBM 만큼 공들이는 것 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026101667266",
-      "pubDate": "Sat, 17 Oct 2026 09:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[테크톡노트] 스마트폰 한 대 300만원…삼성·애플은 왜 고급화할까",
-      "link": "https://www.yna.co.kr/view/AKR20261016134700017",
-      "pubDate": "Sat, 17 Oct 2026 09:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
-      "link": "https://www.yna.co.kr/view/AKR20261017011700002",
-      "pubDate": "Sat, 17 Oct 2026 09:07:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "충주 바이오헬스 국가산단 토지거래계약 허가구역 재지정",
-      "link": "https://www.yna.co.kr/view/AKR20261016147500064",
-      "pubDate": "Sat, 17 Oct 2026 09:01:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "장인화 동반성장위원장 \"대기업·중소기업 상생 모델 만들 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016022800051",
-      "pubDate": "Sat, 17 Oct 2026 09:00:05 +0900"
     }
   ]
 }
