@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:46:24.213Z",
+  "updatedAt": "2026-10-17T01:37:23.874Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,54 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261017021100011",
+      "pubDate": "Sat, 17 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"반도체는 워싱턴서 결정\"…SK가 HBM 만큼 공들이는 것 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026101667266",
+      "pubDate": "Sat, 17 Oct 2026 09:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[테크톡노트] 스마트폰 한 대 300만원…삼성·애플은 왜 고급화할까",
+      "link": "https://www.yna.co.kr/view/AKR20261016134700017",
+      "pubDate": "Sat, 17 Oct 2026 09:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
+      "link": "https://www.yna.co.kr/view/AKR20261017011700002",
+      "pubDate": "Sat, 17 Oct 2026 09:07:32 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "충주 바이오헬스 국가산단 토지거래계약 허가구역 재지정",
+      "link": "https://www.yna.co.kr/view/AKR20261016147500064",
+      "pubDate": "Sat, 17 Oct 2026 09:01:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "장인화 동반성장위원장 \"대기업·중소기업 상생 모델 만들 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016022800051",
+      "pubDate": "Sat, 17 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"돈 너무 많이 쓴다\" 경고에도…삼전닉스 멈출 수 없는 까닭 [홍민성의 테토남]",
+      "link": "https://www.hankyung.com/article/202610166229g",
+      "pubDate": "Sat, 17 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[민선9기 서울] 김경대 용산구청장 \"공간디자인 통해 매력도시로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016104600004",
+      "pubDate": "Sat, 17 Oct 2026 09:00:00 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "중소기업의 눈물…불황에 빚 감당 못한 법인파산 4년새 2.4배",
       "link": "https://www.hankyung.com/article/2026101775467",
@@ -148,7 +196,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"보수 100배 준다는데 떠나야지\"…2030 푹 빠지더니 '대박' [권용훈의 트렌드워치]",
+      "title": "\"2만9000원 팝콘통까지 품절\"…2030 푹 빠지더니 '대박' [권용훈의 트렌드워치]",
       "link": "https://www.hankyung.com/article/202610141176i",
       "pubDate": "Sat, 17 Oct 2026 08:00:01 +0900"
     },
@@ -163,54 +211,6 @@
       "title": "부평 산곡역자이힐스테이트&하늘채 등 6천734가구 내주 분양",
       "link": "https://www.yna.co.kr/view/AKR20261016152400003",
       "pubDate": "Sat, 17 Oct 2026 07:05:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"부모님이 신혼집에 5억 보태준다는데\"…직장인 '골머리' [고정삼의 절세GPT]",
-      "link": "https://www.hankyung.com/article/2026101666376",
-      "pubDate": "Sat, 17 Oct 2026 07:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 해태제과 '만루홈런볼'·풀무원 '특등급 국산콩 두유 서리태'",
-      "link": "https://www.yna.co.kr/view/AKR20261016064800030",
-      "pubDate": "Sat, 17 Oct 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"무서워서 안 간다\"…흉기난동 사건에 얼어붙는 지역 상권",
-      "link": "https://www.yna.co.kr/view/AKR20261016169300004",
-      "pubDate": "Sat, 17 Oct 2026 07:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "불황 장기화에 빚 감당 못하는 기업…법인파산 4년새 2.4배로",
-      "link": "https://www.yna.co.kr/view/AKR20261016169600004",
-      "pubDate": "Sat, 17 Oct 2026 07:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
-      "link": "https://www.yna.co.kr/view/AKR20261016155700003",
-      "pubDate": "Sat, 17 Oct 2026 06:05:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "클릭해 예약한 컬러렌즈…안전과 편의 사이 멈춰 선 혁신",
-      "link": "https://www.yna.co.kr/view/AKR20261016090400530",
-      "pubDate": "Sat, 17 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"옷만 봐도 딱 알겠네\"…요즘 SNS서 난리난 '부잣집 패션'",
-      "link": "https://www.hankyung.com/article/2026101671141",
-      "pubDate": "Sat, 17 Oct 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
-      "link": "https://www.yna.co.kr/view/AKR20261016169500002",
-      "pubDate": "Sat, 17 Oct 2026 05:55:01 +0900"
     }
   ]
 }
