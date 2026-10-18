@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:24:42.532Z",
+  "updatedAt": "2026-10-18T06:25:56.796Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,14 +58,13 @@
       "symbol": "CL=F",
       "price": 99.02,
       "changePercent": 2.611,
-      "previousClose": 93.74,
+      "previousClose": 94.14,
       "currency": "USD",
       "history": [
-        93.73999786376953,
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        101.41000366210938
+        99.0199966430664
       ],
       "ok": true
     },
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4181.1,
       "changePercent": 0.264,
-      "previousClose": 4190.6,
+      "previousClose": 4177.3,
       "currency": "USD",
       "history": [
-        4190.60009765625,
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 101.779,
       "changePercent": -0.057,
-      "previousClose": 102.58,
+      "previousClose": 102.18,
       "currency": "USD",
       "history": [
-        102.58000183105469,
         102.18000030517578,
         102.55000305175781,
         102,
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "세븐일레븐, 21일부터 국산 양주 '캪틴큐' 판매 개시",
-      "link": "https://www.yna.co.kr/view/AKR20261018015700030",
-      "pubDate": "Sun, 18 Oct 2026 10:07:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LG전자 가습·공청기 신제품 '퓨리케어 하이드로타워 맥스' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261018010700003",
-      "pubDate": "Sun, 18 Oct 2026 10:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "4분기 제조업 경기 부진 지속 전망…대형·중소 온도차",
-      "link": "https://www.yna.co.kr/view/AKR20261018014200003",
-      "pubDate": "Sun, 18 Oct 2026 10:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오세훈 \"정부 여당, 부동산정책 실패 인정하고 방향 바로잡아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018013900004",
-      "pubDate": "Sun, 18 Oct 2026 09:46:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI위클리] 'AI 해킹' 우려가 현실로…정부·기업은 방어책 고심",
-      "link": "https://www.yna.co.kr/view/AKR20261017026800017",
-      "pubDate": "Sun, 18 Oct 2026 09:30:00 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261018030800011",
+      "pubDate": "Sun, 18 Oct 2026 15:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'중국서 돈 벌던 시절 끝났나'…한국 은행들 줄줄이 '비상' [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610177694i",
-      "pubDate": "Sun, 18 Oct 2026 09:29:03 +0900"
+      "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
+      "link": "https://www.hankyung.com/article/202610188571i",
+      "pubDate": "Sun, 18 Oct 2026 14:18:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은 행장, 국제금융공사 총재와 글로벌 공급망 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261018012100002",
-      "pubDate": "Sun, 18 Oct 2026 09:18:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차·기아, 제조 AI 내재화 속도…로봇부터 공장 운영까지 혁신",
-      "link": "https://www.hankyung.com/article/202610166310g",
-      "pubDate": "Sun, 18 Oct 2026 09:00:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "스트래티지, MSCI 지수 퇴출 위기…비트코인 매수 동력 꺾이나",
-      "link": "https://www.hankyung.com/article/202610166875i",
-      "pubDate": "Sun, 18 Oct 2026 09:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "잘나가던 훠궈 제국의 고민…승부수 던진 하이디라오",
-      "link": "https://www.hankyung.com/article/202609156925i",
-      "pubDate": "Sun, 18 Oct 2026 09:00:07 +0900"
+      "title": "[동포의 창] \"재외동포 청년, 제주서 배우고 취업까지\"",
+      "link": "https://www.yna.co.kr/view/AKR20261018023600371",
+      "pubDate": "Sun, 18 Oct 2026 12:18:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한은행, 중저신용자 민간 중금리대출 금리 0.3%p 추가 인하",
-      "link": "https://www.yna.co.kr/view/AKR20261016159400002",
-      "pubDate": "Sun, 18 Oct 2026 09:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "코인으로 1000만원 벌면…세금은 165만원 낸다",
-      "link": "https://www.hankyung.com/article/202610166514i",
-      "pubDate": "Sun, 18 Oct 2026 09:00:03 +0900"
+      "title": "서울투자진흥재단, 프랑스 AI·딥테크 기업 서울 유치 나서",
+      "link": "https://www.yna.co.kr/view/AKR20261018024400004",
+      "pubDate": "Sun, 18 Oct 2026 12:11:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "김영권, 외국납부세액공제 다툰 8억원대 소득세 소송 최종 패소",
-      "link": "https://www.yna.co.kr/view/AKR20261017031000004",
-      "pubDate": "Sun, 18 Oct 2026 09:00:02 +0900"
+      "title": "화재·폭발 산재사망, 작년 2배로↑…노동부, 안전조치 집중점검",
+      "link": "https://www.yna.co.kr/view/AKR20261016136900530",
+      "pubDate": "Sun, 18 Oct 2026 12:00:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'채용비위 의혹' 조선대 무용과 교수 무죄…법원 \"증거 부족\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016099300054",
-      "pubDate": "Sun, 18 Oct 2026 08:30:01 +0900"
+      "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016170600002",
+      "pubDate": "Sun, 18 Oct 2026 12:00:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금감원·민간합동팀, IOSCO '투자자보호 AI 개발 대회' 입상",
+      "link": "https://www.yna.co.kr/view/AKR20261017026400002",
+      "pubDate": "Sun, 18 Oct 2026 12:00:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 수·위탁기업 불공정거래 점검…조사 기간 1년으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261017027000030",
+      "pubDate": "Sun, 18 Oct 2026 12:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "IMF 총재 \"미래대응기금 등 韓재정·통화 정책조합 접근법 적절\"",
+      "link": "https://www.yna.co.kr/view/AKR20261018011600002",
+      "pubDate": "Sun, 18 Oct 2026 12:00:05 +0900"
     },
     {
       "source": "한국경제",
-      "title": "50억짜리 건물 판 70대 자산가…매월 820만원 꽂힌다",
-      "link": "https://www.hankyung.com/article/202610166341i",
-      "pubDate": "Sun, 18 Oct 2026 08:00:10 +0900"
+      "title": "'신세계 3세' 애니도 이렇게 쓴다…요즘 뜨는 향수 사용법",
+      "link": "https://www.hankyung.com/article/2026101884397",
+      "pubDate": "Sun, 18 Oct 2026 11:28:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "CU \"'트러플하몽스틱', 10월 스낵 매출 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20261018021900030",
+      "pubDate": "Sun, 18 Oct 2026 11:17:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "동네 중소형 마트 5천곳, 배민 통해 즉시 배송 가능해진다",
+      "link": "https://www.yna.co.kr/view/AKR20261018019800030",
+      "pubDate": "Sun, 18 Oct 2026 11:02:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "여객선 좌초사고 해역에 11ｍ 높이 정식 등대 설치",
+      "link": "https://www.yna.co.kr/view/AKR20261016133700051",
+      "pubDate": "Sun, 18 Oct 2026 11:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'509만원 아이폰' 사전예약 열리자마자…'반전' [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610188349i",
+      "pubDate": "Sun, 18 Oct 2026 11:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농식품부, 국제종자박람회서 83억원 수출계약 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261016173200030",
+      "pubDate": "Sun, 18 Oct 2026 11:00:03 +0900"
     }
   ]
 }
