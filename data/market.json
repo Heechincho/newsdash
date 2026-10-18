@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T21:54:08.330Z",
+  "updatedAt": "2026-10-18T23:59:06.500Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.02,
-      "changePercent": 2.611,
+      "price": 97.76,
+      "changePercent": -1.272,
       "previousClose": 94.14,
       "currency": "USD",
       "history": [
         94.13999938964844,
         95.08999633789062,
         97.97000122070312,
-        99.0199966430664
+        101.41000366210938,
+        97.76000213623047
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4181.1,
-      "changePercent": 0.264,
+      "price": 4206.2,
+      "changePercent": 0.6,
       "previousClose": 4177.3,
       "currency": "USD",
       "history": [
         4177.2998046875,
         4107.89990234375,
         4170.10009765625,
-        4181.10009765625
+        4181.10009765625,
+        4206.2001953125
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.779,
-      "changePercent": -0.057,
+      "price": 101.844,
+      "changePercent": 0.007,
       "previousClose": 102.18,
       "currency": "USD",
       "history": [
         102.18000030517578,
         102.55000305175781,
         102,
-        101.83999633789062
+        101.83999633789062,
+        101.84400177001953
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "아이폰 넘어 맥북까지 OLED…삼성D·LGD, '애플효과' 기대",
-      "link": "https://www.yna.co.kr/view/AKR20261016109700003",
-      "pubDate": "Mon, 19 Oct 2026 06:45:01 +0900"
+      "title": "신한증권 \"은행주, 반길 수만 없는 아웃퍼폼…시장 안정이 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019026200008",
+      "pubDate": "Mon, 19 Oct 2026 08:49:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "투자자 울린 '논란의 코인'…고팍스는 제때 팔아 억대 이익",
-      "link": "https://www.yna.co.kr/view/AKR20261016178600002",
-      "pubDate": "Mon, 19 Oct 2026 06:01:01 +0900"
+      "title": "11월 아파트 입주 물량 1만1천가구 그쳐…서울은 488가구",
+      "link": "https://www.yna.co.kr/view/AKR20261019021900003",
+      "pubDate": "Mon, 19 Oct 2026 08:45:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소규모 건설현장 휴게시설 개선 지원…1곳당 최대 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20261016142600530",
-      "pubDate": "Mon, 19 Oct 2026 06:00:10 +0900"
+      "title": "교보증권, 넷마블 목표주가 16%↓…\"신작 성과 확인 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019023900008",
+      "pubDate": "Mon, 19 Oct 2026 08:40:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중장년 '새 출발' 경험 찾는다…서울시50플러스재단 수기 공모",
-      "link": "https://www.yna.co.kr/view/AKR20261018033100004",
-      "pubDate": "Mon, 19 Oct 2026 06:00:08 +0900"
+      "title": "키움증권 \"접이식 스마트폰 성장세 두드러질 것…국내 수혜주는\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019021800008",
+      "pubDate": "Mon, 19 Oct 2026 08:37:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융감독원, 1천193개사 감사인 지정 사전통지…내달 본통지",
-      "link": "https://www.yna.co.kr/view/AKR20261018029000002",
-      "pubDate": "Mon, 19 Oct 2026 06:00:05 +0900"
+      "title": "서울우유, 두유 브랜드 '서울두유' 출시…제품군 재정비",
+      "link": "https://www.yna.co.kr/view/AKR20261019020500030",
+      "pubDate": "Mon, 19 Oct 2026 08:36:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데멤버스 \"10명 중 3명 제로 식품 구매…2030이 시장 주도\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018048200030",
-      "pubDate": "Mon, 19 Oct 2026 06:00:04 +0900"
+      "title": "하나증권, 금호타이어 목표가↓…\"환율·관세 영향에 실적부진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019020400008",
+      "pubDate": "Mon, 19 Oct 2026 08:32:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "구직 청년 10명 중 7명 \"취업 준비 비용 부담\"…월평균 58만원",
-      "link": "https://www.yna.co.kr/view/AKR20261018026700003",
-      "pubDate": "Mon, 19 Oct 2026 06:00:03 +0900"
+      "title": "중진공, 中企 임직원 대상 '내년 경제 전망' 온라인 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20261019019400030",
+      "pubDate": "Mon, 19 Oct 2026 08:31:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "핀다, 핀테크 최초 저축은행 인수 눈앞…AI 활용 비대면 영업",
-      "link": "https://www.yna.co.kr/view/AKR20261018026100002",
-      "pubDate": "Mon, 19 Oct 2026 05:59:00 +0900"
+      "title": "DS증권 \"유럽 방산주 추세전환, 韓 방산도 상승 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019021300008",
+      "pubDate": "Mon, 19 Oct 2026 08:30:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상반기 '통장묶기' 피해 추정 6천500건…작년 연간치 육박",
-      "link": "https://www.yna.co.kr/view/AKR20261017041400002",
-      "pubDate": "Mon, 19 Oct 2026 05:57:01 +0900"
+      "title": "대신증권 \"금, 내년도 전고점 상회 어려워…반등 시 비중 조정\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019019900008",
+      "pubDate": "Mon, 19 Oct 2026 08:26:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "담합 걸리고 또 걸려…7년간 3건 이상 적발 사업자 65곳",
-      "link": "https://www.yna.co.kr/view/AKR20261017030400002",
-      "pubDate": "Mon, 19 Oct 2026 05:55:00 +0900"
+      "title": "셀트리온 \"4분기 영업이익 6천억원 이상 달성 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019020100017",
+      "pubDate": "Mon, 19 Oct 2026 08:20:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전자금융사고 피해보상 '안전장치' 모두 갖춘 전금사 10%뿐",
-      "link": "https://www.yna.co.kr/view/AKR20261018037700002",
-      "pubDate": "Mon, 19 Oct 2026 05:53:01 +0900"
+      "title": "부산서 한·중·일 글로벌 공기산업포럼…글로벌 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261019015300051",
+      "pubDate": "Mon, 19 Oct 2026 08:13:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018027100002",
-      "pubDate": "Mon, 19 Oct 2026 05:51:00 +0900"
+      "title": "부산국제금융센터 63층에 금융기업 3개사 유치…총 10개사 집적",
+      "link": "https://www.yna.co.kr/view/AKR20261019015200051",
+      "pubDate": "Mon, 19 Oct 2026 08:10:23 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"연회비 5만원 아까워\"…中 샘스클럽 암시장까지 생겼다 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610177858i",
-      "pubDate": "Mon, 19 Oct 2026 05:19:01 +0900"
+      "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성",
+      "link": "https://www.hankyung.com/article/202610199367i",
+      "pubDate": "Mon, 19 Oct 2026 08:03:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261018060400061",
-      "pubDate": "Sun, 18 Oct 2026 21:53:29 +0900"
+      "title": "부산시, 테크노파크·부산신보·경제진흥원 기관장 임명",
+      "link": "https://www.yna.co.kr/view/AKR20261019015000051",
+      "pubDate": "Mon, 19 Oct 2026 08:02:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"인생 달겠다\" 이미주도 감탄…'억대 성과급' 직원 속내는 달랐다",
-      "link": "https://www.hankyung.com/article/2026101889487",
-      "pubDate": "Sun, 18 Oct 2026 19:22:58 +0900"
+      "title": "강남 VIP 사모님들 홀렸다…백화점 라운지 탄산수의 반전 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610103353i",
+      "pubDate": "Mon, 19 Oct 2026 08:00:08 +0900"
     }
   ]
 }
