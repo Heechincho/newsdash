@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:35:23.954Z",
+  "updatedAt": "2026-10-18T14:48:08.627Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,6 +120,12 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261018060400061",
+      "pubDate": "Sun, 18 Oct 2026 21:53:29 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "\"인생 달겠다\" 이미주도 감탄…'억대 성과급' 직원 속내는 달랐다",
       "link": "https://www.hankyung.com/article/2026101889487",
@@ -139,7 +145,7 @@
     },
     {
       "source": "한국경제",
-      "title": "일상 파고드는 스테이블코인…日편의점·스위스 공항서도 결제",
+      "title": "\"현금도 카드도 아닙니다\"…편의점까지 파고든 '결제 실험'",
       "link": "https://www.hankyung.com/article/2026101889081",
       "pubDate": "Sun, 18 Oct 2026 17:58:58 +0900"
     },
@@ -202,12 +208,6 @@
       "title": "\"관세 때리자 공장 26개 박았다\"…유럽 숨통죄는 中의 공습",
       "link": "https://www.hankyung.com/article/2026101889291",
       "pubDate": "Sun, 18 Oct 2026 17:37:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유럽 숨통죄는 中 '붉은 침탈'…배터리·전기차 공장만 26개",
-      "link": "https://www.hankyung.com/article/2026101889341",
-      "pubDate": "Sun, 18 Oct 2026 17:35:11 +0900"
     }
   ]
 }
