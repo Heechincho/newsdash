@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T06:25:56.796Z",
+  "updatedAt": "2026-10-18T11:35:23.954Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"인생 달겠다\" 이미주도 감탄…'억대 성과급' 직원 속내는 달랐다",
+      "link": "https://www.hankyung.com/article/2026101889487",
+      "pubDate": "Sun, 18 Oct 2026 19:22:58 +0900"
+    },
+    {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20261018030800011",
-      "pubDate": "Sun, 18 Oct 2026 15:00:01 +0900"
+      "title": "토스증권, 윤리·준법경영 선포식…김규빈 대표가 TF장",
+      "link": "https://www.yna.co.kr/view/AKR20261018052200008",
+      "pubDate": "Sun, 18 Oct 2026 19:20:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
-      "link": "https://www.hankyung.com/article/202610188571i",
-      "pubDate": "Sun, 18 Oct 2026 14:18:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[동포의 창] \"재외동포 청년, 제주서 배우고 취업까지\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018023600371",
-      "pubDate": "Sun, 18 Oct 2026 12:18:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울투자진흥재단, 프랑스 AI·딥테크 기업 서울 유치 나서",
-      "link": "https://www.yna.co.kr/view/AKR20261018024400004",
-      "pubDate": "Sun, 18 Oct 2026 12:11:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "화재·폭발 산재사망, 작년 2배로↑…노동부, 안전조치 집중점검",
-      "link": "https://www.yna.co.kr/view/AKR20261016136900530",
-      "pubDate": "Sun, 18 Oct 2026 12:00:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016170600002",
-      "pubDate": "Sun, 18 Oct 2026 12:00:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금감원·민간합동팀, IOSCO '투자자보호 AI 개발 대회' 입상",
-      "link": "https://www.yna.co.kr/view/AKR20261017026400002",
-      "pubDate": "Sun, 18 Oct 2026 12:00:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기부, 수·위탁기업 불공정거래 점검…조사 기간 1년으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261017027000030",
-      "pubDate": "Sun, 18 Oct 2026 12:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "IMF 총재 \"미래대응기금 등 韓재정·통화 정책조합 접근법 적절\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018011600002",
-      "pubDate": "Sun, 18 Oct 2026 12:00:05 +0900"
+      "title": "골드만삭스 M&A자문…3분기 수익 '사상 최대'",
+      "link": "https://www.hankyung.com/article/2026101889221",
+      "pubDate": "Sun, 18 Oct 2026 17:59:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'신세계 3세' 애니도 이렇게 쓴다…요즘 뜨는 향수 사용법",
-      "link": "https://www.hankyung.com/article/2026101884397",
-      "pubDate": "Sun, 18 Oct 2026 11:28:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "CU \"'트러플하몽스틱', 10월 스낵 매출 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018021900030",
-      "pubDate": "Sun, 18 Oct 2026 11:17:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "동네 중소형 마트 5천곳, 배민 통해 즉시 배송 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20261018019800030",
-      "pubDate": "Sun, 18 Oct 2026 11:02:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "여객선 좌초사고 해역에 11ｍ 높이 정식 등대 설치",
-      "link": "https://www.yna.co.kr/view/AKR20261016133700051",
-      "pubDate": "Sun, 18 Oct 2026 11:00:08 +0900"
+      "title": "일상 파고드는 스테이블코인…日편의점·스위스 공항서도 결제",
+      "link": "https://www.hankyung.com/article/2026101889081",
+      "pubDate": "Sun, 18 Oct 2026 17:58:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'509만원 아이폰' 사전예약 열리자마자…'반전' [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610188349i",
-      "pubDate": "Sun, 18 Oct 2026 11:00:06 +0900"
+      "title": "\"스테이블코인 5년내 보편적 결제수단될 것\"",
+      "link": "https://www.hankyung.com/article/202610188472i",
+      "pubDate": "Sun, 18 Oct 2026 17:57:59 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "농식품부, 국제종자박람회서 83억원 수출계약 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261016173200030",
-      "pubDate": "Sun, 18 Oct 2026 11:00:03 +0900"
+      "source": "한국경제",
+      "title": "거리로 나온 '고물가 분노'…佛 시청 불지르고 伊 폭력시위",
+      "link": "https://www.hankyung.com/article/2026101889041",
+      "pubDate": "Sun, 18 Oct 2026 17:57:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "韓·中 전기차 격전지 된 유럽…여기서 제조업 미래 갈린다",
+      "link": "https://www.hankyung.com/article/2026101889281",
+      "pubDate": "Sun, 18 Oct 2026 17:56:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "BYD, 헝가리에 유럽 정복 전초기지…27% 관세 피해 현지 생산 승부수",
+      "link": "https://www.hankyung.com/article/2026101889271",
+      "pubDate": "Sun, 18 Oct 2026 17:56:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 백악관 대변인 임명 나흘 만에 경질",
+      "link": "https://www.hankyung.com/article/2026101888741",
+      "pubDate": "Sun, 18 Oct 2026 17:53:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'조선 李씨' 위인 뿐인 화폐 속 얼굴…50년 넘게 그대로",
+      "link": "https://www.hankyung.com/article/2026101889401",
+      "pubDate": "Sun, 18 Oct 2026 17:52:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김구 얼굴 넣으려다 무산된 10만원 발행",
+      "link": "https://www.hankyung.com/article/2026101889391",
+      "pubDate": "Sun, 18 Oct 2026 17:50:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "러 에너지·中 시장·美 안보…다 잃은 유럽, 성장엔진 꺼졌다",
+      "link": "https://www.hankyung.com/article/2026101889051",
+      "pubDate": "Sun, 18 Oct 2026 17:40:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "韓대기업 잇단 해외 빅딜…다시 글로벌 대형 IB의 시간",
+      "link": "https://www.hankyung.com/article/2026101889231",
+      "pubDate": "Sun, 18 Oct 2026 17:37:39 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"관세 때리자 공장 26개 박았다\"…유럽 숨통죄는 中의 공습",
+      "link": "https://www.hankyung.com/article/2026101889291",
+      "pubDate": "Sun, 18 Oct 2026 17:37:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유럽 숨통죄는 中 '붉은 침탈'…배터리·전기차 공장만 26개",
+      "link": "https://www.hankyung.com/article/2026101889341",
+      "pubDate": "Sun, 18 Oct 2026 17:35:11 +0900"
     }
   ]
 }
