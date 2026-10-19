@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-19T10:12:05.257Z",
+  "updatedAt": "2026-10-19T17:01:07.108Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7659.44,
-      "changePercent": -1.093,
-      "previousClose": 7811.54,
+      "price": 7700.77,
+      "changePercent": 0.54,
+      "previousClose": 7807.24,
       "currency": "USD",
       "history": [
-        7807.240234375,
         7805.4501953125,
         7718.93994140625,
         7744.06005859375,
-        7659.43994140625
+        7659.43994140625,
+        7700.77001953125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26140.033,
-      "changePercent": -2.145,
-      "previousClose": 27366.17,
+      "price": 26473.25,
+      "changePercent": 1.275,
+      "previousClose": 27245.9,
       "currency": "USD",
       "history": [
-        27245.900390625,
         27204.380859375,
         26692.869140625,
         26713.029296875,
-        26140.029296875
+        26140.029296875,
+        26473.25
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52002.41,
-      "changePercent": -0.336,
-      "previousClose": 51654.95,
+      "price": 52006.81,
+      "changePercent": 0.008,
+      "previousClose": 51850.55,
       "currency": "USD",
       "history": [
-        51850.55078125,
         51670.1015625,
         51621.48046875,
         52177.69140625,
-        52002.41015625
+        52002.41015625,
+        52006.80859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.33,
-      "changePercent": -0.697,
+      "price": 98.65,
+      "changePercent": -0.374,
       "previousClose": 95.09,
       "currency": "USD",
       "history": [
         95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        98.33000183105469
+        98.6500015258789
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4187.7,
-      "changePercent": 0.158,
+      "price": 4157.7,
+      "changePercent": -0.56,
       "previousClose": 4107.9,
       "currency": "USD",
       "history": [
         4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4187.7001953125
+        4157.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.934,
-      "changePercent": 0.095,
+      "price": 102.006,
+      "changePercent": 0.166,
       "previousClose": 102.55,
       "currency": "USD",
       "history": [
         102.55000305175781,
         102,
         101.83999633789062,
-        101.93399810791016
+        102.00599670410156
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.61,
-      "changePercent": -6.903,
+      "price": 18.07,
+      "changePercent": -9.61,
       "previousClose": 15.27,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         16.8700008392334,
         16.459999084472656,
         19.989999771118164,
-        18.610000610351562
+        18.06999969482422
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "與 민병덕, 금감원에 \"'콕 코인 관계자 취업' 비토즈 점검해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019167500002",
-      "pubDate": "Mon, 19 Oct 2026 18:51:18 +0900"
-    },
-    {
       "source": "한국경제",
-      "title": "[포토] 中 저장성에 펼쳐진 '스쿠터 무덤'",
-      "link": "https://www.hankyung.com/article/2026101914621",
-      "pubDate": "Mon, 19 Oct 2026 18:13:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'수출 호조' 中, 3분기 4.5% 성장…소비·부동산 침체는 여전",
-      "link": "https://www.hankyung.com/article/2026101914591",
-      "pubDate": "Mon, 19 Oct 2026 18:12:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI, 가격 흥정·면접까지 대신한다",
-      "link": "https://www.hankyung.com/article/2026101914611",
-      "pubDate": "Mon, 19 Oct 2026 18:12:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] \"우리 디자인 베꼈다\"던 코웨이, 쿠쿠홈시스 상대 소송 패소",
-      "link": "https://www.hankyung.com/article/202610191599i",
-      "pubDate": "Mon, 19 Oct 2026 18:11:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "BMW·포르쉐 인재·기술 빨아들인 中 지리…'메이드 바이 유럽' 진화",
-      "link": "https://www.hankyung.com/article/2026101914561",
-      "pubDate": "Mon, 19 Oct 2026 18:11:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "구광모, 전 계열사 전략 점검…AI 분야 신사업 기회 찾는다",
-      "link": "https://www.hankyung.com/article/2026101915121",
-      "pubDate": "Mon, 19 Oct 2026 18:09:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대로템은 방산…위아는 모빌리티 집중",
-      "link": "https://www.hankyung.com/article/2026101915161",
-      "pubDate": "Mon, 19 Oct 2026 18:08:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "SK하이닉스, 정부와 '2조 소부장 보증' 지원",
-      "link": "https://www.hankyung.com/article/2026101915151",
-      "pubDate": "Mon, 19 Oct 2026 18:08:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 벤츠, 5000만원대 전기차 경쟁 가세",
-      "link": "https://www.hankyung.com/article/2026101915131",
-      "pubDate": "Mon, 19 Oct 2026 18:07:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전기, 글로벌 기업과 3605억원 규모 패키지기판 LTA 체결",
-      "link": "https://www.hankyung.com/article/202610191488i",
-      "pubDate": "Mon, 19 Oct 2026 18:03:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] \"美·中에 차세대 배터리 전해액 수출\"",
-      "link": "https://www.hankyung.com/article/2026101914731",
-      "pubDate": "Mon, 19 Oct 2026 18:01:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "창립 80돌 맞은 SP삼화 \"종합화학기업으로 도약\"",
-      "link": "https://www.hankyung.com/article/2026101914721",
-      "pubDate": "Mon, 19 Oct 2026 18:00:06 +0900"
+      "title": "\"엔비디아의 진짜 해자 CUDA에 도전\"…아마존,AI칩 소프트웨어 공개",
+      "link": "https://www.hankyung.com/article/202610191823i",
+      "pubDate": "Tue, 20 Oct 2026 00:11:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261019152900011",
-      "pubDate": "Mon, 19 Oct 2026 18:00:02 +0900"
+      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
+      "pubDate": "Mon, 19 Oct 2026 23:43:18 +0900"
     },
     {
       "source": "한국경제",
-      "title": "KBI동양철관, 스페이스X에 강관 공급",
-      "link": "https://www.hankyung.com/article/2026101914761",
-      "pubDate": "Mon, 19 Oct 2026 17:59:21 +0900"
+      "title": "美 증시, AI 관련 주식 저가 매수에 나스닥 반등",
+      "link": "https://www.hankyung.com/article/202610191800i",
+      "pubDate": "Mon, 19 Oct 2026 23:13:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이찬진 \"금감원 현장에 있어야…지방이전 정책적 고려 기다려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019179600002",
+      "pubDate": "Mon, 19 Oct 2026 22:51:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중앙일보 인수 우협에 다우키움·CJ 컨소시엄 선정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261019144551008",
+      "pubDate": "Mon, 19 Oct 2026 22:46:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"월급 빼고 다 오르는데\"…폭스바겐 2030년까지 임금 동결 추진",
+      "link": "https://www.hankyung.com/article/2026101917897",
+      "pubDate": "Mon, 19 Oct 2026 22:36:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"돈 풀면 국가부도, 돈 줄이면 폭동\"…진퇴양난 프랑스 국가부채",
+      "link": "https://www.hankyung.com/article/202610191780i",
+      "pubDate": "Mon, 19 Oct 2026 22:15:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"갈취 수준\" 삼전닉스 겨냥한 머스크…전문가는 정면반박",
+      "link": "https://www.hankyung.com/article/2026101917517",
+      "pubDate": "Mon, 19 Oct 2026 21:04:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "야근 중에도 '홀짝홀짝'…MZ들 지갑 여는 '와인' 정체 [현장+]",
+      "link": "https://www.hankyung.com/article/202610199278g",
+      "pubDate": "Mon, 19 Oct 2026 21:00:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] DB저축銀, 파킹통장 한도 1억원으로 확대…금리 3.3%",
+      "link": "https://www.yna.co.kr/view/AKR20261019175000002",
+      "pubDate": "Mon, 19 Oct 2026 20:39:56 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "머스크 \"美 어린이에 스페이스X 1주씩\"…파격 선언한 이유",
+      "link": "https://www.hankyung.com/article/202610191742i",
+      "pubDate": "Mon, 19 Oct 2026 20:34:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"저걸 혼자 어떻게 다 먹나\"…요즘 잘 팔리는 먹거리의 비밀 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202610190150g",
+      "pubDate": "Mon, 19 Oct 2026 20:04:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "빅테크에 반도체 기판…삼성전기 3600억 수주",
+      "link": "https://www.hankyung.com/article/2026101916931",
+      "pubDate": "Mon, 19 Oct 2026 19:26:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "18년 끌어온 대전역세권 개발 무산되나…한화 결국 포기",
+      "link": "https://www.yna.co.kr/view/AKR20261019170400063",
+      "pubDate": "Mon, 19 Oct 2026 19:24:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"연임 자격 있나\" 국회 질타에 고개 숙인 은행장들(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261019140652002",
+      "pubDate": "Mon, 19 Oct 2026 19:23:00 +0900"
     }
   ]
 }
