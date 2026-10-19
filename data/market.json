@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:27:32.623Z",
+  "updatedAt": "2026-10-19T10:12:05.257Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.45,
-      "changePercent": -1.586,
+      "price": 98.33,
+      "changePercent": -0.697,
       "previousClose": 95.09,
       "currency": "USD",
       "history": [
         95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        97.44999694824219
+        98.33000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4197,
-      "changePercent": 0.38,
+      "price": 4187.7,
+      "changePercent": 0.158,
       "previousClose": 4107.9,
       "currency": "USD",
       "history": [
         4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4197
+        4187.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.833,
-      "changePercent": -0.004,
+      "price": 101.934,
+      "changePercent": 0.095,
       "previousClose": 102.55,
       "currency": "USD",
       "history": [
         102.55000305175781,
         102,
         101.83999633789062,
-        101.83300018310547
+        101.93399810791016
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.99,
-      "changePercent": 21.446,
-      "previousClose": 15.21,
+      "price": 18.61,
+      "changePercent": -6.903,
+      "previousClose": 15.27,
       "currency": "USD",
       "history": [
-        15.210000038146973,
         15.270000457763672,
         16.8700008392334,
         16.459999084472656,
-        19.989999771118164
+        19.989999771118164,
+        18.610000610351562
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 메리츠증권, 대졸 신입사원 공개채용",
-      "link": "https://www.yna.co.kr/view/AKR20261019096400008",
-      "pubDate": "Mon, 19 Oct 2026 13:21:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "하나증권, 신규 MTS '하나증권V' 출시 기념 특판 발행어음 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261019095600008",
-      "pubDate": "Mon, 19 Oct 2026 13:19:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한투증권, 올해 DC·IRP 적립금 증가율 44.8%…전 사업자 1위",
-      "link": "https://www.yna.co.kr/view/AKR20261019091600008",
-      "pubDate": "Mon, 19 Oct 2026 12:43:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이찬진, 솔리다임 중복상장 가능성 언급…\"유권해석 대기 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019091100002",
-      "pubDate": "Mon, 19 Oct 2026 12:38:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "이찬진 \"단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019071351002",
-      "pubDate": "Mon, 19 Oct 2026 12:37:31 +0900"
+      "title": "與 민병덕, 금감원에 \"'콕 코인 관계자 취업' 비토즈 점검해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019167500002",
+      "pubDate": "Mon, 19 Oct 2026 18:51:18 +0900"
     },
     {
       "source": "한국경제",
-      "title": "HBM 장비 최강자 한미반도체, 美 심장부에 전진기지 세웠다",
-      "link": "https://www.hankyung.com/article/2026101904947",
-      "pubDate": "Mon, 19 Oct 2026 12:13:03 +0900"
+      "title": "[포토] 中 저장성에 펼쳐진 '스쿠터 무덤'",
+      "link": "https://www.hankyung.com/article/2026101914621",
+      "pubDate": "Mon, 19 Oct 2026 18:13:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'수출 호조' 中, 3분기 4.5% 성장…소비·부동산 침체는 여전",
+      "link": "https://www.hankyung.com/article/2026101914591",
+      "pubDate": "Mon, 19 Oct 2026 18:12:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI, 가격 흥정·면접까지 대신한다",
+      "link": "https://www.hankyung.com/article/2026101914611",
+      "pubDate": "Mon, 19 Oct 2026 18:12:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] \"우리 디자인 베꼈다\"던 코웨이, 쿠쿠홈시스 상대 소송 패소",
+      "link": "https://www.hankyung.com/article/202610191599i",
+      "pubDate": "Mon, 19 Oct 2026 18:11:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "BMW·포르쉐 인재·기술 빨아들인 中 지리…'메이드 바이 유럽' 진화",
+      "link": "https://www.hankyung.com/article/2026101914561",
+      "pubDate": "Mon, 19 Oct 2026 18:11:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "구광모, 전 계열사 전략 점검…AI 분야 신사업 기회 찾는다",
+      "link": "https://www.hankyung.com/article/2026101915121",
+      "pubDate": "Mon, 19 Oct 2026 18:09:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대로템은 방산…위아는 모빌리티 집중",
+      "link": "https://www.hankyung.com/article/2026101915161",
+      "pubDate": "Mon, 19 Oct 2026 18:08:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "SK하이닉스, 정부와 '2조 소부장 보증' 지원",
+      "link": "https://www.hankyung.com/article/2026101915151",
+      "pubDate": "Mon, 19 Oct 2026 18:08:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[포토] 벤츠, 5000만원대 전기차 경쟁 가세",
+      "link": "https://www.hankyung.com/article/2026101915131",
+      "pubDate": "Mon, 19 Oct 2026 18:07:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성전기, 글로벌 기업과 3605억원 규모 패키지기판 LTA 체결",
+      "link": "https://www.hankyung.com/article/202610191488i",
+      "pubDate": "Mon, 19 Oct 2026 18:03:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] \"美·中에 차세대 배터리 전해액 수출\"",
+      "link": "https://www.hankyung.com/article/2026101914731",
+      "pubDate": "Mon, 19 Oct 2026 18:01:18 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "창립 80돌 맞은 SP삼화 \"종합화학기업으로 도약\"",
+      "link": "https://www.hankyung.com/article/2026101914721",
+      "pubDate": "Mon, 19 Oct 2026 18:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "송미령 \"농지조사 상담 계속…브라질계란 수입은 물가안정조치\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019077651030",
-      "pubDate": "Mon, 19 Oct 2026 12:00:40 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261019152900011",
+      "pubDate": "Mon, 19 Oct 2026 18:00:02 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "중기중앙회, 제주서 리더스포럼…중소기업 대표 400명 참석",
-      "link": "https://www.yna.co.kr/view/AKR20261019027400030",
-      "pubDate": "Mon, 19 Oct 2026 12:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "맞벌이 육아부부도 여성이 가사·돌봄에 1시간43분 더 많이 써",
-      "link": "https://www.yna.co.kr/view/AKR20261019080900002",
-      "pubDate": "Mon, 19 Oct 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 키움증권, e스포츠 대회 '철권 스타즈컵' 성황리 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261019088600008",
-      "pubDate": "Mon, 19 Oct 2026 11:59:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "민주노총 \"콜센터 원청과 교섭…직접고용·유급병가 보장해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019086600530",
-      "pubDate": "Mon, 19 Oct 2026 11:55:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "상장협, 2028년 ESG 법정공시 시행 대비 실무교육 진행",
-      "link": "https://www.yna.co.kr/view/AKR20261019087200008",
-      "pubDate": "Mon, 19 Oct 2026 11:53:58 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"저가매수 기회\" vs \"불안 여전\"…코스피 신중 모드",
-      "link": "https://www.yna.co.kr/view/AKR20261019083500008",
-      "pubDate": "Mon, 19 Oct 2026 11:51:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "배스킨라빈스, 한국 진출 40주년…추억의 아이스크림 재출시",
-      "link": "https://www.yna.co.kr/view/AKR20261019085100030",
-      "pubDate": "Mon, 19 Oct 2026 11:46:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "다올투자증권, '트레이딩뷰'서 미국 주식 거래 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261019085800008",
-      "pubDate": "Mon, 19 Oct 2026 11:43:32 +0900"
+      "source": "한국경제",
+      "title": "KBI동양철관, 스페이스X에 강관 공급",
+      "link": "https://www.hankyung.com/article/2026101914761",
+      "pubDate": "Mon, 19 Oct 2026 17:59:21 +0900"
     }
   ]
 }
