@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T17:01:07.108Z",
+  "updatedAt": "2026-10-19T21:29:57.041Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7700.77,
-      "changePercent": 0.54,
+      "price": 7690.73,
+      "changePercent": 0.409,
       "previousClose": 7807.24,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7718.93994140625,
         7744.06005859375,
         7659.43994140625,
-        7700.77001953125
+        7690.72998046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26473.25,
-      "changePercent": 1.275,
+      "price": 26430.887,
+      "changePercent": 1.113,
       "previousClose": 27245.9,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26692.869140625,
         26713.029296875,
         26140.029296875,
-        26473.25
+        26430.88671875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52006.81,
-      "changePercent": 0.008,
+      "price": 51966.03,
+      "changePercent": -0.07,
       "previousClose": 51850.55,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51621.48046875,
         52177.69140625,
         52002.41015625,
-        52006.80859375
+        51966.03125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.65,
-      "changePercent": -0.374,
+      "price": 98.24,
+      "changePercent": -0.788,
       "previousClose": 95.09,
       "currency": "USD",
       "history": [
         95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        98.6500015258789
+        98.23999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4157.7,
-      "changePercent": -0.56,
+      "price": 4160.3,
+      "changePercent": -0.497,
       "previousClose": 4107.9,
       "currency": "USD",
       "history": [
         4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4157.7001953125
+        4160.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.006,
-      "changePercent": 0.166,
+      "price": 101.987,
+      "changePercent": 0.147,
       "previousClose": 102.55,
       "currency": "USD",
       "history": [
         102.55000305175781,
         102,
         101.83999633789062,
-        102.00599670410156
+        101.98699951171875
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.07,
-      "changePercent": -9.61,
+      "price": 18.44,
+      "changePercent": -7.754,
       "previousClose": 15.27,
       "currency": "USD",
       "history": [
@@ -113,12 +113,48 @@
         16.8700008392334,
         16.459999084472656,
         19.989999771118164,
-        18.06999969482422
+        18.440000534057617
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "중기중앙회장 주요 후보자, 리더스포럼 불참키로…공정성 불만도",
+      "link": "https://www.yna.co.kr/view/AKR20261019158700030",
+      "pubDate": "Tue, 20 Oct 2026 06:03:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 산업부·코트라, 수출기업 대상 9개국 비관세장벽 대응 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20261019165800003",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "1∼9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파",
+      "link": "https://www.yna.co.kr/view/AKR20261019159000003",
+      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "5년여간 10대 증권사 주식매매규정 위반제재 97명…30%는 퇴직자",
+      "link": "https://www.yna.co.kr/view/AKR20261019176600002",
+      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "돈 넣고 잊은 계좌 3억4천만개…'잠자는' 금융자산 14조원",
+      "link": "https://www.yna.co.kr/view/AKR20261019163200002",
+      "pubDate": "Tue, 20 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"유튜버 법인 상위 10%가 신고 수입 76% 차지…집중 더 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019161100002",
+      "pubDate": "Tue, 20 Oct 2026 05:51:00 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"엔비디아의 진짜 해자 CUDA에 도전\"…아마존,AI칩 소프트웨어 공개",
@@ -172,42 +208,6 @@
       "title": "야근 중에도 '홀짝홀짝'…MZ들 지갑 여는 '와인' 정체 [현장+]",
       "link": "https://www.hankyung.com/article/202610199278g",
       "pubDate": "Mon, 19 Oct 2026 21:00:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] DB저축銀, 파킹통장 한도 1억원으로 확대…금리 3.3%",
-      "link": "https://www.yna.co.kr/view/AKR20261019175000002",
-      "pubDate": "Mon, 19 Oct 2026 20:39:56 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "머스크 \"美 어린이에 스페이스X 1주씩\"…파격 선언한 이유",
-      "link": "https://www.hankyung.com/article/202610191742i",
-      "pubDate": "Mon, 19 Oct 2026 20:34:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"저걸 혼자 어떻게 다 먹나\"…요즘 잘 팔리는 먹거리의 비밀 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202610190150g",
-      "pubDate": "Mon, 19 Oct 2026 20:04:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "빅테크에 반도체 기판…삼성전기 3600억 수주",
-      "link": "https://www.hankyung.com/article/2026101916931",
-      "pubDate": "Mon, 19 Oct 2026 19:26:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "18년 끌어온 대전역세권 개발 무산되나…한화 결국 포기",
-      "link": "https://www.yna.co.kr/view/AKR20261019170400063",
-      "pubDate": "Mon, 19 Oct 2026 19:24:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"연임 자격 있나\" 국회 질타에 고개 숙인 은행장들(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261019140652002",
-      "pubDate": "Mon, 19 Oct 2026 19:23:00 +0900"
     }
   ]
 }
