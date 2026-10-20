@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:29:57.041Z",
+  "updatedAt": "2026-10-20T00:35:39.436Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.24,
-      "changePercent": -0.788,
+      "price": 98.51,
+      "changePercent": -0.03,
       "previousClose": 95.09,
       "currency": "USD",
       "history": [
         95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        98.23999786376953
+        98.51000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4160.3,
-      "changePercent": -0.497,
+      "price": 4153.1,
+      "changePercent": -0.168,
       "previousClose": 4107.9,
       "currency": "USD",
       "history": [
         4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4160.2998046875
+        4153.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.987,
-      "changePercent": 0.147,
+      "price": 101.937,
+      "changePercent": -0.042,
       "previousClose": 102.55,
       "currency": "USD",
       "history": [
         102.55000305175781,
         102,
         101.83999633789062,
-        101.98699951171875
+        101.93699645996094
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "중기중앙회장 주요 후보자, 리더스포럼 불참키로…공정성 불만도",
-      "link": "https://www.yna.co.kr/view/AKR20261019158700030",
-      "pubDate": "Tue, 20 Oct 2026 06:03:03 +0900"
+      "title": "해태제과, 일본 간판 감자스틱 '자가리코' 국내 첫 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261020045300030",
+      "pubDate": "Tue, 20 Oct 2026 09:32:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 산업부·코트라, 수출기업 대상 9개국 비관세장벽 대응 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20261019165800003",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0900"
+      "title": "셀트리온 \"아시아·중남미 시장 점유율 확대…성장축 다변화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020039900017",
+      "pubDate": "Tue, 20 Oct 2026 09:32:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "1∼9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파",
-      "link": "https://www.yna.co.kr/view/AKR20261019159000003",
-      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+      "title": "[특징주] 현대로템, 실적 부진·수주 지연 우려에 11% 하락",
+      "link": "https://www.yna.co.kr/view/AKR20261020046300008",
+      "pubDate": "Tue, 20 Oct 2026 09:31:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "5년여간 10대 증권사 주식매매규정 위반제재 97명…30%는 퇴직자",
-      "link": "https://www.yna.co.kr/view/AKR20261019176600002",
-      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+      "title": "[게시판] 관세청 중앙관세분석소, 국제마약 분석 정확성 기준 충족",
+      "link": "https://www.yna.co.kr/view/AKR20261020039100002",
+      "pubDate": "Tue, 20 Oct 2026 09:29:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "돈 넣고 잊은 계좌 3억4천만개…'잠자는' 금융자산 14조원",
-      "link": "https://www.yna.co.kr/view/AKR20261019163200002",
-      "pubDate": "Tue, 20 Oct 2026 05:53:00 +0900"
+      "title": "bhc, 베트남 진출 한 달 만에 호찌민 2호점 개점",
+      "link": "https://www.yna.co.kr/view/AKR20261020042900030",
+      "pubDate": "Tue, 20 Oct 2026 09:29:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"유튜버 법인 상위 10%가 신고 수입 76% 차지…집중 더 심화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019161100002",
-      "pubDate": "Tue, 20 Oct 2026 05:51:00 +0900"
+      "title": "국부펀드 올해 1∼8월 수익률 6.31%…운용자산 146억달러↑",
+      "link": "https://www.yna.co.kr/view/AKR20261020038600002",
+      "pubDate": "Tue, 20 Oct 2026 09:25:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] SK하이닉스, 장초반 3.8% 급락…삼성전자도 0.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261020043000008",
+      "pubDate": "Tue, 20 Oct 2026 09:24:30 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "세라젬 창업주, 전문경영인 양자로 입양해 지분 승계",
+      "link": "https://www.yna.co.kr/view/AKR20261020038500030",
+      "pubDate": "Tue, 20 Oct 2026 09:14:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 엘리스, 코스닥 입성 첫날 장초반 공모가 대비 30%대 폭락",
+      "link": "https://www.yna.co.kr/view/AKR20261020038800008",
+      "pubDate": "Tue, 20 Oct 2026 09:14:27 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"엔비디아의 진짜 해자 CUDA에 도전\"…아마존,AI칩 소프트웨어 공개",
-      "link": "https://www.hankyung.com/article/202610191823i",
-      "pubDate": "Tue, 20 Oct 2026 00:11:04 +0900"
+      "title": "\"골프웨어 전문성 높인다\"…말본, 도산 플래그십 확장 리뉴얼",
+      "link": "https://www.hankyung.com/article/202610202243g",
+      "pubDate": "Tue, 20 Oct 2026 09:07:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
-      "pubDate": "Mon, 19 Oct 2026 23:43:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 증시, AI 관련 주식 저가 매수에 나스닥 반등",
-      "link": "https://www.hankyung.com/article/202610191800i",
-      "pubDate": "Mon, 19 Oct 2026 23:13:03 +0900"
+      "title": "LH, 건설자원 공유플랫폼으로 잉여자원 재활용…65억원 절감",
+      "link": "https://www.yna.co.kr/view/AKR20261020036700003",
+      "pubDate": "Tue, 20 Oct 2026 09:06:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이찬진 \"금감원 현장에 있어야…지방이전 정책적 고려 기다려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019179600002",
-      "pubDate": "Mon, 19 Oct 2026 22:51:13 +0900"
+      "title": "코스피, 0.60% 내린 5,733.57 출발…코스닥도 0.44%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261020036800008",
+      "pubDate": "Tue, 20 Oct 2026 09:05:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중앙일보 인수 우협에 다우키움·CJ 컨소시엄 선정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019144551008",
-      "pubDate": "Mon, 19 Oct 2026 22:46:53 +0900"
+      "title": "울산시, 대형건설사·지역업체 상담회…공사 참여 확대 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261019177100057",
+      "pubDate": "Tue, 20 Oct 2026 09:05:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "롯데칠성, 영양군에 오트몬드 10만개 기부…유튜버 김선태 협업",
+      "link": "https://www.yna.co.kr/view/AKR20261020034900030",
+      "pubDate": "Tue, 20 Oct 2026 09:01:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"월급 빼고 다 오르는데\"…폭스바겐 2030년까지 임금 동결 추진",
-      "link": "https://www.hankyung.com/article/2026101917897",
-      "pubDate": "Mon, 19 Oct 2026 22:36:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"돈 풀면 국가부도, 돈 줄이면 폭동\"…진퇴양난 프랑스 국가부채",
-      "link": "https://www.hankyung.com/article/202610191780i",
-      "pubDate": "Mon, 19 Oct 2026 22:15:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"갈취 수준\" 삼전닉스 겨냥한 머스크…전문가는 정면반박",
-      "link": "https://www.hankyung.com/article/2026101917517",
-      "pubDate": "Mon, 19 Oct 2026 21:04:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "야근 중에도 '홀짝홀짝'…MZ들 지갑 여는 '와인' 정체 [현장+]",
-      "link": "https://www.hankyung.com/article/202610199278g",
-      "pubDate": "Mon, 19 Oct 2026 21:00:28 +0900"
+      "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진",
+      "link": "https://www.hankyung.com/article/202610202297g",
+      "pubDate": "Tue, 20 Oct 2026 09:00:45 +0900"
     }
   ]
 }
