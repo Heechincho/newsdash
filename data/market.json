@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:16:01.672Z",
+  "updatedAt": "2026-10-20T10:10:44.769Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.76,
-      "changePercent": 0.223,
+      "price": 100.55,
+      "changePercent": 2.04,
       "previousClose": 97.97,
       "currency": "USD",
       "history": [
         97.97000122070312,
         101.41000366210938,
         103.66000366210938,
-        98.76000213623047
+        100.55000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4162.7,
-      "changePercent": 0.063,
+      "price": 4131.4,
+      "changePercent": -0.69,
       "previousClose": 4170.1,
       "currency": "USD",
       "history": [
         4170.10009765625,
         4181.10009765625,
         4160.10009765625,
-        4162.7001953125
+        4131.39990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.777,
-      "changePercent": -0.199,
+      "price": 101.84,
+      "changePercent": -0.137,
       "previousClose": 102,
       "currency": "USD",
       "history": [
         102,
         101.83999633789062,
         101.9800033569336,
-        101.7770004272461
+        101.83999633789062
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.44,
-      "changePercent": -7.754,
-      "previousClose": 15.27,
+      "price": 18.72,
+      "changePercent": 1.518,
+      "previousClose": 16.87,
       "currency": "USD",
       "history": [
-        15.270000457763672,
         16.8700008392334,
         16.459999084472656,
         19.989999771118164,
-        18.440000534057617
+        18.440000534057617,
+        18.719999313354492
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "노동부 \"초광역특구법에 사회적 대화 반영되도록 국회와 협의\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261020067251530",
-      "pubDate": "Tue, 20 Oct 2026 14:09:39 +0900"
+      "title": "'실버 오크' 와인 최고매출책임자 \"한국은 아시아 최대 시장\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020163000030",
+      "pubDate": "Tue, 20 Oct 2026 18:51:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "파주시, 월드푸드테크협의회와 평화경제특구 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20261020105000060",
-      "pubDate": "Tue, 20 Oct 2026 14:06:59 +0900"
+      "title": "수은 행장 \"KAI 지분 매각 계획 없어\"…KAI 대표 \"독과점 문제\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261020088152002",
+      "pubDate": "Tue, 20 Oct 2026 18:29:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "셀프조사 막고 통지 명확히…직장 내 괴롭힘 실무 쟁점은?",
-      "link": "https://www.yna.co.kr/view/AKR20261020032500003",
-      "pubDate": "Tue, 20 Oct 2026 14:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[동정] 국토차관 \"건설로봇 현장 확산 위한 제도 개선 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020097000003",
-      "pubDate": "Tue, 20 Oct 2026 13:45:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "100가구 이상 임대단지 임대료 인상률 시도 조례로 정한다",
-      "link": "https://www.yna.co.kr/view/AKR20261020034300003",
-      "pubDate": "Tue, 20 Oct 2026 13:43:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[바이오스냅] 동아제약, '초경의 날' 맞아 여성용품 기부",
-      "link": "https://www.yna.co.kr/view/AKR20261020081400017",
-      "pubDate": "Tue, 20 Oct 2026 13:43:29 +0900"
+      "title": "경찰, 금융기관 해킹사건 중수청에 통보키로…'중대범죄' 판단(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261020139551002",
+      "pubDate": "Tue, 20 Oct 2026 18:11:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"1병 40만원\" 초고가 향수로 1000억 매출…세계인 홀린 K향수 정체",
-      "link": "https://www.hankyung.com/article/202610203118i",
-      "pubDate": "Tue, 20 Oct 2026 13:28:49 +0900"
+      "title": "건보 재정악화에 덜 낸 보험료 찾아낸다…지역가입자 설득이 관건",
+      "link": "https://www.hankyung.com/article/2026102041391",
+      "pubDate": "Tue, 20 Oct 2026 18:02:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수은 행장 \"현재 KAI 지분 매각 계획 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020088100002",
-      "pubDate": "Tue, 20 Oct 2026 12:08:10 +0900"
+      "title": "충북 수출 3분기 124억달러…분기 최대 실적 또 경신",
+      "link": "https://www.yna.co.kr/view/AKR20261020159800064",
+      "pubDate": "Tue, 20 Oct 2026 18:01:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"매운맛 냉동 야식, 콜레스테롤·나트륨 높아…과잉 섭취 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019165100030",
-      "pubDate": "Tue, 20 Oct 2026 12:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 한은, 영국 중앙은행과 토큰화 프로젝트 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261020046400002",
-      "pubDate": "Tue, 20 Oct 2026 12:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기부, 'EU 포장재 규제' 대응 간담회…수출 中企 애로 수렴",
-      "link": "https://www.yna.co.kr/view/AKR20261020032200030",
-      "pubDate": "Tue, 20 Oct 2026 12:00:01 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261020149000011",
+      "pubDate": "Tue, 20 Oct 2026 18:00:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"없어서 못 팔 정도\"…30대 남성들에 인기 폭발한 '편의점 빵'",
-      "link": "https://www.hankyung.com/article/202610203023i",
-      "pubDate": "Tue, 20 Oct 2026 11:56:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "김기표 \"대구·부산회생법원, 주식코인 채무자에 지나치게 엄격\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020082500053",
-      "pubDate": "Tue, 20 Oct 2026 11:53:01 +0900"
+      "title": "뒤바뀐 해킹판…은행 대신 2금융권 집중포화",
+      "link": "https://www.hankyung.com/article/2026102039931",
+      "pubDate": "Tue, 20 Oct 2026 17:52:16 +0900"
     },
     {
       "source": "한국경제",
-      "title": "나흘 만에 4억5000만원 쓸어담았다…창원 홀린 무신사",
-      "link": "https://www.hankyung.com/article/202610203008i",
-      "pubDate": "Tue, 20 Oct 2026 11:47:49 +0900"
+      "title": "\"AI 때문에 일자리 사라지면…\" 한국 덮친 '섬뜩한 진단'",
+      "link": "https://www.hankyung.com/article/2026102040291",
+      "pubDate": "Tue, 20 Oct 2026 17:51:38 +0900"
     },
     {
       "source": "한국경제",
-      "title": "증시 폭락에 가벼워진 지갑…명품 소비도 꺾였다",
-      "link": "https://www.hankyung.com/article/202610191316i",
-      "pubDate": "Tue, 20 Oct 2026 11:47:43 +0900"
+      "title": "다크웹 유출된 국내 카드정보 8만건",
+      "link": "https://www.hankyung.com/article/2026102039951",
+      "pubDate": "Tue, 20 Oct 2026 17:51:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "내주 글로벌 투자 컨퍼런스…BDA, 국내외 PE 100곳 초청",
+      "link": "https://www.hankyung.com/article/2026102039971",
+      "pubDate": "Tue, 20 Oct 2026 17:50:54 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"채권 금리 올리지마\" 재경부, 은행채 발행 자제령",
+      "link": "https://www.hankyung.com/article/2026102039961",
+      "pubDate": "Tue, 20 Oct 2026 17:50:36 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "신한카드, 업계 최초 중금리 대출",
+      "link": "https://www.hankyung.com/article/2026102039941",
+      "pubDate": "Tue, 20 Oct 2026 17:49:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농협, 전세대출 AI 에이전트 개발",
+      "link": "https://www.hankyung.com/article/2026102039991",
+      "pubDate": "Tue, 20 Oct 2026 17:49:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중앙일보 인수에 신세계도 합류…이병철 손주들 뭉쳤다",
+      "link": "https://www.hankyung.com/article/2026102041311",
+      "pubDate": "Tue, 20 Oct 2026 17:48:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "고액 건보료 체납 땐 외국인 출국금지한다",
+      "link": "https://www.hankyung.com/article/2026102041361",
+      "pubDate": "Tue, 20 Oct 2026 17:45:55 +0900"
     }
   ]
 }
