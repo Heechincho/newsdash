@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:35:39.436Z",
+  "updatedAt": "2026-10-20T05:16:01.672Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26692.869140625,
         26713.029296875,
         26140.029296875,
-        26430.88671875
+        26430.890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.51,
-      "changePercent": -0.03,
-      "previousClose": 95.09,
+      "price": 98.76,
+      "changePercent": 0.223,
+      "previousClose": 97.97,
       "currency": "USD",
       "history": [
-        95.08999633789062,
         97.97000122070312,
         101.41000366210938,
-        98.51000213623047
+        103.66000366210938,
+        98.76000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4153.1,
-      "changePercent": -0.168,
-      "previousClose": 4107.9,
+      "price": 4162.7,
+      "changePercent": 0.063,
+      "previousClose": 4170.1,
       "currency": "USD",
       "history": [
-        4107.89990234375,
         4170.10009765625,
         4181.10009765625,
-        4153.10009765625
+        4160.10009765625,
+        4162.7001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.937,
-      "changePercent": -0.042,
-      "previousClose": 102.55,
+      "price": 101.777,
+      "changePercent": -0.199,
+      "previousClose": 102,
       "currency": "USD",
       "history": [
-        102.55000305175781,
         102,
         101.83999633789062,
-        101.93699645996094
+        101.9800033569336,
+        101.7770004272461
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "해태제과, 일본 간판 감자스틱 '자가리코' 국내 첫 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261020045300030",
-      "pubDate": "Tue, 20 Oct 2026 09:32:35 +0900"
+      "title": "노동부 \"초광역특구법에 사회적 대화 반영되도록 국회와 협의\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261020067251530",
+      "pubDate": "Tue, 20 Oct 2026 14:09:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "셀트리온 \"아시아·중남미 시장 점유율 확대…성장축 다변화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020039900017",
-      "pubDate": "Tue, 20 Oct 2026 09:32:05 +0900"
+      "title": "파주시, 월드푸드테크협의회와 평화경제특구 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20261020105000060",
+      "pubDate": "Tue, 20 Oct 2026 14:06:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 현대로템, 실적 부진·수주 지연 우려에 11% 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261020046300008",
-      "pubDate": "Tue, 20 Oct 2026 09:31:04 +0900"
+      "title": "셀프조사 막고 통지 명확히…직장 내 괴롭힘 실무 쟁점은?",
+      "link": "https://www.yna.co.kr/view/AKR20261020032500003",
+      "pubDate": "Tue, 20 Oct 2026 14:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 관세청 중앙관세분석소, 국제마약 분석 정확성 기준 충족",
-      "link": "https://www.yna.co.kr/view/AKR20261020039100002",
-      "pubDate": "Tue, 20 Oct 2026 09:29:47 +0900"
+      "title": "[동정] 국토차관 \"건설로봇 현장 확산 위한 제도 개선 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020097000003",
+      "pubDate": "Tue, 20 Oct 2026 13:45:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "bhc, 베트남 진출 한 달 만에 호찌민 2호점 개점",
-      "link": "https://www.yna.co.kr/view/AKR20261020042900030",
-      "pubDate": "Tue, 20 Oct 2026 09:29:31 +0900"
+      "title": "100가구 이상 임대단지 임대료 인상률 시도 조례로 정한다",
+      "link": "https://www.yna.co.kr/view/AKR20261020034300003",
+      "pubDate": "Tue, 20 Oct 2026 13:43:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국부펀드 올해 1∼8월 수익률 6.31%…운용자산 146억달러↑",
-      "link": "https://www.yna.co.kr/view/AKR20261020038600002",
-      "pubDate": "Tue, 20 Oct 2026 09:25:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[특징주] SK하이닉스, 장초반 3.8% 급락…삼성전자도 0.8%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261020043000008",
-      "pubDate": "Tue, 20 Oct 2026 09:24:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "세라젬 창업주, 전문경영인 양자로 입양해 지분 승계",
-      "link": "https://www.yna.co.kr/view/AKR20261020038500030",
-      "pubDate": "Tue, 20 Oct 2026 09:14:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[특징주] 엘리스, 코스닥 입성 첫날 장초반 공모가 대비 30%대 폭락",
-      "link": "https://www.yna.co.kr/view/AKR20261020038800008",
-      "pubDate": "Tue, 20 Oct 2026 09:14:27 +0900"
+      "title": "[바이오스냅] 동아제약, '초경의 날' 맞아 여성용품 기부",
+      "link": "https://www.yna.co.kr/view/AKR20261020081400017",
+      "pubDate": "Tue, 20 Oct 2026 13:43:29 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"골프웨어 전문성 높인다\"…말본, 도산 플래그십 확장 리뉴얼",
-      "link": "https://www.hankyung.com/article/202610202243g",
-      "pubDate": "Tue, 20 Oct 2026 09:07:44 +0900"
+      "title": "\"1병 40만원\" 초고가 향수로 1000억 매출…세계인 홀린 K향수 정체",
+      "link": "https://www.hankyung.com/article/202610203118i",
+      "pubDate": "Tue, 20 Oct 2026 13:28:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LH, 건설자원 공유플랫폼으로 잉여자원 재활용…65억원 절감",
-      "link": "https://www.yna.co.kr/view/AKR20261020036700003",
-      "pubDate": "Tue, 20 Oct 2026 09:06:46 +0900"
+      "title": "수은 행장 \"현재 KAI 지분 매각 계획 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020088100002",
+      "pubDate": "Tue, 20 Oct 2026 12:08:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스피, 0.60% 내린 5,733.57 출발…코스닥도 0.44%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261020036800008",
-      "pubDate": "Tue, 20 Oct 2026 09:05:35 +0900"
+      "title": "\"매운맛 냉동 야식, 콜레스테롤·나트륨 높아…과잉 섭취 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019165100030",
+      "pubDate": "Tue, 20 Oct 2026 12:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울산시, 대형건설사·지역업체 상담회…공사 참여 확대 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261019177100057",
-      "pubDate": "Tue, 20 Oct 2026 09:05:01 +0900"
+      "title": "[게시판] 한은, 영국 중앙은행과 토큰화 프로젝트 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261020046400002",
+      "pubDate": "Tue, 20 Oct 2026 12:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데칠성, 영양군에 오트몬드 10만개 기부…유튜버 김선태 협업",
-      "link": "https://www.yna.co.kr/view/AKR20261020034900030",
-      "pubDate": "Tue, 20 Oct 2026 09:01:45 +0900"
+      "title": "중기부, 'EU 포장재 규제' 대응 간담회…수출 中企 애로 수렴",
+      "link": "https://www.yna.co.kr/view/AKR20261020032200030",
+      "pubDate": "Tue, 20 Oct 2026 12:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진",
-      "link": "https://www.hankyung.com/article/202610202297g",
-      "pubDate": "Tue, 20 Oct 2026 09:00:45 +0900"
+      "title": "\"없어서 못 팔 정도\"…30대 남성들에 인기 폭발한 '편의점 빵'",
+      "link": "https://www.hankyung.com/article/202610203023i",
+      "pubDate": "Tue, 20 Oct 2026 11:56:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "김기표 \"대구·부산회생법원, 주식코인 채무자에 지나치게 엄격\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020082500053",
+      "pubDate": "Tue, 20 Oct 2026 11:53:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "나흘 만에 4억5000만원 쓸어담았다…창원 홀린 무신사",
+      "link": "https://www.hankyung.com/article/202610203008i",
+      "pubDate": "Tue, 20 Oct 2026 11:47:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "증시 폭락에 가벼워진 지갑…명품 소비도 꺾였다",
+      "link": "https://www.hankyung.com/article/202610191316i",
+      "pubDate": "Tue, 20 Oct 2026 11:47:43 +0900"
     }
   ]
 }
