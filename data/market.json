@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T00:54:54.498Z",
+  "updatedAt": "2026-10-21T05:47:48.193Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26713.029296875,
         26140.029296875,
         26430.890625,
-        26424.81640625
+        26424.8203125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.47,
-      "changePercent": 0.664,
-      "previousClose": 97.97,
+      "price": 99,
+      "changePercent": 1.206,
+      "previousClose": 101.41,
       "currency": "USD",
       "history": [
-        97.97000122070312,
         101.41000366210938,
         103.66000366210938,
-        98.47000122070312
+        101.79000091552734,
+        99
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4136.4,
-      "changePercent": -0.15,
-      "previousClose": 4170.1,
+      "price": 4141.8,
+      "changePercent": -0.019,
+      "previousClose": 4181.1,
       "currency": "USD",
       "history": [
-        4170.10009765625,
         4181.10009765625,
         4160.10009765625,
-        4136.39990234375
+        4142.60009765625,
+        4141.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.781,
-      "changePercent": 0.079,
-      "previousClose": 102,
+      "price": 101.783,
+      "changePercent": 0.081,
+      "previousClose": 101.84,
       "currency": "USD",
       "history": [
-        102,
         101.83999633789062,
         101.9800033569336,
-        101.78099822998047
+        101.7300033569336,
+        101.78299713134766
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[게시판] 하나은행, 유로머니 선정 '한국 최우수 수탁은행'",
-      "link": "https://www.yna.co.kr/view/AKR20261021047600002",
-      "pubDate": "Wed, 21 Oct 2026 09:46:08 +0900"
+      "title": "전남광주시, 장성데이터센터 출자에 시의회서 '사업성' 우려",
+      "link": "https://www.yna.co.kr/view/AKR20261021105800054",
+      "pubDate": "Wed, 21 Oct 2026 14:35:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, 원금보장형 지수연동예금 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261021045900002",
-      "pubDate": "Wed, 21 Oct 2026 09:42:11 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20261021106300011",
+      "pubDate": "Wed, 21 Oct 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 A급 오피스 3분기 공실률 3.1%…전분기 대비 소폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261021045300003",
-      "pubDate": "Wed, 21 Oct 2026 09:39:04 +0900"
+      "title": "[전남광주소식] 농협은행, 장애인 금융체험활동 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261021105300054",
+      "pubDate": "Wed, 21 Oct 2026 14:27:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SKT·금감원, AI 보이스피싱 막는다…체험부터 교육까지",
-      "link": "https://www.yna.co.kr/view/AKR20261021029300017",
-      "pubDate": "Wed, 21 Oct 2026 09:38:19 +0900"
+      "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021108700030",
+      "pubDate": "Wed, 21 Oct 2026 14:26:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 삼성전자, 장초반 4%대 반등 중…SK하이닉스도 5.6%↑",
-      "link": "https://www.yna.co.kr/view/AKR20261021039300008",
-      "pubDate": "Wed, 21 Oct 2026 09:36:40 +0900"
+      "title": "18년 끌어온 대전역세권 개발 무산…대전시, 내년 하반기 재공모",
+      "link": "https://www.yna.co.kr/view/AKR20261021106000063",
+      "pubDate": "Wed, 21 Oct 2026 14:21:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스피, 반발 매수세에 3% 반등하며 5,700선…코스닥 2.5%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261021041800008",
-      "pubDate": "Wed, 21 Oct 2026 09:35:00 +0900"
+      "title": "중진공·하림산업·은행 3곳, 전북 K-푸드 中企 지원 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261021101600030",
+      "pubDate": "Wed, 21 Oct 2026 14:20:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "문페이, 두나무와 스테이블코인·기업 금융 인프라 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261021044200002",
-      "pubDate": "Wed, 21 Oct 2026 09:34:31 +0900"
+      "title": "박영선 \"AI와 동업하는 체계로 조직 바꿔야…'K-온톨로지' 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020116300030",
+      "pubDate": "Wed, 21 Oct 2026 14:16:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "보난자팩토리, 케이뱅크에 블록체인 솔루션 '트랜사이트' 공급",
-      "link": "https://www.yna.co.kr/view/AKR20261021043600002",
-      "pubDate": "Wed, 21 Oct 2026 09:34:06 +0900"
+      "title": "부산도시재생박람회 24일 영도서 개막",
+      "link": "https://www.yna.co.kr/view/AKR20261021101700051",
+      "pubDate": "Wed, 21 Oct 2026 14:03:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 한투증권, 삼일PwC와 GPU 파이낸싱 전략적 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20261021044400008",
-      "pubDate": "Wed, 21 Oct 2026 09:33:42 +0900"
+      "title": "KB금융, 경찰청과 금융사기 예방 대국민 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20261021102500002",
+      "pubDate": "Wed, 21 Oct 2026 13:55:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성물산, 빌딩플랫폼 '바인드'로 상업용 빌딩 AI 전환",
-      "link": "https://www.yna.co.kr/view/AKR20261021042500003",
-      "pubDate": "Wed, 21 Oct 2026 09:31:09 +0900"
+      "title": "'한화에 공정위 조사 정보 유출' 보도에 주병기 \"철저 감찰\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261021081351002",
+      "pubDate": "Wed, 21 Oct 2026 13:54:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 롯데건설, 마곡 '르웨스트'로 '굿디자인 어워드' 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261021036200003",
-      "pubDate": "Wed, 21 Oct 2026 09:29:01 +0900"
+      "title": "익산 원광대 주변 대학로 도시재생…'대학타운' 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261021101300055",
+      "pubDate": "Wed, 21 Oct 2026 13:53:54 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대카드 '알파벳카드', 출범 3개월 만에 발급 15만 장 돌파",
+      "link": "https://www.hankyung.com/article/202610215891i",
+      "pubDate": "Wed, 21 Oct 2026 13:53:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[특징주] 스페이스X 3분기, 어닝 서프라이즈…국내 관련주 강세",
-      "link": "https://www.yna.co.kr/view/AKR20261021041100008",
-      "pubDate": "Wed, 21 Oct 2026 09:27:22 +0900"
+      "title": "비단, 'e커피' 실물교환 서비스…디지털 거래부터 상품 배송까지",
+      "link": "https://www.yna.co.kr/view/AKR20261021099700051",
+      "pubDate": "Wed, 21 Oct 2026 13:48:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "아산나눔재단, 내달 17일 '비영리스타트업 콘퍼런스 2026'",
-      "link": "https://www.yna.co.kr/view/AKR20261021036300003",
-      "pubDate": "Wed, 21 Oct 2026 09:27:01 +0900"
+      "title": "박홍근, 기획처 직원 간담회…육아휴직 '편히 쓰는' 환경 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261021097700002",
+      "pubDate": "Wed, 21 Oct 2026 13:36:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KB국민은행, 비대면 가계대출 신청 절차 간소화",
-      "link": "https://www.yna.co.kr/view/AKR20261021035000002",
-      "pubDate": "Wed, 21 Oct 2026 09:26:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "10월 중순 수출 616억달러, 작년의 2배…일평균 또 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261021033051002",
-      "pubDate": "Wed, 21 Oct 2026 09:25:55 +0900"
+      "title": "우리금융 \"생산적·포용금융 1년간 34.7조 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021093100002",
+      "pubDate": "Wed, 21 Oct 2026 13:35:07 +0900"
     }
   ]
 }
