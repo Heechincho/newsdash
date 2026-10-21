@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-21T15:37:40.445Z",
+  "updatedAt": "2026-10-21T19:37:42.996Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7752.81,
-      "changePercent": 0.522,
+      "price": 7755.17,
+      "changePercent": 0.552,
       "previousClose": 7718.94,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7659.43994140625,
         7690.72998046875,
         7712.56982421875,
-        7752.81005859375
+        7755.169921875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26724.57,
-      "changePercent": 1.134,
+      "price": 26704.773,
+      "changePercent": 1.059,
       "previousClose": 26692.87,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26140.029296875,
         26430.890625,
         26424.8203125,
-        26724.5703125
+        26704.7734375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52655.92,
-      "changePercent": 0.305,
+      "price": 52757.77,
+      "changePercent": 0.499,
       "previousClose": 51621.48,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52002.41015625,
         51966.03125,
         52495.87890625,
-        52655.921875
+        52757.76953125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.32,
-      "changePercent": -0.511,
+      "price": 97.35,
+      "changePercent": -0.48,
       "previousClose": 101.41,
       "currency": "USD",
       "history": [
         101.41000366210938,
         103.66000366210938,
         101.79000091552734,
-        97.31999969482422
+        97.3499984741211
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4155.5,
-      "changePercent": 0.311,
+      "price": 4141.2,
+      "changePercent": -0.034,
       "previousClose": 4181.1,
       "currency": "USD",
       "history": [
         4181.10009765625,
         4160.10009765625,
         4142.60009765625,
-        4155.5
+        4141.2001953125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.753,
-      "changePercent": 0.051,
+      "price": 101.748,
+      "changePercent": 0.046,
       "previousClose": 101.84,
       "currency": "USD",
       "history": [
         101.83999633789062,
         101.9800033569336,
         101.7300033569336,
-        101.75299835205078
+        101.74800109863281
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.61,
-      "changePercent": -4.044,
+      "price": 16.94,
+      "changePercent": -2.137,
       "previousClose": 16.46,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         19.989999771118164,
         18.440000534057617,
         17.309999465942383,
-        16.610000610351562
+        16.940000534057617
       ],
       "ok": true
     }
