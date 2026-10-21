@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:47:48.193Z",
+  "updatedAt": "2026-10-21T10:38:31.622Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99,
-      "changePercent": 1.206,
+      "price": 100.02,
+      "changePercent": 2.249,
       "previousClose": 101.41,
       "currency": "USD",
       "history": [
         101.41000366210938,
         103.66000366210938,
         101.79000091552734,
-        99
+        100.0199966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4141.8,
-      "changePercent": -0.019,
+      "price": 4137.1,
+      "changePercent": -0.133,
       "previousClose": 4181.1,
       "currency": "USD",
       "history": [
         4181.10009765625,
         4160.10009765625,
         4142.60009765625,
-        4141.7998046875
+        4137.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.783,
-      "changePercent": 0.081,
+      "price": 101.731,
+      "changePercent": 0.03,
       "previousClose": 101.84,
       "currency": "USD",
       "history": [
         101.83999633789062,
         101.9800033569336,
         101.7300033569336,
-        101.78299713134766
+        101.73100280761719
       ],
       "ok": true
     },
@@ -104,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.31,
-      "changePercent": -6.128,
-      "previousClose": 16.87,
+      "price": 17.49,
+      "changePercent": 1.04,
+      "previousClose": 16.46,
       "currency": "USD",
       "history": [
-        16.8700008392334,
         16.459999084472656,
         19.989999771118164,
         18.440000534057617,
-        17.309999465942383
+        17.309999465942383,
+        17.489999771118164
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "전남광주시, 장성데이터센터 출자에 시의회서 '사업성' 우려",
-      "link": "https://www.yna.co.kr/view/AKR20261021105800054",
-      "pubDate": "Wed, 21 Oct 2026 14:35:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20261021106300011",
-      "pubDate": "Wed, 21 Oct 2026 14:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[전남광주소식] 농협은행, 장애인 금융체험활동 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261021105300054",
-      "pubDate": "Wed, 21 Oct 2026 14:27:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021108700030",
-      "pubDate": "Wed, 21 Oct 2026 14:26:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "18년 끌어온 대전역세권 개발 무산…대전시, 내년 하반기 재공모",
-      "link": "https://www.yna.co.kr/view/AKR20261021106000063",
-      "pubDate": "Wed, 21 Oct 2026 14:21:59 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중진공·하림산업·은행 3곳, 전북 K-푸드 中企 지원 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261021101600030",
-      "pubDate": "Wed, 21 Oct 2026 14:20:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "박영선 \"AI와 동업하는 체계로 조직 바꿔야…'K-온톨로지' 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020116300030",
-      "pubDate": "Wed, 21 Oct 2026 14:16:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산도시재생박람회 24일 영도서 개막",
-      "link": "https://www.yna.co.kr/view/AKR20261021101700051",
-      "pubDate": "Wed, 21 Oct 2026 14:03:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "KB금융, 경찰청과 금융사기 예방 대국민 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20261021102500002",
-      "pubDate": "Wed, 21 Oct 2026 13:55:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'한화에 공정위 조사 정보 유출' 보도에 주병기 \"철저 감찰\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261021081351002",
-      "pubDate": "Wed, 21 Oct 2026 13:54:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "익산 원광대 주변 대학로 도시재생…'대학타운' 조성 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261021101300055",
-      "pubDate": "Wed, 21 Oct 2026 13:53:54 +0900"
+      "title": "금융위, '회계처리 위반' 해태제과·관계자들에 13억 과징금",
+      "link": "https://www.yna.co.kr/view/AKR20261021165100002",
+      "pubDate": "Wed, 21 Oct 2026 18:55:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "현대카드 '알파벳카드', 출범 3개월 만에 발급 15만 장 돌파",
-      "link": "https://www.hankyung.com/article/202610215891i",
-      "pubDate": "Wed, 21 Oct 2026 13:53:37 +0900"
+      "title": "32년 산업안전 외길…\"中企 안전, CEO가 직접 챙겨야\"",
+      "link": "https://www.hankyung.com/article/2026102168191",
+      "pubDate": "Wed, 21 Oct 2026 18:38:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "이준혁 동진쎄미켐 회장 금탑산업훈장",
+      "link": "https://www.hankyung.com/article/2026102168291",
+      "pubDate": "Wed, 21 Oct 2026 18:36:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "비단, 'e커피' 실물교환 서비스…디지털 거래부터 상품 배송까지",
-      "link": "https://www.yna.co.kr/view/AKR20261021099700051",
-      "pubDate": "Wed, 21 Oct 2026 13:48:10 +0900"
+      "title": "\"KRX 넘어서면 안 돼\"…NXT 거래활발 종목들, 잇단 매매중단",
+      "link": "https://www.yna.co.kr/view/AKR20261021120500008",
+      "pubDate": "Wed, 21 Oct 2026 18:36:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'2026 삼성행복대상'에 행복심리학자 등 8명",
+      "link": "https://www.hankyung.com/article/2026102168201",
+      "pubDate": "Wed, 21 Oct 2026 18:35:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "박홍근, 기획처 직원 간담회…육아휴직 '편히 쓰는' 환경 건의",
-      "link": "https://www.yna.co.kr/view/AKR20261021097700002",
-      "pubDate": "Wed, 21 Oct 2026 13:36:20 +0900"
+      "title": "TKG휴켐스 \"티케이지엠켐 주식 467억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021154200008",
+      "pubDate": "Wed, 21 Oct 2026 18:22:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우리금융 \"생산적·포용금융 1년간 34.7조 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021093100002",
-      "pubDate": "Wed, 21 Oct 2026 13:35:07 +0900"
+      "title": "루멘스바이오스 \"폴라리스우노 주식 138억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021158700008",
+      "pubDate": "Wed, 21 Oct 2026 18:22:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
+      "link": "https://www.yna.co.kr/view/AKR20261021158900002",
+      "pubDate": "Wed, 21 Oct 2026 18:20:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "모비콘텐츠테크, 코넥스 신규 상장…오는 23일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261021161400008",
+      "pubDate": "Wed, 21 Oct 2026 18:19:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "女 절반 “삶에서 가장 중요한 건 재무”…만족도는 최하위",
+      "link": "https://www.hankyung.com/article/202610216681i",
+      "pubDate": "Wed, 21 Oct 2026 18:16:17 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "매출 2000억 찍고 쫓겨날 판…코스닥 덮친 '상장폐지 공포'",
+      "link": "https://www.hankyung.com/article/2026102167611",
+      "pubDate": "Wed, 21 Oct 2026 18:11:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "정부·현대차그룹 손잡고 '車반도체 국산화' 추진",
+      "link": "https://www.hankyung.com/article/2026102167601",
+      "pubDate": "Wed, 21 Oct 2026 18:09:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대차, 신형 투싼 출시…3140만원부터",
+      "link": "https://www.hankyung.com/article/2026102167651",
+      "pubDate": "Wed, 21 Oct 2026 18:09:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "대한전선 신임 대표 김준석 \"美·유럽 사업기반 확대 주력\"",
+      "link": "https://www.hankyung.com/article/2026102167641",
+      "pubDate": "Wed, 21 Oct 2026 18:08:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "LS일렉트릭, 100분기 연속 흑자 기록",
+      "link": "https://www.hankyung.com/article/2026102167661",
+      "pubDate": "Wed, 21 Oct 2026 18:07:57 +0900"
     }
   ]
 }
