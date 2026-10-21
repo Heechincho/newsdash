@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-21T19:37:42.996Z",
+  "updatedAt": "2026-10-21T22:45:09.686Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7755.17,
-      "changePercent": 0.552,
+      "price": 7757.17,
+      "changePercent": 0.578,
       "previousClose": 7718.94,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7659.43994140625,
         7690.72998046875,
         7712.56982421875,
-        7755.169921875
+        7757.169921875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26704.773,
-      "changePercent": 1.059,
+      "price": 26702.857,
+      "changePercent": 1.052,
       "previousClose": 26692.87,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26140.029296875,
         26430.890625,
         26424.8203125,
-        26704.7734375
+        26702.857421875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52757.77,
-      "changePercent": 0.499,
+      "price": 52856.09,
+      "changePercent": 0.686,
       "previousClose": 51621.48,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52002.41015625,
         51966.03125,
         52495.87890625,
-        52757.76953125
+        52856.08984375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.35,
-      "changePercent": -0.48,
+      "price": 98.08,
+      "changePercent": 0.957,
       "previousClose": 101.41,
       "currency": "USD",
       "history": [
         101.41000366210938,
         103.66000366210938,
         101.79000091552734,
-        97.3499984741211
+        98.08000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4141.2,
-      "changePercent": -0.034,
+      "price": 4150.8,
+      "changePercent": 0.019,
       "previousClose": 4181.1,
       "currency": "USD",
       "history": [
         4181.10009765625,
         4160.10009765625,
         4142.60009765625,
-        4141.2001953125
+        4150.7998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.748,
-      "changePercent": 0.046,
+      "price": 101.691,
+      "changePercent": -0.01,
       "previousClose": 101.84,
       "currency": "USD",
       "history": [
         101.83999633789062,
         101.9800033569336,
         101.7300033569336,
-        101.74800109863281
+        101.69100189208984
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.94,
-      "changePercent": -2.137,
+      "price": 16.68,
+      "changePercent": -3.64,
       "previousClose": 16.46,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         19.989999771118164,
         18.440000534057617,
         17.309999465942383,
-        16.940000534057617
+        16.68000030517578
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "佛 국채 10년물 금리 年5% 돌파…2002년 이후 처음",
-      "link": "https://www.hankyung.com/article/2026102171271",
-      "pubDate": "Wed, 21 Oct 2026 23:56:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'뮤즈' 대박에도 돈이 말라간다…메타 실적에 월가 긴장하는 이유",
-      "link": "https://www.hankyung.com/article/202610217168i",
-      "pubDate": "Wed, 21 Oct 2026 23:14:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'회장님이 왜 여기서 나와?'…최태원, '힙지로'서 포착된 모습",
-      "link": "https://www.hankyung.com/article/202610217132i",
-      "pubDate": "Wed, 21 Oct 2026 23:12:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"없어서 못 샀는데 이젠 남아돈다\"…'귀하신 몸'의 굴욕 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610215249i",
-      "pubDate": "Wed, 21 Oct 2026 22:25:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"그리스 사태보다 더 심각할 수도\"…5% 넘은 프랑스 국채 폭락에 경고",
-      "link": "https://www.hankyung.com/article/202610217106i",
-      "pubDate": "Wed, 21 Oct 2026 22:20:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "제9회 한국도레이과학기술상에 김상규·김윤희 교수…상금 1억원",
-      "link": "https://www.hankyung.com/article/202610217078i",
-      "pubDate": "Wed, 21 Oct 2026 21:49:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "퇴직연금 실적배당형 비중 15분기 만에 감소",
-      "link": "https://www.hankyung.com/article/202610217091i",
-      "pubDate": "Wed, 21 Oct 2026 21:48:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"스페이스X, 아직 싸다\"…실적 발표 후 월가가 내놓은 목표가는?",
-      "link": "https://www.hankyung.com/article/202610217082i",
-      "pubDate": "Wed, 21 Oct 2026 21:39:38 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 손잡더니 돌변…식당 서빙하던 로봇의 '놀라운 변신'",
-      "link": "https://www.hankyung.com/article/202610217064i",
-      "pubDate": "Wed, 21 Oct 2026 21:13:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中서 건너왔지만 \"한국이 유일\"…'커피 공화국' 뒤흔든 음료 [씬메이커]",
-      "link": "https://www.hankyung.com/article/202610203710g",
-      "pubDate": "Wed, 21 Oct 2026 21:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전기, 엔비디아에 AI 반도체 기판 공급…역대 최대 규모",
-      "link": "https://www.hankyung.com/article/202610216563i",
-      "pubDate": "Wed, 21 Oct 2026 20:48:02 +0900"
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261022015800011",
+      "pubDate": "Thu, 22 Oct 2026 07:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'공급 속도전' 정부…3기 신도시 용적률 상향 카드도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261021172200003",
-      "pubDate": "Wed, 21 Oct 2026 20:38:36 +0900"
+      "title": "[우분투칼럼] 아프리카 증시가 울리는 자립의 종소리",
+      "link": "https://www.yna.co.kr/view/AKR20261006025000898",
+      "pubDate": "Thu, 22 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대학생 10명 중 1명꼴 졸업 유예…76%가 고용 불안정성 때문",
+      "link": "https://www.yna.co.kr/view/AKR20261021137200530",
+      "pubDate": "Thu, 22 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "연합뉴스 미래경제포럼에 日매체 큰 관심…NHK·아사히 등 신청",
+      "link": "https://www.yna.co.kr/view/AKR20261021105600898",
+      "pubDate": "Thu, 22 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "AI 간판 달면 R&D 예산 받나…정부 분류에 AI도 이견",
+      "link": "https://www.yna.co.kr/view/AKR20261021155000017",
+      "pubDate": "Thu, 22 Oct 2026 06:33:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"할당관세 1천586억원 감면했지만…가격 인하효과 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021131700030",
+      "pubDate": "Thu, 22 Oct 2026 06:03:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "테슬라·스페이스X 합병 최대수혜는 머스크…주주들은 '주식희석'함정",
-      "link": "https://www.hankyung.com/article/202610217006i",
-      "pubDate": "Wed, 21 Oct 2026 20:21:47 +0900"
+      "title": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파이도 '국민템' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610217155i",
+      "pubDate": "Thu, 22 Oct 2026 06:00:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "후티 공격에 사우디 전세기 요금 급등",
-      "link": "https://www.hankyung.com/article/2026102169961",
-      "pubDate": "Wed, 21 Oct 2026 20:06:59 +0900"
+      "title": "\"커피 한 잔 받는데 40분\"…복덩이 굴러 들어오자 벌어진 일",
+      "link": "https://www.hankyung.com/article/2026102166361",
+      "pubDate": "Thu, 22 Oct 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 이후 최대 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261021153100004",
+      "pubDate": "Thu, 22 Oct 2026 06:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"유니클로 비켜\"…손자부터 할아버지까지 입는 '이 옷' 뭐길래 [현장+]",
-      "link": "https://www.hankyung.com/article/202610216864g",
-      "pubDate": "Wed, 21 Oct 2026 20:00:02 +0900"
+      "title": "\"화장실 잘 가려고 먹었는데\"…몸 곳곳에 나타난 '뜻밖의 효과' [현장+]",
+      "link": "https://www.hankyung.com/article/202610216151g",
+      "pubDate": "Thu, 22 Oct 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융당국, 네이버·두나무 결합 독점 우려에 '안전장치' 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261021159700002",
+      "pubDate": "Thu, 22 Oct 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"중앙은행 디지털화폐 부작용 심도 있는 논의 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021149000002",
+      "pubDate": "Thu, 22 Oct 2026 05:56:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"법인세 5년 증가분 90%가 수도권 집중…서울 특히 쏠려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021140600002",
+      "pubDate": "Thu, 22 Oct 2026 05:55:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'불법 투자자문 신고했는데'…포상금 지급까지 최장 3년 9개월",
+      "link": "https://www.yna.co.kr/view/AKR20261021162400002",
+      "pubDate": "Thu, 22 Oct 2026 05:54:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"밀수 제보로 3.3조 적발했는데…관세청 포상금은 적발액 0.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021138900002",
+      "pubDate": "Thu, 22 Oct 2026 05:53:24 +0900"
     }
   ]
 }
