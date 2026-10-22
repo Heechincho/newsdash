@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-22T16:01:56.849Z",
+  "updatedAt": "2026-10-22T20:03:07.855Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7676.23,
-      "changePercent": -1.043,
+      "price": 7663.36,
+      "changePercent": -1.209,
       "previousClose": 7744.06,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7690.72998046875,
         7712.56982421875,
         7757.169921875,
-        7676.22998046875
+        7663.35986328125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26172.773,
-      "changePercent": -1.985,
+      "price": 26008.86,
+      "changePercent": -2.599,
       "previousClose": 26713.03,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26430.890625,
         26424.8203125,
         26702.859375,
-        26172.7734375
+        26008.859375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52849.83,
-      "changePercent": -0.012,
+      "price": 52867.68,
+      "changePercent": 0.022,
       "previousClose": 52177.69,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51966.03125,
         52495.87890625,
         52856.08984375,
-        52849.828125
+        52867.6796875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.42,
-      "changePercent": 1.307,
+      "price": 99.29,
+      "changePercent": 2.203,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
         103.66000366210938,
         101.79000091552734,
         97.1500015258789,
-        98.41999816894531
+        99.29000091552734
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4067.4,
-      "changePercent": -1.99,
+      "price": 4042.5,
+      "changePercent": -2.59,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
         4160.10009765625,
         4142.60009765625,
         4150,
-        4067.39990234375
+        4042.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.726,
-      "changePercent": -0.053,
+      "price": 101.628,
+      "changePercent": -0.149,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
         101.9800033569336,
         101.7300033569336,
         101.77999877929688,
-        101.72599792480469
+        101.62799835205078
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.79,
-      "changePercent": 12.665,
+      "price": 19.83,
+      "changePercent": 18.885,
       "previousClose": 19.99,
       "currency": "USD",
       "history": [
@@ -113,12 +113,30 @@
         18.440000534057617,
         17.309999465942383,
         16.68000030517578,
-        18.790000915527344
+        19.829999923706055
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "트럼프 \"이란, 중간선거 앞 유가 올리려 모든 것 꾸며내\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023005000071",
+      "pubDate": "Fri, 23 Oct 2026 03:34:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+      "link": "https://www.hankyung.com/article/202610229798i",
+      "pubDate": "Fri, 23 Oct 2026 03:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
+      "link": "https://www.hankyung.com/article/202610239834i",
+      "pubDate": "Fri, 23 Oct 2026 00:58:50 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[재산공개] 심욱기 대전지방국세청장 57억원 신고",
@@ -190,24 +208,6 @@
       "title": "HD현대, 미국 건설사와 합작법인 추진…선박 블록 야드 구축",
       "link": "https://www.yna.co.kr/view/AKR20261022187600003",
       "pubDate": "Thu, 22 Oct 2026 19:43:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"성룡까지 따라 춤췄다\"…전 세계 홀린 한국 캐릭터 정체 [인터뷰+]",
-      "link": "https://www.hankyung.com/article/202610228890H",
-      "pubDate": "Thu, 22 Oct 2026 19:30:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "골드만 \"기관투자자⅓ 투자금 늘릴 계획…최대위험 지정학 긴장\"",
-      "link": "https://www.yna.co.kr/view/AKR20261022125100008",
-      "pubDate": "Thu, 22 Oct 2026 19:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "숙련기능 외국인력 체류기간 연장 간소화…근속기간 가점도 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261022189000004",
-      "pubDate": "Thu, 22 Oct 2026 19:22:12 +0900"
     }
   ]
 }
