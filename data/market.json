@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T22:45:09.686Z",
+  "updatedAt": "2026-10-22T00:58:22.270Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.08,
-      "changePercent": 0.957,
+      "price": 98.05,
+      "changePercent": 0.926,
       "previousClose": 101.41,
       "currency": "USD",
       "history": [
         101.41000366210938,
         103.66000366210938,
         101.79000091552734,
-        98.08000183105469
+        98.05000305175781
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4150.8,
-      "changePercent": 0.019,
+      "price": 4132.1,
+      "changePercent": -0.431,
       "previousClose": 4181.1,
       "currency": "USD",
       "history": [
         4181.10009765625,
         4160.10009765625,
         4142.60009765625,
-        4150.7998046875
+        4132.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.691,
-      "changePercent": -0.01,
+      "price": 101.693,
+      "changePercent": -0.085,
       "previousClose": 101.84,
       "currency": "USD",
       "history": [
         101.83999633789062,
         101.9800033569336,
         101.7300033569336,
-        101.69100189208984
+        101.69300079345703
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261022015800011",
-      "pubDate": "Thu, 22 Oct 2026 07:30:00 +0900"
+      "title": "LH, 745억원 규모 만기 15년 유로화 표시 채권 발행",
+      "link": "https://www.yna.co.kr/view/AKR20261022055300003",
+      "pubDate": "Thu, 22 Oct 2026 09:52:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 아프리카 증시가 울리는 자립의 종소리",
-      "link": "https://www.yna.co.kr/view/AKR20261006025000898",
-      "pubDate": "Thu, 22 Oct 2026 07:00:04 +0900"
+      "title": "빈폴골프, 전국 매장서 제품 착용 행사…구매 시 특별 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261022041000030",
+      "pubDate": "Thu, 22 Oct 2026 09:52:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대학생 10명 중 1명꼴 졸업 유예…76%가 고용 불안정성 때문",
-      "link": "https://www.yna.co.kr/view/AKR20261021137200530",
-      "pubDate": "Thu, 22 Oct 2026 07:00:03 +0900"
+      "title": "[게시판] NH농협은행, 지역 아동 위한 어린이 도서관 조성",
+      "link": "https://www.yna.co.kr/view/AKR20261022055400002",
+      "pubDate": "Thu, 22 Oct 2026 09:51:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "연합뉴스 미래경제포럼에 日매체 큰 관심…NHK·아사히 등 신청",
-      "link": "https://www.yna.co.kr/view/AKR20261021105600898",
-      "pubDate": "Thu, 22 Oct 2026 07:00:02 +0900"
+      "title": "한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261022050500002",
+      "pubDate": "Thu, 22 Oct 2026 09:51:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 간판 달면 R&D 예산 받나…정부 분류에 AI도 이견",
-      "link": "https://www.yna.co.kr/view/AKR20261021155000017",
-      "pubDate": "Thu, 22 Oct 2026 06:33:00 +0900"
+      "title": "[1보] 한은, 기준금리 연 3.00%로 동결",
+      "link": "https://www.yna.co.kr/view/AKR20261022055600002",
+      "pubDate": "Thu, 22 Oct 2026 09:50:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"할당관세 1천586억원 감면했지만…가격 인하효과 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021131700030",
-      "pubDate": "Thu, 22 Oct 2026 06:03:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한국산에 푹 빠진 '이 나라'…갤럭시도 초코파이도 '국민템' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610217155i",
-      "pubDate": "Thu, 22 Oct 2026 06:00:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"커피 한 잔 받는데 40분\"…복덩이 굴러 들어오자 벌어진 일",
-      "link": "https://www.hankyung.com/article/2026102166361",
-      "pubDate": "Thu, 22 Oct 2026 06:00:05 +0900"
+      "title": "[바이오스냅] 식약처, 부산국제의료기기전시회 참가",
+      "link": "https://www.yna.co.kr/view/AKR20261022032300017",
+      "pubDate": "Thu, 22 Oct 2026 09:49:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 이후 최대 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261021153100004",
-      "pubDate": "Thu, 22 Oct 2026 06:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"화장실 잘 가려고 먹었는데\"…몸 곳곳에 나타난 '뜻밖의 효과' [현장+]",
-      "link": "https://www.hankyung.com/article/202610216151g",
-      "pubDate": "Thu, 22 Oct 2026 06:00:01 +0900"
+      "title": "[게시판] 디지털엑스, 오지급 방지 등 하반기 법규준수 교육",
+      "link": "https://www.yna.co.kr/view/AKR20261022054400002",
+      "pubDate": "Thu, 22 Oct 2026 09:48:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융당국, 네이버·두나무 결합 독점 우려에 '안전장치' 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261021159700002",
-      "pubDate": "Thu, 22 Oct 2026 05:57:00 +0900"
+      "title": "코스피, 차익실현 매물에 1%대 하락 출발 후 낙폭 축소 시도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261022047500008",
+      "pubDate": "Thu, 22 Oct 2026 09:48:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"중앙은행 디지털화폐 부작용 심도 있는 논의 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021149000002",
-      "pubDate": "Thu, 22 Oct 2026 05:56:09 +0900"
+      "title": "삼양그룹, 박정민 모델로 신규 기업광고…스페셜티 소재 소개",
+      "link": "https://www.yna.co.kr/view/AKR20261022036200030",
+      "pubDate": "Thu, 22 Oct 2026 09:45:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"법인세 5년 증가분 90%가 수도권 집중…서울 특히 쏠려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021140600002",
-      "pubDate": "Thu, 22 Oct 2026 05:55:12 +0900"
+      "title": "업비트, 고객 소통 공간 '업비트 라운지' 새 단장",
+      "link": "https://www.yna.co.kr/view/AKR20261022051000002",
+      "pubDate": "Thu, 22 Oct 2026 09:44:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'불법 투자자문 신고했는데'…포상금 지급까지 최장 3년 9개월",
-      "link": "https://www.yna.co.kr/view/AKR20261021162400002",
-      "pubDate": "Thu, 22 Oct 2026 05:54:01 +0900"
+      "title": "충주시, AI 기반 '자율작업 지게차' 생산거점 구축 투자협약",
+      "link": "https://www.yna.co.kr/view/AKR20261022046300064",
+      "pubDate": "Thu, 22 Oct 2026 09:39:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"밀수 제보로 3.3조 적발했는데…관세청 포상금은 적발액 0.1%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261021138900002",
-      "pubDate": "Thu, 22 Oct 2026 05:53:24 +0900"
+      "title": "삼성물산, 고령자 거주사업 확대…삼성노블라이프와 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20261022034000003",
+      "pubDate": "Thu, 22 Oct 2026 09:36:52 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "전국 아파트 1순위 청약 경쟁률 6개월째 하락…부산은 첫 미달",
+      "link": "https://www.yna.co.kr/view/AKR20261022042100003",
+      "pubDate": "Thu, 22 Oct 2026 09:36:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "특성화고 졸업 후 취업…안산시, '직업교육 혁신지구' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20261022047600061",
+      "pubDate": "Thu, 22 Oct 2026 09:35:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 토스뱅크 '키워봐요 31일 적금' 60만좌 넘게 가입",
+      "link": "https://www.yna.co.kr/view/AKR20261022047100002",
+      "pubDate": "Thu, 22 Oct 2026 09:34:41 +0900"
     }
   ]
 }
