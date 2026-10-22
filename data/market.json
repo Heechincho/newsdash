@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-22T11:38:47.084Z",
+  "updatedAt": "2026-10-22T16:01:56.849Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7757.17,
-      "changePercent": 0.578,
-      "previousClose": 7718.94,
+      "price": 7676.23,
+      "changePercent": -1.043,
+      "previousClose": 7744.06,
       "currency": "USD",
       "history": [
-        7744.06005859375,
         7659.43994140625,
         7690.72998046875,
         7712.56982421875,
-        7757.169921875
+        7757.169921875,
+        7676.22998046875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26702.857,
-      "changePercent": 1.052,
-      "previousClose": 26692.87,
+      "price": 26172.773,
+      "changePercent": -1.985,
+      "previousClose": 26713.03,
       "currency": "USD",
       "history": [
-        26713.029296875,
         26140.029296875,
         26430.890625,
         26424.8203125,
-        26702.859375
+        26702.859375,
+        26172.7734375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52856.09,
-      "changePercent": 0.686,
-      "previousClose": 51621.48,
+      "price": 52849.83,
+      "changePercent": -0.012,
+      "previousClose": 52177.69,
       "currency": "USD",
       "history": [
-        52177.69140625,
         52002.41015625,
         51966.03125,
         52495.87890625,
-        52856.08984375
+        52856.08984375,
+        52849.828125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.22,
-      "changePercent": 2.131,
+      "price": 98.42,
+      "changePercent": 1.307,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
         103.66000366210938,
         101.79000091552734,
         97.1500015258789,
-        99.22000122070312
+        98.41999816894531
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4078.9,
-      "changePercent": -1.713,
+      "price": 4067.4,
+      "changePercent": -1.99,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
         4160.10009765625,
         4142.60009765625,
         4150,
-        4078.89990234375
+        4067.39990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.794,
-      "changePercent": 0.014,
+      "price": 101.726,
+      "changePercent": -0.053,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
         101.9800033569336,
         101.7300033569336,
         101.77999877929688,
-        101.79399871826172
+        101.72599792480469
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.34,
-      "changePercent": 9.958,
+      "price": 18.79,
+      "changePercent": 12.665,
       "previousClose": 19.99,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         18.440000534057617,
         17.309999465942383,
         16.68000030517578,
-        18.34000015258789
+        18.790000915527344
       ],
       "ok": true
     }
@@ -121,9 +121,69 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "[재산공개] 심욱기 대전지방국세청장 57억원 신고",
+      "link": "https://www.yna.co.kr/view/AKR20261022169800063",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "재경위 '가상자산 과세' 시각차…與 의견분분, 野 \"인프라 미비\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261022098652001",
+      "pubDate": "Thu, 22 Oct 2026 23:30:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
+      "link": "https://www.hankyung.com/article/202610229805i",
+      "pubDate": "Thu, 22 Oct 2026 22:59:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "술 안 마신다더니…'이건 못 참지' 1000억 잭팟 터진 日 맥주 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202610227469g",
+      "pubDate": "Thu, 22 Oct 2026 22:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"중국 가는 비행기 더 띄워라\"…항공사 경쟁 불붙은 이유 [플라잇톡]",
+      "link": "https://www.hankyung.com/article/202610228708g",
+      "pubDate": "Thu, 22 Oct 2026 21:13:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "전쟁으로 무기주문 387조원 쌓였는데…록히드마틴 주가는 16% 하락",
+      "link": "https://www.hankyung.com/article/202610229743i",
+      "pubDate": "Thu, 22 Oct 2026 20:50:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
+      "link": "https://www.yna.co.kr/view/AKR20261022132900017",
+      "pubDate": "Thu, 22 Oct 2026 20:38:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"30대 여성들 잡아라\"…K2 품에 안긴 네파의 '승부수' [현장+]",
+      "link": "https://www.hankyung.com/article/202610228679g",
+      "pubDate": "Thu, 22 Oct 2026 20:17:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"중국 희토류 없이 반도체 만든다\"…TSMC,희토류없는 모터 찾기",
+      "link": "https://www.hankyung.com/article/202610229710i",
+      "pubDate": "Thu, 22 Oct 2026 20:15:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "거래소 \"코스닥 승강제 '절대평가' 방식 검토 중…확정은 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20261022191300008",
       "pubDate": "Thu, 22 Oct 2026 20:02:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "스페이스X·테슬라합병에 '중국' 복병…테슬라 중국공장 운명은?",
+      "link": "https://www.hankyung.com/article/202610229673i",
+      "pubDate": "Thu, 22 Oct 2026 19:44:12 +0900"
     },
     {
       "source": "연합뉴스",
@@ -133,7 +193,7 @@
     },
     {
       "source": "한국경제",
-      "title": "국내 강타한 日 치이카와…IP 전문가가 본 K애니 생존법은? [인터뷰+]",
+      "title": "\"성룡까지 따라 춤췄다\"…전 세계 홀린 한국 캐릭터 정체 [인터뷰+]",
       "link": "https://www.hankyung.com/article/202610228890H",
       "pubDate": "Thu, 22 Oct 2026 19:30:03 +0900"
     },
@@ -148,66 +208,6 @@
       "title": "숙련기능 외국인력 체류기간 연장 간소화…근속기간 가점도 확대",
       "link": "https://www.yna.co.kr/view/AKR20261022189000004",
       "pubDate": "Thu, 22 Oct 2026 19:22:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한옥호텔 짓는데만 15년…\"기와 한장 허투루 얹지 않았다\"",
-      "link": "https://www.hankyung.com/article/2026102293361",
-      "pubDate": "Thu, 22 Oct 2026 19:12:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"360만원 아이폰 455만원에 팝니다\"…'초유의 사태' [이슈+]",
-      "link": "https://www.hankyung.com/article/202610229428g",
-      "pubDate": "Thu, 22 Oct 2026 19:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"엄마아빠가 입던 옷 아닌가?\" 했는데…직장인들 홀렸다 [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202610229230i",
-      "pubDate": "Thu, 22 Oct 2026 19:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "연일 출렁이는데…한화증권 \"내년 코스피 최대 9,300\" 전망",
-      "link": "https://www.yna.co.kr/view/AKR20261022183400008",
-      "pubDate": "Thu, 22 Oct 2026 18:54:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "30년 에너지경제 연구…\"1가구 1태양광 시대 열어야\"",
-      "link": "https://www.hankyung.com/article/2026102294731",
-      "pubDate": "Thu, 22 Oct 2026 18:54:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'16년 재임' 김기문 \"차기 회장 덕목은 능력·화합\"",
-      "link": "https://www.hankyung.com/article/2026102294611",
-      "pubDate": "Thu, 22 Oct 2026 18:53:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'취임 100일' 권형택 이사장 \"기보, 기술혁신 지원 강화\"",
-      "link": "https://www.hankyung.com/article/2026102294671",
-      "pubDate": "Thu, 22 Oct 2026 18:51:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "김소영 서울대 경제학부 교수, 제4회 한중경제발전포럼 개최",
-      "link": "https://www.hankyung.com/article/2026102294661",
-      "pubDate": "Thu, 22 Oct 2026 18:50:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LX그룹, 한국여자야구대회 개최",
-      "link": "https://www.hankyung.com/article/2026102294641",
-      "pubDate": "Thu, 22 Oct 2026 18:50:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성SDI, 국제화학올림피아드 후원",
-      "link": "https://www.hankyung.com/article/2026102294631",
-      "pubDate": "Thu, 22 Oct 2026 18:49:35 +0900"
     }
   ]
 }
