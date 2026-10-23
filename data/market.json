@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-23T12:05:10.756Z",
+  "updatedAt": "2026-10-23T17:01:26.044Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7663.43,
-      "changePercent": -1.208,
-      "previousClose": 7744.06,
+      "price": 7638.87,
+      "changePercent": -0.32,
+      "previousClose": 7659.44,
       "currency": "USD",
       "history": [
-        7659.43994140625,
         7690.72998046875,
         7712.56982421875,
         7757.169921875,
-        7663.43017578125
+        7663.43017578125,
+        7638.8701171875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26008.86,
-      "changePercent": -2.599,
-      "previousClose": 26713.03,
+      "price": 26018.94,
+      "changePercent": 0.039,
+      "previousClose": 26140.03,
       "currency": "USD",
       "history": [
-        26140.029296875,
         26430.890625,
         26424.8203125,
         26702.859375,
-        26008.859375
+        26008.859375,
+        26018.939453125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52867.98,
-      "changePercent": 0.022,
-      "previousClose": 52177.69,
+      "price": 52310.81,
+      "changePercent": -1.054,
+      "previousClose": 52002.41,
       "currency": "USD",
       "history": [
-        52002.41015625,
         51966.03125,
         52495.87890625,
         52856.08984375,
-        52867.98046875
+        52867.98046875,
+        52310.80859375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.72,
-      "changePercent": 1.257,
+      "price": 102.68,
+      "changePercent": 3.227,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
-        100.72000122070312
+        102.68000030517578
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4039.2,
-      "changePercent": -0.522,
+      "price": 4016.6,
+      "changePercent": -1.079,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4142.60009765625,
         4150,
         4060.39990234375,
-        4039.199951171875
+        4016.60009765625
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.826,
-      "changePercent": 0.216,
+      "price": 101.802,
+      "changePercent": 0.192,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
-        101.82599639892578
+        101.802001953125
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.57,
-      "changePercent": 2.838,
+      "price": 19.67,
+      "changePercent": 3.365,
       "previousClose": 18.44,
       "currency": "USD",
       "history": [
@@ -116,12 +116,36 @@
         17.309999465942383,
         16.68000030517578,
         19.030000686645508,
-        19.56999969482422
+        19.670000076293945
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "대한항공서 예약번호 등 개인정보 유출",
+      "link": "https://www.hankyung.com/article/2026102320511",
+      "pubDate": "Sat, 24 Oct 2026 00:36:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 투자 불안에 국채 급등…메타 증자·스페이스X 통신 진출 주목[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610242083i",
+      "pubDate": "Sat, 24 Oct 2026 00:21:09 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[반론보도]「가덕도 신공항, 안전 우려에도 졸속 통과」 등 관련",
+      "link": "https://www.hankyung.com/article/202610232040i",
+      "pubDate": "Fri, 23 Oct 2026 22:17:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"2000원짜리 커피가 왜 이래?\"…어쩐지 맛 다르더니 '화들짝'",
+      "link": "https://www.hankyung.com/article/202610231141g",
+      "pubDate": "Fri, 23 Oct 2026 21:00:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
@@ -136,7 +160,7 @@
     },
     {
       "source": "한국경제",
-      "title": "[단독] 해외 법인 4457개 세울 때…'유턴' 기업은 14곳뿐 [K갈라파고스: 족쇄의 세계]",
+      "title": "[단독] \"돈 줘도 안 돌아가요\"…역대급 '탈한국' 무슨 일이 [K갈라파고스: 족쇄의 세계]",
       "link": "https://www.hankyung.com/article/202610204124H",
       "pubDate": "Fri, 23 Oct 2026 19:32:01 +0900"
     },
@@ -187,30 +211,6 @@
       "title": "UAE서 귀국 직후 父 선영으로 달려간 이재용 회장",
       "link": "https://www.hankyung.com/article/2026102317441",
       "pubDate": "Fri, 23 Oct 2026 18:06:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 저커버그·빈 살만도 다녀갔다…VIP 홀린 '비밀 공간'",
-      "link": "https://www.hankyung.com/article/2026102318371",
-      "pubDate": "Fri, 23 Oct 2026 18:06:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "사모대출? 증자?…하이닉스, 美 낸드공장 자금줄 새로 찾는다",
-      "link": "https://www.hankyung.com/article/2026102318411",
-      "pubDate": "Fri, 23 Oct 2026 18:02:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261023154600011",
-      "pubDate": "Fri, 23 Oct 2026 18:00:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "고물가에 뜬 트레이더스, 9월 카드 결제액 사상 최대",
-      "link": "https://www.hankyung.com/article/2026102317771",
-      "pubDate": "Fri, 23 Oct 2026 17:59:13 +0900"
     }
   ]
 }
