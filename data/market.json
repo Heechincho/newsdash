@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:24:51.867Z",
+  "updatedAt": "2026-10-23T23:21:09.159Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.48,
-      "changePercent": 4.031,
+      "price": 103.44,
+      "changePercent": 3.991,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
-        103.4800033569336
+        103.44000244140625
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.808,
-      "changePercent": 0.198,
+      "price": 101.752,
+      "changePercent": 0.143,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
-        101.80799865722656
+        101.75199890136719
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.66,
-      "changePercent": 3.307,
+      "price": 19.45,
+      "changePercent": 2.207,
       "previousClose": 18.44,
       "currency": "USD",
       "history": [
@@ -116,12 +116,78 @@
         17.309999465942383,
         16.68000030517578,
         19.030000686645508,
-        19.65999984741211
+        19.450000762939453
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "채권의 귀환...월가 기관들의 투자 전략은[박신영의 월가 아나토미]",
+      "link": "https://www.hankyung.com/article/202610242220i",
+      "pubDate": "Sat, 24 Oct 2026 08:07:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "위고비·마운자로 맞고 부작용…'살 빠지는 유산균' 대박 났다 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610217195i",
+      "pubDate": "Sat, 24 Oct 2026 08:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
+      "link": "https://www.yna.co.kr/view/AKR20261023161100062",
+      "pubDate": "Sat, 24 Oct 2026 08:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 중간선거 후 이란 공습설에…유가 117달러 뚫었다",
+      "link": "https://www.hankyung.com/article/2026102421587",
+      "pubDate": "Sat, 24 Oct 2026 07:21:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
+      "link": "https://www.yna.co.kr/view/AKR20261023120500053",
+      "pubDate": "Sat, 24 Oct 2026 07:11:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1천800원대",
+      "link": "https://www.yna.co.kr/view/AKR20261023102900003",
+      "pubDate": "Sat, 24 Oct 2026 07:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"달콤함 그대로, 당은 빼고\"…식품업계, 과자·음료 '저당' 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261023151900030",
+      "pubDate": "Sat, 24 Oct 2026 07:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[위클리 건강] '0칼로리' 믿고 마셨는데…당뇨병부터 뇌 건강까지 '경고등'",
+      "link": "https://www.yna.co.kr/view/AKR20261023083600530",
+      "pubDate": "Sat, 24 Oct 2026 07:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
+      "link": "https://www.yna.co.kr/view/AKR20261023160000030",
+      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"태국서만 月 1억씩 번다\"…전세계서 난리 난 한국 식당 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610217150i",
+      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
+      "link": "https://www.yna.co.kr/view/AKR20261023165700003",
+      "pubDate": "Sat, 24 Oct 2026 06:05:00 +0900"
+    },
     {
       "source": "한국경제",
       "title": "대한항공서 예약번호 등 개인정보 유출",
@@ -136,7 +202,7 @@
     },
     {
       "source": "한국경제",
-      "title": "[반론보도]「가덕도 신공항, 안전 우려에도 졸속 통과」 등 관련",
+      "title": "[반론보도] '가덕도 신공항, 안전 우려에도 졸속 통과' 등 관련",
       "link": "https://www.hankyung.com/article/202610232040i",
       "pubDate": "Fri, 23 Oct 2026 22:17:24 +0900"
     },
@@ -145,72 +211,6 @@
       "title": "\"2000원짜리 커피가 왜 이래?\"…어쩐지 맛 다르더니 '화들짝'",
       "link": "https://www.hankyung.com/article/202610231141g",
       "pubDate": "Fri, 23 Oct 2026 21:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023181200003",
-      "pubDate": "Fri, 23 Oct 2026 20:39:20 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "JP모건, 국내 소부장 기업 4곳 지분 5% 이상 보유",
-      "link": "https://www.yna.co.kr/view/AKR20261023179900008",
-      "pubDate": "Fri, 23 Oct 2026 20:21:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] \"돈 줘도 안 돌아가요\"…역대급 '탈한국' 무슨 일이 [K갈라파고스: 족쇄의 세계]",
-      "link": "https://www.hankyung.com/article/202610204124H",
-      "pubDate": "Fri, 23 Oct 2026 19:32:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "“1%만 알던 에이전시, 이제는 대중이 느끼는 콘텐츠 인큐베이터로”",
-      "link": "https://www.hankyung.com/article/202610231424i",
-      "pubDate": "Fri, 23 Oct 2026 18:23:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "알티캐스트 \"알티모빌리티 주식 65억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023169600008",
-      "pubDate": "Fri, 23 Oct 2026 18:20:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "경영 전면 나선 정용진, 핵심 사업 직접 챙긴다",
-      "link": "https://www.hankyung.com/article/2026102318211",
-      "pubDate": "Fri, 23 Oct 2026 18:13:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"2029년 美 신규 조선소 가동\"…'HD키윗조선' 합작법인 출범",
-      "link": "https://www.hankyung.com/article/2026102318171",
-      "pubDate": "Fri, 23 Oct 2026 18:12:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경제계 \"초광역특구 추진 환영\"…신속한 입법 요구",
-      "link": "https://www.yna.co.kr/view/AKR20261023167000003",
-      "pubDate": "Fri, 23 Oct 2026 18:11:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "하나·우리금융, 3분기 순이익 1조 돌파",
-      "link": "https://www.hankyung.com/article/2026102318241",
-      "pubDate": "Fri, 23 Oct 2026 18:11:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "허태수 \"일하는 방식 원점부터 혁신\"",
-      "link": "https://www.hankyung.com/article/2026102318231",
-      "pubDate": "Fri, 23 Oct 2026 18:09:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "UAE서 귀국 직후 父 선영으로 달려간 이재용 회장",
-      "link": "https://www.hankyung.com/article/2026102317441",
-      "pubDate": "Fri, 23 Oct 2026 18:06:37 +0900"
     }
   ]
 }
