@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:19:16.477Z",
+  "updatedAt": "2026-10-23T01:40:37.540Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 99.04,
-      "changePercent": -0.432,
+      "price": 99.86,
+      "changePercent": 0.392,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
         103.66000366210938,
         101.79000091552734,
         97.1500015258789,
-        99.04000091552734
+        99.86000061035156
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4041,
-      "changePercent": -0.478,
+      "price": 4028.8,
+      "changePercent": -0.778,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
         4160.10009765625,
         4142.60009765625,
         4150,
-        4041
+        4028.800048828125
       ],
       "ok": true
     },
@@ -88,15 +88,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.617,
-      "changePercent": 0.01,
+      "price": 101.565,
+      "changePercent": -0.041,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
         101.9800033569336,
         101.7300033569336,
         101.77999877929688,
-        101.61699676513672
+        101.61000061035156,
+        101.56500244140625
       ],
       "ok": true
     },
@@ -121,93 +122,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "전재수, 미셸 박 스틸 주한미국대사 접견…\"교류 협력 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023019800051",
-      "pubDate": "Fri, 23 Oct 2026 08:02:58 +0900"
+      "title": "종로구 \"창신 9·10구역 동의서 징구과정에 위법\"…재징구 요구",
+      "link": "https://www.yna.co.kr/view/AKR20261023064000004",
+      "pubDate": "Fri, 23 Oct 2026 10:34:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261023014400011",
-      "pubDate": "Fri, 23 Oct 2026 07:30:00 +0900"
+      "title": "인천시, '글로벌 신약 허브' 선포…\"세계 1위 바이오 도시 실현\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023054800065",
+      "pubDate": "Fri, 23 Oct 2026 10:31:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261023058400011",
+      "pubDate": "Fri, 23 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한증권, 네이버페이증권 간편주문 고객에 최대 80만원 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20261023062000008",
+      "pubDate": "Fri, 23 Oct 2026 10:27:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] IBK기업은행 'I-포켓몬 신용카드' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261023061800002",
+      "pubDate": "Fri, 23 Oct 2026 10:26:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이명화 STEPI 본부장, OECD 과학기술정책위원회 부의장 선출",
+      "link": "https://www.yna.co.kr/view/AKR20261023055200017",
+      "pubDate": "Fri, 23 Oct 2026 10:21:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 북구, 공무직 채용서 6순위 지원자에 부당한 가점 줘 합격",
+      "link": "https://www.yna.co.kr/view/AKR20261023054600051",
+      "pubDate": "Fri, 23 Oct 2026 10:21:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "SK에코플랜트, 용인 백암초에 AI 스마트 횡단보도 조성",
+      "link": "https://www.yna.co.kr/view/AKR20261023059900003",
+      "pubDate": "Fri, 23 Oct 2026 10:20:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "핀다저축은행 초대 대표에 박연현 전 토스뱅크 부문장",
+      "link": "https://www.yna.co.kr/view/AKR20261023057600002",
+      "pubDate": "Fri, 23 Oct 2026 10:20:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융당국, 여전사 렌탈업 한도 푼다…부동산 대출한도규제 강화",
+      "link": "https://www.yna.co.kr/view/AKR20261023055400002",
+      "pubDate": "Fri, 23 Oct 2026 10:19:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한올바이오파마, 기술수출 신약 '바토클리맙' 중국서 허가",
+      "link": "https://www.yna.co.kr/view/AKR20261023052700017",
+      "pubDate": "Fri, 23 Oct 2026 10:17:39 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "인구구조 변화와 일자리…경사노위, 시민 100명과 1박2일 숙의",
+      "link": "https://www.yna.co.kr/view/AKR20261023058900530",
+      "pubDate": "Fri, 23 Oct 2026 10:16:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국제유류오염보상기금 합동감사기구 위원에 최성용씨 선출",
+      "link": "https://www.yna.co.kr/view/AKR20261023055300051",
+      "pubDate": "Fri, 23 Oct 2026 10:13:19 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "인테그리스코리아, 안산시 '1호 투자유치기업'…보조금 5억원",
+      "link": "https://www.yna.co.kr/view/AKR20261023055500061",
+      "pubDate": "Fri, 23 Oct 2026 10:04:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202610228609g",
-      "pubDate": "Fri, 23 Oct 2026 07:09:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
-      "link": "https://www.yna.co.kr/view/AKR20261022169100008",
-      "pubDate": "Fri, 23 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-      "link": "https://www.yna.co.kr/view/AKR20261023009000072",
-      "pubDate": "Fri, 23 Oct 2026 06:14:56 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
-      "link": "https://www.hankyung.com/article/202610239852i",
-      "pubDate": "Fri, 23 Oct 2026 06:14:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "폴리텍대, 직업훈련 예산으로 홍보비 펑펑…텀블러 등 사재기도",
-      "link": "https://www.yna.co.kr/view/AKR20261022160400530",
-      "pubDate": "Fri, 23 Oct 2026 06:01:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "집주인 된 미성년자 작년의 1.8배…매수금 절반 이상 '본인 돈'",
-      "link": "https://www.yna.co.kr/view/AKR20261022172200003",
-      "pubDate": "Fri, 23 Oct 2026 06:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"40년간 120억장 팔려\"…세계 간식시장 위협하는 '국민 밥도둑' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610229752i",
-      "pubDate": "Fri, 23 Oct 2026 06:00:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울시설공단, 공사감독 AI 플랫폼 개발…전국 시공사에 개방",
-      "link": "https://www.yna.co.kr/view/AKR20261022155700004",
-      "pubDate": "Fri, 23 Oct 2026 06:00:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
-      "link": "https://www.hankyung.com/article/2026102298171",
-      "pubDate": "Fri, 23 Oct 2026 06:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농식품부, 농업·농촌형 예비사회적기업 7곳 신규 지정",
-      "link": "https://www.yna.co.kr/view/AKR20261022153600030",
-      "pubDate": "Fri, 23 Oct 2026 06:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한일, AI·로봇 등 미래산업 협력 확대…대구서 경제교류회의",
-      "link": "https://www.yna.co.kr/view/AKR20261022182900003",
-      "pubDate": "Fri, 23 Oct 2026 06:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"아이폰 떨어뜨렸다간 월급 반토막\"…갤럭시와 비교했더니 '깜짝'",
-      "link": "https://www.hankyung.com/article/202610229553g",
-      "pubDate": "Fri, 23 Oct 2026 06:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "8월 은행 대출 연체율 9년 10개월만에 최고…0.7% 육박",
-      "link": "https://www.yna.co.kr/view/AKR20261022191400002",
-      "pubDate": "Fri, 23 Oct 2026 06:00:02 +0900"
+      "title": "입에 넣자마자 \"역대급이네\"…마트 떡볶이의 반전 [권 기자의 내돈내산]",
+      "link": "https://www.hankyung.com/article/202610204354i",
+      "pubDate": "Fri, 23 Oct 2026 10:04:10 +0900"
     }
   ]
 }
