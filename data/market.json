@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:34:21.033Z",
+  "updatedAt": "2026-10-23T12:05:10.756Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.88,
-      "changePercent": 1.418,
+      "price": 100.72,
+      "changePercent": 1.257,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
-        100.87999725341797
+        100.72000122070312
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4032.9,
-      "changePercent": -0.677,
+      "price": 4039.2,
+      "changePercent": -0.522,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4142.60009765625,
         4150,
         4060.39990234375,
-        4032.89990234375
+        4039.199951171875
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.664,
-      "changePercent": 0.056,
+      "price": 101.826,
+      "changePercent": 0.216,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
-        101.66400146484375
+        101.82599639892578
       ],
       "ok": true
     },
@@ -107,16 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.03,
-      "changePercent": 14.089,
-      "previousClose": 19.99,
+      "price": 19.57,
+      "changePercent": 2.838,
+      "previousClose": 18.44,
       "currency": "USD",
       "history": [
-        19.989999771118164,
         18.440000534057617,
         17.309999465942383,
         16.68000030517578,
-        19.030000686645508
+        19.030000686645508,
+        19.56999969482422
       ],
       "ok": true
     }
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[인사] 관세청",
-      "link": "https://www.yna.co.kr/view/AKR20261023124700002",
-      "pubDate": "Fri, 23 Oct 2026 15:16:10 +0900"
+      "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023181200003",
+      "pubDate": "Fri, 23 Oct 2026 20:39:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "호남·TK 등 종합보세구역 추진…반도체·로봇·AI 규제혁신",
-      "link": "https://www.yna.co.kr/view/AKR20261023123800002",
-      "pubDate": "Fri, 23 Oct 2026 15:15:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산은행, 전 금감원 부원장 초청 금융소비자 보호 특강",
-      "link": "https://www.yna.co.kr/view/AKR20261023121800051",
-      "pubDate": "Fri, 23 Oct 2026 15:15:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "충북도·청주시, 한솔아이원스와 1천560억원 규모 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20261023124000064",
-      "pubDate": "Fri, 23 Oct 2026 15:14:19 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20261023124400002",
-      "pubDate": "Fri, 23 Oct 2026 15:13:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"최고가격제, 휘발유값 최대 239원 억제…출구전략도 설계해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023117500003",
-      "pubDate": "Fri, 23 Oct 2026 15:10:04 +0900"
+      "title": "JP모건, 국내 소부장 기업 4곳 지분 5% 이상 보유",
+      "link": "https://www.yna.co.kr/view/AKR20261023179900008",
+      "pubDate": "Fri, 23 Oct 2026 20:21:46 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독]정지선·FG의 '하이디라오 대항마', 서울 아닌 부산에 1호점 낸다",
-      "link": "https://www.hankyung.com/article/202610230513i",
-      "pubDate": "Fri, 23 Oct 2026 15:08:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신현송 \"고성장·고금리 상황에 대비해 정책 펴겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023121900002",
-      "pubDate": "Fri, 23 Oct 2026 15:08:08 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국항공대·경상국립대, 우주 항공·방산 인재 양성 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261023121300060",
-      "pubDate": "Fri, 23 Oct 2026 15:07:41 +0900"
+      "title": "[단독] 해외 법인 4457개 세울 때…'유턴' 기업은 14곳뿐 [K갈라파고스: 족쇄의 세계]",
+      "link": "https://www.hankyung.com/article/202610204124H",
+      "pubDate": "Fri, 23 Oct 2026 19:32:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "첫날부터 300명 넘게 줄섰다…청량리, 新 MZ 성지 될까 [현장+]",
-      "link": "https://www.hankyung.com/article/202610231175g",
-      "pubDate": "Fri, 23 Oct 2026 15:03:36 +0900"
+      "title": "“1%만 알던 에이전시, 이제는 대중이 느끼는 콘텐츠 인큐베이터로”",
+      "link": "https://www.hankyung.com/article/202610231424i",
+      "pubDate": "Fri, 23 Oct 2026 18:23:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "알티캐스트 \"알티모빌리티 주식 65억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023169600008",
+      "pubDate": "Fri, 23 Oct 2026 18:20:37 +0900"
     },
     {
       "source": "한국경제",
-      "title": "사재 털어 반도체 투자하고, 500억 불량품 불태웠다…이건희가 만든 '세계 1위'",
-      "link": "https://www.hankyung.com/article/202610230901g",
-      "pubDate": "Fri, 23 Oct 2026 15:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인천공항세관·하청노조, 원·하청 교섭 마무리…단체협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261023116400065",
-      "pubDate": "Fri, 23 Oct 2026 14:59:29 +0900"
+      "title": "경영 전면 나선 정용진, 핵심 사업 직접 챙긴다",
+      "link": "https://www.hankyung.com/article/2026102318211",
+      "pubDate": "Fri, 23 Oct 2026 18:13:15 +0900"
     },
     {
       "source": "한국경제",
-      "title": "해가 져도 11시간 발전…中, 태양열 발전 7배 확대 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610231272i",
-      "pubDate": "Fri, 23 Oct 2026 14:58:39 +0900"
+      "title": "\"2029년 美 신규 조선소 가동\"…'HD키윗조선' 합작법인 출범",
+      "link": "https://www.hankyung.com/article/2026102318171",
+      "pubDate": "Fri, 23 Oct 2026 18:12:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한미양행, 남원에 191억 투자해 화장품·건강식품 생산공장 건립",
-      "link": "https://www.yna.co.kr/view/AKR20261023114900055",
-      "pubDate": "Fri, 23 Oct 2026 14:51:01 +0900"
+      "title": "경제계 \"초광역특구 추진 환영\"…신속한 입법 요구",
+      "link": "https://www.yna.co.kr/view/AKR20261023167000003",
+      "pubDate": "Fri, 23 Oct 2026 18:11:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "하나·우리금융, 3분기 순이익 1조 돌파",
+      "link": "https://www.hankyung.com/article/2026102318241",
+      "pubDate": "Fri, 23 Oct 2026 18:11:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "허태수 \"일하는 방식 원점부터 혁신\"",
+      "link": "https://www.hankyung.com/article/2026102318231",
+      "pubDate": "Fri, 23 Oct 2026 18:09:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "UAE서 귀국 직후 父 선영으로 달려간 이재용 회장",
+      "link": "https://www.hankyung.com/article/2026102317441",
+      "pubDate": "Fri, 23 Oct 2026 18:06:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 저커버그·빈 살만도 다녀갔다…VIP 홀린 '비밀 공간'",
+      "link": "https://www.hankyung.com/article/2026102318371",
+      "pubDate": "Fri, 23 Oct 2026 18:06:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "사모대출? 증자?…하이닉스, 美 낸드공장 자금줄 새로 찾는다",
+      "link": "https://www.hankyung.com/article/2026102318411",
+      "pubDate": "Fri, 23 Oct 2026 18:02:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[해남소식] 산이농협 박준홍 상무, 베스트 캠페인 전국2위",
-      "link": "https://www.yna.co.kr/view/AKR20261023115100054",
-      "pubDate": "Fri, 23 Oct 2026 14:48:56 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261023154600011",
+      "pubDate": "Fri, 23 Oct 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "고물가에 뜬 트레이더스, 9월 카드 결제액 사상 최대",
+      "link": "https://www.hankyung.com/article/2026102317771",
+      "pubDate": "Fri, 23 Oct 2026 17:59:13 +0900"
     }
   ]
 }
