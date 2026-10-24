@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:23:20.751Z",
+  "updatedAt": "2026-10-24T21:05:19.405Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,54 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "'너도나도 1천억' 은행 보안투자 경쟁…PHP 대응도 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261024041000002",
+      "pubDate": "Sun, 25 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "단기 일자리 31년만에 최소…건설·내수 부진에 4050 충격",
+      "link": "https://www.yna.co.kr/view/AKR20261024041800002",
+      "pubDate": "Sun, 25 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "스페이스X 0주 사태에 책무구조도 적용할까…임원 책임규명 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261024049800002",
+      "pubDate": "Sun, 25 Oct 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
+      "link": "https://www.yna.co.kr/view/AKR20261024042900002",
+      "pubDate": "Sun, 25 Oct 2026 05:49:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"가업상속공제 한도 확대는 역진적…출산지원금 재원도 불안\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024040200002",
+      "pubDate": "Sun, 25 Oct 2026 05:47:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "재경위 \"주택 종부세율 올리면 임차인에 稅부담 전가 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024040700002",
+      "pubDate": "Sun, 25 Oct 2026 05:47:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
+      "link": "https://www.yna.co.kr/view/AKR20261024050300002",
+      "pubDate": "Sun, 25 Oct 2026 05:45:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261024035400003",
+      "pubDate": "Sun, 25 Oct 2026 05:31:10 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담",
       "link": "https://www.hankyung.com/article/202610242653i",
@@ -163,54 +211,6 @@
       "title": "비트코인 과세, 이번에는 정말 할까? [고인선의 택스인사이트]",
       "link": "https://www.hankyung.com/article/202610230712i",
       "pubDate": "Sat, 24 Oct 2026 16:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "5060 돈 쓰러 '우르르'…320억 잭팟 터진 '이 상품' 뭐길래 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610217202i",
-      "pubDate": "Sat, 24 Oct 2026 15:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261024031200003",
-      "pubDate": "Sat, 24 Oct 2026 13:53:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "日 '치이카와' 200만 관객 돌파…극장·유통가 휩쓴 '먼작귀'",
-      "link": "https://www.hankyung.com/article/2026102423937",
-      "pubDate": "Sat, 24 Oct 2026 13:28:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'사진 3장에 157억 터졌다'…디올이 지수 모셔가는 이유 [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202610231282g",
-      "pubDate": "Sat, 24 Oct 2026 13:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상 압박 커진다",
-      "link": "https://www.hankyung.com/article/2026102423667",
-      "pubDate": "Sat, 24 Oct 2026 12:09:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "붕어빵 사장님 '광명 차은우'…\"연예인 안 해\" 단호박 행보",
-      "link": "https://www.hankyung.com/article/2026102423707",
-      "pubDate": "Sat, 24 Oct 2026 11:40:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261023146400062",
-      "pubDate": "Sat, 24 Oct 2026 11:10:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261024020700011",
-      "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
     }
   ]
 }
