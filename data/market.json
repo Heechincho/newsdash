@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T01:51:13.102Z",
+  "updatedAt": "2026-10-24T06:59:31.016Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26424.8203125,
         26702.859375,
         26008.859375,
-        25955.341796875
+        25955.33984375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.44,
-      "changePercent": 3.991,
+      "price": 103.27,
+      "changePercent": 3.82,
       "previousClose": 103.66,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
-        103.44000244140625
+        103.2699966430664
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4010,
-      "changePercent": -1.241,
+      "price": 4007.9,
+      "changePercent": -1.293,
       "previousClose": 4160.1,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4142.60009765625,
         4150,
         4060.39990234375,
-        4010
+        4007.89990234375
       ],
       "ok": true
     },
@@ -99,7 +99,7 @@
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
-        101.75199890136719
+        101.80999755859375
       ],
       "ok": true
     },
@@ -123,16 +123,52 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"엄마들이 보자마자 쓸어갔다\"…300억 잭팟 터진 '이 상품' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610217202i",
+      "pubDate": "Sat, 24 Oct 2026 15:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주",
+      "link": "https://www.yna.co.kr/view/AKR20261024031200003",
+      "pubDate": "Sat, 24 Oct 2026 13:53:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "日 '치이카와' 200만 관객 돌파…극장·유통가 휩쓴 '먼작귀'",
+      "link": "https://www.hankyung.com/article/2026102423937",
+      "pubDate": "Sat, 24 Oct 2026 13:28:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'사진 3장에 157억 터졌다'…디올이 지수 모셔가는 이유 [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202610231282g",
+      "pubDate": "Sat, 24 Oct 2026 13:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한전, 사채 한도 19조 초과 위기…전기요금 인상 압박 커진다",
+      "link": "https://www.hankyung.com/article/2026102423667",
+      "pubDate": "Sat, 24 Oct 2026 12:09:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "붕어빵 사장님 '광명 차은우'…\"연예인 안 해\" 단호박 행보",
+      "link": "https://www.hankyung.com/article/2026102423707",
+      "pubDate": "Sat, 24 Oct 2026 11:40:38 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261023146400062",
+      "pubDate": "Sat, 24 Oct 2026 11:10:00 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261024020700011",
       "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"커피 안 사면 앉지 마세요\"…中 스타벅스, 무료 좌석 퇴출 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610229586i",
-      "pubDate": "Sat, 24 Oct 2026 10:04:01 +0900"
     },
     {
       "source": "연합뉴스",
@@ -175,42 +211,6 @@
       "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
       "link": "https://www.yna.co.kr/view/AKR20261023161100062",
       "pubDate": "Sat, 24 Oct 2026 08:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 중간선거 후 이란 공습설에…유가 117달러 뚫었다",
-      "link": "https://www.hankyung.com/article/2026102421587",
-      "pubDate": "Sat, 24 Oct 2026 07:21:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-      "link": "https://www.yna.co.kr/view/AKR20261023120500053",
-      "pubDate": "Sat, 24 Oct 2026 07:11:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1천800원대",
-      "link": "https://www.yna.co.kr/view/AKR20261023102900003",
-      "pubDate": "Sat, 24 Oct 2026 07:01:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"달콤함 그대로, 당은 빼고\"…식품업계, 과자·음료 '저당' 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20261023151900030",
-      "pubDate": "Sat, 24 Oct 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[위클리 건강] '0칼로리' 믿고 마셨는데…당뇨병부터 뇌 건강까지 '경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261023083600530",
-      "pubDate": "Sat, 24 Oct 2026 07:00:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
-      "link": "https://www.yna.co.kr/view/AKR20261023160000030",
-      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
     }
   ]
 }
