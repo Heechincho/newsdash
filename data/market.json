@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T06:59:31.016Z",
+  "updatedAt": "2026-10-24T11:56:51.024Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,7 +124,49 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "\"엄마들이 보자마자 쓸어갔다\"…300억 잭팟 터진 '이 상품' [권용훈의 트렌드워치]",
+      "title": "김정은, '中 서열 4위' 왕후닝 만났다…북·중 경협 본격화",
+      "link": "https://www.hankyung.com/article/202610242653i",
+      "pubDate": "Sat, 24 Oct 2026 20:24:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"이건 꼭 봐야 해\" 엄마 아빠도 줄 섰다…핫플 된 의외의 동네 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202610231399i",
+      "pubDate": "Sat, 24 Oct 2026 20:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"일본도 중국도 건너뛰었다\"…한국인 입맛 잡으러 온 외식 공룡 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610204406i",
+      "pubDate": "Sat, 24 Oct 2026 20:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'쫄깃·탱탱' 회, 불티나게 팔렸다…25년 횟집에 무슨 일이",
+      "link": "https://www.hankyung.com/article/202610229019g",
+      "pubDate": "Sat, 24 Oct 2026 19:34:20 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261024031251003",
+      "pubDate": "Sat, 24 Oct 2026 17:20:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'사망설' 김정은, 전격 방중…APEC 앞두고 북·중 밀착 과시 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610242504i",
+      "pubDate": "Sat, 24 Oct 2026 16:22:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "비트코인 과세, 이번에는 정말 할까? [고인선의 택스인사이트]",
+      "link": "https://www.hankyung.com/article/202610230712i",
+      "pubDate": "Sat, 24 Oct 2026 16:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "5060 돈 쓰러 '우르르'…320억 잭팟 터진 '이 상품' 뭐길래 [권용훈의 트렌드워치]",
       "link": "https://www.hankyung.com/article/202610217202i",
       "pubDate": "Sat, 24 Oct 2026 15:00:01 +0900"
     },
@@ -169,48 +211,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261024020700011",
       "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[바이오사이언스] 월 1회 주사에 먹는 약까지…진화하는 K비만치료제",
-      "link": "https://www.yna.co.kr/view/AKR20261023139600017",
-      "pubDate": "Sat, 24 Oct 2026 10:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20261023183500002",
-      "pubDate": "Sat, 24 Oct 2026 09:21:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "가성비 전기차의 반란…후발주자 리프모터의 역습",
-      "link": "https://www.hankyung.com/article/202609206193i",
-      "pubDate": "Sat, 24 Oct 2026 09:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023177600002",
-      "pubDate": "Sat, 24 Oct 2026 09:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "채권의 귀환…월가 기관들의 투자 전략은 [박신영의 월가 아나토미]",
-      "link": "https://www.hankyung.com/article/202610242220i",
-      "pubDate": "Sat, 24 Oct 2026 08:07:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "위고비·마운자로 맞고 부작용…'살 빠지는 유산균' 대박 났다 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610217195i",
-      "pubDate": "Sat, 24 Oct 2026 08:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
-      "link": "https://www.yna.co.kr/view/AKR20261023161100062",
-      "pubDate": "Sat, 24 Oct 2026 08:00:01 +0900"
     }
   ]
 }
