@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:21:09.159Z",
+  "updatedAt": "2026-10-24T01:51:13.102Z",
   "instruments": [
     {
       "key": "sp500",
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 101.752,
-      "changePercent": 0.143,
+      "changePercent": -0.057,
       "previousClose": 101.98,
       "currency": "USD",
       "history": [
@@ -123,8 +123,44 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261024020700011",
+      "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "채권의 귀환...월가 기관들의 투자 전략은[박신영의 월가 아나토미]",
+      "title": "\"커피 안 사면 앉지 마세요\"…中 스타벅스, 무료 좌석 퇴출 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610229586i",
+      "pubDate": "Sat, 24 Oct 2026 10:04:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[바이오사이언스] 월 1회 주사에 먹는 약까지…진화하는 K비만치료제",
+      "link": "https://www.yna.co.kr/view/AKR20261023139600017",
+      "pubDate": "Sat, 24 Oct 2026 10:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261023183500002",
+      "pubDate": "Sat, 24 Oct 2026 09:21:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "가성비 전기차의 반란…후발주자 리프모터의 역습",
+      "link": "https://www.hankyung.com/article/202609206193i",
+      "pubDate": "Sat, 24 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023177600002",
+      "pubDate": "Sat, 24 Oct 2026 09:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "채권의 귀환…월가 기관들의 투자 전략은 [박신영의 월가 아나토미]",
       "link": "https://www.hankyung.com/article/202610242220i",
       "pubDate": "Sat, 24 Oct 2026 08:07:55 +0900"
     },
@@ -175,42 +211,6 @@
       "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
       "link": "https://www.yna.co.kr/view/AKR20261023160000030",
       "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"태국서만 月 1억씩 번다\"…전세계서 난리 난 한국 식당 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610217150i",
-      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
-      "link": "https://www.yna.co.kr/view/AKR20261023165700003",
-      "pubDate": "Sat, 24 Oct 2026 06:05:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "대한항공서 예약번호 등 개인정보 유출",
-      "link": "https://www.hankyung.com/article/2026102320511",
-      "pubDate": "Sat, 24 Oct 2026 00:36:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 투자 불안에 국채 급등…메타 증자·스페이스X 통신 진출 주목[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202610242083i",
-      "pubDate": "Sat, 24 Oct 2026 00:21:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[반론보도] '가덕도 신공항, 안전 우려에도 졸속 통과' 등 관련",
-      "link": "https://www.hankyung.com/article/202610232040i",
-      "pubDate": "Fri, 23 Oct 2026 22:17:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"2000원짜리 커피가 왜 이래?\"…어쩐지 맛 다르더니 '화들짝'",
-      "link": "https://www.hankyung.com/article/202610231141g",
-      "pubDate": "Fri, 23 Oct 2026 21:00:03 +0900"
     }
   ]
 }
