@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:08:46.160Z",
+  "updatedAt": "2026-10-25T01:10:00.132Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "대선조선, 3년 만에 워크아웃 졸업…SB대선으로 새 출발",
-      "link": "https://www.yna.co.kr/view/AKR20261024043200002",
-      "pubDate": "Sun, 25 Oct 2026 08:00:01 +0900"
+      "title": "\"대신 갚아\" 조카 돈 안갚는 채무자 모친 위협…40대 벌금형",
+      "link": "https://www.yna.co.kr/view/AKR20261023070500064",
+      "pubDate": "Sun, 25 Oct 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "민간 우주로켓 보험금 첫 고시 추진…한빛-나노 최대 238억원",
-      "link": "https://www.yna.co.kr/view/AKR20261023153000017",
-      "pubDate": "Sun, 25 Oct 2026 07:33:01 +0900"
+      "title": "LG전자, 독일 세탁솔루션 기업 '쉴링'에 상업용 세탁가전 공급",
+      "link": "https://www.yna.co.kr/view/AKR20261025010000003",
+      "pubDate": "Sun, 25 Oct 2026 10:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 이랜드뮤지엄, 대구서 '위대한 농구선수 75인전' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261025013700030",
+      "pubDate": "Sun, 25 Oct 2026 09:45:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신약 강국으로 떠오른 중국…기술수출 200조원 돌파 눈앞",
+      "link": "https://www.yna.co.kr/view/AKR20261023146900017",
+      "pubDate": "Sun, 25 Oct 2026 09:45:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "다이소도 아닌데 '프라이팬 5천원, 에프 1만원'…이마트, 단단히 별렀다 [박수림의 요즘 여기]",
-      "link": "https://www.hankyung.com/article/202610231857g",
-      "pubDate": "Sun, 25 Oct 2026 07:30:01 +0900"
+      "title": "한국 경상흑자, '제조업 강국' 독일·일본 합계 사상 첫 추월",
+      "link": "https://www.hankyung.com/article/2026102529767",
+      "pubDate": "Sun, 25 Oct 2026 09:39:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "석유·가스 상시 수급불안…\"저비용 넘어 공급 회복력 확보해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023120200003",
-      "pubDate": "Sun, 25 Oct 2026 07:21:01 +0900"
+      "title": "CU \"이동약자 도움벨 QR 서비스 5개월간 3천건 이용\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025013300030",
+      "pubDate": "Sun, 25 Oct 2026 09:33:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[머니톡스] '호미질'의 미학…파국을 막는 정공법",
-      "link": "https://www.yna.co.kr/view/AKR20261023093000546",
-      "pubDate": "Sun, 25 Oct 2026 07:07:00 +0900"
+      "title": "[AI위클리] 수술 일정 짜고 순찰도 돈다…AI의 진화 어디까지",
+      "link": "https://www.yna.co.kr/view/AKR20261023057700017",
+      "pubDate": "Sun, 25 Oct 2026 09:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주병기 \"조사 거부 때 과징금 '전체 매출의 1%' 정도로 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025012300002",
+      "pubDate": "Sun, 25 Oct 2026 09:22:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'강남 1호' 재건축초과이익 부담금 연내 부과 예고…시장 긴장",
+      "link": "https://www.yna.co.kr/view/AKR20261025010700003",
+      "pubDate": "Sun, 25 Oct 2026 09:03:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "독일·호주서 교육 실습…경남교육청, 직업계고 해외인턴십 운영",
+      "link": "https://www.yna.co.kr/view/AKR20261023146200052",
+      "pubDate": "Sun, 25 Oct 2026 09:03:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "팀코리아, 라오스에 '홍수 예측·태풍 감시' 종합상황실 개소",
+      "link": "https://www.yna.co.kr/view/AKR20261023164000371",
+      "pubDate": "Sun, 25 Oct 2026 09:00:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"올해 크리스마스는 10월부터\"…매장마다 트리 켜진 사연 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610217144i",
-      "pubDate": "Sun, 25 Oct 2026 07:00:07 +0900"
+      "title": "알트코인 300개 중 220개 하락…비트코인보다 낙폭 커",
+      "link": "https://www.hankyung.com/article/202610231578i",
+      "pubDate": "Sun, 25 Oct 2026 09:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"닫힌 지갑 열어라\"…유통가, AI·이색 상품으로 연말 승부수",
-      "link": "https://www.yna.co.kr/view/AKR20261024004400030",
-      "pubDate": "Sun, 25 Oct 2026 07:00:00 +0900"
+      "title": "[게시판] 우리금융, 동작구 취약계층 보일러 교체 후원금 3천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261023178200002",
+      "pubDate": "Sun, 25 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"돈 더 벌 줄 알았는데\"…5조 몰린 연금 갈아타기의 '반전' [김연지의 연금빌드업]",
+      "link": "https://www.hankyung.com/article/2026102311016",
+      "pubDate": "Sun, 25 Oct 2026 09:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
-      "link": "https://www.yna.co.kr/view/AKR20261023186900003",
-      "pubDate": "Sun, 25 Oct 2026 06:45:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261024044100003",
-      "pubDate": "Sun, 25 Oct 2026 06:41:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[반려동물] '깐깐해진 집사'에 반려묘 간식·영양제 시장 성장세",
-      "link": "https://www.yna.co.kr/view/AKR20261024027000030",
-      "pubDate": "Sun, 25 Oct 2026 06:35:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "내 주식 주문 어디로 갔나 봤더니…60%는 넥스트레이드로",
-      "link": "https://www.yna.co.kr/view/AKR20261024022500008",
-      "pubDate": "Sun, 25 Oct 2026 06:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "올해 아파트 관리비 '비리 경보' 7천851곳…처분 결과는 '모름'",
-      "link": "https://www.yna.co.kr/view/AKR20261024041400003",
-      "pubDate": "Sun, 25 Oct 2026 06:27:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "상장사 62곳 PBR 개선안 제출 완료…주요 상장사 계획 보니",
-      "link": "https://www.yna.co.kr/view/AKR20261024023600008",
-      "pubDate": "Sun, 25 Oct 2026 06:20:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[만나보니] S2W 김재기 \"AI가 알아서 해킹? 실상은 다르다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023177500017",
-      "pubDate": "Sun, 25 Oct 2026 06:17:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코스피 급락에…10대그룹 시총, 한달새 1천100조원 증발",
-      "link": "https://www.yna.co.kr/view/AKR20261024028000008",
-      "pubDate": "Sun, 25 Oct 2026 06:15:00 +0900"
+      "title": "더벤티, 요르단 암만에 2호점…중동·아시아 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20261025010200030",
+      "pubDate": "Sun, 25 Oct 2026 08:46:05 +0900"
     }
   ]
 }
