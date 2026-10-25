@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T01:10:00.132Z",
+  "updatedAt": "2026-10-25T06:08:59.478Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,10 +58,9 @@
       "symbol": "CL=F",
       "price": 103.27,
       "changePercent": 3.82,
-      "previousClose": 103.66,
+      "previousClose": 101.79,
       "currency": "USD",
       "history": [
-        103.66000366210938,
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 4007.9,
       "changePercent": -1.293,
-      "previousClose": 4160.1,
+      "previousClose": 4142.6,
       "currency": "USD",
       "history": [
-        4160.10009765625,
         4142.60009765625,
         4150,
         4060.39990234375,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 101.752,
       "changePercent": -0.057,
-      "previousClose": 101.98,
+      "previousClose": 101.73,
       "currency": "USD",
       "history": [
-        101.9800033569336,
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "\"대신 갚아\" 조카 돈 안갚는 채무자 모친 위협…40대 벌금형",
-      "link": "https://www.yna.co.kr/view/AKR20261023070500064",
-      "pubDate": "Sun, 25 Oct 2026 10:00:01 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261025028700011",
+      "pubDate": "Sun, 25 Oct 2026 15:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LG전자, 독일 세탁솔루션 기업 '쉴링'에 상업용 세탁가전 공급",
-      "link": "https://www.yna.co.kr/view/AKR20261025010000003",
-      "pubDate": "Sun, 25 Oct 2026 10:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 이랜드뮤지엄, 대구서 '위대한 농구선수 75인전' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261025013700030",
-      "pubDate": "Sun, 25 Oct 2026 09:45:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신약 강국으로 떠오른 중국…기술수출 200조원 돌파 눈앞",
-      "link": "https://www.yna.co.kr/view/AKR20261023146900017",
-      "pubDate": "Sun, 25 Oct 2026 09:45:01 +0900"
+      "title": "\"K-뷰티 도약의 장으로\"…2026 오송화장품뷰티엑스포 성료",
+      "link": "https://www.yna.co.kr/view/AKR20261025029700064",
+      "pubDate": "Sun, 25 Oct 2026 14:40:35 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한국 경상흑자, '제조업 강국' 독일·일본 합계 사상 첫 추월",
-      "link": "https://www.hankyung.com/article/2026102529767",
-      "pubDate": "Sun, 25 Oct 2026 09:39:52 +0900"
+      "title": "\"공무원도 카드값 못 갚는다\"…中 중산층 신용위기 경고등 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610253228i",
+      "pubDate": "Sun, 25 Oct 2026 14:05:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "CU \"이동약자 도움벨 QR 서비스 5개월간 3천건 이용\"",
-      "link": "https://www.yna.co.kr/view/AKR20261025013300030",
-      "pubDate": "Sun, 25 Oct 2026 09:33:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI위클리] 수술 일정 짜고 순찰도 돈다…AI의 진화 어디까지",
-      "link": "https://www.yna.co.kr/view/AKR20261023057700017",
-      "pubDate": "Sun, 25 Oct 2026 09:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주병기 \"조사 거부 때 과징금 '전체 매출의 1%' 정도로 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261025012300002",
-      "pubDate": "Sun, 25 Oct 2026 09:22:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'강남 1호' 재건축초과이익 부담금 연내 부과 예고…시장 긴장",
-      "link": "https://www.yna.co.kr/view/AKR20261025010700003",
-      "pubDate": "Sun, 25 Oct 2026 09:03:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "독일·호주서 교육 실습…경남교육청, 직업계고 해외인턴십 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261023146200052",
-      "pubDate": "Sun, 25 Oct 2026 09:03:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "팀코리아, 라오스에 '홍수 예측·태풍 감시' 종합상황실 개소",
-      "link": "https://www.yna.co.kr/view/AKR20261023164000371",
-      "pubDate": "Sun, 25 Oct 2026 09:00:06 +0900"
+      "title": "박수현 충남지사, 미국서 투자협약·AI 협력망 구축 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261025027600063",
+      "pubDate": "Sun, 25 Oct 2026 13:54:31 +0900"
     },
     {
       "source": "한국경제",
-      "title": "알트코인 300개 중 220개 하락…비트코인보다 낙폭 커",
-      "link": "https://www.hankyung.com/article/202610231578i",
-      "pubDate": "Sun, 25 Oct 2026 09:00:05 +0900"
+      "title": "미국도 중국도 '초긴장'…개미들 피 마르는 '운명의 한 주'",
+      "link": "https://www.hankyung.com/article/202610253076i",
+      "pubDate": "Sun, 25 Oct 2026 13:29:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 우리금융, 동작구 취약계층 보일러 교체 후원금 3천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261023178200002",
-      "pubDate": "Sun, 25 Oct 2026 09:00:02 +0900"
+      "title": "KB \"10월 서울 아파트값 0.61% 올라…상승률 연내 최저\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025026700003",
+      "pubDate": "Sun, 25 Oct 2026 13:16:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "4대그룹 유일 공채 삼성, 하반기 GSAT 실시…그룹 19개사 참여",
+      "link": "https://www.yna.co.kr/view/AKR20261025013100003",
+      "pubDate": "Sun, 25 Oct 2026 13:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "올해 부진 흐름 회사채 발행, 내년 회복 관건은?",
+      "link": "https://www.yna.co.kr/view/AKR20261025013900008",
+      "pubDate": "Sun, 25 Oct 2026 12:01:30 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"돈 더 벌 줄 알았는데\"…5조 몰린 연금 갈아타기의 '반전' [김연지의 연금빌드업]",
-      "link": "https://www.hankyung.com/article/2026102311016",
-      "pubDate": "Sun, 25 Oct 2026 09:00:01 +0900"
+      "title": "베트남 명문대생 3000명 줄 섰다…\"한국 회사 갈래요\" 열풍 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610253064i",
+      "pubDate": "Sun, 25 Oct 2026 12:00:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "더벤티, 요르단 암만에 2호점…중동·아시아 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261025010200030",
-      "pubDate": "Sun, 25 Oct 2026 08:46:05 +0900"
+      "title": "73년만에 지방정부도 노동감독…'감독학교'서 노하우 배운다",
+      "link": "https://www.yna.co.kr/view/AKR20261023153700530",
+      "pubDate": "Sun, 25 Oct 2026 12:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "규정 어기고 금융업체 주식 소유…KPIC코포레이션, 공정위 제재",
+      "link": "https://www.yna.co.kr/view/AKR20261023109000002",
+      "pubDate": "Sun, 25 Oct 2026 12:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 제주 소상공인 24곳 참여하는 로컬 크라우드펀딩 진행",
+      "link": "https://www.yna.co.kr/view/AKR20261024049500030",
+      "pubDate": "Sun, 25 Oct 2026 12:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금감원, AI로 불사금 조직 '배후'까지 쫓는다…분석체계 마련",
+      "link": "https://www.yna.co.kr/view/AKR20261024033800002",
+      "pubDate": "Sun, 25 Oct 2026 12:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융권 이자율 스왑거래 KOFR 비중 12.1%…목표 초과 달성",
+      "link": "https://www.yna.co.kr/view/AKR20261024048600002",
+      "pubDate": "Sun, 25 Oct 2026 12:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "젖소 5마리서 11개국 수출기업으로…제주 '아침미소목장'의 혁신",
+      "link": "https://www.yna.co.kr/view/AKR20261022004900030",
+      "pubDate": "Sun, 25 Oct 2026 12:00:02 +0900"
     }
   ]
 }
