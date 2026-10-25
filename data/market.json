@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:01:27.722Z",
+  "updatedAt": "2026-10-25T18:22:55.864Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,6 +120,12 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "코카콜라, 신흥시장 상인 이어 해방촌 협업…골목상권 활성화",
+      "link": "https://www.yna.co.kr/view/AKR20261025025400030",
+      "pubDate": "Mon, 26 Oct 2026 00:00:01 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "[단독] \"여기 털리면 큰일인데\"…7840만건 뚫렸다 '초비상'",
       "link": "https://www.hankyung.com/article/202610253289H",
@@ -202,12 +208,6 @@
       "title": "LIG D&A, 소형무인기 대응체계 사업 막히나",
       "link": "https://www.hankyung.com/article/2026102535731",
       "pubDate": "Sun, 25 Oct 2026 18:33:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데, 베트남 주요 대학 찾아 인재 확보 나서",
-      "link": "https://www.hankyung.com/article/2026102535711",
-      "pubDate": "Sun, 25 Oct 2026 18:33:17 +0900"
     }
   ]
 }
