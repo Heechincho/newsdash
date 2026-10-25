@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:06:30.524Z",
+  "updatedAt": "2026-10-25T23:13:56.956Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.27,
-      "changePercent": 3.82,
+      "price": 102.08,
+      "changePercent": -1.152,
       "previousClose": 101.79,
       "currency": "USD",
       "history": [
         101.79000091552734,
         97.1500015258789,
         99.47000122070312,
-        103.2699966430664
+        103.2699966430664,
+        102.08000183105469
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4007.9,
-      "changePercent": -1.293,
+      "price": 4015.4,
+      "changePercent": 0.187,
       "previousClose": 4142.6,
       "currency": "USD",
       "history": [
         4142.60009765625,
         4150,
         4060.39990234375,
-        4007.89990234375
+        4007.89990234375,
+        4015.39990234375
       ],
       "ok": true
     },
@@ -121,93 +123,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "중금리대출 확대에…카드론 금리 석달 만에 13%대로 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261025029100002",
-      "pubDate": "Mon, 26 Oct 2026 05:57:06 +0900"
+      "title": "해양수도 도심 대전환 모색…제1회 부산 도시공간 위크",
+      "link": "https://www.yna.co.kr/view/AKR20261026015500051",
+      "pubDate": "Mon, 26 Oct 2026 08:07:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20261025043600002",
-      "pubDate": "Mon, 26 Oct 2026 05:55:00 +0900"
+      "title": "금감원·거래소 회계사 채용 3배↑…미지정 회계사 '흡수처' 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261022146000008",
+      "pubDate": "Mon, 26 Oct 2026 08:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코인 과세 유예 기류에 업계 '반색'…자금 이탈 감소 기대",
-      "link": "https://www.yna.co.kr/view/AKR20261025041000002",
-      "pubDate": "Mon, 26 Oct 2026 05:53:00 +0900"
+      "title": "'부산·칭다오 비즈니스위크'…지역 기업 경제협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261026015300051",
+      "pubDate": "Mon, 26 Oct 2026 07:59:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261023150200002",
-      "pubDate": "Mon, 26 Oct 2026 05:51:00 +0900"
+      "title": "부산시, 아시아 9개국 마이스 유력 인사 초청 팸투어",
+      "link": "https://www.yna.co.kr/view/AKR20261026015200051",
+      "pubDate": "Mon, 26 Oct 2026 07:57:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코카콜라, 신흥시장 상인 이어 해방촌 협업…골목상권 활성화",
-      "link": "https://www.yna.co.kr/view/AKR20261025025400030",
-      "pubDate": "Mon, 26 Oct 2026 00:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] \"여기 털리면 큰일인데\"…7840만건 뚫렸다 '초비상'",
-      "link": "https://www.hankyung.com/article/202610253289H",
-      "pubDate": "Sun, 25 Oct 2026 20:07:49 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261026010200011",
+      "pubDate": "Mon, 26 Oct 2026 07:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일, 경제현안간담회서 국내생산세액공제 보완방안 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261025047700002",
-      "pubDate": "Sun, 25 Oct 2026 19:52:38 +0900"
+      "title": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025020300008",
+      "pubDate": "Mon, 26 Oct 2026 07:06:33 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서초구, 28일 '재건축 정책 콘서트'…정비제도·세무 안내",
+      "link": "https://www.yna.co.kr/view/AKR20261026009000004",
+      "pubDate": "Mon, 26 Oct 2026 07:01:52 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 전력 부족한데…열병합발전, 낙찰 받고도 2년째 착공 못해",
-      "link": "https://www.hankyung.com/article/2026102535691",
-      "pubDate": "Sun, 25 Oct 2026 18:45:37 +0900"
+      "title": "\"18만원에 팝니다\"…추억의 '캪틴큐' 재테크족 몰려든 이유 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202610230640i",
+      "pubDate": "Mon, 26 Oct 2026 07:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"일본·독일도 한국 밑\"…반도체 호황에 경상수지 '세계 2위'",
-      "link": "https://www.hankyung.com/article/202610253648i",
-      "pubDate": "Sun, 25 Oct 2026 18:43:53 +0900"
+      "title": "국제유가 117달러 돌파…에너지값 급등에 연말 물가 '빨간불'",
+      "link": "https://www.hankyung.com/article/2026102638807",
+      "pubDate": "Mon, 26 Oct 2026 06:45:56 +0900"
     },
     {
       "source": "한국경제",
-      "title": "가상자산 거래대금, 반년 새 44% 뚝",
-      "link": "https://www.hankyung.com/article/2026102535481",
-      "pubDate": "Sun, 25 Oct 2026 18:42:48 +0900"
+      "title": "라이브방송으로 '18억 돈방석' 앉더니…유명 인플루언서의 최후 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610242427i",
+      "pubDate": "Mon, 26 Oct 2026 06:04:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"집 소유는 주거 불안정 헤징 수단…주식으로 대체할 수 없어\"",
-      "link": "https://www.hankyung.com/article/2026102535531",
-      "pubDate": "Sun, 25 Oct 2026 18:42:07 +0900"
+      "source": "연합뉴스",
+      "title": "위험기계 불합격에도 사용중지 늑장 명령…노동청, 102건 지연",
+      "link": "https://www.yna.co.kr/view/AKR20261023145600530",
+      "pubDate": "Mon, 26 Oct 2026 06:01:03 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "中, 부동산 자금으로 증시 띄웠지만…집값만 올랐다",
-      "link": "https://www.hankyung.com/article/2026102535511",
-      "pubDate": "Sun, 25 Oct 2026 18:40:22 +0900"
+      "source": "연합뉴스",
+      "title": "롯데마트·슈퍼, 오뚜기와 '굴미역국라면' 단독 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261025036100030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:11 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "'주식에서 예·적금으로' 이달에만 39조 급증",
-      "link": "https://www.hankyung.com/article/2026102535521",
-      "pubDate": "Sun, 25 Oct 2026 18:40:15 +0900"
+      "source": "연합뉴스",
+      "title": "롯데온, 28일까지 월말 할인전…생필품·식품 최대 50% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261025038100030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:10 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
-      "link": "https://www.hankyung.com/article/2026102535241",
-      "pubDate": "Sun, 25 Oct 2026 18:35:08 +0900"
+      "source": "연합뉴스",
+      "title": "롯데百, 잠실점 3천400평 식품관 10년 만에 전면 개편",
+      "link": "https://www.yna.co.kr/view/AKR20261025038900030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:09 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "'근원 경쟁력' 회복한 삼성…AI 전환·미래 투자 속도전",
-      "link": "https://www.hankyung.com/article/2026102535721",
-      "pubDate": "Sun, 25 Oct 2026 18:34:26 +0900"
+      "source": "연합뉴스",
+      "title": "신세계百 강남점, 내달 3일까지 캐릭터 팝업…굿즈 950종 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20261025040200030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:05 +0900"
     }
   ]
 }
