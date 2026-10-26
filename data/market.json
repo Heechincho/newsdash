@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:28:54.360Z",
+  "updatedAt": "2026-10-26T13:28:38.613Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.97,
-      "changePercent": -2.227,
+      "price": 102.04,
+      "changePercent": -1.191,
       "previousClose": 97.15,
       "currency": "USD",
       "history": [
         97.1500015258789,
         99.47000122070312,
         103.2699966430664,
-        100.97000122070312
+        102.04000091552734
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4020.3,
-      "changePercent": 0.309,
+      "price": 4026,
+      "changePercent": 0.452,
       "previousClose": 4150,
       "currency": "USD",
       "history": [
         4150,
         4060.39990234375,
         4007.89990234375,
-        4020.300048828125
+        4026
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.692,
-      "changePercent": 0.084,
+      "price": 101.953,
+      "changePercent": 0.14,
       "previousClose": 101.78,
       "currency": "USD",
       "history": [
         101.77999877929688,
         101.61000061035156,
         101.80999755859375,
-        101.69200134277344
+        101.9530029296875
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.45,
-      "changePercent": 2.207,
-      "previousClose": 18.44,
+      "price": 19.01,
+      "changePercent": -2.26,
+      "previousClose": 17.31,
       "currency": "USD",
       "history": [
-        18.440000534057617,
         17.309999465942383,
         16.68000030517578,
         19.030000686645508,
-        19.450000762939453
+        19.450000762939453,
+        19.010000228881836
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "日, 민간은행 통해 공적자금 융자…기업 설비투자·M&A 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261026119300009",
-      "pubDate": "Mon, 26 Oct 2026 15:18:17 +0900"
+      "source": "한국경제",
+      "title": "AI주도권 잡는데 126조원 조달 베팅…메타 저커버그 승부수 던졌다",
+      "link": "https://www.hankyung.com/article/202610266268i",
+      "pubDate": "Mon, 26 Oct 2026 21:23:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "비트코인 8만달러 붕괴…AI 불안·연준·美 중간선거 3중고",
+      "link": "https://www.hankyung.com/article/202610266262i",
+      "pubDate": "Mon, 26 Oct 2026 20:50:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"쥬얼리 끝나니 백수\"…이력서 수백장 넣고 직장인 된 하주연",
+      "link": "https://www.hankyung.com/article/2026102662647",
+      "pubDate": "Mon, 26 Oct 2026 20:45:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한은, 통화정책 부총재보에 최창호 통화정책국장 임명",
+      "link": "https://www.hankyung.com/article/2026102662091",
+      "pubDate": "Mon, 26 Oct 2026 19:36:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] NH증권, 11월 12일 '한미 이중거주자 이중과세 방지' 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20261026120300008",
-      "pubDate": "Mon, 26 Oct 2026 15:15:09 +0900"
+      "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20261026166500008",
+      "pubDate": "Mon, 26 Oct 2026 19:35:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"엔화가 달라졌다\"…골드만삭스 \"헤지수단 매력 커져\"",
+      "link": "https://www.hankyung.com/article/202610266193i",
+      "pubDate": "Mon, 26 Oct 2026 19:07:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "내년 대구 입주 물량 74% 급감…인허가 속도 높인다",
-      "link": "https://www.yna.co.kr/view/AKR20261026117000053",
-      "pubDate": "Mon, 26 Oct 2026 15:14:36 +0900"
+      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261026150851062",
+      "pubDate": "Mon, 26 Oct 2026 18:57:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "윤건영 교육감 \"숙련된 기술인 시대 올 것…교육방향 고민해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261026117500064",
-      "pubDate": "Mon, 26 Oct 2026 15:07:55 +0900"
+      "title": "해킹 발표 24일 만에…KB국민은행 정보유출 119→2천210명(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261026157951002",
+      "pubDate": "Mon, 26 Oct 2026 18:38:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KOFR 기반 금리 파생상품 청산 1년 새 10배로 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261026114600008",
-      "pubDate": "Mon, 26 Oct 2026 15:07:05 +0900"
+      "title": "하림산업, 부동산개발·식품사업 분할…하림식품 신설",
+      "link": "https://www.yna.co.kr/view/AKR20261026160700030",
+      "pubDate": "Mon, 26 Oct 2026 18:38:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "지주의 불로소득 몰수?…토지세는 정의로운 세금인가",
+      "link": "https://www.hankyung.com/article/2026102659421",
+      "pubDate": "Mon, 26 Oct 2026 18:31:43 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "9월 인천 수출 61.6억달러…월 수출 기준 역대 최다",
-      "link": "https://www.yna.co.kr/view/AKR20261026117800065",
-      "pubDate": "Mon, 26 Oct 2026 15:06:29 +0900"
+      "title": "금감원 불법대부계약 무효확인서, 피해자 무죄판결 첫 활용",
+      "link": "https://www.yna.co.kr/view/AKR20261026157200002",
+      "pubDate": "Mon, 26 Oct 2026 18:20:11 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "고양시, 벤처기업 육성 본격화…인증·투자·판로 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261026116800060",
-      "pubDate": "Mon, 26 Oct 2026 15:04:47 +0900"
+      "source": "한국경제",
+      "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장",
+      "link": "https://www.hankyung.com/article/2026102659461",
+      "pubDate": "Mon, 26 Oct 2026 18:18:19 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "한국거래소, 부산 홀몸노인 집수리…안전한 일상 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261026097300051",
-      "pubDate": "Mon, 26 Oct 2026 15:03:00 +0900"
+      "source": "한국경제",
+      "title": "\"세계 첫 양궁화 탄생…韓 금메달 이끌었죠\"",
+      "link": "https://www.hankyung.com/article/2026102659591",
+      "pubDate": "Mon, 26 Oct 2026 18:17:48 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "BNK금융, 1∼3분기 당기순이익 6천223억원…작년보다 19.2%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261026107200051",
-      "pubDate": "Mon, 26 Oct 2026 15:00:01 +0900"
+      "source": "한국경제",
+      "title": "지식재산처 '11조 짝퉁 대응' 성과 포상",
+      "link": "https://www.hankyung.com/article/2026102659471",
+      "pubDate": "Mon, 26 Oct 2026 18:17:08 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "신한금융, 서울시와 '피노베이션 챌린지' 우수기업 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261026112100002",
-      "pubDate": "Mon, 26 Oct 2026 14:52:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "수은, 암모니아 발전기술 기업 '아모지'에 2천만달러 직접투자",
-      "link": "https://www.yna.co.kr/view/AKR20261026110000002",
-      "pubDate": "Mon, 26 Oct 2026 14:44:14 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "관광공사, '미팅산업 조사' 국가통계 승인…\"MICE 산업 뒷받침\"",
-      "link": "https://www.yna.co.kr/view/AKR20261026105400030",
-      "pubDate": "Mon, 26 Oct 2026 14:40:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "진보당 경남도당 \"노동권 후퇴시키는 초광역특구법안 철회해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261026104600052",
-      "pubDate": "Mon, 26 Oct 2026 14:39:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "군포시, 산본 4곳 '특별정비구역' 제안 수용…주민공람",
-      "link": "https://www.yna.co.kr/view/AKR20261026110100061",
-      "pubDate": "Mon, 26 Oct 2026 14:37:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "통영 수산물, 파리 식품박람회서 42만달러 구매의향서",
-      "link": "https://www.yna.co.kr/view/AKR20261026109000052",
-      "pubDate": "Mon, 26 Oct 2026 14:35:28 +0900"
+      "source": "한국경제",
+      "title": "효성, 장애아동 가족과 2박3일 동행",
+      "link": "https://www.hankyung.com/article/2026102659561",
+      "pubDate": "Mon, 26 Oct 2026 18:16:20 +0900"
     }
   ]
 }
