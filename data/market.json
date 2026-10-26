@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:13:56.956Z",
+  "updatedAt": "2026-10-26T01:19:16.832Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.08,
-      "changePercent": -1.152,
+      "price": 101.56,
+      "changePercent": -1.656,
       "previousClose": 101.79,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         97.1500015258789,
         99.47000122070312,
         103.2699966430664,
-        102.08000183105469
+        101.55999755859375
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4015.4,
-      "changePercent": 0.187,
+      "price": 4002.5,
+      "changePercent": -0.135,
       "previousClose": 4142.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4150,
         4060.39990234375,
         4007.89990234375,
-        4015.39990234375
+        4002.5
       ],
       "ok": true
     },
@@ -90,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.752,
-      "changePercent": 0.143,
+      "price": 101.654,
+      "changePercent": 0.046,
       "previousClose": 101.73,
       "currency": "USD",
       "history": [
         101.7300033569336,
         101.77999877929688,
         101.61000061035156,
-        101.80999755859375
+        101.80999755859375,
+        101.65399932861328
       ],
       "ok": true
     },
@@ -123,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "해양수도 도심 대전환 모색…제1회 부산 도시공간 위크",
-      "link": "https://www.yna.co.kr/view/AKR20261026015500051",
-      "pubDate": "Mon, 26 Oct 2026 08:07:33 +0900"
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20261026056800002",
+      "pubDate": "Mon, 26 Oct 2026 10:14:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금감원·거래소 회계사 채용 3배↑…미지정 회계사 '흡수처' 부상",
-      "link": "https://www.yna.co.kr/view/AKR20261022146000008",
-      "pubDate": "Mon, 26 Oct 2026 08:00:04 +0900"
+      "title": "김장철 앞둔 식품업계, 김치 할인부터 체험·나눔 행사까지",
+      "link": "https://www.yna.co.kr/view/AKR20261026049300030",
+      "pubDate": "Mon, 26 Oct 2026 10:11:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'부산·칭다오 비즈니스위크'…지역 기업 경제협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261026015300051",
-      "pubDate": "Mon, 26 Oct 2026 07:59:23 +0900"
+      "title": "\"연간 5건 이상 투자협약\"…홍성군, 투자유치 자문관 공모",
+      "link": "https://www.yna.co.kr/view/AKR20261026055900063",
+      "pubDate": "Mon, 26 Oct 2026 10:11:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산시, 아시아 9개국 마이스 유력 인사 초청 팸투어",
-      "link": "https://www.yna.co.kr/view/AKR20261026015200051",
-      "pubDate": "Mon, 26 Oct 2026 07:57:37 +0900"
+      "title": "LS에코에너지 \"베트남 자회사에 350억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20261026053200008",
+      "pubDate": "Mon, 26 Oct 2026 10:10:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261026010200011",
-      "pubDate": "Mon, 26 Oct 2026 07:30:01 +0900"
+      "title": "농심, LA 유명 셰프와 신라면 요리…미국서 40주년 마케팅",
+      "link": "https://www.yna.co.kr/view/AKR20261026038500030",
+      "pubDate": "Mon, 26 Oct 2026 10:01:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
-      "link": "https://www.yna.co.kr/view/AKR20261025020300008",
-      "pubDate": "Mon, 26 Oct 2026 07:06:33 +0900"
+      "title": "해운·항만·물류 혁신 창업아이디어 발굴 공모전",
+      "link": "https://www.yna.co.kr/view/AKR20261026052900051",
+      "pubDate": "Mon, 26 Oct 2026 10:01:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서초구, 28일 '재건축 정책 콘서트'…정비제도·세무 안내",
-      "link": "https://www.yna.co.kr/view/AKR20261026009000004",
-      "pubDate": "Mon, 26 Oct 2026 07:01:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"18만원에 팝니다\"…추억의 '캪틴큐' 재테크족 몰려든 이유 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202610230640i",
-      "pubDate": "Mon, 26 Oct 2026 07:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국제유가 117달러 돌파…에너지값 급등에 연말 물가 '빨간불'",
-      "link": "https://www.hankyung.com/article/2026102638807",
-      "pubDate": "Mon, 26 Oct 2026 06:45:56 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "라이브방송으로 '18억 돈방석' 앉더니…유명 인플루언서의 최후 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610242427i",
-      "pubDate": "Mon, 26 Oct 2026 06:04:01 +0900"
+      "title": "박찬대 인천시장 \"임기 중  평균 경제성장률 5% 달성 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20261026028400065",
+      "pubDate": "Mon, 26 Oct 2026 10:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "위험기계 불합격에도 사용중지 늑장 명령…노동청, 102건 지연",
-      "link": "https://www.yna.co.kr/view/AKR20261023145600530",
-      "pubDate": "Mon, 26 Oct 2026 06:01:03 +0900"
+      "title": "LG전자, 서랍형 냉동고·AI 기능 갖춘 '스템' 냉장고 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261026020200003",
+      "pubDate": "Mon, 26 Oct 2026 10:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데마트·슈퍼, 오뚜기와 '굴미역국라면' 단독 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261025036100030",
-      "pubDate": "Mon, 26 Oct 2026 06:00:11 +0900"
+      "title": "해경청, 변호사 수사심사관 3명 채용공고…'수사 신뢰성 강화'",
+      "link": "https://www.yna.co.kr/view/AKR20261026034800065",
+      "pubDate": "Mon, 26 Oct 2026 10:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데온, 28일까지 월말 할인전…생필품·식품 최대 50% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261025038100030",
-      "pubDate": "Mon, 26 Oct 2026 06:00:10 +0900"
+      "title": "노동부, 부산서 대규모 취업박람회 개최…우수기업 200곳 참여",
+      "link": "https://www.yna.co.kr/view/AKR20261025050400530",
+      "pubDate": "Mon, 26 Oct 2026 10:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데百, 잠실점 3천400평 식품관 10년 만에 전면 개편",
-      "link": "https://www.yna.co.kr/view/AKR20261025038900030",
-      "pubDate": "Mon, 26 Oct 2026 06:00:09 +0900"
+      "title": "천안시 \"동남아 시장개척단, 483만달러 수출 상담 성과\"",
+      "link": "https://www.yna.co.kr/view/AKR20261026051000063",
+      "pubDate": "Mon, 26 Oct 2026 09:55:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신세계百 강남점, 내달 3일까지 캐릭터 팝업…굿즈 950종 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20261025040200030",
-      "pubDate": "Mon, 26 Oct 2026 06:00:05 +0900"
+      "title": "신한증권, 미성년 자녀 금융서비스 개선…원스톱 계좌개설 등",
+      "link": "https://www.yna.co.kr/view/AKR20261026049200008",
+      "pubDate": "Mon, 26 Oct 2026 09:53:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "아모레퍼시픽 헤라, 스노우왈츠 출시…아이오페, 겔 마스크 선봬",
+      "link": "https://www.yna.co.kr/view/AKR20261026044100030",
+      "pubDate": "Mon, 26 Oct 2026 09:52:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI픽] 오픈AI, 한국 AI 스타트업 키운다…서울서 첫 경연",
+      "link": "https://www.yna.co.kr/view/AKR20261026045500017",
+      "pubDate": "Mon, 26 Oct 2026 09:51:51 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "조니워커, 브랜드 협업 파트너로 로제 선정…글로벌 캠페인 진행",
+      "link": "https://www.yna.co.kr/view/AKR20261026033600030",
+      "pubDate": "Mon, 26 Oct 2026 09:49:35 +0900"
     }
   ]
 }
