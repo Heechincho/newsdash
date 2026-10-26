@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T19:30:56.578Z",
+  "updatedAt": "2026-10-26T23:19:42.388Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7678.1,
-      "changePercent": 0.714,
+      "price": 7676.77,
+      "changePercent": 0.696,
       "previousClose": 7690.73,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7757.169921875,
         7663.43017578125,
         7623.68017578125,
-        7678.10009765625
+        7676.77001953125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26187.129,
-      "changePercent": 0.893,
+      "price": 26169.38,
+      "changePercent": 0.825,
       "previousClose": 26430.89,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26702.859375,
         26008.859375,
         25955.33984375,
-        26187.12890625
+        26169.380859375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52324.68,
-      "changePercent": 0.21,
+      "price": 52361.58,
+      "changePercent": 0.28,
       "previousClose": 51966.03,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52856.08984375,
         52867.98046875,
         52215.16015625,
-        52324.6796875
+        52361.578125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.4,
-      "changePercent": -0.842,
+      "price": 101.31,
+      "changePercent": -0.442,
       "previousClose": 97.15,
       "currency": "USD",
       "history": [
         97.1500015258789,
         99.47000122070312,
         103.2699966430664,
-        102.4000015258789
+        101.30999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4026,
-      "changePercent": 0.452,
+      "price": 4024.8,
+      "changePercent": -0.337,
       "previousClose": 4150,
       "currency": "USD",
       "history": [
         4150,
         4060.39990234375,
         4007.89990234375,
-        4026
+        4024.800048828125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.986,
-      "changePercent": 0.173,
+      "price": 102.03,
+      "changePercent": 0.07,
       "previousClose": 101.78,
       "currency": "USD",
       "history": [
         101.77999877929688,
         101.61000061035156,
         101.80999755859375,
-        101.98600006103516
+        102.02999877929688
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.38,
-      "changePercent": -5.498,
+      "price": 18.39,
+      "changePercent": -5.45,
       "previousClose": 17.31,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         16.68000030517578,
         19.030000686645508,
         19.450000762939453,
-        18.3799991607666
+        18.389999389648438
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"AI 낙오주가 피난처로\"…애플, 나스닥100과 거꾸로 가는 '안티 AI주' 됐다",
-      "link": "https://www.hankyung.com/article/202610266364i",
-      "pubDate": "Tue, 27 Oct 2026 00:05:35 +0900"
+      "source": "연합뉴스",
+      "title": "[마켓뷰] 코스피, '앤트로픽발 훈풍'에 반등 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20261027023000008",
+      "pubDate": "Tue, 27 Oct 2026 08:09:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
-      "link": "https://www.yna.co.kr/view/AKR20261026156700530",
-      "pubDate": "Tue, 27 Oct 2026 00:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "머스크의 네오클라우드 죽이기?…\"기업AI 최종 승자는 MS\" [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202610266357i",
-      "pubDate": "Mon, 26 Oct 2026 23:36:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'AI 최대어' 앤스로픽, 나스닥 상장 위한 IPO 신청",
-      "link": "https://www.hankyung.com/article/202610266351i",
-      "pubDate": "Mon, 26 Oct 2026 23:17:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"현금만 500조원\"…사상최고가 버크셔, 다음 투자처는 메타?",
-      "link": "https://www.hankyung.com/article/202610266323i",
-      "pubDate": "Mon, 26 Oct 2026 22:54:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"JYP 절반 사겠다\" 日투자사 깜짝 발표…주가 14% 뛰었다",
-      "link": "https://www.hankyung.com/article/2026102663267",
-      "pubDate": "Mon, 26 Oct 2026 22:30:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "JYP, 때아닌 인수설…\"제안받은 적 없다\" 일축",
-      "link": "https://www.hankyung.com/article/202610266306H",
-      "pubDate": "Mon, 26 Oct 2026 22:27:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"자식 줄 돈? 내가 다 쓰고 갈래요\"…은퇴세대 확 바뀌었다",
-      "link": "https://www.hankyung.com/article/2026102663197",
-      "pubDate": "Mon, 26 Oct 2026 22:23:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI주도권 잡는데 126조원 조달 베팅…메타 저커버그 승부수 던졌다",
-      "link": "https://www.hankyung.com/article/202610266268i",
-      "pubDate": "Mon, 26 Oct 2026 21:23:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "비트코인 8만달러 붕괴…AI 불안·연준·美 중간선거 3중고",
-      "link": "https://www.hankyung.com/article/202610266262i",
-      "pubDate": "Mon, 26 Oct 2026 20:50:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"쥬얼리 끝나니 백수\"…이력서 수백장 넣고 직장인 된 하주연",
-      "link": "https://www.hankyung.com/article/2026102662647",
-      "pubDate": "Mon, 26 Oct 2026 20:45:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한은, 통화정책 부총재보에 최창호 통화정책국장 임명",
-      "link": "https://www.hankyung.com/article/2026102662091",
-      "pubDate": "Mon, 26 Oct 2026 19:36:00 +0900"
+      "title": "반도체 수출 호조에 3분기 한국 경제 1.0% '깜짝 성장'",
+      "link": "https://www.yna.co.kr/view/AKR20261027018100002",
+      "pubDate": "Tue, 27 Oct 2026 08:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20261026166500008",
-      "pubDate": "Mon, 26 Oct 2026 19:35:57 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261027014700011",
+      "pubDate": "Tue, 27 Oct 2026 07:30:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"엔화가 달라졌다\"…골드만삭스 \"헤지수단 매력 커져\"",
-      "link": "https://www.hankyung.com/article/202610266193i",
-      "pubDate": "Mon, 26 Oct 2026 19:07:18 +0900"
+      "title": "마라탕 넘어 커피·식당까지…'규모의 가성비' 무장한 中브랜드 [C-프랜차이즈가 온다③]",
+      "link": "https://www.hankyung.com/article/202610265199g",
+      "pubDate": "Tue, 27 Oct 2026 07:04:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261026150851062",
-      "pubDate": "Mon, 26 Oct 2026 18:57:56 +0900"
+      "title": "[우분투칼럼] 브릭스 품은 아프리카",
+      "link": "https://www.yna.co.kr/view/AKR20261006114100898",
+      "pubDate": "Tue, 27 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "어획량 감소에 수꽃게 시세 2배로…고등어는 어획 늘어 하락",
+      "link": "https://www.yna.co.kr/view/AKR20261026139200030",
+      "pubDate": "Tue, 27 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "롯데리아도 도망간 이대 앞…외식업계 '대학가 불패'의 그늘 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202610266334i",
+      "pubDate": "Tue, 27 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"40만원 하던 게 80만원\"…요즘 없어서 못 산다는 '이것' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610266303i",
+      "pubDate": "Tue, 27 Oct 2026 06:55:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"美·유럽 막히자 이 나라로\"…中 기업들 공장째 옮긴다 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610253740i",
+      "pubDate": "Tue, 27 Oct 2026 06:39:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[보안 비상] ② AI가 해킹 속도 높였다…한국의 방패는 준비됐나",
+      "link": "https://www.yna.co.kr/view/AKR20261026157600017",
+      "pubDate": "Tue, 27 Oct 2026 06:14:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[보안 비상] ① 금융권부터 공공기관까지 줄줄이 뚫렸다…왜 못 막나",
+      "link": "https://www.yna.co.kr/view/AKR20261026158200017",
+      "pubDate": "Tue, 27 Oct 2026 06:14:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
+      "link": "https://www.hankyung.com/article/202610265261g",
+      "pubDate": "Tue, 27 Oct 2026 06:01:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "고용센터 취업상담사 1인당 관리인원 최대 11.5배차…지역 쏠림",
+      "link": "https://www.yna.co.kr/view/AKR20261026132400530",
+      "pubDate": "Tue, 27 Oct 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "위생사 11만명 넘었는데…고용·실태조사 법적 근거 전무",
+      "link": "https://www.yna.co.kr/view/AKR20261026118100530",
+      "pubDate": "Tue, 27 Oct 2026 06:00:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"아이폰 보자마자 창업하더니\"…8개월 만에 회사 팔아치운 男",
+      "link": "https://www.hankyung.com/article/202610264937i",
+      "pubDate": "Tue, 27 Oct 2026 06:00:10 +0900"
     }
   ]
 }
