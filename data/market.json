@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-27T14:24:13.244Z",
+  "updatedAt": "2026-10-27T19:33:26.689Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7681.8,
-      "changePercent": 0.066,
+      "price": 7729.99,
+      "changePercent": 0.693,
       "previousClose": 7712.57,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7663.43017578125,
         7623.68017578125,
         7676.77001953125,
-        7681.7998046875
+        7729.990234375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26260.805,
-      "changePercent": 0.349,
+      "price": 26515.21,
+      "changePercent": 1.321,
       "previousClose": 26424.82,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26008.859375,
         25955.33984375,
         26169.380859375,
-        26260.8046875
+        26515.2109375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52267.2,
-      "changePercent": -0.18,
+      "price": 52421.2,
+      "changePercent": 0.114,
       "previousClose": 52495.88,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52867.98046875,
         52215.16015625,
         52361.578125,
-        52267.19921875
+        52421.19921875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.33,
-      "changePercent": -0.423,
+      "price": 99.65,
+      "changePercent": -2.074,
       "previousClose": 99.47,
       "currency": "USD",
       "history": [
         99.47000122070312,
         103.2699966430664,
         101.76000213623047,
-        101.33000183105469
+        99.6500015258789
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4054.6,
-      "changePercent": 0.401,
+      "price": 4075.5,
+      "changePercent": 0.919,
       "previousClose": 4060.4,
       "currency": "USD",
       "history": [
         4060.39990234375,
         4007.89990234375,
         4038.39990234375,
-        4054.60009765625
+        4075.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.171,
-      "changePercent": 0.208,
+      "price": 102.295,
+      "changePercent": 0.33,
       "previousClose": 101.61,
       "currency": "USD",
       "history": [
         101.61000061035156,
         101.80999755859375,
         101.95999908447266,
-        102.1709976196289
+        102.29499816894531
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.99,
-      "changePercent": -2.175,
+      "price": 17.62,
+      "changePercent": -4.187,
       "previousClose": 16.68,
       "currency": "USD",
       "history": [
@@ -113,12 +113,36 @@
         19.030000686645508,
         19.450000762939453,
         18.389999389648438,
-        17.989999771118164
+        17.6200008392334
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "AI 거품론에 떨던 월가…앤스로픽 IPO서류보고 놀란 이유는?",
+      "link": "https://www.hankyung.com/article/202610289102i",
+      "pubDate": "Wed, 28 Oct 2026 00:35:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美9월 소비자신뢰지수 4개월만에 첫 상승…예상치 웃돌아",
+      "link": "https://www.hankyung.com/article/202610279090i",
+      "pubDate": "Tue, 27 Oct 2026 23:35:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610279084i",
+      "pubDate": "Tue, 27 Oct 2026 23:26:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "빅테크실적·앤스로픽IPO에 AI모멘텀 회복…나스닥 이틀째 올라",
+      "link": "https://www.hankyung.com/article/202610279071i",
+      "pubDate": "Tue, 27 Oct 2026 23:06:44 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "김경협 청장, 재외동포협력센터 해직자 논란에 \"우선채용 협의\"",
@@ -127,7 +151,7 @@
     },
     {
       "source": "한국경제",
-      "title": "방산 호조에도 상용기 생산 지연…보잉,실적회복에도 주가 하락",
+      "title": "방산 호조에도 상용기 생산 지연…보잉, 실적 회복에도 주가 하락",
       "link": "https://www.hankyung.com/article/202610279041i",
       "pubDate": "Tue, 27 Oct 2026 22:07:18 +0900"
     },
@@ -184,30 +208,6 @@
       "title": "노동장관, '주52시간 예외는 위헌' 지적에 \"그런 주장 가능\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261027096151530",
       "pubDate": "Tue, 27 Oct 2026 18:46:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"거래소 산업분류 개편에 63개 지수 영향…교체 종목 늘어날듯\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261027147751008",
-      "pubDate": "Tue, 27 Oct 2026 18:37:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "성장 멈춘 광고업계, 영화 제작·티켓사업 진출",
-      "link": "https://www.hankyung.com/article/2026102787241",
-      "pubDate": "Tue, 27 Oct 2026 18:36:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "정부, EU·中 '특허료 소송전' 가세…\"삼성·LG 등 기업피해 방지 총력\"",
-      "link": "https://www.hankyung.com/article/2026102787291",
-      "pubDate": "Tue, 27 Oct 2026 18:34:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화오션, 고부가 수주 효과…영업익 67% 증가",
-      "link": "https://www.hankyung.com/article/2026102787281",
-      "pubDate": "Tue, 27 Oct 2026 18:34:23 +0900"
     }
   ]
 }
