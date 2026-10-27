@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:19:42.388Z",
+  "updatedAt": "2026-10-27T02:11:40.974Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.31,
-      "changePercent": -0.442,
+      "price": 100.83,
+      "changePercent": -0.914,
       "previousClose": 97.15,
       "currency": "USD",
       "history": [
         97.1500015258789,
         99.47000122070312,
         103.2699966430664,
-        101.30999755859375
+        101.76000213623047,
+        100.83000183105469
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4024.8,
-      "changePercent": -0.337,
+      "price": 4025.5,
+      "changePercent": -0.319,
       "previousClose": 4150,
       "currency": "USD",
       "history": [
         4150,
         4060.39990234375,
         4007.89990234375,
-        4024.800048828125
+        4038.39990234375,
+        4025.5
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.03,
-      "changePercent": 0.07,
+      "price": 102.046,
+      "changePercent": 0.085,
       "previousClose": 101.78,
       "currency": "USD",
       "history": [
         101.77999877929688,
         101.61000061035156,
         101.80999755859375,
-        102.02999877929688
+        101.95999908447266,
+        102.0459976196289
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 코스피, '앤트로픽발 훈풍'에 반등 시도하나",
-      "link": "https://www.yna.co.kr/view/AKR20261027023000008",
-      "pubDate": "Tue, 27 Oct 2026 08:09:28 +0900"
+      "title": "'삼성전자 기밀유출' 안승호 前부사장 2심 징역 3년…법정구속",
+      "link": "https://www.yna.co.kr/view/AKR20261027079900004",
+      "pubDate": "Tue, 27 Oct 2026 11:02:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "반도체 수출 호조에 3분기 한국 경제 1.0% '깜짝 성장'",
-      "link": "https://www.yna.co.kr/view/AKR20261027018100002",
-      "pubDate": "Tue, 27 Oct 2026 08:00:01 +0900"
+      "title": "해수부, 부산서 제2차 APEC 해양 회복력 콘퍼런스",
+      "link": "https://www.yna.co.kr/view/AKR20261027017500051",
+      "pubDate": "Tue, 27 Oct 2026 11:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261027014700011",
-      "pubDate": "Tue, 27 Oct 2026 07:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "마라탕 넘어 커피·식당까지…'규모의 가성비' 무장한 中브랜드 [C-프랜차이즈가 온다③]",
-      "link": "https://www.hankyung.com/article/202610265199g",
-      "pubDate": "Tue, 27 Oct 2026 07:04:54 +0900"
+      "title": "해수부, 부산서 '해양 디지털 기업 오픈 이노베이션' 행사",
+      "link": "https://www.yna.co.kr/view/AKR20261027018600051",
+      "pubDate": "Tue, 27 Oct 2026 11:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 브릭스 품은 아프리카",
-      "link": "https://www.yna.co.kr/view/AKR20261006114100898",
-      "pubDate": "Tue, 27 Oct 2026 07:00:03 +0900"
+      "title": "통상본부장 \"리스크 확대 속 통상관계 안정성 확보 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027031900003",
+      "pubDate": "Tue, 27 Oct 2026 11:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "어획량 감소에 수꽃게 시세 2배로…고등어는 어획 늘어 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261026139200030",
-      "pubDate": "Tue, 27 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데리아도 도망간 이대 앞…외식업계 '대학가 불패'의 그늘 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610266334i",
-      "pubDate": "Tue, 27 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"40만원 하던 게 80만원\"…요즘 없어서 못 산다는 '이것' [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610266303i",
-      "pubDate": "Tue, 27 Oct 2026 06:55:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美·유럽 막히자 이 나라로\"…中 기업들 공장째 옮긴다 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610253740i",
-      "pubDate": "Tue, 27 Oct 2026 06:39:01 +0900"
+      "title": "정부, 중·EU WTO 표준필수특허 분쟁에 국내 영향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261027043400003",
+      "pubDate": "Tue, 27 Oct 2026 11:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[보안 비상] ② AI가 해킹 속도 높였다…한국의 방패는 준비됐나",
-      "link": "https://www.yna.co.kr/view/AKR20261026157600017",
-      "pubDate": "Tue, 27 Oct 2026 06:14:04 +0900"
+      "title": "수출 붐업코리아 종료…1억3천만 달러 규모 계약·MOU 체결",
+      "link": "https://www.yna.co.kr/view/AKR20261027060500003",
+      "pubDate": "Tue, 27 Oct 2026 11:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[보안 비상] ① 금융권부터 공공기관까지 줄줄이 뚫렸다…왜 못 막나",
-      "link": "https://www.yna.co.kr/view/AKR20261026158200017",
-      "pubDate": "Tue, 27 Oct 2026 06:14:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
-      "link": "https://www.hankyung.com/article/202610265261g",
-      "pubDate": "Tue, 27 Oct 2026 06:01:10 +0900"
+      "title": "내달 29일까지 '코리아 수산 페스타'…수산물 최대 50% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261027027100030",
+      "pubDate": "Tue, 27 Oct 2026 11:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "고용센터 취업상담사 1인당 관리인원 최대 11.5배차…지역 쏠림",
-      "link": "https://www.yna.co.kr/view/AKR20261026132400530",
-      "pubDate": "Tue, 27 Oct 2026 06:01:01 +0900"
+      "title": "강릉 장애인 일자리 12% 증원…중증장애인 참여 기회 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261027072500062",
+      "pubDate": "Tue, 27 Oct 2026 11:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "위생사 11만명 넘었는데…고용·실태조사 법적 근거 전무",
-      "link": "https://www.yna.co.kr/view/AKR20261026118100530",
-      "pubDate": "Tue, 27 Oct 2026 06:00:11 +0900"
+      "title": "농식품부, 내달 8일까지 한우 할인행사…최대 63% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261027072900030",
+      "pubDate": "Tue, 27 Oct 2026 11:00:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"아이폰 보자마자 창업하더니\"…8개월 만에 회사 팔아치운 男",
-      "link": "https://www.hankyung.com/article/202610264937i",
-      "pubDate": "Tue, 27 Oct 2026 06:00:10 +0900"
+      "source": "연합뉴스",
+      "title": "K-푸드, 파리서 1천500만달러 계약…첫 한식축제엔 7만5천명",
+      "link": "https://www.yna.co.kr/view/AKR20261027064500030",
+      "pubDate": "Tue, 27 Oct 2026 11:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "정부 \"1인당 국민소득 올해 4만달러대 진입 확실시\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027078600002",
+      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 교육공무직 신규 채용 경쟁률 11.87대 1",
+      "link": "https://www.yna.co.kr/view/AKR20261027069200051",
+      "pubDate": "Tue, 27 Oct 2026 10:54:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 배민, 천안시와 지역사회 동반성장 상생협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20261027077500030",
+      "pubDate": "Tue, 27 Oct 2026 10:54:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "오비맥주, 대리기사용 '음주운전 방지장치 사용 안내 영상' 제작",
+      "link": "https://www.yna.co.kr/view/AKR20261027073200030",
+      "pubDate": "Tue, 27 Oct 2026 10:46:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "111명에게 10억 빌려주고 이자 3억 챙긴 사채업자, 항소심 집유",
+      "link": "https://www.yna.co.kr/view/AKR20261027072400055",
+      "pubDate": "Tue, 27 Oct 2026 10:45:21 +0900"
     }
   ]
 }
