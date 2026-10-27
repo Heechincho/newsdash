@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T02:11:40.974Z",
+  "updatedAt": "2026-10-27T08:00:19.021Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.83,
-      "changePercent": -0.914,
-      "previousClose": 97.15,
+      "price": 102.12,
+      "changePercent": 0.354,
+      "previousClose": 99.47,
       "currency": "USD",
       "history": [
-        97.1500015258789,
         99.47000122070312,
         103.2699966430664,
         101.76000213623047,
-        100.83000183105469
+        102.12000274658203
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4025.5,
-      "changePercent": -0.319,
-      "previousClose": 4150,
+      "price": 4016.1,
+      "changePercent": -0.552,
+      "previousClose": 4060.4,
       "currency": "USD",
       "history": [
-        4150,
         4060.39990234375,
         4007.89990234375,
         4038.39990234375,
-        4025.5
+        4016.10009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.046,
-      "changePercent": 0.085,
-      "previousClose": 101.78,
+      "price": 102.128,
+      "changePercent": 0.166,
+      "previousClose": 101.61,
       "currency": "USD",
       "history": [
-        101.77999877929688,
         101.61000061035156,
         101.80999755859375,
         101.95999908447266,
-        102.0459976196289
+        102.12799835205078
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.39,
-      "changePercent": -5.45,
-      "previousClose": 17.31,
+      "price": 18.45,
+      "changePercent": 0.326,
+      "previousClose": 16.68,
       "currency": "USD",
       "history": [
-        17.309999465942383,
         16.68000030517578,
         19.030000686645508,
         19.450000762939453,
-        18.389999389648438
+        18.389999389648438,
+        18.450000762939453
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "'삼성전자 기밀유출' 안승호 前부사장 2심 징역 3년…법정구속",
-      "link": "https://www.yna.co.kr/view/AKR20261027079900004",
-      "pubDate": "Tue, 27 Oct 2026 11:02:30 +0900"
+      "title": "박현주 미래에셋회장 \"내일 M&A 발표…반도체 고점론 틀릴 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027154900008",
+      "pubDate": "Tue, 27 Oct 2026 16:47:56 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"K뷰티 계속 갈까요\"…1만명 앞에서 한국콜마가 내놓은 답은",
+      "link": "https://www.hankyung.com/article/202610278472i",
+      "pubDate": "Tue, 27 Oct 2026 16:47:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해수부, 부산서 제2차 APEC 해양 회복력 콘퍼런스",
-      "link": "https://www.yna.co.kr/view/AKR20261027017500051",
-      "pubDate": "Tue, 27 Oct 2026 11:00:07 +0900"
+      "title": "하이브 \"미국 자회사 주식 3천782억원에 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027158100008",
+      "pubDate": "Tue, 27 Oct 2026 16:46:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해수부, 부산서 '해양 디지털 기업 오픈 이노베이션' 행사",
-      "link": "https://www.yna.co.kr/view/AKR20261027018600051",
-      "pubDate": "Tue, 27 Oct 2026 11:00:06 +0900"
+      "title": "중수청 \"담합자진신고 접수권한은 수사기관에\"…공소청과 충돌",
+      "link": "https://www.yna.co.kr/view/AKR20261027153200004",
+      "pubDate": "Tue, 27 Oct 2026 16:44:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "통상본부장 \"리스크 확대 속 통상관계 안정성 확보 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027031900003",
-      "pubDate": "Tue, 27 Oct 2026 11:00:05 +0900"
+      "title": "강릉시, 기업 현장 소통 강화…첨단기술 기업 유치 나서",
+      "link": "https://www.yna.co.kr/view/AKR20261027157600062",
+      "pubDate": "Tue, 27 Oct 2026 16:42:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "“코로나 이후 최대 낙폭”…룰라 당선에 브라질 금융시장 패닉",
+      "link": "https://www.hankyung.com/article/202610278430i",
+      "pubDate": "Tue, 27 Oct 2026 16:41:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정부, 중·EU WTO 표준필수특허 분쟁에 국내 영향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261027043400003",
-      "pubDate": "Tue, 27 Oct 2026 11:00:05 +0900"
+      "title": "농협상호금융, 전국 4천800개 농축협에 '지정맥 인증' 도입",
+      "link": "https://www.yna.co.kr/view/AKR20261027156800030",
+      "pubDate": "Tue, 27 Oct 2026 16:41:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수출 붐업코리아 종료…1억3천만 달러 규모 계약·MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261027060500003",
-      "pubDate": "Tue, 27 Oct 2026 11:00:03 +0900"
+      "title": "국고채 금리 일제히 하락…3년물 연 3.758%",
+      "link": "https://www.yna.co.kr/view/AKR20261027157200008",
+      "pubDate": "Tue, 27 Oct 2026 16:40:29 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "내달 29일까지 '코리아 수산 페스타'…수산물 최대 50% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261027027100030",
-      "pubDate": "Tue, 27 Oct 2026 11:00:03 +0900"
+      "title": "SKAI, 10억원 유상증자…전찬우에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20261027155700008",
+      "pubDate": "Tue, 27 Oct 2026 16:39:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강릉 장애인 일자리 12% 증원…중증장애인 참여 기회 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261027072500062",
-      "pubDate": "Tue, 27 Oct 2026 11:00:02 +0900"
+      "title": "원/달러 환율, 미 금리 결정 경계감 속 1,320원대 보합권",
+      "link": "https://www.yna.co.kr/view/AKR20261027145700002",
+      "pubDate": "Tue, 27 Oct 2026 16:33:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부, 내달 8일까지 한우 할인행사…최대 63% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261027072900030",
-      "pubDate": "Tue, 27 Oct 2026 11:00:01 +0900"
+      "title": "네이버, 브룩필드와 12조원 AI인프라 계약…AI팩토리 본격 공략",
+      "link": "https://www.yna.co.kr/view/AKR20261027150700017",
+      "pubDate": "Tue, 27 Oct 2026 16:32:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "K-푸드, 파리서 1천500만달러 계약…첫 한식축제엔 7만5천명",
-      "link": "https://www.yna.co.kr/view/AKR20261027064500030",
-      "pubDate": "Tue, 27 Oct 2026 11:00:01 +0900"
+      "title": "與, 의총서 가상자산 과세 유예론 잇따라…내일 재경위 당정협의(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027135951001",
+      "pubDate": "Tue, 27 Oct 2026 16:31:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정부 \"1인당 국민소득 올해 4만달러대 진입 확실시\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027078600002",
-      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0900"
+      "title": "고흥 우주발사체 국가산단 조성 속도…내년 보상 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261027069300003",
+      "pubDate": "Tue, 27 Oct 2026 16:30:00 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "부산 교육공무직 신규 채용 경쟁률 11.87대 1",
-      "link": "https://www.yna.co.kr/view/AKR20261027069200051",
-      "pubDate": "Tue, 27 Oct 2026 10:54:50 +0900"
+      "source": "한국경제",
+      "title": "선 넘은 파격 실루엣…아이돌 48명 입은 '이 옷' 정체",
+      "link": "https://www.hankyung.com/article/202610278298i",
+      "pubDate": "Tue, 27 Oct 2026 16:27:37 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 배민, 천안시와 지역사회 동반성장 상생협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261027077500030",
-      "pubDate": "Tue, 27 Oct 2026 10:54:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오비맥주, 대리기사용 '음주운전 방지장치 사용 안내 영상' 제작",
-      "link": "https://www.yna.co.kr/view/AKR20261027073200030",
-      "pubDate": "Tue, 27 Oct 2026 10:46:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "111명에게 10억 빌려주고 이자 3억 챙긴 사채업자, 항소심 집유",
-      "link": "https://www.yna.co.kr/view/AKR20261027072400055",
-      "pubDate": "Tue, 27 Oct 2026 10:45:21 +0900"
+      "source": "한국경제",
+      "title": "'2기 경제팀' 한 달…경제정책 무게추 청와대서 내각으로",
+      "link": "https://www.hankyung.com/article/202610278391i",
+      "pubDate": "Tue, 27 Oct 2026 16:27:33 +0900"
     }
   ]
 }
