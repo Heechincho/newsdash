@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:15:20.145Z",
+  "updatedAt": "2026-10-28T08:42:45.034Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.25,
-      "changePercent": 1.351,
-      "previousClose": 99.47,
+      "price": 101.5,
+      "changePercent": 1.601,
+      "previousClose": 103.27,
       "currency": "USD",
       "history": [
-        99.47000122070312,
         103.2699966430664,
         101.76000213623047,
         99.9000015258789,
-        101.25
+        101.5
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4062,
-      "changePercent": -0.309,
-      "previousClose": 4060.4,
+      "price": 4063.1,
+      "changePercent": -0.282,
+      "previousClose": 4007.9,
       "currency": "USD",
       "history": [
-        4060.39990234375,
         4007.89990234375,
         4038.39990234375,
         4074.60009765625,
-        4062
+        4063.10009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.402,
-      "changePercent": 0.081,
-      "previousClose": 101.61,
+      "price": 102.371,
+      "changePercent": 0.051,
+      "previousClose": 101.81,
       "currency": "USD",
       "history": [
-        101.61000061035156,
         101.80999755859375,
         101.95999908447266,
         102.31999969482422,
-        102.4020004272461
+        102.37100219726562
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.52,
-      "changePercent": -4.731,
-      "previousClose": 16.68,
+      "price": 17.53,
+      "changePercent": 0.057,
+      "previousClose": 19.03,
       "currency": "USD",
       "history": [
-        16.68000030517578,
         19.030000686645508,
         19.450000762939453,
         18.389999389648438,
-        17.520000457763672
+        17.520000457763672,
+        17.530000686645508
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "1700년대 마차 가방부터 비틀즈 악기까지…이랜드, 수장고 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261028083300030",
-      "pubDate": "Wed, 28 Oct 2026 11:05:48 +0900"
+      "title": "애플, 208억원 과징금에 \"동의하지 않는다\"…대응 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261028171600017",
+      "pubDate": "Wed, 28 Oct 2026 17:27:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SK하이닉스, 주당 2만원 현금배당…연간 총 100조원 푼다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261028036251003",
-      "pubDate": "Wed, 28 Oct 2026 11:04:09 +0900"
+      "title": "李대통령 \"자기만 개혁주체인 양 동지 공격…무책임한 극단주의\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261028147500371",
+      "pubDate": "Wed, 28 Oct 2026 17:20:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[동정] 기후장관, 앙골라와 안정적 전력 공급 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261028046700530",
-      "pubDate": "Wed, 28 Oct 2026 11:00:06 +0900"
+      "title": "aT \"국산 신품종 포도 '글로리스타', 중국 첫 수출\"",
+      "link": "https://www.yna.co.kr/view/AKR20261028169000030",
+      "pubDate": "Wed, 28 Oct 2026 17:17:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해수부, 3개국 주한 외교단 간담회…유엔 해양총회 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261028052700051",
-      "pubDate": "Wed, 28 Oct 2026 11:00:05 +0900"
+      "title": "공정위, 라면담합 정조준…농심·삼양·팔도·오뚜기 현장조사",
+      "link": "https://www.yna.co.kr/view/AKR20261028167000002",
+      "pubDate": "Wed, 28 Oct 2026 17:16:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해수부, 29일 부산서 '아태 해양 디지털 국제콘퍼런스'",
-      "link": "https://www.yna.co.kr/view/AKR20261028056000051",
-      "pubDate": "Wed, 28 Oct 2026 11:00:04 +0900"
+      "title": "지엔코, 30억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20261028169800008",
+      "pubDate": "Wed, 28 Oct 2026 17:13:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "해수부, 29∼30일 여수서 '수산물 직거래·유통 상생 대축제'",
-      "link": "https://www.yna.co.kr/view/AKR20261028071400030",
-      "pubDate": "Wed, 28 Oct 2026 11:00:03 +0900"
+      "title": "국도 5호선 춘천∼화천 2.82㎞ 구간 연내 조기 개통 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261028165500062",
+      "pubDate": "Wed, 28 Oct 2026 17:08:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "김종구 농식품부 차관, 싱가포르 방문…스마트팜 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261028073800030",
-      "pubDate": "Wed, 28 Oct 2026 11:00:02 +0900"
+      "title": "SK렌터카, 수요예측에 자금 4.2배 몰려…만기별 투자심리 차이",
+      "link": "https://www.yna.co.kr/view/AKR20261028167100008",
+      "pubDate": "Wed, 28 Oct 2026 17:06:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가짜 '메이드인 코리아' 뿌리 뽑는다…관세청 석 달간 특별단속",
-      "link": "https://www.yna.co.kr/view/AKR20261028072500002",
-      "pubDate": "Wed, 28 Oct 2026 11:00:02 +0900"
+      "title": "이형일, 블룸버그 아태대표 만나 선진국 채권지수 격상 요청",
+      "link": "https://www.yna.co.kr/view/AKR20261028129200002",
+      "pubDate": "Wed, 28 Oct 2026 17:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[속보] 코스피, 장중 6,000선 회복…10거래일만에 탈환",
-      "link": "https://www.yna.co.kr/view/AKR20261028083000008",
-      "pubDate": "Wed, 28 Oct 2026 10:58:01 +0900"
+      "title": "전북 찾은 박홍근 \"피지컬AI·새만금 개발 적극 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261028147900002",
+      "pubDate": "Wed, 28 Oct 2026 17:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "태안 귀농·귀촌인 공공임대주택 20채 12월 착공…내년 말 입주",
-      "link": "https://www.yna.co.kr/view/AKR20261028082000063",
-      "pubDate": "Wed, 28 Oct 2026 10:54:30 +0900"
+      "title": "미 FOMC 앞두고 국고채 금리 일제히 상승…3년물 연 3.799%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261028160651008",
+      "pubDate": "Wed, 28 Oct 2026 16:57:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "37년 된 평창동 금강하이츠빌라 재건축 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261028081500004",
-      "pubDate": "Wed, 28 Oct 2026 10:53:40 +0900"
+      "title": "구글, 429억 과징금에 유감…법 준수 노력·개발자 지원 강조",
+      "link": "https://www.yna.co.kr/view/AKR20261028163200017",
+      "pubDate": "Wed, 28 Oct 2026 16:56:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'성남 국제 바이오헬스케어 컨벤션' 29~30일 열려",
-      "link": "https://www.yna.co.kr/view/AKR20261028077300061",
-      "pubDate": "Wed, 28 Oct 2026 10:50:27 +0900"
+      "title": "산청군, 카이랩스와 70억 규모 투자협약…매촌산단 공장 증설",
+      "link": "https://www.yna.co.kr/view/AKR20261028163000052",
+      "pubDate": "Wed, 28 Oct 2026 16:53:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "민간투자형 SW사업 기회 한자리에…내달 3일 정부 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20261028078600017",
-      "pubDate": "Wed, 28 Oct 2026 10:49:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "침체된 조선업 인프라를 해상풍력 기지로…\"제2의 덴마크 꿈꾼다\"",
-      "link": "https://www.hankyung.com/article/202610289832i",
-      "pubDate": "Wed, 28 Oct 2026 10:49:46 +0900"
+      "title": "국고채 금리 일제히 상승…3년물 연 3.799%",
+      "link": "https://www.yna.co.kr/view/AKR20261028160600008",
+      "pubDate": "Wed, 28 Oct 2026 16:40:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소상공인 대상 '울주군 1인 점포 밝힘 프로젝트' 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20261028073400057",
-      "pubDate": "Wed, 28 Oct 2026 10:41:56 +0900"
+      "title": "노동부 AI '다우리 GPT', 인사혁신 경진대회서 '대상' 수상",
+      "link": "https://www.yna.co.kr/view/AKR20261028159900530",
+      "pubDate": "Wed, 28 Oct 2026 16:40:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "해양진흥공사 '컨테이너 손상 AI 탐지 기술' 부총리상",
+      "link": "https://www.yna.co.kr/view/AKR20261028158900051",
+      "pubDate": "Wed, 28 Oct 2026 16:38:10 +0900"
     }
   ]
 }
