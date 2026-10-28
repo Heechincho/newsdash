@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-28T15:30:38.433Z",
+  "updatedAt": "2026-10-28T20:32:44.991Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7735.47,
-      "changePercent": 0.167,
+      "price": 7743.98,
+      "changePercent": 0.277,
       "previousClose": 7757.17,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7623.68017578125,
         7676.77001953125,
         7722.60009765625,
-        7735.47021484375
+        7743.97998046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26465.31,
-      "changePercent": -0.047,
+      "price": 26549.852,
+      "changePercent": 0.272,
       "previousClose": 26702.86,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25955.33984375,
         26169.380859375,
         26477.810546875,
-        26465.310546875
+        26549.8515625
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52504.21,
-      "changePercent": 0.242,
+      "price": 52475.1,
+      "changePercent": 0.186,
       "previousClose": 52856.09,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52215.16015625,
         52361.578125,
         52377.5703125,
-        52504.2109375
+        52475.1015625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.34,
-      "changePercent": 2.442,
+      "price": 101.63,
+      "changePercent": 1.732,
       "previousClose": 103.27,
       "currency": "USD",
       "history": [
         103.2699966430664,
         101.76000213623047,
         99.9000015258789,
-        102.33999633789062
+        101.62999725341797
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4058.3,
-      "changePercent": -0.4,
+      "price": 4080.8,
+      "changePercent": 0.152,
       "previousClose": 4007.9,
       "currency": "USD",
       "history": [
         4007.89990234375,
         4038.39990234375,
         4074.60009765625,
-        4058.300048828125
+        4080.800048828125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.358,
-      "changePercent": 0.038,
+      "price": 102.128,
+      "changePercent": -0.187,
       "previousClose": 101.81,
       "currency": "USD",
       "history": [
         101.80999755859375,
         101.95999908447266,
         102.31999969482422,
-        102.35800170898438
+        102.12799835205078
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.24,
-      "changePercent": -1.598,
+      "price": 16.91,
+      "changePercent": -3.486,
       "previousClose": 19.03,
       "currency": "USD",
       "history": [
@@ -113,12 +113,48 @@
         19.450000762939453,
         18.389999389648438,
         17.520000457763672,
-        17.239999771118164
+        16.90999984741211
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261029002952071",
+      "pubDate": "Thu, 29 Oct 2026 05:28:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이스라엘 총선·美 이란 공격 가능성 주시…국제유가 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261029009000072",
+      "pubDate": "Thu, 29 Oct 2026 04:52:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261029002951071",
+      "pubDate": "Thu, 29 Oct 2026 03:32:54 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[2보] 美기준금리 3.75∼4.00% 동결…9월 인상 뒤 속도조절",
+      "link": "https://www.yna.co.kr/view/AKR20261029002900071",
+      "pubDate": "Thu, 29 Oct 2026 03:03:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[1보] 美연준, 기준금리 동결…3.75∼4.00% 유지",
+      "link": "https://www.yna.co.kr/view/AKR20261029002800071",
+      "pubDate": "Thu, 29 Oct 2026 03:02:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "금값 바닥 멀었다?…JP모건,\"내년초까지 추가 하락위험\"",
+      "link": "https://www.hankyung.com/article/202610291867i",
+      "pubDate": "Thu, 29 Oct 2026 00:34:42 +0900"
+    },
     {
       "source": "한국경제",
       "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
@@ -172,42 +208,6 @@
       "title": "희토류 필요없는 LED…서울반도체, 세계 첫 개발",
       "link": "https://www.hankyung.com/article/2026102816531",
       "pubDate": "Wed, 28 Oct 2026 20:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中CXMT, HBM3E 생산 강행…수율 25%,양산 빠르면 2028년?",
-      "link": "https://www.hankyung.com/article/202610281647i",
-      "pubDate": "Wed, 28 Oct 2026 19:34:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인텔리빅스·크리에이츠 등 코스닥 신규상장…30일 거래 개시",
-      "link": "https://www.yna.co.kr/view/AKR20261028182600008",
-      "pubDate": "Wed, 28 Oct 2026 18:48:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증선위, 실적 부풀린 피델릭스에 감사인지정 3년 등 조치",
-      "link": "https://www.yna.co.kr/view/AKR20261028180900002",
-      "pubDate": "Wed, 28 Oct 2026 18:44:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미국육류수출협회 창립 50주년 기념 '2026 USMEF 파트너스 데이' 개최",
-      "link": "https://www.hankyung.com/article/202610281615i",
-      "pubDate": "Wed, 28 Oct 2026 18:27:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "故이건희 회장 6주기 추모 음악회",
-      "link": "https://www.hankyung.com/article/2026102815201",
-      "pubDate": "Wed, 28 Oct 2026 18:25:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "농협銀, NH미소금융에 1000억 출연",
-      "link": "https://www.hankyung.com/article/2026102815311",
-      "pubDate": "Wed, 28 Oct 2026 18:24:28 +0900"
     }
   ]
 }
