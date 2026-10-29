@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:16:03.893Z",
+  "updatedAt": "2026-10-29T13:19:48.050Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.24,
-      "changePercent": -1.498,
+      "price": 100.76,
+      "changePercent": -1.965,
       "previousClose": 101.76,
       "currency": "USD",
       "history": [
         101.76000213623047,
         99.9000015258789,
         102.77999877929688,
-        101.23999786376953
+        100.76000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4040,
-      "changePercent": -0.286,
+      "price": 4035.1,
+      "changePercent": -0.407,
       "previousClose": 4038.4,
       "currency": "USD",
       "history": [
         4038.39990234375,
         4074.60009765625,
         4051.60009765625,
-        4040
+        4035.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.253,
-      "changePercent": 0.058,
+      "price": 102.285,
+      "changePercent": 0.089,
       "previousClose": 101.96,
       "currency": "USD",
       "history": [
         101.95999908447266,
         102.31999969482422,
         102.19000244140625,
-        102.25299835205078
+        102.28500366210938
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.91,
-      "changePercent": -3.482,
-      "previousClose": 19.03,
+      "price": 16.92,
+      "changePercent": 0.059,
+      "previousClose": 19.45,
       "currency": "USD",
       "history": [
-        19.030000686645508,
         19.450000762939453,
         18.389999389648438,
         17.520000457763672,
-        16.90999984741211
+        16.90999984741211,
+        16.920000076293945
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "부산은행, 부패방지·규범준수 경영시스템 통합 인증",
-      "link": "https://www.yna.co.kr/view/AKR20261029143900051",
-      "pubDate": "Thu, 29 Oct 2026 15:07:30 +0900"
+      "source": "한국경제",
+      "title": "\"비만약이 돈 쓸어담았다\"…일라이릴리, 올 매출 920억달러 전망",
+      "link": "https://www.hankyung.com/article/202610294648i",
+      "pubDate": "Thu, 29 Oct 2026 21:11:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울주문화재단·울산대, 서울주 캠퍼스 조성협약",
-      "link": "https://www.yna.co.kr/view/AKR20261029141400057",
-      "pubDate": "Thu, 29 Oct 2026 15:05:16 +0900"
+      "title": "SK플래닛 기프티콘 이용자 개인정보 유출…피해 규모 조사 중",
+      "link": "https://www.yna.co.kr/view/AKR20261029203900017",
+      "pubDate": "Thu, 29 Oct 2026 20:39:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "장재훈 현대차그룹 부회장 \"새만금 AI 밸리 차질 없이 추진\"",
-      "link": "https://www.hankyung.com/article/202610293628g",
-      "pubDate": "Thu, 29 Oct 2026 15:04:26 +0900"
+      "title": "\"나가면 그대로 쫓겨날라\"…홈플러스서 밤새는 점주들 '절규' [영상]",
+      "link": "https://www.hankyung.com/article/202610293522g",
+      "pubDate": "Thu, 29 Oct 2026 20:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[일문일답] 한수원 \"체코 원전 시공사 교체 큰 영향 없을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029198700003",
+      "pubDate": "Thu, 29 Oct 2026 19:51:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"빨간 동그라미 닮았네\"…수능 대박 기원 간식 뜬다",
-      "link": "https://www.hankyung.com/article/202610293653g",
-      "pubDate": "Thu, 29 Oct 2026 15:03:19 +0900"
+      "title": "\"AI칩 다음은 레이저\"…마벨, 111조원에 루멘텀 인수 추진",
+      "link": "https://www.hankyung.com/article/202610294589i",
+      "pubDate": "Thu, 29 Oct 2026 19:46:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "무협, UAE·모로코에 사절단 파견…소비재 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261029127100003",
-      "pubDate": "Thu, 29 Oct 2026 15:00:02 +0900"
+      "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261029100051003",
+      "pubDate": "Thu, 29 Oct 2026 19:31:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융위 부위원장 \"국성펀 가시적 성과까진 상당기간 소요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029129500002",
-      "pubDate": "Thu, 29 Oct 2026 15:00:01 +0900"
+      "title": "\"인수 제안받은 기업, 주주에 검토결과·거절이유 밝히도록 해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029192400008",
+      "pubDate": "Thu, 29 Oct 2026 19:08:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일, 녹색성장서밋에서 \"기후위기 대응과 경제성장 선순환\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029133300002",
-      "pubDate": "Thu, 29 Oct 2026 15:00:01 +0900"
+      "title": "UBS, '8000→7500' 코스피 목표치 또 낮춰…\"원화강세 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029196100008",
+      "pubDate": "Thu, 29 Oct 2026 18:48:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일 \"서민금융, 숨구멍이자 디딤돌…취약차주 접근성 높일것\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029133400002",
-      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0900"
+      "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
+      "link": "https://www.yna.co.kr/view/AKR20261029196900002",
+      "pubDate": "Thu, 29 Oct 2026 18:48:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "미국 Fed 의장은 왜 한국 반도체를 들여다보나 [여기는 논설실]",
+      "link": "https://www.hankyung.com/article/202610294542i",
+      "pubDate": "Thu, 29 Oct 2026 18:45:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "현대카드, 3분기 누적 당기순익 2천758억원…8.2% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261029137800002",
-      "pubDate": "Thu, 29 Oct 2026 14:58:11 +0900"
+      "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261029169152002",
+      "pubDate": "Thu, 29 Oct 2026 18:28:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "자매결연 10주년 日 고치현, 전남광주 방문…교류 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261029131700054",
-      "pubDate": "Thu, 29 Oct 2026 14:57:56 +0900"
+      "title": "시지트로닉스, 20억원 유상증자…케이앤인터내셔널에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20261029195500008",
+      "pubDate": "Thu, 29 Oct 2026 18:26:18 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "신규 택지 후보지역 대체로 환영…베드타운 전락 우려도",
-      "link": "https://www.yna.co.kr/view/AKR20261029134800060",
-      "pubDate": "Thu, 29 Oct 2026 14:57:25 +0900"
+      "source": "한국경제",
+      "title": "정유경의 '1등 점포 전략'…유통판 흔든다",
+      "link": "https://www.hankyung.com/article/2026102944391",
+      "pubDate": "Thu, 29 Oct 2026 18:24:54 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "노동장관 \"프랑스 '분노의가을' 남일 아냐…일터민주주의 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029134600530",
-      "pubDate": "Thu, 29 Oct 2026 14:53:28 +0900"
+      "source": "한국경제",
+      "title": "현대百그룹, 7년 만에 '전문경영인 부회장' 체제 부활",
+      "link": "https://www.hankyung.com/article/2026102944361",
+      "pubDate": "Thu, 29 Oct 2026 18:23:41 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "첫 사천에어쇼 우주항공방위산업전, 26조 규모 수주 상담 성과",
-      "link": "https://www.yna.co.kr/view/AKR20261029134400052",
-      "pubDate": "Thu, 29 Oct 2026 14:48:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국토부, 건설기계 연식 제한 논의…\"부천 타워크레인 사고 방지\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029134500003",
-      "pubDate": "Thu, 29 Oct 2026 14:47:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "홍성 국힘 정치인들 \"내포 국가산단 예타 탈락 근거 공개하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029131900063",
-      "pubDate": "Thu, 29 Oct 2026 14:41:54 +0900"
+      "source": "한국경제",
+      "title": "현대차, 분기 매출 6년 만에 감소",
+      "link": "https://www.hankyung.com/article/2026102944411",
+      "pubDate": "Thu, 29 Oct 2026 18:22:33 +0900"
     }
   ]
 }
