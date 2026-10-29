@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T20:32:44.991Z",
+  "updatedAt": "2026-10-29T00:23:21.387Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 101.63,
-      "changePercent": 1.732,
+      "price": 101.98,
+      "changePercent": -0.778,
       "previousClose": 103.27,
       "currency": "USD",
       "history": [
         103.2699966430664,
         101.76000213623047,
         99.9000015258789,
-        101.62999725341797
+        101.9800033569336
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4080.8,
-      "changePercent": 0.152,
+      "price": 4056.3,
+      "changePercent": 0.116,
       "previousClose": 4007.9,
       "currency": "USD",
       "history": [
         4007.89990234375,
         4038.39990234375,
         4074.60009765625,
-        4080.800048828125
+        4056.300048828125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.128,
-      "changePercent": -0.187,
+      "price": 102.207,
+      "changePercent": 0.013,
       "previousClose": 101.81,
       "currency": "USD",
       "history": [
         101.80999755859375,
         101.95999908447266,
         102.31999969482422,
-        102.12799835205078
+        102.20700073242188
       ],
       "ok": true
     },
@@ -105,7 +105,7 @@
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
       "price": 16.91,
-      "changePercent": -3.486,
+      "changePercent": -3.482,
       "previousClose": 19.03,
       "currency": "USD",
       "history": [
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261029002952071",
-      "pubDate": "Thu, 29 Oct 2026 05:28:03 +0900"
+      "title": "롯데건설, 'S70 성수 르엘' 팝업관 오픈…6세대 주거문화 체험",
+      "link": "https://www.yna.co.kr/view/AKR20261029045300003",
+      "pubDate": "Thu, 29 Oct 2026 09:11:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이스라엘 총선·美 이란 공격 가능성 주시…국제유가 상승",
-      "link": "https://www.yna.co.kr/view/AKR20261029009000072",
-      "pubDate": "Thu, 29 Oct 2026 04:52:42 +0900"
+      "title": "현대엘리베이터, 건설안전관리평가서 최고등급 'SA1' 획득",
+      "link": "https://www.yna.co.kr/view/AKR20261029045100003",
+      "pubDate": "Thu, 29 Oct 2026 09:11:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029002951071",
-      "pubDate": "Thu, 29 Oct 2026 03:32:54 +0900"
+      "title": "[특징주] 티앤이코리아, 코스닥 거래 첫날 장초반 '따블'",
+      "link": "https://www.yna.co.kr/view/AKR20261029044600008",
+      "pubDate": "Thu, 29 Oct 2026 09:08:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[2보] 美기준금리 3.75∼4.00% 동결…9월 인상 뒤 속도조절",
-      "link": "https://www.yna.co.kr/view/AKR20261029002900071",
-      "pubDate": "Thu, 29 Oct 2026 03:03:03 +0900"
+      "title": "한은 \"美 금리 동결했으나 대외 리스크 요인 상존\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029044400002",
+      "pubDate": "Thu, 29 Oct 2026 09:08:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[1보] 美연준, 기준금리 동결…3.75∼4.00% 유지",
-      "link": "https://www.yna.co.kr/view/AKR20261029002800071",
-      "pubDate": "Thu, 29 Oct 2026 03:02:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금값 바닥 멀었다?…JP모건,\"내년초까지 추가 하락위험\"",
-      "link": "https://www.hankyung.com/article/202610291867i",
-      "pubDate": "Thu, 29 Oct 2026 00:34:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-      "link": "https://www.hankyung.com/article/202610281854i",
-      "pubDate": "Wed, 28 Oct 2026 23:59:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "웬디스,1.9조달러에 팔리나?…펠츠의 트라이언 펀드 인수제안",
-      "link": "https://www.hankyung.com/article/202610281810i",
-      "pubDate": "Wed, 28 Oct 2026 23:17:33 +0900"
+      "title": "코스피, 보합권서 등락…전날 6%대 급등후 숨고르기",
+      "link": "https://www.yna.co.kr/view/AKR20261029043800008",
+      "pubDate": "Thu, 29 Oct 2026 09:06:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "韓총리 \"새만금, 임기내 최대한 진척…향후 10년이 미래 좌우\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261028197100001",
-      "pubDate": "Wed, 28 Oct 2026 23:08:08 +0900"
+      "title": "원주시, 2천132필지 개별공시지가 결정·공시",
+      "link": "https://www.yna.co.kr/view/AKR20261029043600062",
+      "pubDate": "Thu, 29 Oct 2026 09:05:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시, 구룡마을 화재 이재민에 공공임대 96호 긴급 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261028193900004",
-      "pubDate": "Wed, 28 Oct 2026 22:00:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "앤스로픽공모주 '그림의 떡'아시아투자자…블룸버그가 주목한 주식은?",
-      "link": "https://www.hankyung.com/article/202610281738i",
-      "pubDate": "Wed, 28 Oct 2026 21:29:27 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이재용, 故이건희 6주기 추모음악회 참석…삼성家·경영진 한자리에",
-      "link": "https://www.hankyung.com/article/2026102817097",
-      "pubDate": "Wed, 28 Oct 2026 20:48:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'마트에서 안 사요'…4050 다이소에서 반찬까지 담는 이유가 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202610281686i",
-      "pubDate": "Wed, 28 Oct 2026 20:17:39 +0900"
+      "title": "원주시, 노인 공동체사업단 운영…일자리·소득 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261029043000062",
+      "pubDate": "Thu, 29 Oct 2026 09:04:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "초광역특구법 갈등 속 사회적 대화…집중 논의 과제 공유",
-      "link": "https://www.yna.co.kr/view/AKR20261028189100530",
-      "pubDate": "Wed, 28 Oct 2026 20:05:38 +0900"
+      "title": "아산시, 공장설립 인허가 절차 최대한 단축…기업 투자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261029042000063",
+      "pubDate": "Thu, 29 Oct 2026 09:02:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "현대차, 앨라배마공장에 6천억 투자…하이브리드·EREV 확충",
+      "link": "https://www.yna.co.kr/view/AKR20261029042100003",
+      "pubDate": "Thu, 29 Oct 2026 09:02:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증권가 \"하이닉스, 사이클 지속성 의구심 지웠다\"…일부 목표가↑",
+      "link": "https://www.yna.co.kr/view/AKR20261029037200008",
+      "pubDate": "Thu, 29 Oct 2026 09:01:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "목포 수산식품수출단지 준공…가공공장 입주기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261028160400054",
+      "pubDate": "Thu, 29 Oct 2026 09:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "퇴직급여 사외적립, 2030년까지 모든 사업장에 의무화",
+      "link": "https://www.yna.co.kr/view/AKR20261028184500530",
+      "pubDate": "Thu, 29 Oct 2026 09:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "증권가, 美 연준 금리 동결에 \"긴축 종료 아닌 숨 고르기\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029037000008",
+      "pubDate": "Thu, 29 Oct 2026 08:53:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "키움증권, 인텔리안테크 목표가↓…\"3분기 실적 일시적 부진 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029036700008",
+      "pubDate": "Thu, 29 Oct 2026 08:45:21 +0900"
     },
     {
       "source": "한국경제",
-      "title": "희토류 필요없는 LED…서울반도체, 세계 첫 개발",
-      "link": "https://www.hankyung.com/article/2026102816531",
-      "pubDate": "Wed, 28 Oct 2026 20:00:10 +0900"
+      "title": "폴리마켓 최고 수익자, 스포츠 베팅으로 1200만달러 벌었다",
+      "link": "https://www.hankyung.com/article/202610292258i",
+      "pubDate": "Thu, 29 Oct 2026 08:41:44 +0900"
     }
   ]
 }
