@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-29T13:19:48.050Z",
+  "updatedAt": "2026-10-29T19:03:11.141Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7743.98,
-      "changePercent": 0.277,
-      "previousClose": 7757.17,
+      "price": 7699.75,
+      "changePercent": -0.571,
+      "previousClose": 7663.43,
       "currency": "USD",
       "history": [
-        7663.43017578125,
         7623.68017578125,
         7676.77001953125,
         7722.60009765625,
-        7743.97998046875
+        7743.97998046875,
+        7699.75
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26549.852,
-      "changePercent": 0.272,
-      "previousClose": 26702.86,
+      "price": 26124.668,
+      "changePercent": -1.601,
+      "previousClose": 26008.86,
       "currency": "USD",
       "history": [
-        26008.859375,
         25955.33984375,
         26169.380859375,
         26477.810546875,
-        26549.849609375
+        26549.849609375,
+        26124.66796875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52475.1,
-      "changePercent": 0.186,
-      "previousClose": 52856.09,
+      "price": 52201.9,
+      "changePercent": -0.521,
+      "previousClose": 52867.98,
       "currency": "USD",
       "history": [
-        52867.98046875,
         52215.16015625,
         52361.578125,
         52377.5703125,
-        52475.1015625
+        52475.1015625,
+        52201.8984375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.76,
-      "changePercent": -1.965,
+      "price": 102.16,
+      "changePercent": -0.603,
       "previousClose": 101.76,
       "currency": "USD",
       "history": [
         101.76000213623047,
         99.9000015258789,
         102.77999877929688,
-        100.76000213623047
+        102.16000366210938
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4035.1,
-      "changePercent": -0.407,
+      "price": 4022.2,
+      "changePercent": -0.726,
       "previousClose": 4038.4,
       "currency": "USD",
       "history": [
         4038.39990234375,
         4074.60009765625,
         4051.60009765625,
-        4035.10009765625
+        4022.199951171875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.285,
-      "changePercent": 0.089,
+      "price": 102.034,
+      "changePercent": -0.157,
       "previousClose": 101.96,
       "currency": "USD",
       "history": [
         101.95999908447266,
         102.31999969482422,
         102.19000244140625,
-        102.28500366210938
+        102.03399658203125
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.92,
-      "changePercent": 0.059,
+      "price": 17.03,
+      "changePercent": 0.71,
       "previousClose": 19.45,
       "currency": "USD",
       "history": [
@@ -113,12 +113,66 @@
         18.389999389648438,
         17.520000457763672,
         16.90999984741211,
-        16.920000076293945
+        17.030000686645508
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"구글링 시대 끝나나\"…AI가 구글의 검색사업 흔든다",
+      "link": "https://www.hankyung.com/article/202610304764i",
+      "pubDate": "Fri, 30 Oct 2026 00:46:29 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미 연준 이어 ECB도 금리 동결…\"인플레·경기둔화 위험 여전\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261029208552082",
+      "pubDate": "Fri, 30 Oct 2026 00:15:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610294742i",
+      "pubDate": "Thu, 29 Oct 2026 23:36:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "생활비 위기에도 지갑 연 미국인들…3분기 美 GDP 3.4% 성장",
+      "link": "https://www.hankyung.com/article/202610294673i",
+      "pubDate": "Thu, 29 Oct 2026 23:19:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[2보] ECB 금리 동결…예금금리 연 2.50％",
+      "link": "https://www.yna.co.kr/view/AKR20261029208551082",
+      "pubDate": "Thu, 29 Oct 2026 22:38:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] ECB 금리 동결, 예금금리 연 2.50%",
+      "link": "https://www.hankyung.com/article/2026102947027",
+      "pubDate": "Thu, 29 Oct 2026 22:21:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"삼성 폴더블폰과 비교하니…\" 접는 아이폰의 '치명적 한계'",
+      "link": "https://www.hankyung.com/article/202610293366g",
+      "pubDate": "Thu, 29 Oct 2026 22:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] 美 9월 PCE 물가 전년대비 3.6% 상승…예상치 소폭 하회",
+      "link": "https://www.hankyung.com/article/2026102946807",
+      "pubDate": "Thu, 29 Oct 2026 21:46:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"인구 위기·지역 불균형 방치 땐 사회 갈등 심화\"",
+      "link": "https://www.hankyung.com/article/202610294676i",
+      "pubDate": "Thu, 29 Oct 2026 21:45:34 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"비만약이 돈 쓸어담았다\"…일라이릴리, 올 매출 920억달러 전망",
@@ -154,60 +208,6 @@
       "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261029100051003",
       "pubDate": "Thu, 29 Oct 2026 19:31:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"인수 제안받은 기업, 주주에 검토결과·거절이유 밝히도록 해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029192400008",
-      "pubDate": "Thu, 29 Oct 2026 19:08:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "UBS, '8000→7500' 코스피 목표치 또 낮춰…\"원화강세 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029196100008",
-      "pubDate": "Thu, 29 Oct 2026 18:48:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자",
-      "link": "https://www.yna.co.kr/view/AKR20261029196900002",
-      "pubDate": "Thu, 29 Oct 2026 18:48:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미국 Fed 의장은 왜 한국 반도체를 들여다보나 [여기는 논설실]",
-      "link": "https://www.hankyung.com/article/202610294542i",
-      "pubDate": "Thu, 29 Oct 2026 18:45:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029169152002",
-      "pubDate": "Thu, 29 Oct 2026 18:28:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "시지트로닉스, 20억원 유상증자…케이앤인터내셔널에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20261029195500008",
-      "pubDate": "Thu, 29 Oct 2026 18:26:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "정유경의 '1등 점포 전략'…유통판 흔든다",
-      "link": "https://www.hankyung.com/article/2026102944391",
-      "pubDate": "Thu, 29 Oct 2026 18:24:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대百그룹, 7년 만에 '전문경영인 부회장' 체제 부활",
-      "link": "https://www.hankyung.com/article/2026102944361",
-      "pubDate": "Thu, 29 Oct 2026 18:23:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차, 분기 매출 6년 만에 감소",
-      "link": "https://www.hankyung.com/article/2026102944411",
-      "pubDate": "Thu, 29 Oct 2026 18:22:33 +0900"
     }
   ]
 }
