@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-30T09:03:43.077Z",
+  "updatedAt": "2026-10-30T15:52:20.958Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7720.39,
-      "changePercent": -0.305,
-      "previousClose": 7663.43,
+      "price": 7600.45,
+      "changePercent": -1.554,
+      "previousClose": 7623.68,
       "currency": "USD",
       "history": [
-        7623.68017578125,
         7676.77001953125,
         7722.60009765625,
         7743.97998046875,
-        7720.39013671875
+        7720.39013671875,
+        7600.4501953125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 26184.725,
-      "changePercent": -1.375,
-      "previousClose": 26008.86,
+      "price": 25533.953,
+      "changePercent": -2.485,
+      "previousClose": 25955.34,
       "currency": "USD",
       "history": [
-        25955.33984375,
         26169.380859375,
         26477.810546875,
         26549.849609375,
-        26184.720703125
+        26184.720703125,
+        25533.953125
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52342.56,
-      "changePercent": -0.253,
-      "previousClose": 52867.98,
+      "price": 51969.45,
+      "changePercent": -0.713,
+      "previousClose": 52215.16,
       "currency": "USD",
       "history": [
-        52215.16015625,
         52361.578125,
         52377.5703125,
         52475.1015625,
-        52342.55859375
+        52342.55859375,
+        51969.44921875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 103.56,
-      "changePercent": 1.529,
+      "price": 104.13,
+      "changePercent": 2.088,
       "previousClose": 101.76,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         99.9000015258789,
         102.77999877929688,
         102,
-        103.55999755859375
+        104.12999725341797
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4007.4,
-      "changePercent": -0.595,
+      "price": 3910.4,
+      "changePercent": -3.001,
       "previousClose": 4038.4,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4074.60009765625,
         4051.60009765625,
         4031.39990234375,
-        4007.39990234375
+        3910.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.688,
-      "changePercent": -0.342,
+      "price": 101.907,
+      "changePercent": -0.127,
       "previousClose": 101.96,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.31999969482422,
         102.19000244140625,
         102.04000091552734,
-        101.68800354003906
+        101.90699768066406
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.19,
-      "changePercent": 5.752,
+      "price": 19.66,
+      "changePercent": 14.302,
       "previousClose": 18.39,
       "currency": "USD",
       "history": [
@@ -116,12 +116,72 @@
         17.520000457763672,
         16.90999984741211,
         17.200000762939453,
-        18.190000534057617
+        19.65999984741211
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202610307105i",
+      "pubDate": "Fri, 30 Oct 2026 23:15:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261030179300004",
+      "pubDate": "Fri, 30 Oct 2026 20:22:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "경상북도, 포항·구미에 6500억 규모 '희토류 영구자석' 생산기반 구축",
+      "link": "https://www.hankyung.com/article/202610306516i",
+      "pubDate": "Fri, 30 Oct 2026 20:07:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "케이뱅크, 3분기 순익 421억…개인사업자 대출로 두 배 이상 늘어",
+      "link": "https://www.hankyung.com/article/202610306981i",
+      "pubDate": "Fri, 30 Oct 2026 19:09:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국토장관 \"연내 서울민간정비 3.1만호 착공…용적률 1.2배 협의\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261030091152003",
+      "pubDate": "Fri, 30 Oct 2026 18:56:32 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "소프트웨어 개발 기업 래블업, 내달 3일 코스닥 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261030172900008",
+      "pubDate": "Fri, 30 Oct 2026 18:54:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "EU, 하이브리드차 세이프가드 조사 개시…정부 \"국내 영향 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20261030171700003",
+      "pubDate": "Fri, 30 Oct 2026 18:42:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "반도체가 떠받친 경기…양극화는 더 짙어졌다",
+      "link": "https://www.hankyung.com/article/2026103069201",
+      "pubDate": "Fri, 30 Oct 2026 18:02:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261030156400011",
+      "pubDate": "Fri, 30 Oct 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "단 20분 만에 9조원 털렸다…세계 최대 코인거래소 '발칵'",
+      "link": "https://www.hankyung.com/article/2026103068991",
+      "pubDate": "Fri, 30 Oct 2026 17:54:40 +0900"
+    },
     {
       "source": "한국경제",
       "title": "NH미소금융재단 출범…1000억 출연",
@@ -130,7 +190,7 @@
     },
     {
       "source": "한국경제",
-      "title": "[단독] 美 압박에…알래스카 사업성 검증 서두른다",
+      "title": "[단독] 정부, 알래스카 사업성 검증 서두른다",
       "link": "https://www.hankyung.com/article/2026103069241",
       "pubDate": "Fri, 30 Oct 2026 17:47:27 +0900"
     },
@@ -148,69 +208,9 @@
     },
     {
       "source": "한국경제",
-      "title": "SK, '실무형 리더' 전진배치…반도체 역량 키우고, 에너지는 재편",
+      "title": "SK '실무형 리더' 전진배치…반도체 안정, 에너지는 쇄신",
       "link": "https://www.hankyung.com/article/2026103068871",
       "pubDate": "Fri, 30 Oct 2026 17:40:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "포스코퓨처엠, LG엔솔에 양·음극재 수조원대 공급",
-      "link": "https://www.hankyung.com/article/2026103068841",
-      "pubDate": "Fri, 30 Oct 2026 17:39:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전자, '이익 100조' 자축 경계…\"오늘의 호황이 내일의 경쟁력 아냐\"",
-      "link": "https://www.hankyung.com/article/2026103068861",
-      "pubDate": "Fri, 30 Oct 2026 17:38:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데, 1.3兆 롯데렌탈…TPG에 매각 마무리",
-      "link": "https://www.hankyung.com/article/2026103068831",
-      "pubDate": "Fri, 30 Oct 2026 17:38:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차그룹 \"새만금 AI데이터센터 내년 3월 착공\"",
-      "link": "https://www.hankyung.com/article/2026103068851",
-      "pubDate": "Fri, 30 Oct 2026 17:37:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LS전선, 구미에 국내 최대 영구자석 공장 건설",
-      "link": "https://www.hankyung.com/article/2026103068881",
-      "pubDate": "Fri, 30 Oct 2026 17:37:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 10개주, 데이터센터 찬반 투표…아마존 투자 무산 위기",
-      "link": "https://www.hankyung.com/article/2026103068721",
-      "pubDate": "Fri, 30 Oct 2026 17:35:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中·日, 길어지는 외교 갈등에…캐릭터 '헬로키티'까지 불똥",
-      "link": "https://www.hankyung.com/article/2026103068731",
-      "pubDate": "Fri, 30 Oct 2026 17:35:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"AI와 일하는 시대…인간 운용능력이 경쟁력\"",
-      "link": "https://www.hankyung.com/article/2026103068191",
-      "pubDate": "Fri, 30 Oct 2026 17:34:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "성남시 역 신설 타당성…'판교동역' 통과·'도촌야탑역' 무산",
-      "link": "https://www.yna.co.kr/view/AKR20261030162600061",
-      "pubDate": "Fri, 30 Oct 2026 17:34:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "토스, 첫 해외 M&A…日 치어증권 품는다",
-      "link": "https://www.hankyung.com/article/2026103068271",
-      "pubDate": "Fri, 30 Oct 2026 17:33:38 +0900"
     }
   ]
 }
