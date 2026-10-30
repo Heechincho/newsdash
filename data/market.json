@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-30T15:52:20.958Z",
+  "updatedAt": "2026-10-30T20:31:44.605Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7600.45,
-      "changePercent": -1.554,
+      "price": 7580.07,
+      "changePercent": -1.818,
       "previousClose": 7623.68,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7722.60009765625,
         7743.97998046875,
         7720.39013671875,
-        7600.4501953125
+        7580.06982421875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25533.953,
-      "changePercent": -2.485,
+      "price": 25436.998,
+      "changePercent": -2.856,
       "previousClose": 25955.34,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         26477.810546875,
         26549.849609375,
         26184.720703125,
-        25533.953125
+        25436.998046875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51969.45,
-      "changePercent": -0.713,
+      "price": 51770.31,
+      "changePercent": -1.093,
       "previousClose": 52215.16,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52377.5703125,
         52475.1015625,
         52342.55859375,
-        51969.44921875
+        51770.30859375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 104.13,
-      "changePercent": 2.088,
+      "price": 104.03,
+      "changePercent": 1.99,
       "previousClose": 101.76,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         99.9000015258789,
         102.77999877929688,
         102,
-        104.12999725341797
+        104.02999877929688
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3910.4,
-      "changePercent": -3.001,
+      "price": 3888.2,
+      "changePercent": -3.552,
       "previousClose": 4038.4,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4074.60009765625,
         4051.60009765625,
         4031.39990234375,
-        3910.39990234375
+        3888.199951171875
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.907,
-      "changePercent": -0.127,
+      "price": 101.916,
+      "changePercent": -0.119,
       "previousClose": 101.96,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.31999969482422,
         102.19000244140625,
         102.04000091552734,
-        101.90699768066406
+        101.91600036621094
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.66,
-      "changePercent": 14.302,
+      "price": 19.42,
+      "changePercent": 12.892,
       "previousClose": 18.39,
       "currency": "USD",
       "history": [
@@ -116,12 +116,30 @@
         17.520000457763672,
         16.90999984741211,
         17.200000762939453,
-        19.65999984741211
+        19.420000076293945
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261031005200072",
+      "pubDate": "Sat, 31 Oct 2026 05:13:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔[월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202610317171i",
+      "pubDate": "Sat, 31 Oct 2026 03:52:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "앤트로픽 IPO 코앞…AI주 사려고 AI주 판다?[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202610317188i",
+      "pubDate": "Sat, 31 Oct 2026 03:50:26 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
@@ -193,24 +211,6 @@
       "title": "[단독] 정부, 알래스카 사업성 검증 서두른다",
       "link": "https://www.hankyung.com/article/2026103069241",
       "pubDate": "Fri, 30 Oct 2026 17:47:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "효성 3분기 영업익 49% 증가…중공업 수주잔고 19조 역대 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261030151100003",
-      "pubDate": "Fri, 30 Oct 2026 17:46:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "9월까지 국세 385兆…반도체 덕에 95兆 더 걷혀",
-      "link": "https://www.hankyung.com/article/2026103069211",
-      "pubDate": "Fri, 30 Oct 2026 17:46:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "SK '실무형 리더' 전진배치…반도체 안정, 에너지는 쇄신",
-      "link": "https://www.hankyung.com/article/2026103068871",
-      "pubDate": "Fri, 30 Oct 2026 17:40:26 +0900"
     }
   ]
 }
