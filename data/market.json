@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:12:52.614Z",
+  "updatedAt": "2026-10-31T16:10:04.973Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,8 +123,20 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261031028951001",
+      "pubDate": "Sat, 31 Oct 2026 20:07:50 +0900"
+    },
+    {
       "source": "한국경제",
-      "title": "트리 하나 보러 150만명 몰렸다…올해 '크리스마스 명소'는? [트렌드+]",
+      "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202610306404i",
+      "pubDate": "Sat, 31 Oct 2026 20:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'이것' 하나 보러 150만명 몰렸다…연말마다 난리 나는 이유 [트렌드+]",
       "link": "https://www.hankyung.com/article/202610305641g",
       "pubDate": "Sat, 31 Oct 2026 18:00:04 +0900"
     },
@@ -199,18 +211,6 @@
       "title": "'달러 선택하느니 차라리…' 中 기업들 '200조' 쏟아부은 곳 [차이나 워치]",
       "link": "https://www.hankyung.com/article/202610277316i",
       "pubDate": "Sat, 31 Oct 2026 10:26:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20261031021700060",
-      "pubDate": "Sat, 31 Oct 2026 09:46:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026103064846",
-      "pubDate": "Sat, 31 Oct 2026 09:30:03 +0900"
     }
   ]
 }
