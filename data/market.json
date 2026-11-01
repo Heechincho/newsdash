@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:20:43.813Z",
+  "updatedAt": "2026-11-01T09:33:11.430Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,10 +58,9 @@
       "symbol": "CL=F",
       "price": 104.12,
       "changePercent": 2.078,
-      "previousClose": 101.76,
+      "previousClose": 99.9,
       "currency": "USD",
       "history": [
-        101.76000213623047,
         99.9000015258789,
         102.77999877929688,
         102,
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 3898.9,
       "changePercent": -3.287,
-      "previousClose": 4038.4,
+      "previousClose": 4074.6,
       "currency": "USD",
       "history": [
-        4038.39990234375,
         4074.60009765625,
         4051.60009765625,
         4031.39990234375,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 101.964,
       "changePercent": 0.083,
-      "previousClose": 101.96,
+      "previousClose": 102.32,
       "currency": "USD",
       "history": [
-        101.95999908447266,
         102.31999969482422,
         102.19000244140625,
         102.04000091552734,
@@ -123,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "서울시 \"김장 재료 최대 반값 할인\"…깐마늘·쪽파 등 6종",
-      "link": "https://www.yna.co.kr/view/AKR20261031031500004",
-      "pubDate": "Sun, 1 Nov 2026 11:15:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울시 '청년 쿡 센터' 참여기업 모집…스타트업 40곳 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261031033600004",
-      "pubDate": "Sun, 1 Nov 2026 11:15:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 석수역 노후 철재상가 정비…944세대 주상복합 들어선다",
-      "link": "https://www.yna.co.kr/view/AKR20261031033900004",
-      "pubDate": "Sun, 1 Nov 2026 11:15:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "해양수산부, 11월 수산물로 삼치·가리비류 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261030153100051",
-      "pubDate": "Sun, 1 Nov 2026 11:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "해수부, 해양교통안전공단·항로표지기술원 통합 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261030143700051",
-      "pubDate": "Sun, 1 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "학교 밖 청소년 전용 온라인 플랫폼 '유스캠퍼스' 개설",
-      "link": "https://www.yna.co.kr/view/AKR20261101013900003",
-      "pubDate": "Sun, 1 Nov 2026 11:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "호르무즈 봉쇄 후 20번째 한국 선박, 홍해 통해 원유 운송",
-      "link": "https://www.yna.co.kr/view/AKR20261101019300051",
-      "pubDate": "Sun, 1 Nov 2026 10:44:51 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261101015351003",
-      "pubDate": "Sun, 1 Nov 2026 10:35:42 +0900"
+      "source": "한국경제",
+      "title": "국내 5대 코인 거래소, 준비금·보험 1854억뿐",
+      "link": "https://www.hankyung.com/article/2026110186101",
+      "pubDate": "Sun, 01 Nov 2026 18:18:30 +0900"
     },
     {
       "source": "한국경제",
-      "title": "연비까지 장착한 'SUV 끝판왕'…제네시스 '첫 하브' 타보니 [신차털기]",
-      "link": "https://www.hankyung.com/article/202610305720g",
-      "pubDate": "Sun, 01 Nov 2026 10:30:04 +0900"
+      "title": "5대 은행 대출 연체율, 9년 반 만에 '최고'",
+      "link": "https://www.hankyung.com/article/2026110186121",
+      "pubDate": "Sun, 01 Nov 2026 18:18:20 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"돌계단 3100개 올라봐\"…中 로봇들, 태산서 진검승부 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202610279057i",
-      "pubDate": "Sun, 01 Nov 2026 10:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261101018300011",
-      "pubDate": "Sun, 1 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부고] 임진택(유진그룹 커뮤니케이션실 상무보)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20261101018600003",
-      "pubDate": "Sun, 1 Nov 2026 10:21:31 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "현대건설, 5천990억원 규모 용산 한강로구역 재개발 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261101018400003",
-      "pubDate": "Sun, 1 Nov 2026 10:19:23 +0900"
+      "title": "中 하이브리드카 막겠다는 EU…국내 車업계 '불똥'",
+      "link": "https://www.hankyung.com/article/2026110185711",
+      "pubDate": "Sun, 01 Nov 2026 18:17:56 +0900"
     },
     {
       "source": "한국경제",
-      "title": "국민은행, 12조 GPU 파이낸싱 금융주선 맡는다",
-      "link": "https://www.hankyung.com/article/202611018081i",
-      "pubDate": "Sun, 01 Nov 2026 10:08:37 +0900"
+      "title": "\"2029년부터 추가세수 없다\"…미래기금 지속가능성 '경고음'",
+      "link": "https://www.hankyung.com/article/2026110185701",
+      "pubDate": "Sun, 01 Nov 2026 18:17:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"11월 중 수출 1조달러 돌파 확실\"…반도체 터지자 '잭팟'",
-      "link": "https://www.hankyung.com/article/202611018045i",
-      "pubDate": "Sun, 01 Nov 2026 09:33:08 +0900"
+      "title": "日서 주목하는 최태원 회장의 '경제공동체론'",
+      "link": "https://www.hankyung.com/article/2026110185751",
+      "pubDate": "Sun, 01 Nov 2026 18:16:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "미래에셋·삼성증권 이어 한투까지…韓금융사 잇단 일본行",
+      "link": "https://www.hankyung.com/article/2026110185741",
+      "pubDate": "Sun, 01 Nov 2026 18:15:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中, 내수 이어 수출도 둔화…제조업·비제조업 동반 위축",
+      "link": "https://www.hankyung.com/article/2026110185321",
+      "pubDate": "Sun, 01 Nov 2026 18:13:41 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中 CXMT \"차세대 D램 시제품 검증\"",
+      "link": "https://www.hankyung.com/article/2026110185291",
+      "pubDate": "Sun, 01 Nov 2026 18:13:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中 바이오, 기술수출 넘어 'Co-Co 모델'로 진화",
+      "link": "https://www.hankyung.com/article/2026110185131",
+      "pubDate": "Sun, 01 Nov 2026 18:10:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한화, 3500억원 규모 美해군 함정 첫 수주",
+      "link": "https://www.hankyung.com/article/2026110185861",
+      "pubDate": "Sun, 01 Nov 2026 18:07:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HD현대로보틱스, 팰런티어와 '피지컬 AI' 고도화 협력",
+      "link": "https://www.hankyung.com/article/2026110185851",
+      "pubDate": "Sun, 01 Nov 2026 18:07:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "샘 올트먼, 1박2일 깜짝방한…최태원과 HBM 공급 논의",
+      "link": "https://www.hankyung.com/article/2026110185881",
+      "pubDate": "Sun, 01 Nov 2026 18:07:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "LG전자, 美컨슈머리포트 '최고 가전' 휩쓸어",
+      "link": "https://www.hankyung.com/article/2026110185871",
+      "pubDate": "Sun, 01 Nov 2026 18:06:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국민은행, 12조 GPU 파이낸싱 금융주선",
+      "link": "https://www.hankyung.com/article/2026110185841",
+      "pubDate": "Sun, 01 Nov 2026 18:06:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "세계인의 옷 年 15억장…K의류제조 '빅3'가 생산",
+      "link": "https://www.hankyung.com/article/2026110185991",
+      "pubDate": "Sun, 01 Nov 2026 18:06:10 +0900"
     }
   ]
 }
