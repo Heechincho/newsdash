@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:42:53.753Z",
+  "updatedAt": "2026-11-01T23:56:51.852Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 104.12,
-      "changePercent": 2.078,
+      "price": 102.34,
+      "changePercent": -1.71,
       "previousClose": 99.9,
       "currency": "USD",
       "history": [
         99.9000015258789,
         102.77999877929688,
         102,
-        104.12000274658203
+        104.12000274658203,
+        102.33999633789062
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3898.9,
-      "changePercent": -3.287,
+      "price": 3908,
+      "changePercent": 0.233,
       "previousClose": 4074.6,
       "currency": "USD",
       "history": [
         4074.60009765625,
         4051.60009765625,
         4031.39990234375,
-        3898.89990234375
+        3898.89990234375,
+        3908
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.964,
-      "changePercent": 0.083,
+      "price": 101.971,
+      "changePercent": 0.09,
       "previousClose": 102.32,
       "currency": "USD",
       "history": [
         102.31999969482422,
         102.19000244140625,
         102.04000091552734,
-        101.87999725341797
+        101.87999725341797,
+        101.97100067138672
       ],
       "ok": true
     },
@@ -120,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "홈플러스 이어 골프존도 '시끌'…MBK 손 댄 곳곳서 잡음",
-      "link": "https://www.hankyung.com/article/202611018732g",
-      "pubDate": "Sun, 01 Nov 2026 22:23:25 +0900"
+      "source": "연합뉴스",
+      "title": "이달 분양시장 큰 장…디에이치반포124 등 4만4천여가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261102021700003",
+      "pubDate": "Mon, 2 Nov 2026 08:44:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일, 경제현안간담회서 주택공급·일자리 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261101046100002",
-      "pubDate": "Sun, 1 Nov 2026 19:40:44 +0900"
+      "title": "\"반도체 자사주매입은 주가하락 완충 역할…관건은 외국인 수급\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102023000008",
+      "pubDate": "Mon, 2 Nov 2026 08:43:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권 \"日무라타, MLCC 가격인상…삼성전기 등에 낙수효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102023300008",
+      "pubDate": "Mon, 2 Nov 2026 08:42:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한증권, 현대건설 목표가↓…\"대미투자 원전 수익화 불확실성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102023500008",
+      "pubDate": "Mon, 2 Nov 2026 08:41:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중진공, 청년창업학교 졸업기업에 '산업 AI 엑스포' 참가 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261102018800030",
+      "pubDate": "Mon, 2 Nov 2026 08:38:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "인천시, 노후계획도시 정비예정구역 주민대표단 기준 마련",
+      "link": "https://www.yna.co.kr/view/AKR20261102022500065",
+      "pubDate": "Mon, 2 Nov 2026 08:35:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "IBK증권, 한미약품 목표가↑…\"AI 활용해 신약 개발효율 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102021000008",
+      "pubDate": "Mon, 2 Nov 2026 08:29:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대신증권 \"GS건설, 내년부터 수익성 정상화 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102020500008",
+      "pubDate": "Mon, 2 Nov 2026 08:28:26 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산서 아세안＋3 채권시장 국제포럼…지속가능 금융 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261102015900051",
+      "pubDate": "Mon, 2 Nov 2026 08:22:39 +0900"
     },
     {
       "source": "한국경제",
-      "title": "국내 5대 코인 거래소, 준비금·보험 1854억뿐",
-      "link": "https://www.hankyung.com/article/2026110186101",
-      "pubDate": "Sun, 01 Nov 2026 18:18:30 +0900"
+      "title": "아이슬란드 온천 명소 블루라군, 1억유로 IPO 추진…관광 호황 겨냥",
+      "link": "https://www.hankyung.com/article/202611029056i",
+      "pubDate": "Mon, 02 Nov 2026 08:18:28 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "양천구, 신정4동 922번지 재개발 추진…2천170세대 대단지로",
+      "link": "https://www.yna.co.kr/view/AKR20261102018300004",
+      "pubDate": "Mon, 2 Nov 2026 08:16:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "반도체협회 \"초광역특구법 노동 특례 환영…조속한 통과 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102018600003",
+      "pubDate": "Mon, 2 Nov 2026 08:14:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "5대 은행 대출 연체율, 9년 반 만에 '최고'",
-      "link": "https://www.hankyung.com/article/2026110186121",
-      "pubDate": "Sun, 01 Nov 2026 18:18:20 +0900"
+      "title": "유럽 정크채권 수익률 21% 돌파…신용시장 충격 확산",
+      "link": "https://www.hankyung.com/article/202611029000i",
+      "pubDate": "Mon, 02 Nov 2026 08:08:32 +0900"
     },
     {
       "source": "한국경제",
-      "title": "中 하이브리드카 막겠다는 EU…국내 車업계 '불똥'",
-      "link": "https://www.hankyung.com/article/2026110185711",
-      "pubDate": "Sun, 01 Nov 2026 18:17:56 +0900"
+      "title": "보험료 4만원 내준다는데 '썰렁'…18세 97%는 신청 안 했다",
+      "link": "https://www.hankyung.com/article/202611029044H",
+      "pubDate": "Mon, 02 Nov 2026 08:08:05 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"2029년부터 추가세수 없다\"…미래기금 지속가능성 '경고음'",
-      "link": "https://www.hankyung.com/article/2026110185701",
-      "pubDate": "Sun, 01 Nov 2026 18:17:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "日서 주목하는 최태원 회장의 '경제공동체론'",
-      "link": "https://www.hankyung.com/article/2026110185751",
-      "pubDate": "Sun, 01 Nov 2026 18:16:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "미래에셋·삼성증권 이어 한투까지…韓금융사 잇단 일본行",
-      "link": "https://www.hankyung.com/article/2026110185741",
-      "pubDate": "Sun, 01 Nov 2026 18:15:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中, 내수 이어 수출도 둔화…제조업·비제조업 동반 위축",
-      "link": "https://www.hankyung.com/article/2026110185321",
-      "pubDate": "Sun, 01 Nov 2026 18:13:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中 CXMT \"차세대 D램 시제품 검증\"",
-      "link": "https://www.hankyung.com/article/2026110185291",
-      "pubDate": "Sun, 01 Nov 2026 18:13:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中 바이오, 기술수출 넘어 'Co-Co 모델'로 진화",
-      "link": "https://www.hankyung.com/article/2026110185131",
-      "pubDate": "Sun, 01 Nov 2026 18:10:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한화, 3500억원 규모 美해군 함정 첫 수주",
-      "link": "https://www.hankyung.com/article/2026110185861",
-      "pubDate": "Sun, 01 Nov 2026 18:07:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HD현대로보틱스, 팰런티어와 '피지컬 AI' 고도화 협력",
-      "link": "https://www.hankyung.com/article/2026110185851",
-      "pubDate": "Sun, 01 Nov 2026 18:07:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "샘 올트먼, 1박2일 깜짝 방한…삼성·SK와 'AI 협업' 논의",
-      "link": "https://www.hankyung.com/article/2026110185881",
-      "pubDate": "Sun, 01 Nov 2026 18:07:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LG전자, 美컨슈머리포트 '최고 가전' 휩쓸어",
-      "link": "https://www.hankyung.com/article/2026110185871",
-      "pubDate": "Sun, 01 Nov 2026 18:06:59 +0900"
+      "source": "연합뉴스",
+      "title": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
+      "link": "https://www.yna.co.kr/view/AKR20261102015000008",
+      "pubDate": "Mon, 2 Nov 2026 08:05:20 +0900"
     }
   ]
 }
