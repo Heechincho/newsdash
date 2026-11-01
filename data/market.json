@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T09:33:11.430Z",
+  "updatedAt": "2026-11-01T16:21:26.497Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,18 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "홈플러스 이어 골프존도 '시끌'…MBK 손 댄 곳곳서 잡음",
+      "link": "https://www.hankyung.com/article/202611018732g",
+      "pubDate": "Sun, 01 Nov 2026 22:23:25 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이형일, 경제현안간담회서 주택공급·일자리 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261101046100002",
+      "pubDate": "Sun, 1 Nov 2026 19:40:44 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "국내 5대 코인 거래소, 준비금·보험 1854억뿐",
       "link": "https://www.hankyung.com/article/2026110186101",
       "pubDate": "Sun, 01 Nov 2026 18:18:30 +0900"
@@ -187,7 +199,7 @@
     },
     {
       "source": "한국경제",
-      "title": "샘 올트먼, 1박2일 깜짝방한…최태원과 HBM 공급 논의",
+      "title": "샘 올트먼, 1박2일 깜짝 방한…삼성·SK와 'AI 협업' 논의",
       "link": "https://www.hankyung.com/article/2026110185881",
       "pubDate": "Sun, 01 Nov 2026 18:07:24 +0900"
     },
@@ -196,18 +208,6 @@
       "title": "LG전자, 美컨슈머리포트 '최고 가전' 휩쓸어",
       "link": "https://www.hankyung.com/article/2026110185871",
       "pubDate": "Sun, 01 Nov 2026 18:06:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국민은행, 12조 GPU 파이낸싱 금융주선",
-      "link": "https://www.hankyung.com/article/2026110185841",
-      "pubDate": "Sun, 01 Nov 2026 18:06:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "세계인의 옷 年 15억장…K의류제조 '빅3'가 생산",
-      "link": "https://www.hankyung.com/article/2026110185991",
-      "pubDate": "Sun, 01 Nov 2026 18:06:10 +0900"
     }
   ]
 }
