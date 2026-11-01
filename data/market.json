@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:21:26.497Z",
+  "updatedAt": "2026-11-01T20:42:53.753Z",
   "instruments": [
     {
       "key": "sp500",
@@ -23,7 +23,7 @@
       "label": "나스닥",
       "symbol": "^IXIC",
       "price": 25436.998,
-      "changePercent": -2.856,
+      "changePercent": -2.855,
       "previousClose": 25955.34,
       "currency": "USD",
       "history": [
