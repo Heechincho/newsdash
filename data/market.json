@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:42:12.949Z",
+  "updatedAt": "2026-11-02T13:52:45.374Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 100.35,
-      "changePercent": -3.621,
+      "price": 97.51,
+      "changePercent": -6.348,
       "previousClose": 102.78,
       "currency": "USD",
       "history": [
         102.77999877929688,
         102,
         104.12000274658203,
-        100.3499984741211
+        97.51000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3919.7,
-      "changePercent": 0.533,
+      "price": 3948.5,
+      "changePercent": 1.272,
       "previousClose": 4051.6,
       "currency": "USD",
       "history": [
         4051.60009765625,
         4031.39990234375,
         3898.89990234375,
-        3919.699951171875
+        3948.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.825,
-      "changePercent": -0.053,
+      "price": 101.563,
+      "changePercent": -0.31,
       "previousClose": 102.19,
       "currency": "USD",
       "history": [
         102.19000244140625,
         102.04000091552734,
         101.87999725341797,
-        101.82499694824219
+        101.56300354003906
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.42,
-      "changePercent": 12.907,
-      "previousClose": 18.39,
+      "price": 19.12,
+      "changePercent": -1.537,
+      "previousClose": 17.52,
       "currency": "USD",
       "history": [
-        18.389999389648438,
         17.520000457763672,
         16.90999984741211,
         17.200000762939453,
-        19.420000076293945
+        19.420000076293945,
+        19.1200008392334
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "GC녹십자웰빙 3분기 영업이익 73억원…39% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261102115100017",
-      "pubDate": "Mon, 2 Nov 2026 14:30:57 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20261102107000011",
-      "pubDate": "Mon, 2 Nov 2026 14:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "우리은행 해외 지점서 원화 계좌로 국내 투자",
-      "link": "https://www.yna.co.kr/view/AKR20261102113400002",
-      "pubDate": "Mon, 2 Nov 2026 14:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[영광소식] 착한가격업소 이용 캐시백 5％ 추가 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261102114000054",
-      "pubDate": "Mon, 2 Nov 2026 14:29:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산은행, 주택청약종합저축 전환 가입 캐시백 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20261102111100051",
-      "pubDate": "Mon, 2 Nov 2026 14:27:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "코오롱베니트, 멀티 IoT 플랫폼으로 맞춤형 서비스 사업 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261102110300017",
-      "pubDate": "Mon, 2 Nov 2026 14:23:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 미래에셋, 퇴직연금 가입법인에 '퇴직연금스쿨' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261102111000008",
-      "pubDate": "Mon, 2 Nov 2026 14:20:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인사] 라이나생명",
-      "link": "https://www.yna.co.kr/view/AKR20261102112100002",
-      "pubDate": "Mon, 2 Nov 2026 14:19:45 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "5대은행 10월 가계대출 2.7조↑…중기 2년7개월만에 최대폭 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261102108800002",
-      "pubDate": "Mon, 2 Nov 2026 14:17:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 오뚜기, '한강라면' TV 광고 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261102109900030",
-      "pubDate": "Mon, 2 Nov 2026 14:12:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "원주미용의료기기 5개사 홍콩 코스모프로프 참가…수출 판로확대",
-      "link": "https://www.yna.co.kr/view/AKR20261102108500062",
-      "pubDate": "Mon, 2 Nov 2026 14:08:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "쪽파 웃자람에 생산비도 못 건질 판…3일 장흥서 밭 갈아엎기",
-      "link": "https://www.yna.co.kr/view/AKR20261102105200054",
-      "pubDate": "Mon, 2 Nov 2026 14:02:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "산업장관 \"3대 메가프로젝트로 국가 성장 플랫폼 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102059200003",
-      "pubDate": "Mon, 2 Nov 2026 14:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'5극3특' 중기 3년간 보증부대출 4.5조…외담대 정산주기 60일로",
-      "link": "https://www.yna.co.kr/view/AKR20261102097000002",
-      "pubDate": "Mon, 2 Nov 2026 14:00:00 +0900"
+      "source": "한국경제",
+      "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
+      "link": "https://www.hankyung.com/article/2026110213457",
+      "pubDate": "Mon, 02 Nov 2026 21:58:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "뉴 토레스·액티언·무쏘…KGM,1000대 한정 할인 판매",
-      "link": "https://www.hankyung.com/article/202611020235g",
-      "pubDate": "Mon, 02 Nov 2026 13:57:40 +0900"
+      "title": "엔비디아가 찜한 마벨,루멘텀 합병…154조원 AI반도체 빅딜",
+      "link": "https://www.hankyung.com/article/202611021336i",
+      "pubDate": "Mon, 02 Nov 2026 21:55:27 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
+      "link": "https://www.yna.co.kr/view/AKR20261102172400002",
+      "pubDate": "Mon, 2 Nov 2026 21:21:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
+      "link": "https://www.hankyung.com/article/202611021310i",
+      "pubDate": "Mon, 02 Nov 2026 21:11:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
+      "link": "https://www.hankyung.com/article/2026110212651",
+      "pubDate": "Mon, 02 Nov 2026 19:36:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
+      "link": "https://www.hankyung.com/article/202611021256i",
+      "pubDate": "Mon, 02 Nov 2026 19:28:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "해외서 원화계좌 열고 국내 투자…우리은행 “역외 원화거래 첫 사례”",
+      "link": "https://www.hankyung.com/article/202611021249i",
+      "pubDate": "Mon, 02 Nov 2026 19:21:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261102091751003",
+      "pubDate": "Mon, 2 Nov 2026 18:56:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "호반에 반격나선 조원태 \"한진칼 주식 더 살 것\"",
+      "link": "https://www.hankyung.com/article/202611021227i",
+      "pubDate": "Mon, 02 Nov 2026 18:53:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102162000002",
+      "pubDate": "Mon, 2 Nov 2026 18:51:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "바이낸스 해킹에…금융위,  가상자산거래소 신속 출금제한 방안 검토(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261102134651002",
+      "pubDate": "Mon, 2 Nov 2026 18:51:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261102126151002",
+      "pubDate": "Mon, 2 Nov 2026 18:37:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 채정환 씨이랩 대표 \"비싼 GPU 제값해야\"",
+      "link": "https://www.hankyung.com/article/2026110210741",
+      "pubDate": "Mon, 02 Nov 2026 18:32:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "강남권 백화점 판도 바꿀 'GBC 쟁탈전' 개막",
+      "link": "https://www.hankyung.com/article/2026110211531",
+      "pubDate": "Mon, 02 Nov 2026 18:30:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한진칼 최대주주 놓고 조원태·호반 지분 경쟁",
+      "link": "https://www.hankyung.com/article/2026110211491",
+      "pubDate": "Mon, 02 Nov 2026 18:29:59 +0900"
     }
   ]
 }
