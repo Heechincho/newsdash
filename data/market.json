@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-02T13:52:45.374Z",
+  "updatedAt": "2026-11-02T22:37:55.674Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7580.07,
-      "changePercent": -1.818,
-      "previousClose": 7623.68,
+      "price": 7541.4,
+      "changePercent": -0.51,
+      "previousClose": 7676.77,
       "currency": "USD",
       "history": [
-        7676.77001953125,
         7722.60009765625,
         7743.97998046875,
         7720.39013671875,
-        7580.06982421875
+        7580.06982421875,
+        7541.39990234375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25436.998,
-      "changePercent": -2.855,
-      "previousClose": 25955.34,
+      "price": 25164.316,
+      "changePercent": -1.072,
+      "previousClose": 26169.38,
       "currency": "USD",
       "history": [
-        26169.380859375,
         26477.810546875,
         26549.849609375,
         26184.720703125,
-        25437
+        25437,
+        25164.31640625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51770.31,
-      "changePercent": -1.093,
-      "previousClose": 52215.16,
+      "price": 51983.98,
+      "changePercent": 0.413,
+      "previousClose": 52361.58,
       "currency": "USD",
       "history": [
-        52361.578125,
         52377.5703125,
         52475.1015625,
         52342.55859375,
-        51770.30859375
+        51770.30859375,
+        51983.98046875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 97.51,
-      "changePercent": -6.348,
+      "price": 96.26,
+      "changePercent": -7.549,
       "previousClose": 102.78,
       "currency": "USD",
       "history": [
         102.77999877929688,
         102,
         104.12000274658203,
-        97.51000213623047
+        96.26000213623047
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3948.5,
-      "changePercent": 1.272,
+      "price": 3956.6,
+      "changePercent": 1.48,
       "previousClose": 4051.6,
       "currency": "USD",
       "history": [
         4051.60009765625,
         4031.39990234375,
         3898.89990234375,
-        3948.5
+        3956.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.563,
-      "changePercent": -0.31,
+      "price": 101.772,
+      "changePercent": -0.105,
       "previousClose": 102.19,
       "currency": "USD",
       "history": [
         102.19000244140625,
         102.04000091552734,
         101.87999725341797,
-        101.56300354003906
+        101.77200317382812
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.12,
-      "changePercent": -1.537,
+      "price": 21.15,
+      "changePercent": 8.908,
       "previousClose": 17.52,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         16.90999984741211,
         17.200000762939453,
         19.420000076293945,
-        19.1200008392334
+        21.149999618530273
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
-      "link": "https://www.hankyung.com/article/2026110213457",
-      "pubDate": "Mon, 02 Nov 2026 21:58:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아가 찜한 마벨,루멘텀 합병…154조원 AI반도체 빅딜",
-      "link": "https://www.hankyung.com/article/202611021336i",
-      "pubDate": "Mon, 02 Nov 2026 21:55:27 +0900"
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261103015600011",
+      "pubDate": "Tue, 3 Nov 2026 07:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
-      "link": "https://www.yna.co.kr/view/AKR20261102172400002",
-      "pubDate": "Mon, 2 Nov 2026 21:21:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
-      "link": "https://www.hankyung.com/article/202611021310i",
-      "pubDate": "Mon, 02 Nov 2026 21:11:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
-      "link": "https://www.hankyung.com/article/2026110212651",
-      "pubDate": "Mon, 02 Nov 2026 19:36:12 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
-      "link": "https://www.hankyung.com/article/202611021256i",
-      "pubDate": "Mon, 02 Nov 2026 19:28:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "해외서 원화계좌 열고 국내 투자…우리은행 “역외 원화거래 첫 사례”",
-      "link": "https://www.hankyung.com/article/202611021249i",
-      "pubDate": "Mon, 02 Nov 2026 19:21:37 +0900"
+      "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
+      "link": "https://www.yna.co.kr/view/AKR20261102067700546",
+      "pubDate": "Tue, 3 Nov 2026 07:07:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261102091751003",
-      "pubDate": "Mon, 2 Nov 2026 18:56:04 +0900"
+      "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
+      "link": "https://www.yna.co.kr/view/AKR20261019077900898",
+      "pubDate": "Tue, 3 Nov 2026 07:00:06 +0900"
     },
     {
       "source": "한국경제",
-      "title": "호반에 반격나선 조원태 \"한진칼 주식 더 살 것\"",
-      "link": "https://www.hankyung.com/article/202611021227i",
-      "pubDate": "Mon, 02 Nov 2026 18:53:53 +0900"
+      "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+      "link": "https://www.hankyung.com/article/2026110210431",
+      "pubDate": "Tue, 03 Nov 2026 07:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102162000002",
-      "pubDate": "Mon, 2 Nov 2026 18:51:22 +0900"
+      "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+      "link": "https://www.yna.co.kr/view/AKR20261103007851072",
+      "pubDate": "Tue, 3 Nov 2026 06:03:41 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "바이낸스 해킹에…금융위,  가상자산거래소 신속 출금제한 방안 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261102134651002",
-      "pubDate": "Mon, 2 Nov 2026 18:51:09 +0900"
+      "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
+      "link": "https://www.yna.co.kr/view/AKR20261102067200898",
+      "pubDate": "Tue, 3 Nov 2026 06:00:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261102126151002",
-      "pubDate": "Mon, 2 Nov 2026 18:37:43 +0900"
+      "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
+      "link": "https://www.yna.co.kr/view/AKR20261102135700030",
+      "pubDate": "Tue, 3 Nov 2026 06:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
+      "link": "https://www.yna.co.kr/view/AKR20261102149200003",
+      "pubDate": "Tue, 3 Nov 2026 06:00:10 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 채정환 씨이랩 대표 \"비싼 GPU 제값해야\"",
-      "link": "https://www.hankyung.com/article/2026110210741",
-      "pubDate": "Mon, 02 Nov 2026 18:32:31 +0900"
+      "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다  [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611020623i",
+      "pubDate": "Tue, 03 Nov 2026 06:00:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102167400002",
+      "pubDate": "Tue, 3 Nov 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
+      "link": "https://www.yna.co.kr/view/AKR20261102160100002",
+      "pubDate": "Tue, 3 Nov 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261102158900002",
+      "pubDate": "Tue, 3 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"北이 빼낸 바이낸스 자금, FBI 공개목록 밖 100곳에도 유입\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102173800002",
+      "pubDate": "Tue, 3 Nov 2026 05:51:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+      "link": "https://www.yna.co.kr/view/AKR20261103007800072",
+      "pubDate": "Tue, 3 Nov 2026 05:32:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "강남권 백화점 판도 바꿀 'GBC 쟁탈전' 개막",
-      "link": "https://www.hankyung.com/article/2026110211531",
-      "pubDate": "Mon, 02 Nov 2026 18:30:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한진칼 최대주주 놓고 조원태·호반 지분 경쟁",
-      "link": "https://www.hankyung.com/article/2026110211491",
-      "pubDate": "Mon, 02 Nov 2026 18:29:59 +0900"
+      "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611031416i",
+      "pubDate": "Tue, 03 Nov 2026 00:23:10 +0900"
     }
   ]
 }
