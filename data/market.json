@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:56:51.852Z",
+  "updatedAt": "2026-11-02T05:42:12.949Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 102.34,
-      "changePercent": -1.71,
-      "previousClose": 99.9,
+      "price": 100.35,
+      "changePercent": -3.621,
+      "previousClose": 102.78,
       "currency": "USD",
       "history": [
-        99.9000015258789,
         102.77999877929688,
         102,
         104.12000274658203,
-        102.33999633789062
+        100.3499984741211
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3908,
-      "changePercent": 0.233,
-      "previousClose": 4074.6,
+      "price": 3919.7,
+      "changePercent": 0.533,
+      "previousClose": 4051.6,
       "currency": "USD",
       "history": [
-        4074.60009765625,
         4051.60009765625,
         4031.39990234375,
         3898.89990234375,
-        3908
+        3919.699951171875
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.971,
-      "changePercent": 0.09,
-      "previousClose": 102.32,
+      "price": 101.825,
+      "changePercent": -0.053,
+      "previousClose": 102.19,
       "currency": "USD",
       "history": [
-        102.31999969482422,
         102.19000244140625,
         102.04000091552734,
         101.87999725341797,
-        101.97100067138672
+        101.82499694824219
       ],
       "ok": true
     },
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "이달 분양시장 큰 장…디에이치반포124 등 4만4천여가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20261102021700003",
-      "pubDate": "Mon, 2 Nov 2026 08:44:09 +0900"
+      "title": "GC녹십자웰빙 3분기 영업이익 73억원…39% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261102115100017",
+      "pubDate": "Mon, 2 Nov 2026 14:30:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"반도체 자사주매입은 주가하락 완충 역할…관건은 외국인 수급\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102023000008",
-      "pubDate": "Mon, 2 Nov 2026 08:43:06 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20261102107000011",
+      "pubDate": "Mon, 2 Nov 2026 14:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "iM증권 \"日무라타, MLCC 가격인상…삼성전기 등에 낙수효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102023300008",
-      "pubDate": "Mon, 2 Nov 2026 08:42:34 +0900"
+      "title": "우리은행 해외 지점서 원화 계좌로 국내 투자",
+      "link": "https://www.yna.co.kr/view/AKR20261102113400002",
+      "pubDate": "Mon, 2 Nov 2026 14:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한증권, 현대건설 목표가↓…\"대미투자 원전 수익화 불확실성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102023500008",
-      "pubDate": "Mon, 2 Nov 2026 08:41:13 +0900"
+      "title": "[영광소식] 착한가격업소 이용 캐시백 5％ 추가 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261102114000054",
+      "pubDate": "Mon, 2 Nov 2026 14:29:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중진공, 청년창업학교 졸업기업에 '산업 AI 엑스포' 참가 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261102018800030",
-      "pubDate": "Mon, 2 Nov 2026 08:38:00 +0900"
+      "title": "부산은행, 주택청약종합저축 전환 가입 캐시백 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20261102111100051",
+      "pubDate": "Mon, 2 Nov 2026 14:27:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "인천시, 노후계획도시 정비예정구역 주민대표단 기준 마련",
-      "link": "https://www.yna.co.kr/view/AKR20261102022500065",
-      "pubDate": "Mon, 2 Nov 2026 08:35:24 +0900"
+      "title": "코오롱베니트, 멀티 IoT 플랫폼으로 맞춤형 서비스 사업 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261102110300017",
+      "pubDate": "Mon, 2 Nov 2026 14:23:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "IBK증권, 한미약품 목표가↑…\"AI 활용해 신약 개발효율 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102021000008",
-      "pubDate": "Mon, 2 Nov 2026 08:29:40 +0900"
+      "title": "[게시판] 미래에셋, 퇴직연금 가입법인에 '퇴직연금스쿨' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261102111000008",
+      "pubDate": "Mon, 2 Nov 2026 14:20:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대신증권 \"GS건설, 내년부터 수익성 정상화 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102020500008",
-      "pubDate": "Mon, 2 Nov 2026 08:28:26 +0900"
+      "title": "[인사] 라이나생명",
+      "link": "https://www.yna.co.kr/view/AKR20261102112100002",
+      "pubDate": "Mon, 2 Nov 2026 14:19:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산서 아세안＋3 채권시장 국제포럼…지속가능 금융 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261102015900051",
-      "pubDate": "Mon, 2 Nov 2026 08:22:39 +0900"
+      "title": "5대은행 10월 가계대출 2.7조↑…중기 2년7개월만에 최대폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261102108800002",
+      "pubDate": "Mon, 2 Nov 2026 14:17:38 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 오뚜기, '한강라면' TV 광고 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261102109900030",
+      "pubDate": "Mon, 2 Nov 2026 14:12:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "원주미용의료기기 5개사 홍콩 코스모프로프 참가…수출 판로확대",
+      "link": "https://www.yna.co.kr/view/AKR20261102108500062",
+      "pubDate": "Mon, 2 Nov 2026 14:08:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "쪽파 웃자람에 생산비도 못 건질 판…3일 장흥서 밭 갈아엎기",
+      "link": "https://www.yna.co.kr/view/AKR20261102105200054",
+      "pubDate": "Mon, 2 Nov 2026 14:02:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업장관 \"3대 메가프로젝트로 국가 성장 플랫폼 구축\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102059200003",
+      "pubDate": "Mon, 2 Nov 2026 14:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'5극3특' 중기 3년간 보증부대출 4.5조…외담대 정산주기 60일로",
+      "link": "https://www.yna.co.kr/view/AKR20261102097000002",
+      "pubDate": "Mon, 2 Nov 2026 14:00:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아이슬란드 온천 명소 블루라군, 1억유로 IPO 추진…관광 호황 겨냥",
-      "link": "https://www.hankyung.com/article/202611029056i",
-      "pubDate": "Mon, 02 Nov 2026 08:18:28 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "양천구, 신정4동 922번지 재개발 추진…2천170세대 대단지로",
-      "link": "https://www.yna.co.kr/view/AKR20261102018300004",
-      "pubDate": "Mon, 2 Nov 2026 08:16:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "반도체협회 \"초광역특구법 노동 특례 환영…조속한 통과 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102018600003",
-      "pubDate": "Mon, 2 Nov 2026 08:14:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유럽 정크채권 수익률 21% 돌파…신용시장 충격 확산",
-      "link": "https://www.hankyung.com/article/202611029000i",
-      "pubDate": "Mon, 02 Nov 2026 08:08:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "보험료 4만원 내준다는데 '썰렁'…18세 97%는 신청 안 했다",
-      "link": "https://www.hankyung.com/article/202611029044H",
-      "pubDate": "Mon, 02 Nov 2026 08:08:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
-      "link": "https://www.yna.co.kr/view/AKR20261102015000008",
-      "pubDate": "Mon, 2 Nov 2026 08:05:20 +0900"
+      "title": "뉴 토레스·액티언·무쏘…KGM,1000대 한정 할인 판매",
+      "link": "https://www.hankyung.com/article/202611020235g",
+      "pubDate": "Mon, 02 Nov 2026 13:57:40 +0900"
     }
   ]
 }
