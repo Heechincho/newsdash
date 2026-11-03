@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-03T11:23:57.576Z",
+  "updatedAt": "2026-11-03T18:35:22.337Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7541.4,
-      "changePercent": -0.51,
-      "previousClose": 7676.77,
+      "price": 7594.11,
+      "changePercent": 0.699,
+      "previousClose": 7722.6,
       "currency": "USD",
       "history": [
-        7722.60009765625,
         7743.97998046875,
         7720.39013671875,
         7580.06982421875,
-        7541.39990234375
+        7541.39990234375,
+        7594.10986328125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25164.363,
-      "changePercent": -1.072,
-      "previousClose": 26169.38,
+      "price": 25465.78,
+      "changePercent": 1.198,
+      "previousClose": 26477.81,
       "currency": "USD",
       "history": [
-        26477.810546875,
         26549.849609375,
         26184.720703125,
         25437,
-        25164.310546875
+        25164.310546875,
+        25465.779296875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51983.98,
-      "changePercent": 0.413,
-      "previousClose": 52361.58,
+      "price": 51892.74,
+      "changePercent": -0.176,
+      "previousClose": 52377.57,
       "currency": "USD",
       "history": [
-        52377.5703125,
         52475.1015625,
         52342.55859375,
         51770.30859375,
-        51983.98046875
+        51983.98046875,
+        51892.73828125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 98.07,
-      "changePercent": 1.669,
+      "price": 96.02,
+      "changePercent": -0.456,
       "previousClose": 102,
       "currency": "USD",
       "history": [
         102,
         104.12000274658203,
         96.45999908447266,
-        98.06999969482422
+        96.0199966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3918.6,
-      "changePercent": -1.285,
+      "price": 3941.3,
+      "changePercent": -0.713,
       "previousClose": 4031.4,
       "currency": "USD",
       "history": [
         4031.39990234375,
         3898.89990234375,
         3969.60009765625,
-        3918.60009765625
+        3941.300048828125
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.847,
-      "changePercent": 0.1,
+      "price": 101.79,
+      "changePercent": 0.044,
       "previousClose": 102.04,
       "currency": "USD",
       "history": [
         102.04000091552734,
         101.87999725341797,
         101.75,
-        101.84700012207031
+        101.79000091552734
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 21.27,
-      "changePercent": 0.567,
+      "price": 20.49,
+      "changePercent": -3.121,
       "previousClose": 16.91,
       "currency": "USD",
       "history": [
@@ -113,17 +113,65 @@
         17.200000762939453,
         19.420000076293945,
         21.149999618530273,
-        21.270000457763672
+        20.489999771118164
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"이런 메모리값 처음\"…애플 새CEO \"내년에도 메모리 구매비 오를 것\"",
+      "link": "https://www.hankyung.com/article/202611044103i",
+      "pubDate": "Wed, 04 Nov 2026 01:02:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"달러 떨어진다더니 왜 오르나\"…외환전략가들도 \"강세위험 커\"",
+      "link": "https://www.hankyung.com/article/202611034089i",
+      "pubDate": "Wed, 04 Nov 2026 00:01:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 관련 투자자들, 美 중간선거 텍사스주 결과에 주목하는 이유",
+      "link": "https://www.hankyung.com/article/202611033976i",
+      "pubDate": "Tue, 03 Nov 2026 22:09:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "디즈니도 수천명 해고…넷플릭스 이어 할리우드 감원 한파",
+      "link": "https://www.hankyung.com/article/202611033934i",
+      "pubDate": "Tue, 03 Nov 2026 20:34:38 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "월급 떼먹은 사업주…유죄 확정 전이라도 대출 막힌다",
+      "link": "https://www.hankyung.com/article/2026110338977",
+      "pubDate": "Tue, 03 Nov 2026 20:33:22 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'분홍곰' 하나로 200억 벌었다…남녀노소 몰리더니 '잭팟' [트렌드+]",
+      "link": "https://www.hankyung.com/article/202611031993g",
+      "pubDate": "Tue, 03 Nov 2026 20:28:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중국이 393톤 쓸어담았다…가격 29% 폭락하자 벌어진 일",
+      "link": "https://www.hankyung.com/article/202611033922i",
+      "pubDate": "Tue, 03 Nov 2026 20:10:25 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261103162451001",
       "pubDate": "Tue, 3 Nov 2026 20:10:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"중국 와인 편견 깼다\"…한해, 최대 와이너리 '장위' 랜선 투어 화제",
+      "link": "https://www.hankyung.com/article/2026110333907",
+      "pubDate": "Tue, 03 Nov 2026 20:10:18 +0900"
     },
     {
       "source": "연합뉴스",
@@ -160,54 +208,6 @@
       "title": "상습체불 사업주 777명, 1년간 신용제재…대출·국가사업 제한",
       "link": "https://www.yna.co.kr/view/AKR20261103176800530",
       "pubDate": "Tue, 3 Nov 2026 18:54:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"한일 연대는 생존 위한 필수 전략\"…연합뉴스 미래경제포럼(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261102067251898",
-      "pubDate": "Tue, 3 Nov 2026 18:45:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"착한 사업도 수익 내야\"…장애인 일자리 키운 힘",
-      "link": "https://www.hankyung.com/article/2026110337571",
-      "pubDate": "Tue, 03 Nov 2026 18:27:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "은행연합회, 취약계층에 백미 기부",
-      "link": "https://www.hankyung.com/article/2026110337511",
-      "pubDate": "Tue, 03 Nov 2026 18:25:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, 어린이집·유치원 원장 문화체험 행사 연다",
-      "link": "https://www.hankyung.com/article/2026110337481",
-      "pubDate": "Tue, 03 Nov 2026 18:19:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "삼성생명, 에스원 주식 13만7천주 매각…금산법 위반 우려에",
-      "link": "https://www.yna.co.kr/view/AKR20261103172400002",
-      "pubDate": "Tue, 3 Nov 2026 18:12:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[미래경제포럼] \"새로운 100년 연다\"…한일 협력 61년 사진전 눈길",
-      "link": "https://www.yna.co.kr/view/AKR20261103158000371",
-      "pubDate": "Tue, 3 Nov 2026 18:10:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "중고 팰리세이드 3천만원대로 산다…연말엔 가격 더 내려갈 수도",
-      "link": "https://www.hankyung.com/article/2026110336701",
-      "pubDate": "Tue, 03 Nov 2026 18:08:48 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "포스코퓨처엠, 현대차그룹과 베트남 인조흑연 음극재 협력",
-      "link": "https://www.hankyung.com/article/2026110337341",
-      "pubDate": "Tue, 03 Nov 2026 18:04:26 +0900"
     }
   ]
 }
