@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:42:05.430Z",
+  "updatedAt": "2026-11-03T11:23:57.576Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         26549.849609375,
         26184.720703125,
         25437,
-        25164.36328125
+        25164.310546875
       ],
       "ok": true
     },
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.57,
-      "changePercent": 0.114,
-      "previousClose": 102.78,
+      "price": 98.07,
+      "changePercent": 1.669,
+      "previousClose": 102,
       "currency": "USD",
       "history": [
-        102.77999877929688,
         102,
         104.12000274658203,
         96.45999908447266,
-        96.56999969482422
+        98.06999969482422
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3945,
-      "changePercent": -0.62,
-      "previousClose": 4051.6,
+      "price": 3918.6,
+      "changePercent": -1.285,
+      "previousClose": 4031.4,
       "currency": "USD",
       "history": [
-        4051.60009765625,
         4031.39990234375,
         3898.89990234375,
         3969.60009765625,
-        3945
+        3918.60009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.815,
-      "changePercent": 0.069,
-      "previousClose": 102.19,
+      "price": 101.847,
+      "changePercent": 0.1,
+      "previousClose": 102.04,
       "currency": "USD",
       "history": [
-        102.19000244140625,
         102.04000091552734,
         101.87999725341797,
         101.75,
-        101.81500244140625
+        101.84700012207031
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 21.15,
-      "changePercent": 8.908,
-      "previousClose": 17.52,
+      "price": 21.27,
+      "changePercent": 0.567,
+      "previousClose": 16.91,
       "currency": "USD",
       "history": [
-        17.520000457763672,
         16.90999984741211,
         17.200000762939453,
         19.420000076293945,
-        21.149999618530273
+        21.149999618530273,
+        21.270000457763672
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "김민석 \"정년연장·초광역특구 대화\"…한국노총 \"신뢰 무너져\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103096400001",
-      "pubDate": "Tue, 3 Nov 2026 12:32:52 +0900"
+      "title": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261103162451001",
+      "pubDate": "Tue, 3 Nov 2026 20:10:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"토핑 요거트 당류, 일반 요거트의 2∼3배…포화지방도 주의\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102132900030",
-      "pubDate": "Tue, 3 Nov 2026 12:00:12 +0900"
+      "title": "한·튀르키예 FTA 공동위, 정상회담 계기 장관급 격상",
+      "link": "https://www.yna.co.kr/view/AKR20261103181700003",
+      "pubDate": "Tue, 3 Nov 2026 20:09:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 성수동서 판로개척 성과보고회…팝업·오디션 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261103066400030",
-      "pubDate": "Tue, 3 Nov 2026 12:00:11 +0900"
+      "title": "서울 아파트 거래 줄고 매물 늘어…부동산 상승세 멈출까",
+      "link": "https://www.yna.co.kr/view/AKR20261103179900003",
+      "pubDate": "Tue, 3 Nov 2026 19:57:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "PG사 '페이허브' 해킹으로 2억원 유출…당국 현장점검 연장",
+      "link": "https://www.yna.co.kr/view/AKR20261103180200002",
+      "pubDate": "Tue, 3 Nov 2026 19:37:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작",
+      "link": "https://www.yna.co.kr/view/AKR20261103178000030",
+      "pubDate": "Tue, 3 Nov 2026 19:16:59 +0900"
     },
     {
       "source": "한국경제",
-      "title": "삼성, 급하게 'SOS' 보냈지만…대만 업체가 주문 거절한 이유",
-      "link": "https://www.hankyung.com/article/202611032537g",
-      "pubDate": "Tue, 03 Nov 2026 12:00:07 +0900"
+      "title": "\"민주당 압승시 AI주 하락하면 사라\"…JP모건, 중간선거 투자전략",
+      "link": "https://www.hankyung.com/article/202611033874i",
+      "pubDate": "Tue, 03 Nov 2026 19:11:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
-      "link": "https://www.yna.co.kr/view/AKR20261103075200002",
-      "pubDate": "Tue, 3 Nov 2026 12:00:06 +0900"
+      "title": "상습체불 사업주 777명, 1년간 신용제재…대출·국가사업 제한",
+      "link": "https://www.yna.co.kr/view/AKR20261103176800530",
+      "pubDate": "Tue, 3 Nov 2026 18:54:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"요양시설 간호사 비중 10%p 확대되면 건보 진료비 7.7% 감소\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103080000002",
-      "pubDate": "Tue, 3 Nov 2026 12:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.726%",
-      "link": "https://www.yna.co.kr/view/AKR20261103093200008",
-      "pubDate": "Tue, 3 Nov 2026 11:41:04 +0900"
+      "title": "\"한일 연대는 생존 위한 필수 전략\"…연합뉴스 미래경제포럼(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261102067251898",
+      "pubDate": "Tue, 3 Nov 2026 18:45:39 +0900"
     },
     {
       "source": "한국경제",
-      "title": "감자·양파 키우던 밭이었는데…\"하루에 40만원도 벌어요\" [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202611018666i",
-      "pubDate": "Tue, 03 Nov 2026 11:40:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경찰, 토스증권 '기밀 유출' 의혹 넥스트증권 불송치 처분",
-      "link": "https://www.yna.co.kr/view/AKR20261103092700004",
-      "pubDate": "Tue, 3 Nov 2026 11:39:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "여수시, 하도급 관리제 시행…외지 건설업체 수주 독식 타파",
-      "link": "https://www.yna.co.kr/view/AKR20261103092400054",
-      "pubDate": "Tue, 3 Nov 2026 11:37:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부고] 문철상(전 신협중앙회장)씨 별세",
-      "link": "https://www.yna.co.kr/view/AKR20261103089800002",
-      "pubDate": "Tue, 3 Nov 2026 11:37:39 +0900"
+      "title": "\"착한 사업도 수익 내야\"…장애인 일자리 키운 힘",
+      "link": "https://www.hankyung.com/article/2026110337571",
+      "pubDate": "Tue, 03 Nov 2026 18:27:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"일본 상용차 시장 노린다\"…기아, 2030년까지 PBV 1000대 공급",
-      "link": "https://www.hankyung.com/article/202611032417g",
-      "pubDate": "Tue, 03 Nov 2026 11:37:12 +0900"
+      "title": "은행연합회, 취약계층에 백미 기부",
+      "link": "https://www.hankyung.com/article/2026110337511",
+      "pubDate": "Tue, 03 Nov 2026 18:25:36 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"연말 쇼핑하면 미국이었는데\"…블프 앞두고 돈 몰린 곳 [분석+]",
-      "link": "https://www.hankyung.com/article/202611031654g",
-      "pubDate": "Tue, 03 Nov 2026 11:36:18 +0900"
+      "title": "삼성, 어린이집·유치원 원장 문화체험 행사 연다",
+      "link": "https://www.hankyung.com/article/2026110337481",
+      "pubDate": "Tue, 03 Nov 2026 18:19:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경기도, '극저신용대출 2.0' 이어 '재도전론'도 올해말 종료",
-      "link": "https://www.yna.co.kr/view/AKR20261103089400061",
-      "pubDate": "Tue, 3 Nov 2026 11:32:36 +0900"
+      "title": "삼성생명, 에스원 주식 13만7천주 매각…금산법 위반 우려에",
+      "link": "https://www.yna.co.kr/view/AKR20261103172400002",
+      "pubDate": "Tue, 3 Nov 2026 18:12:56 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기술특례 주식 5년 보유했더니…상장사 75%, 코스닥 수익률 하회",
-      "link": "https://www.yna.co.kr/view/AKR20261103085700008",
-      "pubDate": "Tue, 3 Nov 2026 11:29:04 +0900"
+      "title": "[미래경제포럼] \"새로운 100년 연다\"…한일 협력 61년 사진전 눈길",
+      "link": "https://www.yna.co.kr/view/AKR20261103158000371",
+      "pubDate": "Tue, 3 Nov 2026 18:10:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중고 팰리세이드 3천만원대로 산다…연말엔 가격 더 내려갈 수도",
+      "link": "https://www.hankyung.com/article/2026110336701",
+      "pubDate": "Tue, 03 Nov 2026 18:08:48 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "포스코퓨처엠, 현대차그룹과 베트남 인조흑연 음극재 협력",
+      "link": "https://www.hankyung.com/article/2026110337341",
+      "pubDate": "Tue, 03 Nov 2026 18:04:26 +0900"
     }
   ]
 }
