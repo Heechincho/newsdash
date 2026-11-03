@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:37:55.674Z",
+  "updatedAt": "2026-11-03T03:42:05.430Z",
   "instruments": [
     {
       "key": "sp500",
@@ -22,7 +22,7 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25164.316,
+      "price": 25164.363,
       "changePercent": -1.072,
       "previousClose": 26169.38,
       "currency": "USD",
@@ -31,7 +31,7 @@
         26549.849609375,
         26184.720703125,
         25437,
-        25164.31640625
+        25164.36328125
       ],
       "ok": true
     },
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.26,
-      "changePercent": -7.549,
+      "price": 96.57,
+      "changePercent": 0.114,
       "previousClose": 102.78,
       "currency": "USD",
       "history": [
         102.77999877929688,
         102,
         104.12000274658203,
-        96.26000213623047
+        96.45999908447266,
+        96.56999969482422
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3956.6,
-      "changePercent": 1.48,
+      "price": 3945,
+      "changePercent": -0.62,
       "previousClose": 4051.6,
       "currency": "USD",
       "history": [
         4051.60009765625,
         4031.39990234375,
         3898.89990234375,
-        3956.60009765625
+        3969.60009765625,
+        3945
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.772,
-      "changePercent": -0.105,
+      "price": 101.815,
+      "changePercent": 0.069,
       "previousClose": 102.19,
       "currency": "USD",
       "history": [
         102.19000244140625,
         102.04000091552734,
         101.87999725341797,
-        101.77200317382812
+        101.75,
+        101.81500244140625
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261103015600011",
-      "pubDate": "Tue, 3 Nov 2026 07:30:00 +0900"
+      "title": "김민석 \"정년연장·초광역특구 대화\"…한국노총 \"신뢰 무너져\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103096400001",
+      "pubDate": "Tue, 3 Nov 2026 12:32:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
-      "link": "https://www.yna.co.kr/view/AKR20261102067700546",
-      "pubDate": "Tue, 3 Nov 2026 07:07:00 +0900"
+      "title": "\"토핑 요거트 당류, 일반 요거트의 2∼3배…포화지방도 주의\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102132900030",
+      "pubDate": "Tue, 3 Nov 2026 12:00:12 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
-      "link": "https://www.yna.co.kr/view/AKR20261019077900898",
-      "pubDate": "Tue, 3 Nov 2026 07:00:06 +0900"
+      "title": "중기부, 성수동서 판로개척 성과보고회…팝업·오디션 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261103066400030",
+      "pubDate": "Tue, 3 Nov 2026 12:00:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
-      "link": "https://www.hankyung.com/article/2026110210431",
-      "pubDate": "Tue, 03 Nov 2026 07:00:04 +0900"
+      "title": "삼성, 급하게 'SOS' 보냈지만…대만 업체가 주문 거절한 이유",
+      "link": "https://www.hankyung.com/article/202611032537g",
+      "pubDate": "Tue, 03 Nov 2026 12:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
-      "link": "https://www.yna.co.kr/view/AKR20261103007851072",
-      "pubDate": "Tue, 3 Nov 2026 06:03:41 +0900"
+      "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+      "link": "https://www.yna.co.kr/view/AKR20261103075200002",
+      "pubDate": "Tue, 3 Nov 2026 12:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
-      "link": "https://www.yna.co.kr/view/AKR20261102067200898",
-      "pubDate": "Tue, 3 Nov 2026 06:00:12 +0900"
+      "title": "\"요양시설 간호사 비중 10%p 확대되면 건보 진료비 7.7% 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103080000002",
+      "pubDate": "Tue, 3 Nov 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
-      "link": "https://www.yna.co.kr/view/AKR20261102135700030",
-      "pubDate": "Tue, 3 Nov 2026 06:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
-      "link": "https://www.yna.co.kr/view/AKR20261102149200003",
-      "pubDate": "Tue, 3 Nov 2026 06:00:10 +0900"
+      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.726%",
+      "link": "https://www.yna.co.kr/view/AKR20261103093200008",
+      "pubDate": "Tue, 3 Nov 2026 11:41:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다  [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611020623i",
-      "pubDate": "Tue, 03 Nov 2026 06:00:10 +0900"
+      "title": "감자·양파 키우던 밭이었는데…\"하루에 40만원도 벌어요\" [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611018666i",
+      "pubDate": "Tue, 03 Nov 2026 11:40:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102167400002",
-      "pubDate": "Tue, 3 Nov 2026 05:57:00 +0900"
+      "title": "경찰, 토스증권 '기밀 유출' 의혹 넥스트증권 불송치 처분",
+      "link": "https://www.yna.co.kr/view/AKR20261103092700004",
+      "pubDate": "Tue, 3 Nov 2026 11:39:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
-      "link": "https://www.yna.co.kr/view/AKR20261102160100002",
-      "pubDate": "Tue, 3 Nov 2026 05:55:00 +0900"
+      "title": "여수시, 하도급 관리제 시행…외지 건설업체 수주 독식 타파",
+      "link": "https://www.yna.co.kr/view/AKR20261103092400054",
+      "pubDate": "Tue, 3 Nov 2026 11:37:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261102158900002",
-      "pubDate": "Tue, 3 Nov 2026 05:53:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"北이 빼낸 바이낸스 자금, FBI 공개목록 밖 100곳에도 유입\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102173800002",
-      "pubDate": "Tue, 3 Nov 2026 05:51:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] 미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
-      "link": "https://www.yna.co.kr/view/AKR20261103007800072",
-      "pubDate": "Tue, 3 Nov 2026 05:32:34 +0900"
+      "title": "[부고] 문철상(전 신협중앙회장)씨 별세",
+      "link": "https://www.yna.co.kr/view/AKR20261103089800002",
+      "pubDate": "Tue, 3 Nov 2026 11:37:39 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611031416i",
-      "pubDate": "Tue, 03 Nov 2026 00:23:10 +0900"
+      "title": "\"일본 상용차 시장 노린다\"…기아, 2030년까지 PBV 1000대 공급",
+      "link": "https://www.hankyung.com/article/202611032417g",
+      "pubDate": "Tue, 03 Nov 2026 11:37:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"연말 쇼핑하면 미국이었는데\"…블프 앞두고 돈 몰린 곳 [분석+]",
+      "link": "https://www.hankyung.com/article/202611031654g",
+      "pubDate": "Tue, 03 Nov 2026 11:36:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경기도, '극저신용대출 2.0' 이어 '재도전론'도 올해말 종료",
+      "link": "https://www.yna.co.kr/view/AKR20261103089400061",
+      "pubDate": "Tue, 3 Nov 2026 11:32:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "기술특례 주식 5년 보유했더니…상장사 75%, 코스닥 수익률 하회",
+      "link": "https://www.yna.co.kr/view/AKR20261103085700008",
+      "pubDate": "Tue, 3 Nov 2026 11:29:04 +0900"
     }
   ]
 }
