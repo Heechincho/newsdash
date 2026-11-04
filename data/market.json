@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:19:14.774Z",
+  "updatedAt": "2026-11-04T11:15:34.898Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.32,
-      "changePercent": -0.801,
-      "previousClose": 102,
+      "price": 95.52,
+      "changePercent": -0.593,
+      "previousClose": 104.12,
       "currency": "USD",
       "history": [
-        102,
         104.12000274658203,
         96.45999908447266,
         96.08999633789062,
-        95.31999969482422
+        95.5199966430664
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3942.9,
-      "changePercent": 0.063,
-      "previousClose": 4031.4,
+      "price": 4053.3,
+      "changePercent": 2.865,
+      "previousClose": 3898.9,
       "currency": "USD",
       "history": [
-        4031.39990234375,
         3898.89990234375,
         3969.60009765625,
         3940.39990234375,
-        3942.89990234375
+        4053.300048828125
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.318,
-      "changePercent": -0.539,
-      "previousClose": 102.04,
+      "price": 101.457,
+      "changePercent": -0.402,
+      "previousClose": 101.88,
       "currency": "USD",
       "history": [
-        102.04000091552734,
         101.87999725341797,
         101.75,
         101.87000274658203,
-        101.31800079345703
+        101.45700073242188
       ],
       "ok": true
     },
@@ -107,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 20.83,
-      "changePercent": -1.513,
-      "previousClose": 16.91,
+      "price": 18.27,
+      "changePercent": -12.29,
+      "previousClose": 17.2,
       "currency": "USD",
       "history": [
-        16.90999984741211,
         17.200000762939453,
         19.420000076293945,
         21.149999618530273,
-        20.829999923706055
+        20.829999923706055,
+        18.270000457763672
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "고교생 개발자들, 실리콘밸리로…4년 연속 취업 성과",
-      "link": "https://www.yna.co.kr/view/AKR20261104054700017",
-      "pubDate": "Wed, 4 Nov 2026 12:00:07 +0900"
+      "source": "한국경제",
+      "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다",
+      "link": "https://www.hankyung.com/article/2026110465831",
+      "pubDate": "Wed, 04 Nov 2026 19:46:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 티메프 피해 기업 특별만기연장…가산금리 미부과",
-      "link": "https://www.yna.co.kr/view/AKR20261104043700030",
-      "pubDate": "Wed, 4 Nov 2026 12:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"자동차 측면 접합유리, 비상시 파손 어려워…갇힘 사고 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103146100030",
-      "pubDate": "Wed, 4 Nov 2026 12:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원",
-      "link": "https://www.yna.co.kr/view/AKR20261104082300530",
-      "pubDate": "Wed, 4 Nov 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "비임금근로 3년만에 증가…30대·70세 이상 '사장님'이 견인",
-      "link": "https://www.yna.co.kr/view/AKR20261104081600002",
-      "pubDate": "Wed, 4 Nov 2026 12:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "청년 일자리 미스매치 심화…2030, 68만명 일·구직 안하고 쉰다",
-      "link": "https://www.yna.co.kr/view/AKR20261104080400002",
-      "pubDate": "Wed, 4 Nov 2026 12:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "조희대 \"생성형 AI, 지식재산 제도 근간에 새로운 물음 던져\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104088500063",
-      "pubDate": "Wed, 4 Nov 2026 11:57:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.703%",
-      "link": "https://www.yna.co.kr/view/AKR20261104087000008",
-      "pubDate": "Wed, 4 Nov 2026 11:42:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "블룸버그 이코노미스트 \"美민주당 승리 가능성…韓반도체 영향 주목\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104083500008",
-      "pubDate": "Wed, 4 Nov 2026 11:39:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "산업 전환기 제주 노동시장 영향과 과제는…13일 토론회",
-      "link": "https://www.yna.co.kr/view/AKR20261104085500056",
-      "pubDate": "Wed, 4 Nov 2026 11:34:51 +0900"
+      "title": "대통령이 힘 실은 공공재개발…\"인센티브로 사업성·속도 제고\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104176100003",
+      "pubDate": "Wed, 4 Nov 2026 19:44:39 +0900"
     },
     {
       "source": "한국경제",
-      "title": "순익 반토막나자 6억달러 베팅…벅셔해서웨이가 주목한 건설사 [핫픽!미국주식]",
-      "link": "https://www.hankyung.com/article/202611045061i",
-      "pubDate": "Wed, 04 Nov 2026 11:22:18 +0900"
+      "title": "호반건설, 한진칼 최대주주로…조원태 측에 0.11%P 앞서",
+      "link": "https://www.hankyung.com/article/2026110465841",
+      "pubDate": "Wed, 04 Nov 2026 19:42:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "우리銀·국민연금, 태국 치앙마이 봉사",
+      "link": "https://www.hankyung.com/article/2026110465701",
+      "pubDate": "Wed, 04 Nov 2026 19:42:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강북구, 2027년 장애인일자리사업 참여자 147명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261104081000004",
-      "pubDate": "Wed, 4 Nov 2026 11:19:20 +0900"
+      "title": "오세훈 \"李, 공공개발 만능론 버려야…서울주택공급 90%가 민간\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104174200004",
+      "pubDate": "Wed, 4 Nov 2026 19:24:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수협 노조 \"정부·중앙회 은행장 선임 개입 반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104079800002",
-      "pubDate": "Wed, 4 Nov 2026 11:16:56 +0900"
+      "title": "한국, 아시아지배구조협회 기업지배구조 순위 5위…3단계 올라",
+      "link": "https://www.yna.co.kr/view/AKR20261104168200002",
+      "pubDate": "Wed, 4 Nov 2026 18:50:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "다우키움·CJ·신세계 컨소시엄, 5일 중앙일보 인수 본계약",
+      "link": "https://www.hankyung.com/article/202611046486i",
+      "pubDate": "Wed, 04 Nov 2026 18:33:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "과징금·화재에…쿠팡 올해 누적손실 1.8조",
+      "link": "https://www.hankyung.com/article/2026110463991",
+      "pubDate": "Wed, 04 Nov 2026 18:26:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성전자 TV, 美 소비자 평가서 전 부문 1위",
+      "link": "https://www.hankyung.com/article/2026110464001",
+      "pubDate": "Wed, 04 Nov 2026 18:22:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국내 최대 아파트 관리회사 'KES' 출범…1천500개 단지 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261104079000003",
-      "pubDate": "Wed, 4 Nov 2026 11:16:52 +0900"
+      "title": "정책금융기관 글로벌 스케일업 협력펀드 위탁운용사 3곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261104167500002",
+      "pubDate": "Wed, 4 Nov 2026 18:21:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "혁신당, '52시간 노동 특례 제외' 초광역특구법안 발의",
-      "link": "https://www.yna.co.kr/view/AKR20261104075200001",
-      "pubDate": "Wed, 4 Nov 2026 11:14:38 +0900"
+      "title": "위성락, 방글라 총리 특사 접견…경제·방산협력 강화방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261104165300001",
+      "pubDate": "Wed, 4 Nov 2026 18:20:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
+      "link": "https://www.hankyung.com/article/2026110463951",
+      "pubDate": "Wed, 04 Nov 2026 18:19:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "SK, 에코플랜트 완전 자회사로 만든다",
+      "link": "https://www.hankyung.com/article/2026110463981",
+      "pubDate": "Wed, 04 Nov 2026 18:18:42 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "10월 수입차 판매 작년보다 29.3% 증가",
+      "link": "https://www.hankyung.com/article/2026110463971",
+      "pubDate": "Wed, 04 Nov 2026 18:18:25 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대차그룹, 수소엑스포서 신기술 대거 공개",
+      "link": "https://www.hankyung.com/article/2026110463921",
+      "pubDate": "Wed, 04 Nov 2026 18:18:06 +0900"
     }
   ]
 }
