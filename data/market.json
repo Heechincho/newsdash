@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:39:38.507Z",
+  "updatedAt": "2026-11-04T03:19:14.774Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 96.72,
-      "changePercent": 0.656,
+      "price": 95.32,
+      "changePercent": -0.801,
       "previousClose": 102,
       "currency": "USD",
       "history": [
         102,
         104.12000274658203,
         96.45999908447266,
-        96.72000122070312
+        96.08999633789062,
+        95.31999969482422
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3939.5,
-      "changePercent": -0.023,
+      "price": 3942.9,
+      "changePercent": 0.063,
       "previousClose": 4031.4,
       "currency": "USD",
       "history": [
         4031.39990234375,
         3898.89990234375,
         3969.60009765625,
-        3939.5
+        3940.39990234375,
+        3942.89990234375
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.89,
-      "changePercent": 0.143,
+      "price": 101.318,
+      "changePercent": -0.539,
       "previousClose": 102.04,
       "currency": "USD",
       "history": [
         102.04000091552734,
         101.87999725341797,
         101.75,
-        101.88999938964844
+        101.87000274658203,
+        101.31800079345703
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "대신증권 \"LG엔솔, 내년 ESS 실적 본격화…목표주가는 하향\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104025300008",
-      "pubDate": "Wed, 4 Nov 2026 08:33:52 +0900"
+      "title": "고교생 개발자들, 실리콘밸리로…4년 연속 취업 성과",
+      "link": "https://www.yna.co.kr/view/AKR20261104054700017",
+      "pubDate": "Wed, 4 Nov 2026 12:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KB증권, 풍산 목표가 하향…\"구리가격 하락 등 비우호적 업황\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104025600008",
-      "pubDate": "Wed, 4 Nov 2026 08:32:41 +0900"
+      "title": "중기부, 티메프 피해 기업 특별만기연장…가산금리 미부과",
+      "link": "https://www.yna.co.kr/view/AKR20261104043700030",
+      "pubDate": "Wed, 4 Nov 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권 \"KAI, 신규 수주 부진에 목표가↓…4분기 회복 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104024900008",
-      "pubDate": "Wed, 4 Nov 2026 08:28:07 +0900"
+      "title": "\"자동차 측면 접합유리, 비상시 파손 어려워…갇힘 사고 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103146100030",
+      "pubDate": "Wed, 4 Nov 2026 12:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "카카오뱅크, 3분기 누적 순익 4천698억원…또 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20261104023500002",
-      "pubDate": "Wed, 4 Nov 2026 08:27:21 +0900"
+      "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원",
+      "link": "https://www.yna.co.kr/view/AKR20261104082300530",
+      "pubDate": "Wed, 4 Nov 2026 12:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "IBK증권, 씨엠티엑스 목표가↓…\"수익성 기대 입증 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104023900008",
-      "pubDate": "Wed, 4 Nov 2026 08:20:47 +0900"
+      "title": "비임금근로 3년만에 증가…30대·70세 이상 '사장님'이 견인",
+      "link": "https://www.yna.co.kr/view/AKR20261104081600002",
+      "pubDate": "Wed, 4 Nov 2026 12:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'나트륨 적은 떡볶이·저당소스'…식약처, 식품 23종 개발 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261104023400017",
-      "pubDate": "Wed, 4 Nov 2026 08:20:08 +0900"
+      "title": "청년 일자리 미스매치 심화…2030, 68만명 일·구직 안하고 쉰다",
+      "link": "https://www.yna.co.kr/view/AKR20261104080400002",
+      "pubDate": "Wed, 4 Nov 2026 12:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI 시대, 저작권 기술의 미래는…'국제저작권기술 콘퍼런스'",
-      "link": "https://www.yna.co.kr/view/AKR20261104020200005",
-      "pubDate": "Wed, 4 Nov 2026 08:13:51 +0900"
+      "title": "조희대 \"생성형 AI, 지식재산 제도 근간에 새로운 물음 던져\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104088500063",
+      "pubDate": "Wed, 4 Nov 2026 11:57:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성전자 TV, 미국 컨슈머리포트 평가서 크기별 전 부문 1위",
-      "link": "https://www.yna.co.kr/view/AKR20261103158800003",
-      "pubDate": "Wed, 4 Nov 2026 08:01:00 +0900"
+      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.703%",
+      "link": "https://www.yna.co.kr/view/AKR20261104087000008",
+      "pubDate": "Wed, 4 Nov 2026 11:42:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "뉴욕 맨해튼에 '하동차문화관' 개관…세계시장 진출 거점 마련",
-      "link": "https://www.yna.co.kr/view/AKR20261104019700052",
-      "pubDate": "Wed, 4 Nov 2026 07:57:52 +0900"
+      "title": "블룸버그 이코노미스트 \"美민주당 승리 가능성…韓반도체 영향 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104083500008",
+      "pubDate": "Wed, 4 Nov 2026 11:39:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 美중간선거 결과 주시…코스피, 美반도체 강세에 반등하나",
-      "link": "https://www.yna.co.kr/view/AKR20261104018800008",
-      "pubDate": "Wed, 4 Nov 2026 07:57:12 +0900"
+      "title": "산업 전환기 제주 노동시장 영향과 과제는…13일 토론회",
+      "link": "https://www.yna.co.kr/view/AKR20261104085500056",
+      "pubDate": "Wed, 4 Nov 2026 11:34:51 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"'프리미엄 닥스' 입는 당신이라면, 터너의 그림도 좋아하실거에요\"[장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202611033852i",
-      "pubDate": "Wed, 04 Nov 2026 07:30:01 +0900"
+      "title": "순익 반토막나자 6억달러 베팅…벅셔해서웨이가 주목한 건설사 [핫픽!미국주식]",
+      "link": "https://www.hankyung.com/article/202611045061i",
+      "pubDate": "Wed, 04 Nov 2026 11:22:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261104014000011",
-      "pubDate": "Wed, 4 Nov 2026 07:30:00 +0900"
+      "title": "강북구, 2027년 장애인일자리사업 참여자 147명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261104081000004",
+      "pubDate": "Wed, 4 Nov 2026 11:19:20 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "반도체 날 때 'K-소비재'도 뛰었다…\"해외 유통망 확대 효과\"",
-      "link": "https://www.hankyung.com/article/202611044219g",
-      "pubDate": "Wed, 04 Nov 2026 07:24:03 +0900"
+      "source": "연합뉴스",
+      "title": "수협 노조 \"정부·중앙회 은행장 선임 개입 반대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104079800002",
+      "pubDate": "Wed, 4 Nov 2026 11:16:56 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"1만원도 안 하는데 불티\"…10대가 쓸어담자 매출 폭발한 제품 [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202611033834i",
-      "pubDate": "Wed, 04 Nov 2026 07:00:23 +0900"
+      "source": "연합뉴스",
+      "title": "국내 최대 아파트 관리회사 'KES' 출범…1천500개 단지 운영",
+      "link": "https://www.yna.co.kr/view/AKR20261104079000003",
+      "pubDate": "Wed, 4 Nov 2026 11:16:52 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "주문 몰리는 K뷰티 공장…ODM 3사, 생산라인 증설 경쟁 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611029503i",
-      "pubDate": "Wed, 04 Nov 2026 07:00:15 +0900"
+      "source": "연합뉴스",
+      "title": "혁신당, '52시간 노동 특례 제외' 초광역특구법안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20261104075200001",
+      "pubDate": "Wed, 4 Nov 2026 11:14:38 +0900"
     }
   ]
 }
