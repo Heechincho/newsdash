@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-04T18:41:49.653Z",
+  "updatedAt": "2026-11-04T23:57:08.884Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7699.31,
-      "changePercent": 1.723,
+      "price": 7688.62,
+      "changePercent": 1.581,
       "previousClose": 7743.98,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7580.06982421875,
         7541.39990234375,
         7568.919921875,
-        7699.31005859375
+        7688.6201171875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25843.438,
-      "changePercent": 1.858,
+      "price": 25736.514,
+      "changePercent": 1.437,
       "previousClose": 26549.85,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25437,
         25164.310546875,
         25372.009765625,
-        25843.4375
+        25736.513671875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53286.68,
-      "changePercent": 2.896,
+      "price": 53356.12,
+      "changePercent": 3.031,
       "previousClose": 52475.1,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51770.30859375,
         51983.98046875,
         51786.71875,
-        53286.6796875
+        53356.12109375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.82,
-      "changePercent": -7.566,
+      "price": 88.27,
+      "changePercent": 0.17,
       "previousClose": 104.12,
       "currency": "USD",
       "history": [
         104.12000274658203,
         96.45999908447266,
         96.08999633789062,
-        88.81999969482422
+        88.2699966430664
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4075.1,
-      "changePercent": 3.418,
+      "price": 4074.6,
+      "changePercent": 0.039,
       "previousClose": 3898.9,
       "currency": "USD",
       "history": [
         3898.89990234375,
         3969.60009765625,
         3940.39990234375,
-        4075.10009765625
+        4074.60009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.535,
-      "changePercent": -0.326,
+      "price": 101.492,
+      "changePercent": -0.368,
       "previousClose": 101.88,
       "currency": "USD",
       "history": [
         101.87999725341797,
         101.75,
         101.87000274658203,
-        101.53500366210938
+        101.49199676513672
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 16.91,
-      "changePercent": -18.792,
+      "price": 16.61,
+      "changePercent": -20.259,
       "previousClose": 17.2,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         19.420000076293945,
         21.149999618530273,
         20.829999923706055,
-        16.90999984741211
+        16.610000610351562
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"레임덕이 화난 오리 된다\"…트럼프 참패에도 대미투자 셈법 복잡",
-      "link": "https://www.hankyung.com/article/202611056810i",
-      "pubDate": "Thu, 05 Nov 2026 01:07:32 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "선거 리스크 제거에 매수 기회?…\"테슬라·스페이스X 는 위험\" [박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611056800i",
-      "pubDate": "Thu, 05 Nov 2026 00:19:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美 민주당 압승에 월가 축포?…다우·나스닥 2% 넘게 급등",
-      "link": "https://www.hankyung.com/article/202611046798i",
-      "pubDate": "Thu, 05 Nov 2026 00:10:06 +0900"
+      "source": "연합뉴스",
+      "title": "성남시, 국토부에 '닭죽촌 일대' 공공주택사업 제안",
+      "link": "https://www.yna.co.kr/view/AKR20261105030300061",
+      "pubDate": "Thu, 5 Nov 2026 08:46:58 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코트라 \"미국 관세정책 유지 전망…쟁점법안 거부권 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104185300003",
-      "pubDate": "Wed, 4 Nov 2026 23:48:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美10월 민간고용 8만6000개 증가…대기업 해고증가에도 예상밖 증가",
-      "link": "https://www.hankyung.com/article/202611046771i",
-      "pubDate": "Wed, 04 Nov 2026 22:59:07 +0900"
+      "title": "신한증권 \"휴젤, 미국 부진에 이익 기대치 하회\"…목표가↓",
+      "link": "https://www.yna.co.kr/view/AKR20261105031000008",
+      "pubDate": "Thu, 5 Nov 2026 08:45:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "李대통령, '대통령 집값 발언 강남만 맞았다' 보도에 \"가짜뉴스\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261104050951001",
-      "pubDate": "Wed, 4 Nov 2026 22:28:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"중고백 3900만원에 팔았어요\"…MZ 열광한 '이곳' 정체",
-      "link": "https://www.hankyung.com/article/202611044235g",
-      "pubDate": "Wed, 04 Nov 2026 22:12:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"6000억 걸었는데 이럴 수가\"…머스크에 닥친 '날벼락'",
-      "link": "https://www.hankyung.com/article/202611046678i",
-      "pubDate": "Wed, 04 Nov 2026 21:49:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "150억에 회사 넘긴 노현정 남편…장례식장 647곳 손잡은 이유",
-      "link": "https://www.hankyung.com/article/2026110466527",
-      "pubDate": "Wed, 04 Nov 2026 21:07:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"1000원 내면 3개 줬었는데\"…붕어빵 사먹으려다 '깜짝'",
-      "link": "https://www.hankyung.com/article/202611046089g",
-      "pubDate": "Wed, 04 Nov 2026 21:06:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
-      "link": "https://www.hankyung.com/article/202611046616i",
-      "pubDate": "Wed, 04 Nov 2026 20:36:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "10만원 내고 '조물조물'…요즘 외국인들 푹 빠졌다는데 [현장+]",
-      "link": "https://www.hankyung.com/article/202611045374g",
-      "pubDate": "Wed, 04 Nov 2026 20:22:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다",
-      "link": "https://www.hankyung.com/article/2026110465831",
-      "pubDate": "Wed, 04 Nov 2026 19:46:14 +0900"
+      "title": "당근서 중고 전기차 거래 늘었다…모델 Y 2.7배로",
+      "link": "https://www.yna.co.kr/view/AKR20261105028700017",
+      "pubDate": "Thu, 5 Nov 2026 08:41:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대통령이 힘 실은 공공재개발…\"인센티브로 사업성·속도 제고\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104176100003",
-      "pubDate": "Wed, 4 Nov 2026 19:44:39 +0900"
+      "title": "소진공, 제주서 '로컬콘텐츠 대학 성과공유회'…예비창업자 양성",
+      "link": "https://www.yna.co.kr/view/AKR20261105025500030",
+      "pubDate": "Thu, 5 Nov 2026 08:37:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "하나증권, 넥센타이어 목표가↓…\"원가 부담에 실적회복 지연'",
+      "link": "https://www.yna.co.kr/view/AKR20261105027600008",
+      "pubDate": "Thu, 5 Nov 2026 08:31:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권, 에스엠 목표가 하향…\"하반기 활동 감소, 실적 공백\"",
+      "link": "https://www.yna.co.kr/view/AKR20261105027100008",
+      "pubDate": "Thu, 5 Nov 2026 08:30:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "기보, R&D사업화 금융지원 목표 3천400억원 조기 달성",
+      "link": "https://www.yna.co.kr/view/AKR20261105026500051",
+      "pubDate": "Thu, 5 Nov 2026 08:26:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "프랑스 은행 해킹에 1천500억원 털려…가상화폐로 자금 세탁",
+      "link": "https://www.yna.co.kr/view/AKR20261105024400009",
+      "pubDate": "Thu, 5 Nov 2026 08:22:20 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "IBK증권, LG유플러스 목표가↑…\"AI 데이터센터 중심 고성장\"",
+      "link": "https://www.yna.co.kr/view/AKR20261105025300008",
+      "pubDate": "Thu, 5 Nov 2026 08:16:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "호반건설, 한진칼 최대주주로…조원태 측에 0.11%P 앞서",
-      "link": "https://www.hankyung.com/article/2026110465841",
-      "pubDate": "Wed, 04 Nov 2026 19:42:58 +0900"
+      "title": "美민주당 의회 장악에 기업들 긴장…트럼프 특혜 조사 예고",
+      "link": "https://www.hankyung.com/article/202611057086i",
+      "pubDate": "Thu, 05 Nov 2026 08:08:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한투증권, 현대백화점 목표가↓…\"원화강세로 모멘텀 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261105024000008",
+      "pubDate": "Thu, 5 Nov 2026 08:08:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "피노, 1천830억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20261105021500008",
+      "pubDate": "Thu, 5 Nov 2026 08:05:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[속보] 9월 경상흑자 614억 달러 '역대 최대'…사상 첫 600억 달러 돌파",
+      "link": "https://www.hankyung.com/article/2026110570727",
+      "pubDate": "Thu, 05 Nov 2026 08:02:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[인사] 한국해양교통안전공단",
+      "link": "https://www.yna.co.kr/view/AKR20261105021900051",
+      "pubDate": "Thu, 5 Nov 2026 08:00:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "민관이 함께 K-콘텐츠 수호…'제10차 해외지식재산보호협의체'",
+      "link": "https://www.yna.co.kr/view/AKR20261104175300005",
+      "pubDate": "Thu, 5 Nov 2026 08:00:05 +0900"
     }
   ]
 }
