@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-04T11:15:34.898Z",
+  "updatedAt": "2026-11-04T18:41:49.653Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7568.92,
-      "changePercent": 0.365,
-      "previousClose": 7722.6,
+      "price": 7699.31,
+      "changePercent": 1.723,
+      "previousClose": 7743.98,
       "currency": "USD",
       "history": [
-        7743.97998046875,
         7720.39013671875,
         7580.06982421875,
         7541.39990234375,
-        7568.919921875
+        7568.919921875,
+        7699.31005859375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25372.01,
-      "changePercent": 0.825,
-      "previousClose": 26477.81,
+      "price": 25843.438,
+      "changePercent": 1.858,
+      "previousClose": 26549.85,
       "currency": "USD",
       "history": [
-        26549.849609375,
         26184.720703125,
         25437,
         25164.310546875,
-        25372.009765625
+        25372.009765625,
+        25843.4375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51786.72,
-      "changePercent": -0.379,
-      "previousClose": 52377.57,
+      "price": 53286.68,
+      "changePercent": 2.896,
+      "previousClose": 52475.1,
       "currency": "USD",
       "history": [
-        52475.1015625,
         52342.55859375,
         51770.30859375,
         51983.98046875,
-        51786.71875
+        51786.71875,
+        53286.6796875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 95.52,
-      "changePercent": -0.593,
+      "price": 88.82,
+      "changePercent": -7.566,
       "previousClose": 104.12,
       "currency": "USD",
       "history": [
         104.12000274658203,
         96.45999908447266,
         96.08999633789062,
-        95.5199966430664
+        88.81999969482422
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4053.3,
-      "changePercent": 2.865,
+      "price": 4075.1,
+      "changePercent": 3.418,
       "previousClose": 3898.9,
       "currency": "USD",
       "history": [
         3898.89990234375,
         3969.60009765625,
         3940.39990234375,
-        4053.300048828125
+        4075.10009765625
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.457,
-      "changePercent": -0.402,
+      "price": 101.535,
+      "changePercent": -0.326,
       "previousClose": 101.88,
       "currency": "USD",
       "history": [
         101.87999725341797,
         101.75,
         101.87000274658203,
-        101.45700073242188
+        101.53500366210938
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.27,
-      "changePercent": -12.29,
+      "price": 16.91,
+      "changePercent": -18.792,
       "previousClose": 17.2,
       "currency": "USD",
       "history": [
@@ -113,12 +113,84 @@
         19.420000076293945,
         21.149999618530273,
         20.829999923706055,
-        18.270000457763672
+        16.90999984741211
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"레임덕이 화난 오리 된다\"…트럼프 참패에도 대미투자 셈법 복잡",
+      "link": "https://www.hankyung.com/article/202611056810i",
+      "pubDate": "Thu, 05 Nov 2026 01:07:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "선거 리스크 제거에 매수 기회?…\"테슬라·스페이스X 는 위험\" [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611056800i",
+      "pubDate": "Thu, 05 Nov 2026 00:19:07 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 민주당 압승에 월가 축포?…다우·나스닥 2% 넘게 급등",
+      "link": "https://www.hankyung.com/article/202611046798i",
+      "pubDate": "Thu, 05 Nov 2026 00:10:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코트라 \"미국 관세정책 유지 전망…쟁점법안 거부권 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104185300003",
+      "pubDate": "Wed, 4 Nov 2026 23:48:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美10월 민간고용 8만6000개 증가…대기업 해고증가에도 예상밖 증가",
+      "link": "https://www.hankyung.com/article/202611046771i",
+      "pubDate": "Wed, 04 Nov 2026 22:59:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "李대통령, '대통령 집값 발언 강남만 맞았다' 보도에 \"가짜뉴스\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261104050951001",
+      "pubDate": "Wed, 4 Nov 2026 22:28:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"중고백 3900만원에 팔았어요\"…MZ 열광한 '이곳' 정체",
+      "link": "https://www.hankyung.com/article/202611044235g",
+      "pubDate": "Wed, 04 Nov 2026 22:12:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"6000억 걸었는데 이럴 수가\"…머스크에 닥친 '날벼락'",
+      "link": "https://www.hankyung.com/article/202611046678i",
+      "pubDate": "Wed, 04 Nov 2026 21:49:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "150억에 회사 넘긴 노현정 남편…장례식장 647곳 손잡은 이유",
+      "link": "https://www.hankyung.com/article/2026110466527",
+      "pubDate": "Wed, 04 Nov 2026 21:07:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"1000원 내면 3개 줬었는데\"…붕어빵 사먹으려다 '깜짝'",
+      "link": "https://www.hankyung.com/article/202611046089g",
+      "pubDate": "Wed, 04 Nov 2026 21:06:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"데이터센터붐 중단되나\"…블루쓰나미속 반도체주 급락피한 이유는?",
+      "link": "https://www.hankyung.com/article/202611046616i",
+      "pubDate": "Wed, 04 Nov 2026 20:36:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "10만원 내고 '조물조물'…요즘 외국인들 푹 빠졌다는데 [현장+]",
+      "link": "https://www.hankyung.com/article/202611045374g",
+      "pubDate": "Wed, 04 Nov 2026 20:22:09 +0900"
+    },
     {
       "source": "한국경제",
       "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡는다",
@@ -136,78 +208,6 @@
       "title": "호반건설, 한진칼 최대주주로…조원태 측에 0.11%P 앞서",
       "link": "https://www.hankyung.com/article/2026110465841",
       "pubDate": "Wed, 04 Nov 2026 19:42:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리銀·국민연금, 태국 치앙마이 봉사",
-      "link": "https://www.hankyung.com/article/2026110465701",
-      "pubDate": "Wed, 04 Nov 2026 19:42:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오세훈 \"李, 공공개발 만능론 버려야…서울주택공급 90%가 민간\"",
-      "link": "https://www.yna.co.kr/view/AKR20261104174200004",
-      "pubDate": "Wed, 4 Nov 2026 19:24:53 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국, 아시아지배구조협회 기업지배구조 순위 5위…3단계 올라",
-      "link": "https://www.yna.co.kr/view/AKR20261104168200002",
-      "pubDate": "Wed, 4 Nov 2026 18:50:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "다우키움·CJ·신세계 컨소시엄, 5일 중앙일보 인수 본계약",
-      "link": "https://www.hankyung.com/article/202611046486i",
-      "pubDate": "Wed, 04 Nov 2026 18:33:23 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "과징금·화재에…쿠팡 올해 누적손실 1.8조",
-      "link": "https://www.hankyung.com/article/2026110463991",
-      "pubDate": "Wed, 04 Nov 2026 18:26:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전자 TV, 美 소비자 평가서 전 부문 1위",
-      "link": "https://www.hankyung.com/article/2026110464001",
-      "pubDate": "Wed, 04 Nov 2026 18:22:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정책금융기관 글로벌 스케일업 협력펀드 위탁운용사 3곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261104167500002",
-      "pubDate": "Wed, 4 Nov 2026 18:21:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "위성락, 방글라 총리 특사 접견…경제·방산협력 강화방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261104165300001",
-      "pubDate": "Wed, 4 Nov 2026 18:20:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
-      "link": "https://www.hankyung.com/article/2026110463951",
-      "pubDate": "Wed, 04 Nov 2026 18:19:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "SK, 에코플랜트 완전 자회사로 만든다",
-      "link": "https://www.hankyung.com/article/2026110463981",
-      "pubDate": "Wed, 04 Nov 2026 18:18:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "10월 수입차 판매 작년보다 29.3% 증가",
-      "link": "https://www.hankyung.com/article/2026110463971",
-      "pubDate": "Wed, 04 Nov 2026 18:18:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차그룹, 수소엑스포서 신기술 대거 공개",
-      "link": "https://www.hankyung.com/article/2026110463921",
-      "pubDate": "Wed, 04 Nov 2026 18:18:06 +0900"
     }
   ]
 }
