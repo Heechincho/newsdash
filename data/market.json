@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T14:52:43.079Z",
+  "updatedAt": "2026-11-05T21:22:19.124Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7576.93,
-      "changePercent": -1.453,
+      "price": 7353.73,
+      "changePercent": -4.356,
       "previousClose": 7720.39,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7541.39990234375,
         7568.919921875,
         7688.6201171875,
-        7576.93017578125
+        7353.72998046875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25034.396,
-      "changePercent": -2.728,
+      "price": 24314.998,
+      "changePercent": -5.523,
       "previousClose": 26184.72,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25164.310546875,
         25372.009765625,
         25736.509765625,
-        25034.396484375
+        24314.998046875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 53117.88,
-      "changePercent": -0.447,
+      "price": 51523.06,
+      "changePercent": -3.436,
       "previousClose": 52342.56,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51983.98046875,
         51786.71875,
         53356.12109375,
-        53117.87890625
+        51523.05859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.14,
-      "changePercent": 2.292,
+      "price": 90.58,
+      "changePercent": 2.792,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
         96.45999908447266,
         96.08999633789062,
         88.12000274658203,
-        90.13999938964844
+        90.58000183105469
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4120.6,
-      "changePercent": 1.169,
+      "price": 4097.9,
+      "changePercent": 0.611,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
         3969.60009765625,
         3940.39990234375,
         4073,
-        4120.60009765625
+        4097.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.683,
-      "changePercent": 0.115,
+      "price": 101.63,
+      "changePercent": 0.063,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
         101.75,
         101.87000274658203,
         101.51000213623047,
-        101.68299865722656
+        101.62999725341797
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.82,
-      "changePercent": 7.285,
+      "price": 28.31,
+      "changePercent": 70.228,
       "previousClose": 19.42,
       "currency": "USD",
       "history": [
@@ -113,12 +113,72 @@
         21.149999618530273,
         20.829999923706055,
         16.610000610351562,
-        17.81999969482422
+        28.309999465942383
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "민간공급 속도…국토부, 주택공급 통합지원센터 국장급으로 신설",
+      "link": "https://www.yna.co.kr/view/AKR20261105137700003",
+      "pubDate": "Fri, 6 Nov 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공공기관 공간정보 품질관리 수준 작년보다 16% 향상",
+      "link": "https://www.yna.co.kr/view/AKR20261105149100003",
+      "pubDate": "Fri, 6 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106006000072",
+      "pubDate": "Fri, 6 Nov 2026 04:57:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261105179053085",
+      "pubDate": "Fri, 6 Nov 2026 01:04:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "연말 랠리 전망에도 기술주 대탈출…애플만 선방[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611069553i",
+      "pubDate": "Fri, 06 Nov 2026 00:29:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아 H200칩 60만개 홍콩에 적재…中당국 수입승인 또 보류",
+      "link": "https://www.hankyung.com/article/202611059474i",
+      "pubDate": "Fri, 06 Nov 2026 00:14:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美가 수출막은 블랙웰칩…中문샷AI,유럽서 웃돈주고 빌리려했다",
+      "link": "https://www.hankyung.com/article/202611059543i",
+      "pubDate": "Fri, 06 Nov 2026 00:04:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "삼성바이오 노조, 오늘부터 부분파업 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20261105153700017",
+      "pubDate": "Fri, 6 Nov 2026 00:01:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "돈 쏟아부은 AI, 효과 나타나나?…美 생산성 1년만에 최대 증가",
+      "link": "https://www.hankyung.com/article/202611059502i",
+      "pubDate": "Thu, 05 Nov 2026 23:21:20 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "英 물가 치솟자…기준금리 연 4%로 인상",
+      "link": "https://www.hankyung.com/article/2026110594621",
+      "pubDate": "Thu, 05 Nov 2026 23:06:46 +0900"
+    },
     {
       "source": "한국경제",
       "title": "\"美 데이터센터, 향후 45% 건설 차질\"…빅테크, 해외건설 카드 검토",
@@ -148,66 +208,6 @@
       "title": "중기부, 신임 소상공인정책실장에 조경원 창업정책관 발탁",
       "link": "https://www.yna.co.kr/view/AKR20261105179300030",
       "pubDate": "Thu, 5 Nov 2026 21:20:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "트럼프보다 세게 나온다…블루웨이브에 중국 '긴장'",
-      "link": "https://www.hankyung.com/article/202611059325i",
-      "pubDate": "Thu, 05 Nov 2026 19:54:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "세계은행 부총재에 엄우종 선임",
-      "link": "https://www.hankyung.com/article/2026110593191",
-      "pubDate": "Thu, 05 Nov 2026 19:50:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "우상호 \"원주는 KT와 AI 데이터센터 협의…드론기업 유치 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20261105174300062",
-      "pubDate": "Thu, 5 Nov 2026 19:32:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최태원 \"美중간선거에 증시 반은 '와장창'…롤러코스터 계속될 것\"",
-      "link": "https://www.hankyung.com/article/2026110593127",
-      "pubDate": "Thu, 05 Nov 2026 19:12:27 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "與서울의원들 \"1주택자·실수요자 두텁게 보호…당정협의 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20261105171000001",
-      "pubDate": "Thu, 5 Nov 2026 19:02:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "李대통령 \"불법 부동산투기로 돈벌던 시대 끝내야…곧 3차 단속\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261105113551001",
-      "pubDate": "Thu, 5 Nov 2026 18:45:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "최태원 \"2100조 투자, 이렇게 해도되나 싶었지만…\"",
-      "link": "https://www.hankyung.com/article/2026110591741",
-      "pubDate": "Thu, 05 Nov 2026 18:24:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국민은행, 신보·기보와 청년창업 지원",
-      "link": "https://www.hankyung.com/article/2026110591721",
-      "pubDate": "Thu, 05 Nov 2026 18:24:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한진칼 최대주주 된 호반…진짜 '단순투자' 맞나",
-      "link": "https://www.hankyung.com/article/2026110591541",
-      "pubDate": "Thu, 05 Nov 2026 18:11:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 삼성E&A, UAE서 에너지 혁신기술 공개",
-      "link": "https://www.hankyung.com/article/2026110591591",
-      "pubDate": "Thu, 05 Nov 2026 18:09:59 +0900"
     }
   ]
 }
