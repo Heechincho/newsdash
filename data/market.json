@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:43:11.116Z",
+  "updatedAt": "2026-11-06T08:32:46.457Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25164.310546875,
         25372.009765625,
         25736.509765625,
-        24314.998046875
+        24315
       ],
       "ok": true
     },
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 91.22,
-      "changePercent": 0.773,
+      "price": 90.01,
+      "changePercent": -0.563,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
         96.45999908447266,
         96.08999633789062,
         88.12000274658203,
-        91.22000122070312
+        90.5199966430664,
+        90.01000213623047
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4076.4,
-      "changePercent": -0.902,
+      "price": 4076,
+      "changePercent": -0.912,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
         3969.60009765625,
         3940.39990234375,
         4073,
-        4076.39990234375
+        4113.5,
+        4076
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.613,
-      "changePercent": 0.065,
+      "price": 101.866,
+      "changePercent": 0.314,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
         101.75,
         101.87000274658203,
         101.51000213623047,
-        101.61299896240234
+        101.55000305175781,
+        101.86599731445312
       ],
       "ok": true
     },
@@ -104,16 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 28.18,
-      "changePercent": 69.657,
-      "previousClose": 19.42,
+      "price": 27.5,
+      "changePercent": -2.407,
+      "previousClose": 21.15,
       "currency": "USD",
       "history": [
-        19.420000076293945,
         21.149999618530273,
         20.829999923706055,
         16.610000610351562,
-        28.18000030517578
+        28.18000030517578,
+        27.5
       ],
       "ok": true
     }
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "기아, 전남광주서 PBV 모빌리티 생태계 조성…미래차 3조 투자",
-      "link": "https://www.yna.co.kr/view/AKR20261106070200003",
-      "pubDate": "Fri, 6 Nov 2026 10:40:33 +0900"
+      "title": "피노 \"종속회사 주식 510억원어치 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106157200008",
+      "pubDate": "Fri, 6 Nov 2026 17:11:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국산 '라이신' 브라질 첫 수출…대상, 내년 200만달러 수출 목표",
-      "link": "https://www.yna.co.kr/view/AKR20261106069700030",
-      "pubDate": "Fri, 6 Nov 2026 10:38:52 +0900"
+      "title": "단일 레버리지 우수수 추락…SK하이닉스 ETF 고점대비 90% 폭락",
+      "link": "https://www.yna.co.kr/view/AKR20261106155400008",
+      "pubDate": "Fri, 6 Nov 2026 17:08:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아",
-      "link": "https://www.yna.co.kr/view/AKR20261106069400008",
-      "pubDate": "Fri, 6 Nov 2026 10:38:14 +0900"
+      "title": "서울서 한일 경제 라운드테이블…AI시대 경제협력 고도화 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261106154700003",
+      "pubDate": "Fri, 6 Nov 2026 17:04:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "파마리서치 3분기 영업이익 626억원…1% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261106070700017",
-      "pubDate": "Fri, 6 Nov 2026 10:35:55 +0900"
+      "title": "[동정] 김종구 농식품부 차관, 강진군 찾아 고병원성 AI 방역 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261106111200030",
+      "pubDate": "Fri, 6 Nov 2026 17:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울주군, 2028년 '두동면 공공복합시설 건립'…설계 당선작 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261106064600057",
-      "pubDate": "Fri, 6 Nov 2026 10:34:47 +0900"
+      "title": "\"AI 붕괴 아니다, 수급 불안에 낙폭 확대\"…증시급락 전문가 긴급진단(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261106085251008",
+      "pubDate": "Fri, 6 Nov 2026 16:58:31 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
-      "link": "https://www.yna.co.kr/view/AKR20261106070100002",
-      "pubDate": "Fri, 6 Nov 2026 10:32:39 +0900"
+      "title": "효성화학 \"오로라동반성장프로젝트펀드제3호에 196억 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106151900008",
+      "pubDate": "Fri, 6 Nov 2026 16:53:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
-      "link": "https://www.yna.co.kr/view/AKR20261106068800051",
-      "pubDate": "Fri, 6 Nov 2026 10:31:07 +0900"
+      "title": "국고채 금리, 주가 급락 속 위험회피에 하락세 지속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261106148851008",
+      "pubDate": "Fri, 6 Nov 2026 16:53:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'파업 중 공정위 조사방해' 화물연대 2심 벌금형…무죄 뒤집혀",
-      "link": "https://www.yna.co.kr/view/AKR20261106068600004",
-      "pubDate": "Fri, 6 Nov 2026 10:30:45 +0900"
+      "title": "10년 제자리 대구 서문시장 4지구 재건축, 수용 절차 밟는다",
+      "link": "https://www.yna.co.kr/view/AKR20261106132800053",
+      "pubDate": "Fri, 6 Nov 2026 16:52:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261106063800011",
-      "pubDate": "Fri, 6 Nov 2026 10:30:00 +0900"
+      "title": "669개종목 연중 최저가·코스피 이틀간 11% 폭락…숫자로 본 증시급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261106071651008",
+      "pubDate": "Fri, 6 Nov 2026 16:52:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "울주군, 중국 쿤산시와 우호교류도시 수립의향서 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261106064300057",
-      "pubDate": "Fri, 6 Nov 2026 10:28:16 +0900"
+      "title": "'400억 투입' 광주 노사동반성장지원센터 입주 업체 없어",
+      "link": "https://www.yna.co.kr/view/AKR20261106145600054",
+      "pubDate": "Fri, 6 Nov 2026 16:50:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독]\"벽 타고 올라간 로봇, 주문 상품 꺼내”…LX판토스 'AI 물류랩' 첫 공개",
+      "link": "https://www.hankyung.com/article/202611061308i",
+      "pubDate": "Fri, 06 Nov 2026 16:45:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "대통령 지휘헬기, 록히드마틴 시코르스키 S-92A+ 선정…8730억원 투입",
+      "link": "https://www.hankyung.com/article/202611061343i",
+      "pubDate": "Fri, 06 Nov 2026 16:44:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
-      "link": "https://www.yna.co.kr/view/AKR20261106060700008",
-      "pubDate": "Fri, 6 Nov 2026 10:09:53 +0900"
+      "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106149800002",
+      "pubDate": "Fri, 6 Nov 2026 16:44:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "평창군, 외국인 계절근로자 산불예방 정보 '언어 장벽' 낮춘다",
-      "link": "https://www.yna.co.kr/view/AKR20261106058500062",
-      "pubDate": "Fri, 6 Nov 2026 10:00:56 +0900"
+      "title": "팬스타, 북극항로 다녀온 '아크로호' 매각·임대 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261106147100051",
+      "pubDate": "Fri, 6 Nov 2026 16:40:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "빗썸, 국회 입법박람회서 보이스피싱 예방 교육 책무 제안",
-      "link": "https://www.yna.co.kr/view/AKR20261106059200002",
-      "pubDate": "Fri, 6 Nov 2026 10:00:41 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "창고43, 서브 브랜드 '창고43 온' 출시…현대百 중동점에 1호점",
-      "link": "https://www.yna.co.kr/view/AKR20261106058900030",
-      "pubDate": "Fri, 6 Nov 2026 10:00:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "여의도 목화아파트 416세대로…창신동 정비사업도 통과",
-      "link": "https://www.yna.co.kr/view/AKR20261105162800004",
-      "pubDate": "Fri, 6 Nov 2026 10:00:02 +0900"
+      "title": "국고채 금리 일제히 하락…3년물 연 3.613%",
+      "link": "https://www.yna.co.kr/view/AKR20261106148800008",
+      "pubDate": "Fri, 6 Nov 2026 16:40:29 +0900"
     }
   ]
 }
