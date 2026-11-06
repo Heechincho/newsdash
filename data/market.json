@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T16:14:49.120Z",
+  "updatedAt": "2026-11-06T21:36:16.622Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7407.42,
-      "changePercent": 0.73,
+      "price": 7376.86,
+      "changePercent": 0.315,
       "previousClose": 7580.07,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7568.919921875,
         7688.6201171875,
         7353.72998046875,
-        7407.419921875
+        7376.85986328125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 24632.047,
-      "changePercent": 1.304,
+      "price": 24579.424,
+      "changePercent": 1.088,
       "previousClose": 25437,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25372.009765625,
         25736.509765625,
         24315,
-        24632.046875
+        24579.423828125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51520.06,
-      "changePercent": -0.006,
+      "price": 51285.73,
+      "changePercent": -0.461,
       "previousClose": 51770.31,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51786.71875,
         53356.12109375,
         51523.05859375,
-        51520.05859375
+        51285.73046875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.08,
-      "changePercent": -0.486,
+      "price": 90.5,
+      "changePercent": -0.022,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         96.08999633789062,
         88.12000274658203,
         90.5199966430664,
-        90.08000183105469
+        90.5
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4068.8,
-      "changePercent": -1.087,
+      "price": 4072.4,
+      "changePercent": -0.999,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3940.39990234375,
         4073,
         4113.5,
-        4068.800048828125
+        4072.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.194,
-      "changePercent": 0.637,
+      "price": 102.276,
+      "changePercent": 0.718,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.87000274658203,
         101.51000213623047,
         101.55000305175781,
-        102.19400024414062
+        102.2760009765625
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 24.33,
-      "changePercent": -13.677,
+      "price": 25.64,
+      "changePercent": -9.017,
       "previousClose": 21.15,
       "currency": "USD",
       "history": [
@@ -116,12 +116,30 @@
         20.829999923706055,
         16.610000610351562,
         28.18000030517578,
-        24.329999923706055
+        25.639999389648438
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
+      "link": "https://www.yna.co.kr/view/AKR20261106149600003",
+      "pubDate": "Sat, 7 Nov 2026 06:01:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "법원 \"승진 약속 안 지킨 전 파주시장 퇴직 직원에 배상해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106103200060",
+      "pubDate": "Sat, 7 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20261106175000003",
+      "pubDate": "Sat, 7 Nov 2026 06:00:01 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "증권사들, 신용융자 담보비율 인하·반대매매 유예…급락장 대응",
@@ -193,24 +211,6 @@
       "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
       "link": "https://www.yna.co.kr/view/AKR20261106171100030",
       "pubDate": "Fri, 6 Nov 2026 18:07:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한국 소비자 차별대우 안돼\"…공정위, 해외보다 가격 비싸면 제재",
-      "link": "https://www.hankyung.com/article/2026110615881",
-      "pubDate": "Fri, 06 Nov 2026 18:03:25 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "노동부·금감원, 퇴직연금사업자 간담회…\"가입자 이익 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106124400530",
-      "pubDate": "Fri, 6 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261106160400011",
-      "pubDate": "Fri, 6 Nov 2026 18:00:00 +0900"
     }
   ]
 }
