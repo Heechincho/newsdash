@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:22:19.124Z",
+  "updatedAt": "2026-11-06T01:43:11.116Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.58,
-      "changePercent": 2.792,
+      "price": 91.22,
+      "changePercent": 0.773,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
         96.45999908447266,
         96.08999633789062,
         88.12000274658203,
-        90.58000183105469
+        91.22000122070312
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4097.9,
-      "changePercent": 0.611,
+      "price": 4076.4,
+      "changePercent": -0.902,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
         3969.60009765625,
         3940.39990234375,
         4073,
-        4097.89990234375
+        4076.39990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.63,
-      "changePercent": 0.063,
+      "price": 101.613,
+      "changePercent": 0.065,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
         101.75,
         101.87000274658203,
         101.51000213623047,
-        101.62999725341797
+        101.61299896240234
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 28.31,
-      "changePercent": 70.228,
+      "price": 28.18,
+      "changePercent": 69.657,
       "previousClose": 19.42,
       "currency": "USD",
       "history": [
@@ -113,7 +113,7 @@
         21.149999618530273,
         20.829999923706055,
         16.610000610351562,
-        28.309999465942383
+        28.18000030517578
       ],
       "ok": true
     }
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "민간공급 속도…국토부, 주택공급 통합지원센터 국장급으로 신설",
-      "link": "https://www.yna.co.kr/view/AKR20261105137700003",
-      "pubDate": "Fri, 6 Nov 2026 06:01:01 +0900"
+      "title": "기아, 전남광주서 PBV 모빌리티 생태계 조성…미래차 3조 투자",
+      "link": "https://www.yna.co.kr/view/AKR20261106070200003",
+      "pubDate": "Fri, 6 Nov 2026 10:40:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "공공기관 공간정보 품질관리 수준 작년보다 16% 향상",
-      "link": "https://www.yna.co.kr/view/AKR20261105149100003",
-      "pubDate": "Fri, 6 Nov 2026 06:00:03 +0900"
+      "title": "국산 '라이신' 브라질 첫 수출…대상, 내년 200만달러 수출 목표",
+      "link": "https://www.yna.co.kr/view/AKR20261106069700030",
+      "pubDate": "Fri, 6 Nov 2026 10:38:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106006000072",
-      "pubDate": "Fri, 6 Nov 2026 04:57:16 +0900"
+      "title": "증시급락에 코스피 변동성지수 껑충…3개월만에 60선 웃돌아",
+      "link": "https://www.yna.co.kr/view/AKR20261106069400008",
+      "pubDate": "Fri, 6 Nov 2026 10:38:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261105179053085",
-      "pubDate": "Fri, 6 Nov 2026 01:04:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "연말 랠리 전망에도 기술주 대탈출…애플만 선방[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611069553i",
-      "pubDate": "Fri, 06 Nov 2026 00:29:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 H200칩 60만개 홍콩에 적재…中당국 수입승인 또 보류",
-      "link": "https://www.hankyung.com/article/202611059474i",
-      "pubDate": "Fri, 06 Nov 2026 00:14:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美가 수출막은 블랙웰칩…中문샷AI,유럽서 웃돈주고 빌리려했다",
-      "link": "https://www.hankyung.com/article/202611059543i",
-      "pubDate": "Fri, 06 Nov 2026 00:04:03 +0900"
+      "title": "파마리서치 3분기 영업이익 626억원…1% 증가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261106070700017",
+      "pubDate": "Fri, 6 Nov 2026 10:35:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성바이오 노조, 오늘부터 부분파업 돌입",
-      "link": "https://www.yna.co.kr/view/AKR20261105153700017",
-      "pubDate": "Fri, 6 Nov 2026 00:01:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "돈 쏟아부은 AI, 효과 나타나나?…美 생산성 1년만에 최대 증가",
-      "link": "https://www.hankyung.com/article/202611059502i",
-      "pubDate": "Thu, 05 Nov 2026 23:21:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "英 물가 치솟자…기준금리 연 4%로 인상",
-      "link": "https://www.hankyung.com/article/2026110594621",
-      "pubDate": "Thu, 05 Nov 2026 23:06:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美 데이터센터, 향후 45% 건설 차질\"…빅테크, 해외건설 카드 검토",
-      "link": "https://www.hankyung.com/article/202611059422i",
-      "pubDate": "Thu, 05 Nov 2026 22:21:16 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한 병에 30만원인데 줄까지 섰다\"…서울 호텔서 벌어진 진풍경 [영상]",
-      "link": "https://www.hankyung.com/article/202611057808g",
-      "pubDate": "Thu, 05 Nov 2026 22:00:04 +0900"
+      "title": "울주군, 2028년 '두동면 공공복합시설 건립'…설계 당선작 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261106064600057",
+      "pubDate": "Fri, 6 Nov 2026 10:34:47 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서초구, 내주 반포현대 재초환 사전통지…\"가구당 평균 2억대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261105097251004",
-      "pubDate": "Thu, 5 Nov 2026 21:58:32 +0900"
+      "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
+      "link": "https://www.yna.co.kr/view/AKR20261106070100002",
+      "pubDate": "Fri, 6 Nov 2026 10:32:39 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261105179052085",
-      "pubDate": "Thu, 5 Nov 2026 21:52:40 +0900"
+      "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
+      "link": "https://www.yna.co.kr/view/AKR20261106068800051",
+      "pubDate": "Fri, 6 Nov 2026 10:31:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 신임 소상공인정책실장에 조경원 창업정책관 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20261105179300030",
-      "pubDate": "Thu, 5 Nov 2026 21:20:04 +0900"
+      "title": "'파업 중 공정위 조사방해' 화물연대 2심 벌금형…무죄 뒤집혀",
+      "link": "https://www.yna.co.kr/view/AKR20261106068600004",
+      "pubDate": "Fri, 6 Nov 2026 10:30:45 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261106063800011",
+      "pubDate": "Fri, 6 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "울주군, 중국 쿤산시와 우호교류도시 수립의향서 체결",
+      "link": "https://www.yna.co.kr/view/AKR20261106064300057",
+      "pubDate": "Fri, 6 Nov 2026 10:28:16 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
+      "link": "https://www.yna.co.kr/view/AKR20261106060700008",
+      "pubDate": "Fri, 6 Nov 2026 10:09:53 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "평창군, 외국인 계절근로자 산불예방 정보 '언어 장벽' 낮춘다",
+      "link": "https://www.yna.co.kr/view/AKR20261106058500062",
+      "pubDate": "Fri, 6 Nov 2026 10:00:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "빗썸, 국회 입법박람회서 보이스피싱 예방 교육 책무 제안",
+      "link": "https://www.yna.co.kr/view/AKR20261106059200002",
+      "pubDate": "Fri, 6 Nov 2026 10:00:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "창고43, 서브 브랜드 '창고43 온' 출시…현대百 중동점에 1호점",
+      "link": "https://www.yna.co.kr/view/AKR20261106058900030",
+      "pubDate": "Fri, 6 Nov 2026 10:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "여의도 목화아파트 416세대로…창신동 정비사업도 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261105162800004",
+      "pubDate": "Fri, 6 Nov 2026 10:00:02 +0900"
     }
   ]
 }
