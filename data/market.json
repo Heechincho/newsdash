@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:36:16.622Z",
+  "updatedAt": "2026-11-07T01:11:47.808Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.5,
-      "changePercent": -0.022,
+      "price": 90.34,
+      "changePercent": -0.199,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         96.08999633789062,
         88.12000274658203,
         90.5199966430664,
-        90.5
+        90.33999633789062
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4072.4,
-      "changePercent": -0.999,
+      "price": 4079.5,
+      "changePercent": -0.827,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3940.39990234375,
         4073,
         4113.5,
-        4072.39990234375
+        4079.5
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.276,
-      "changePercent": 0.718,
+      "price": 102.279,
+      "changePercent": 0.721,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.87000274658203,
         101.51000213623047,
         101.55000305175781,
-        102.2760009765625
+        102.27899932861328
       ],
       "ok": true
     },
@@ -108,7 +108,7 @@
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
       "price": 25.64,
-      "changePercent": -9.017,
+      "changePercent": -9.013,
       "previousClose": 21.15,
       "currency": "USD",
       "history": [
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
-      "link": "https://www.yna.co.kr/view/AKR20261106149600003",
-      "pubDate": "Sat, 7 Nov 2026 06:01:01 +0900"
+      "title": "[바이오사이언스] 신약 경쟁 치열한데…정부 R&D 투자 2년째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261106161400017",
+      "pubDate": "Sat, 7 Nov 2026 10:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "법원 \"승진 약속 안 지킨 전 파주시장 퇴직 직원에 배상해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106103200060",
-      "pubDate": "Sat, 7 Nov 2026 06:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20261106175000003",
-      "pubDate": "Sat, 7 Nov 2026 06:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "증권사들, 신용융자 담보비율 인하·반대매매 유예…급락장 대응",
-      "link": "https://www.yna.co.kr/view/AKR20261106190300008",
-      "pubDate": "Fri, 6 Nov 2026 22:46:04 +0900"
+      "title": "성남시, 내년 장애인 252명에 공공일자리 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261106164400061",
+      "pubDate": "Sat, 7 Nov 2026 10:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"이젠 밖에서 입어도 되겠네\"…요즘 뜨는 '겨울 필수템' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202611060918g",
-      "pubDate": "Fri, 06 Nov 2026 21:00:01 +0900"
+      "title": "세금 면제에 5년 비자까지…금융패권 다투는 홍콩·싱가포르 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611061835i",
+      "pubDate": "Sat, 07 Nov 2026 09:05:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 금융권 가계대출 다시 늘었나",
+      "link": "https://www.yna.co.kr/view/AKR20261107017800002",
+      "pubDate": "Sat, 7 Nov 2026 09:02:25 +0900"
     },
     {
       "source": "한국경제",
-      "title": "머스크, 태극기 사진 올리며 \"테슬라 코리아\"…무슨 일이",
-      "link": "https://www.hankyung.com/article/202611061772i",
-      "pubDate": "Fri, 06 Nov 2026 20:51:49 +0900"
+      "title": "매장 3만개 밍밍헌망, 왜 잘나가던 PB를 줄였나",
+      "link": "https://www.hankyung.com/article/202610031795i",
+      "pubDate": "Sat, 07 Nov 2026 09:00:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "기아 3조 투자…\"광주공장 미래차 전환\"",
-      "link": "https://www.hankyung.com/article/2026110617211",
-      "pubDate": "Fri, 06 Nov 2026 19:48:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "퇴근하자마자 가도 '텅텅'…중고가 95만원까지 뛴 '레어템' [덕질 경제학]",
-      "link": "https://www.hankyung.com/article/202611061041H",
-      "pubDate": "Fri, 06 Nov 2026 19:29:01 +0900"
+      "title": "바이낸스 해킹은 비트코인 해킹이 아니다 [김민승의 ₿피셜]",
+      "link": "https://www.hankyung.com/article/202611069859i",
+      "pubDate": "Sat, 07 Nov 2026 09:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가상자산 거래소 고팍스, 해킹 위협에 입출금·매매 중단(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261106174751002",
-      "pubDate": "Fri, 6 Nov 2026 19:20:59 +0900"
+      "title": "금융연 \"금융회사 대주주 심사, 평판·전문성까지 살펴야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106166300002",
+      "pubDate": "Sat, 7 Nov 2026 09:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'반도체 부품 제조' 동원파츠 코스닥 신규상장…10일부터 거래",
-      "link": "https://www.yna.co.kr/view/AKR20261106175700008",
-      "pubDate": "Fri, 6 Nov 2026 18:52:59 +0900"
+      "title": "해킹 대책 문제없나…미래에셋증권도 3만9천여명 정보유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261107014452008",
+      "pubDate": "Sat, 7 Nov 2026 08:35:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "도드람, 8일까지 서울 북촌 휘겸재서 '난로회' 팝업스토어",
-      "link": "https://www.yna.co.kr/view/AKR20261106173700030",
-      "pubDate": "Fri, 6 Nov 2026 18:24:06 +0900"
+      "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261106030800051",
+      "pubDate": "Sat, 7 Nov 2026 08:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "고팍스, 해킹 예고 협박 메일에 출금 차단",
-      "link": "https://www.yna.co.kr/view/AKR20261106174700002",
-      "pubDate": "Fri, 6 Nov 2026 18:24:00 +0900"
+      "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
+      "link": "https://www.yna.co.kr/view/AKR20261106149100063",
+      "pubDate": "Sat, 7 Nov 2026 08:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20261106172800002",
-      "pubDate": "Fri, 6 Nov 2026 18:14:14 +0900"
+      "title": "미래에셋증권도 해킹…고객 3천800여명·임직원 3만5천여명 정보 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261107014451008",
+      "pubDate": "Sat, 7 Nov 2026 07:56:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국세청장 후보자 \"국민 기대 부응하는 공정세정 구현\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106172500002",
-      "pubDate": "Fri, 6 Nov 2026 18:13:15 +0900"
+      "title": "[속보] 미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261107014400008",
+      "pubDate": "Sat, 7 Nov 2026 07:36:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261106171100030",
-      "pubDate": "Fri, 6 Nov 2026 18:07:31 +0900"
+      "title": "[신상잇슈] 오리온 '닥터유 단백질바 저당'·bhc '양념킹'",
+      "link": "https://www.yna.co.kr/view/AKR20261106092500030",
+      "pubDate": "Sat, 7 Nov 2026 07:00:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[금주핫템] 휠라 '에어플로우 다운'·K2 '솔라스피어'",
+      "link": "https://www.yna.co.kr/view/AKR20261103117600030",
+      "pubDate": "Sat, 7 Nov 2026 07:00:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
+      "link": "https://www.yna.co.kr/view/AKR20261106022200017",
+      "pubDate": "Sat, 7 Nov 2026 06:33:00 +0900"
     }
   ]
 }
