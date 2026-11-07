@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:11:47.808Z",
+  "updatedAt": "2026-11-07T07:17:44.150Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25372.009765625,
         25736.509765625,
         24315,
-        24579.423828125
+        24579.4296875
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.34,
-      "changePercent": -0.199,
+      "price": 90.83,
+      "changePercent": 0.342,
       "previousClose": 96.46,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         96.08999633789062,
         88.12000274658203,
         90.5199966430664,
-        90.33999633789062
+        90.83000183105469
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4079.5,
-      "changePercent": -0.827,
+      "price": 4074.9,
+      "changePercent": -0.938,
       "previousClose": 3969.6,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3940.39990234375,
         4073,
         4113.5,
-        4079.5
+        4074.89990234375
       ],
       "ok": true
     },
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 102.279,
-      "changePercent": 0.721,
+      "changePercent": -0.019,
       "previousClose": 101.75,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         101.87000274658203,
         101.51000213623047,
         101.55000305175781,
-        102.27899932861328
+        102.30000305175781
       ],
       "ok": true
     },
@@ -124,6 +124,66 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "세계식량가격지수 하락 전환…곡물·육류·유제품 내려",
+      "link": "https://www.yna.co.kr/view/AKR20261107034800030",
+      "pubDate": "Sat, 7 Nov 2026 14:52:59 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농식품부, 우리술 품평회 수상작 국내외 판로 확대 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261106142200030",
+      "pubDate": "Sat, 7 Nov 2026 13:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"존박이 랩으로 주문했더니\"…맥도날드가 진짜 만든 '이것' [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202611060608g",
+      "pubDate": "Sat, 07 Nov 2026 13:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261107014453008",
+      "pubDate": "Sat, 7 Nov 2026 12:47:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "전기공사 견적, 현장에서 스마트폰으로…전기공사협회 '내손사' 선보인다",
+      "link": "https://www.hankyung.com/article/202611072158i",
+      "pubDate": "Sat, 07 Nov 2026 12:37:40 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경남도·창원시, 전국 최초로 중국에 단감 수출",
+      "link": "https://www.yna.co.kr/view/AKR20261107029500052",
+      "pubDate": "Sat, 7 Nov 2026 12:03:49 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107027400030",
+      "pubDate": "Sat, 7 Nov 2026 12:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261107025000011",
+      "pubDate": "Sat, 7 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "토스, 여성공학인 성장지원 우수기업 산업통상부 장관상",
+      "link": "https://www.yna.co.kr/view/AKR20261107024700017",
+      "pubDate": "Sat, 7 Nov 2026 10:25:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "태백시, 공공이불빨래방 3호점 추진…취약계층 돌봄 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261106140000062",
+      "pubDate": "Sat, 7 Nov 2026 10:10:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "[바이오사이언스] 신약 경쟁 치열한데…정부 R&D 투자 2년째 감소",
       "link": "https://www.yna.co.kr/view/AKR20261106161400017",
       "pubDate": "Sat, 7 Nov 2026 10:00:05 +0900"
@@ -136,6 +196,12 @@
     },
     {
       "source": "한국경제",
+      "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611069848i",
+      "pubDate": "Sat, 07 Nov 2026 10:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "세금 면제에 5년 비자까지…금융패권 다투는 홍콩·싱가포르 [차이나 워치]",
       "link": "https://www.hankyung.com/article/202611061835i",
       "pubDate": "Sat, 07 Nov 2026 09:05:01 +0900"
@@ -145,72 +211,6 @@
       "title": "[다음주 경제] 금융권 가계대출 다시 늘었나",
       "link": "https://www.yna.co.kr/view/AKR20261107017800002",
       "pubDate": "Sat, 7 Nov 2026 09:02:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "매장 3만개 밍밍헌망, 왜 잘나가던 PB를 줄였나",
-      "link": "https://www.hankyung.com/article/202610031795i",
-      "pubDate": "Sat, 07 Nov 2026 09:00:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "바이낸스 해킹은 비트코인 해킹이 아니다 [김민승의 ₿피셜]",
-      "link": "https://www.hankyung.com/article/202611069859i",
-      "pubDate": "Sat, 07 Nov 2026 09:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "금융연 \"금융회사 대주주 심사, 평판·전문성까지 살펴야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106166300002",
-      "pubDate": "Sat, 7 Nov 2026 09:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "해킹 대책 문제없나…미래에셋증권도 3만9천여명 정보유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261107014452008",
-      "pubDate": "Sat, 7 Nov 2026 08:35:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261106030800051",
-      "pubDate": "Sat, 7 Nov 2026 08:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
-      "link": "https://www.yna.co.kr/view/AKR20261106149100063",
-      "pubDate": "Sat, 7 Nov 2026 08:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미래에셋증권도 해킹…고객 3천800여명·임직원 3만5천여명 정보 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261107014451008",
-      "pubDate": "Sat, 7 Nov 2026 07:56:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[속보] 미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261107014400008",
-      "pubDate": "Sat, 7 Nov 2026 07:36:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 오리온 '닥터유 단백질바 저당'·bhc '양념킹'",
-      "link": "https://www.yna.co.kr/view/AKR20261106092500030",
-      "pubDate": "Sat, 7 Nov 2026 07:00:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 휠라 '에어플로우 다운'·K2 '솔라스피어'",
-      "link": "https://www.yna.co.kr/view/AKR20261103117600030",
-      "pubDate": "Sat, 7 Nov 2026 07:00:13 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
-      "link": "https://www.yna.co.kr/view/AKR20261106022200017",
-      "pubDate": "Sat, 7 Nov 2026 06:33:00 +0900"
     }
   ]
 }
