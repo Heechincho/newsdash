@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:07:10.640Z",
+  "updatedAt": "2026-11-08T19:39:44.209Z",
   "instruments": [
     {
       "key": "sp500",
@@ -23,7 +23,7 @@
       "label": "나스닥",
       "symbol": "^IXIC",
       "price": 24579.424,
-      "changePercent": 1.088,
+      "changePercent": 1.087,
       "previousClose": 25437,
       "currency": "USD",
       "history": [
@@ -120,6 +120,12 @@
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
+      "link": "https://www.hankyung.com/article/202611082882i",
+      "pubDate": "Sun, 08 Nov 2026 23:24:13 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261108048252001",
@@ -151,7 +157,7 @@
     },
     {
       "source": "한국경제",
-      "title": "앱으로 태양광 투자…개인 투자자만 2만명",
+      "title": "개인 2만명 모아 앱으로 태양광 투자한다",
       "link": "https://www.hankyung.com/article/2026110832591",
       "pubDate": "Sun, 08 Nov 2026 18:12:11 +0900"
     },
@@ -169,7 +175,7 @@
     },
     {
       "source": "한국경제",
-      "title": "농심, 라면 年 62억개씩 글로벌로 쏜다",
+      "title": "농심, 라면 年 62억개 생산해 글로벌 공략",
       "link": "https://www.hankyung.com/article/2026110832661",
       "pubDate": "Sun, 08 Nov 2026 18:10:06 +0900"
     },
@@ -202,12 +208,6 @@
       "title": "경제지표와 체감경기 괴리 '사상 최대'",
       "link": "https://www.hankyung.com/article/2026110833121",
       "pubDate": "Sun, 08 Nov 2026 17:46:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美선거에 결과에 희비…삼전닉스 떨고 '이 업종'은 웃었다",
-      "link": "https://www.hankyung.com/article/2026110832541",
-      "pubDate": "Sun, 08 Nov 2026 17:38:21 +0900"
     }
   ]
 }
