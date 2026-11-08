@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:39:44.209Z",
+  "updatedAt": "2026-11-08T23:09:36.333Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
-      "link": "https://www.hankyung.com/article/202611082882i",
-      "pubDate": "Sun, 08 Nov 2026 23:24:13 +0900"
+      "source": "연합뉴스",
+      "title": "부산 기술창업기업 뉴라이즌, 신용보증기금 '혁신아이콘' 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261109015000051",
+      "pubDate": "Mon, 9 Nov 2026 08:02:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261108048252001",
-      "pubDate": "Sun, 8 Nov 2026 21:24:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
-      "link": "https://www.hankyung.com/article/2026110833851",
-      "pubDate": "Sun, 08 Nov 2026 19:54:30 +0900"
+      "title": "[AI픽] 식약처, 의약품 심사에 AI 도입…내달 민원인용 기능 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261106175100017",
+      "pubDate": "Mon, 9 Nov 2026 08:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"",
-      "link": "https://www.yna.co.kr/view/AKR20261108048251001",
-      "pubDate": "Sun, 8 Nov 2026 19:50:12 +0900"
+      "title": "[인터뷰] 이윤희 삼성운용 채권본부장 \"빨라진 금리 하락…전략 재점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107023100008",
+      "pubDate": "Mon, 9 Nov 2026 08:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261109009600011",
+      "pubDate": "Mon, 9 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
+      "link": "https://www.yna.co.kr/view/AKR20261108038900371",
+      "pubDate": "Mon, 9 Nov 2026 07:00:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증",
-      "link": "https://www.hankyung.com/article/2026110832801",
-      "pubDate": "Sun, 08 Nov 2026 18:16:28 +0900"
+      "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
+      "link": "https://www.hankyung.com/article/202611083111i",
+      "pubDate": "Mon, 09 Nov 2026 07:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "삼성전자, 보유 현금 200조원 첫 돌파",
-      "link": "https://www.hankyung.com/article/2026110833367",
-      "pubDate": "Sun, 08 Nov 2026 18:14:23 +0900"
+      "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
+      "link": "https://www.hankyung.com/article/2026110935497",
+      "pubDate": "Mon, 09 Nov 2026 06:23:19 +0900"
     },
     {
       "source": "한국경제",
-      "title": "개인 2만명 모아 앱으로 태양광 투자한다",
-      "link": "https://www.hankyung.com/article/2026110832591",
-      "pubDate": "Sun, 08 Nov 2026 18:12:11 +0900"
+      "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+      "link": "https://www.hankyung.com/article/2026110935347",
+      "pubDate": "Mon, 09 Nov 2026 06:14:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
+      "link": "https://www.yna.co.kr/view/AKR20261108042900003",
+      "pubDate": "Mon, 9 Nov 2026 06:09:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261108023200003",
+      "pubDate": "Mon, 9 Nov 2026 06:01:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "中企 일터 혁신 컨설팅…노란봉투법 해법 찾는다",
-      "link": "https://www.hankyung.com/article/2026110832601",
-      "pubDate": "Sun, 08 Nov 2026 18:11:14 +0900"
+      "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611072250i",
+      "pubDate": "Mon, 09 Nov 2026 06:00:12 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "피부과 화장품 노린 해외 자본…2000억원에 메디안스 인수",
-      "link": "https://www.hankyung.com/article/2026110832611",
-      "pubDate": "Sun, 08 Nov 2026 18:10:53 +0900"
+      "source": "연합뉴스",
+      "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
+      "link": "https://www.yna.co.kr/view/AKR20261108039200004",
+      "pubDate": "Mon, 9 Nov 2026 06:00:06 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "농심, 라면 年 62억개 생산해 글로벌 공략",
-      "link": "https://www.hankyung.com/article/2026110832661",
-      "pubDate": "Sun, 08 Nov 2026 18:10:06 +0900"
+      "source": "연합뉴스",
+      "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261108039800004",
+      "pubDate": "Mon, 9 Nov 2026 06:00:06 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "카카오뱅크, 자선 마라톤 기부금 전달",
-      "link": "https://www.hankyung.com/article/2026110832251",
-      "pubDate": "Sun, 08 Nov 2026 17:55:59 +0900"
+      "source": "연합뉴스",
+      "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108042500004",
+      "pubDate": "Mon, 9 Nov 2026 06:00:03 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "우리은행, 대한천일은행 학술대회…韓전통 복식부기 회계장부 주목",
-      "link": "https://www.hankyung.com/article/2026110832261",
-      "pubDate": "Sun, 08 Nov 2026 17:55:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "평사원서 회장까지 올랐다…14번 승진한 '월급쟁이 신화'",
-      "link": "https://www.hankyung.com/article/2026110833151",
-      "pubDate": "Sun, 08 Nov 2026 17:54:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "4인가구 소득 2억이라고?…'부자 한국' 속 서민의 한숨",
-      "link": "https://www.hankyung.com/article/2026110832811",
-      "pubDate": "Sun, 08 Nov 2026 17:48:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "경제지표와 체감경기 괴리 '사상 최대'",
-      "link": "https://www.hankyung.com/article/2026110833121",
-      "pubDate": "Sun, 08 Nov 2026 17:46:50 +0900"
+      "source": "연합뉴스",
+      "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
+      "link": "https://www.yna.co.kr/view/AKR20261108043400030",
+      "pubDate": "Mon, 9 Nov 2026 06:00:02 +0900"
     }
   ]
 }
