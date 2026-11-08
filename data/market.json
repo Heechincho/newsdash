@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T22:31:09.583Z",
+  "updatedAt": "2026-11-08T01:47:59.192Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
-      "link": "https://www.yna.co.kr/view/AKR20261106140500017",
-      "pubDate": "Sun, 8 Nov 2026 07:13:00 +0900"
+      "source": "한국경제",
+      "title": "'국민 첫 차'라기엔 \"아깝다\"…확 달라진 아반떼 하이브리드 [신차털기]",
+      "link": "https://www.hankyung.com/article/202611069961g",
+      "pubDate": "Sun, 08 Nov 2026 10:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
-      "link": "https://www.yna.co.kr/view/AKR20261106115900546",
-      "pubDate": "Sun, 8 Nov 2026 07:07:00 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261108017400011",
+      "pubDate": "Sun, 8 Nov 2026 10:30:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
-      "link": "https://www.hankyung.com/article/202611033040i",
-      "pubDate": "Sun, 08 Nov 2026 07:00:07 +0900"
+      "title": "\"고개 숙이면 집중력 부족?\"…中 대학 AI 감시 교실에 발칵 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611072228i",
+      "pubDate": "Sun, 08 Nov 2026 10:21:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108016700004",
+      "pubDate": "Sun, 8 Nov 2026 10:16:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
+      "link": "https://www.yna.co.kr/view/AKR20261106065600057",
+      "pubDate": "Sun, 8 Nov 2026 10:10:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "“떡볶이 먹고 산책까지”…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611069903i",
-      "pubDate": "Sun, 08 Nov 2026 07:00:05 +0900"
+      "title": "바이낸스 해킹·美 '블루 쓰나미' 겹악재…비트코인도 '와르르'",
+      "link": "https://www.hankyung.com/article/202611061459i",
+      "pubDate": "Sun, 08 Nov 2026 10:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"살 빼는 주사 맞으면 보험 가입안된다?\"…진실은 이렇다",
+      "link": "https://www.hankyung.com/article/202611060455i",
+      "pubDate": "Sun, 08 Nov 2026 10:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20261107024300030",
-      "pubDate": "Sun, 8 Nov 2026 07:00:03 +0900"
+      "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261108016200030",
+      "pubDate": "Sun, 8 Nov 2026 09:57:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
-      "link": "https://www.yna.co.kr/view/AKR20261107053200004",
-      "pubDate": "Sun, 8 Nov 2026 07:00:01 +0900"
+      "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261108014200030",
+      "pubDate": "Sun, 8 Nov 2026 09:15:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
-      "link": "https://www.yna.co.kr/view/AKR20261107042100030",
-      "pubDate": "Sun, 8 Nov 2026 06:50:00 +0900"
+      "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108013000003",
+      "pubDate": "Sun, 8 Nov 2026 09:09:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
-      "link": "https://www.yna.co.kr/view/AKR20261107048600008",
-      "pubDate": "Sun, 8 Nov 2026 06:40:00 +0900"
+      "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20261106086200054",
+      "pubDate": "Sun, 8 Nov 2026 09:02:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
-      "link": "https://www.yna.co.kr/view/AKR20261106190600008",
-      "pubDate": "Sun, 8 Nov 2026 06:35:01 +0900"
+      "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
+      "link": "https://www.yna.co.kr/view/AKR20261106145700061",
+      "pubDate": "Sun, 8 Nov 2026 09:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
-      "link": "https://www.yna.co.kr/view/AKR20261106189100008",
-      "pubDate": "Sun, 8 Nov 2026 06:25:01 +0900"
+      "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106182900004",
+      "pubDate": "Sun, 8 Nov 2026 09:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "외국인 ETF도 결국 팔았다…지난달 마지막주 12주만에 순매도 전환",
-      "link": "https://www.yna.co.kr/view/AKR20261107026600008",
-      "pubDate": "Sun, 8 Nov 2026 06:20:00 +0900"
+      "title": "[게시판] 우리은행, 국민대 산학협력단과 대한천일은행 학술대회",
+      "link": "https://www.yna.co.kr/view/AKR20261107048800002",
+      "pubDate": "Sun, 8 Nov 2026 09:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261107026400008",
-      "pubDate": "Sun, 8 Nov 2026 06:10:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "AI 해킹에 기존 방어망 뚫리나…금융권 보안 '경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261107032100017",
-      "pubDate": "Sun, 8 Nov 2026 06:05:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
-      "link": "https://www.yna.co.kr/view/AKR20261107050300003",
-      "pubDate": "Sun, 8 Nov 2026 06:05:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까",
-      "link": "https://www.yna.co.kr/view/AKR20261107025700008",
-      "pubDate": "Sun, 8 Nov 2026 06:00:06 +0900"
+      "title": "무보, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261108012300003",
+      "pubDate": "Sun, 8 Nov 2026 08:54:48 +0900"
     }
   ]
 }
