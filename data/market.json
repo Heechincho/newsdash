@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-09T10:22:48.123Z",
+  "updatedAt": "2026-11-09T20:58:03.751Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7376.86,
-      "changePercent": 0.315,
-      "previousClose": 7580.07,
+      "price": 7555.17,
+      "changePercent": 2.417,
+      "previousClose": 7541.4,
       "currency": "USD",
       "history": [
-        7541.39990234375,
         7568.919921875,
         7688.6201171875,
         7353.72998046875,
-        7376.85986328125
+        7376.85986328125,
+        7555.169921875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 24579.424,
-      "changePercent": 1.087,
-      "previousClose": 25437,
+      "price": 25271.762,
+      "changePercent": 2.817,
+      "previousClose": 25164.31,
       "currency": "USD",
       "history": [
-        25164.310546875,
         25372.009765625,
         25736.509765625,
         24315,
-        24579.4296875
+        24579.4296875,
+        25271.76171875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 51285.73,
-      "changePercent": -0.461,
-      "previousClose": 51770.31,
+      "price": 52414,
+      "changePercent": 2.2,
+      "previousClose": 51983.98,
       "currency": "USD",
       "history": [
-        51983.98046875,
         51786.71875,
         53356.12109375,
         51523.05859375,
-        51285.73046875
+        51285.73046875,
+        52414
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.38,
-      "changePercent": -0.495,
+      "price": 87,
+      "changePercent": -4.217,
       "previousClose": 88.12,
       "currency": "USD",
       "history": [
         88.12000274658203,
         90.5199966430664,
         90.83000183105469,
-        90.37999725341797
+        87
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4107.6,
-      "changePercent": 0.802,
+      "price": 4150.3,
+      "changePercent": 1.85,
       "previousClose": 4073,
       "currency": "USD",
       "history": [
         4073,
         4113.5,
         4074.89990234375,
-        4107.60009765625
+        4150.2998046875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.833,
-      "changePercent": -0.455,
+      "price": 101.688,
+      "changePercent": -0.596,
       "previousClose": 101.51,
       "currency": "USD",
       "history": [
         101.51000213623047,
         101.55000305175781,
         102.30000305175781,
-        101.83300018310547
+        101.68800354003906
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 23.87,
-      "changePercent": -6.895,
+      "price": 19.9,
+      "changePercent": -22.387,
       "previousClose": 20.83,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         16.610000610351562,
         28.18000030517578,
         25.639999389648438,
-        23.8700008392334
+        19.899999618530273
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "1인당 국민소득 4만弗?…진짜 개인소득은 2.2만弗",
-      "link": "https://www.hankyung.com/article/2026110956791",
-      "pubDate": "Mon, 09 Nov 2026 18:46:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"주말 9to9 치킨 받는 눈치게임\"…카카오뱅크, 통장 보유 고객에 행사",
-      "link": "https://www.hankyung.com/article/202611095956i",
-      "pubDate": "Mon, 09 Nov 2026 18:46:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "우리WON 농구단, 굿윌 팝업스토어 운영",
-      "link": "https://www.hankyung.com/article/2026110958121",
-      "pubDate": "Mon, 09 Nov 2026 18:31:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "故조석래 효성 명예회장, 한미우호상 수상",
-      "link": "https://www.hankyung.com/article/2026110958041",
-      "pubDate": "Mon, 09 Nov 2026 18:30:55 +0900"
+      "source": "연합뉴스",
+      "title": "미래기금에 \"중복 투자 우려\" 등 반대 입법의견 다수 제기돼",
+      "link": "https://www.yna.co.kr/view/AKR20261109151800002",
+      "pubDate": "Tue, 10 Nov 2026 05:53:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "조의장 \"체감경기 회복 더뎌…선순환 회복이 조세정책 역할\"",
-      "link": "https://www.yna.co.kr/view/AKR20261109148000001",
-      "pubDate": "Mon, 9 Nov 2026 18:22:38 +0900"
+      "title": "소상공인 대출 연체 3분기째 증가…매출·이익도 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261109142400002",
+      "pubDate": "Tue, 10 Nov 2026 05:51:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611106107i",
+      "pubDate": "Tue, 10 Nov 2026 00:16:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "엔비디아 흔들리는 사이…구글,차세대 AI칩 2종 출시",
+      "link": "https://www.hankyung.com/article/202611096081i",
+      "pubDate": "Mon, 09 Nov 2026 23:10:36 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 낙관론 커져",
+      "link": "https://www.hankyung.com/article/202611096082i",
+      "pubDate": "Mon, 09 Nov 2026 22:58:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "새 빈틈 파고든 해커…금융 플랫폼 통해 법카 부정결제 잇따라",
+      "link": "https://www.hankyung.com/article/2026110960607",
+      "pubDate": "Mon, 09 Nov 2026 22:04:30 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "출발부터 'X-마스 한정판'이었다는데…뜻밖의 '맥주 바'가 등장한 이유 [현장+]",
+      "link": "https://www.hankyung.com/article/202611094924g",
+      "pubDate": "Mon, 09 Nov 2026 22:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론",
-      "link": "https://www.yna.co.kr/view/AKR20261109147000002",
-      "pubDate": "Mon, 9 Nov 2026 18:15:08 +0900"
+      "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
+      "link": "https://www.yna.co.kr/view/AKR20261109157200002",
+      "pubDate": "Mon, 9 Nov 2026 21:35:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "KF-21 핵심 부품은 '日·대만산'…세계 1위 '한국산' 왜 없나",
-      "link": "https://www.hankyung.com/article/2026110958441",
-      "pubDate": "Mon, 09 Nov 2026 18:11:43 +0900"
+      "title": "젠슨 황, 엔비디아서 물러나나…'후계자' 얘기까지 나온 이유",
+      "link": "https://www.hankyung.com/article/202611096022i",
+      "pubDate": "Mon, 09 Nov 2026 21:25:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "SK그룹, CEO 세미나 열고, 내년 AI 사업 전략 세운다",
-      "link": "https://www.hankyung.com/article/2026110958421",
-      "pubDate": "Mon, 09 Nov 2026 18:10:59 +0900"
+      "title": "예약 열자마자 '먹통'…150만명 몰린 '크리스마스 성지' 어디길래 [현장+]",
+      "link": "https://www.hankyung.com/article/202611094272g",
+      "pubDate": "Mon, 09 Nov 2026 21:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "머스크, 반도체 직접생산 '초읽기'…日서 장비 조달 추진",
-      "link": "https://www.hankyung.com/article/2026110958381",
-      "pubDate": "Mon, 09 Nov 2026 18:10:36 +0900"
+      "title": "빵값 이어 음료값도 오른다…파리바게뜨, 16일부터 가격 인상",
+      "link": "https://www.hankyung.com/article/2026110960317",
+      "pubDate": "Mon, 09 Nov 2026 20:59:13 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20261109156300030",
+      "pubDate": "Mon, 9 Nov 2026 20:49:34 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261109147051002",
+      "pubDate": "Mon, 9 Nov 2026 20:26:16 +0900"
     },
     {
       "source": "한국경제",
-      "title": "현대차 공식 정비점 블루핸즈 전산망 '먹통'",
-      "link": "https://www.hankyung.com/article/2026110957971",
-      "pubDate": "Mon, 09 Nov 2026 18:10:29 +0900"
+      "title": "\"호두과자 팔러 일본 갑니다\"…명품 팔던 백화점들 '대변신' [트렌드+]",
+      "link": "https://www.hankyung.com/article/202611094640g",
+      "pubDate": "Mon, 09 Nov 2026 20:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아이폰 듀오, 이번엔 앱 최적화 논란",
-      "link": "https://www.hankyung.com/article/2026110958391",
-      "pubDate": "Mon, 09 Nov 2026 18:09:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성重, 日 모리무라 손잡고…친환경 연료전지 공동개발",
-      "link": "https://www.hankyung.com/article/2026110958371",
-      "pubDate": "Mon, 09 Nov 2026 18:09:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대차그룹, 中 수소 상용차 시장 공략 '시동'",
-      "link": "https://www.hankyung.com/article/2026110958361",
-      "pubDate": "Mon, 09 Nov 2026 18:09:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "M&A 허들 다시 높아질라…월가, 트럼프 임기내 협상 끝낸다",
-      "link": "https://www.hankyung.com/article/2026110957791",
-      "pubDate": "Mon, 09 Nov 2026 18:08:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "공화당 2.3억弗 후원한 머스크, '민주 승리' 텍사스서 사업 제동",
-      "link": "https://www.hankyung.com/article/2026110957781",
-      "pubDate": "Mon, 09 Nov 2026 18:07:32 +0900"
+      "title": "中, 희토류 수출통제 면제 2개월 연장…美·中 무역휴전 이어가",
+      "link": "https://www.hankyung.com/article/202611095990i",
+      "pubDate": "Mon, 09 Nov 2026 19:56:45 +0900"
     }
   ]
 }
