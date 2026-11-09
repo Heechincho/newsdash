@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:09:36.333Z",
+  "updatedAt": "2026-11-09T02:39:51.698Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 90.83,
-      "changePercent": 0.342,
+      "price": 90.69,
+      "changePercent": -0.154,
       "previousClose": 96.09,
       "currency": "USD",
       "history": [
         96.08999633789062,
         88.12000274658203,
         90.5199966430664,
-        90.83000183105469
+        90.83000183105469,
+        90.69000244140625
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4074.9,
-      "changePercent": -0.938,
+      "price": 4136.9,
+      "changePercent": 1.522,
       "previousClose": 3940.4,
       "currency": "USD",
       "history": [
         3940.39990234375,
         4073,
         4113.5,
-        4074.89990234375
+        4074.89990234375,
+        4136.89990234375
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.279,
-      "changePercent": -0.019,
+      "price": 102.167,
+      "changePercent": -0.128,
       "previousClose": 101.87,
       "currency": "USD",
       "history": [
         101.87000274658203,
         101.51000213623047,
         101.55000305175781,
-        102.30000305175781
+        102.30000305175781,
+        102.16699981689453
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "부산 기술창업기업 뉴라이즌, 신용보증기금 '혁신아이콘' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261109015000051",
-      "pubDate": "Mon, 9 Nov 2026 08:02:44 +0900"
+      "title": "무신사 스탠다드, 日 인플루언서와 캠페인…\"고객과 접점 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261109072800030",
+      "pubDate": "Mon, 9 Nov 2026 11:29:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[AI픽] 식약처, 의약품 심사에 AI 도입…내달 민원인용 기능 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261106175100017",
-      "pubDate": "Mon, 9 Nov 2026 08:00:03 +0900"
+      "title": "강원 동해안 어항 3곳 어촌뉴딜 3.0 선정…관광·생활 기반 확충",
+      "link": "https://www.yna.co.kr/view/AKR20261109072700062",
+      "pubDate": "Mon, 9 Nov 2026 11:27:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[인터뷰] 이윤희 삼성운용 채권본부장 \"빨라진 금리 하락…전략 재점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20261107023100008",
-      "pubDate": "Mon, 9 Nov 2026 08:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261109009600011",
-      "pubDate": "Mon, 9 Nov 2026 07:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
-      "link": "https://www.yna.co.kr/view/AKR20261108038900371",
-      "pubDate": "Mon, 9 Nov 2026 07:00:02 +0900"
+      "title": "LS머트리얼즈·LS일렉, 차세대 전력망 안정화 기술 공동 개발",
+      "link": "https://www.yna.co.kr/view/AKR20261109069300003",
+      "pubDate": "Mon, 9 Nov 2026 11:26:45 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
-      "link": "https://www.hankyung.com/article/202611083111i",
-      "pubDate": "Mon, 09 Nov 2026 07:00:01 +0900"
+      "title": "'2026 대한민국 세계일류기업 경진대회' 시상식 12월 7일 국회서 개최",
+      "link": "https://www.hankyung.com/article/202611094624i",
+      "pubDate": "Mon, 09 Nov 2026 11:23:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신호위반 차량만 골라서 '쾅'…렌터카로 사고 유발한 21명 덜미",
+      "link": "https://www.yna.co.kr/view/AKR20261109069500004",
+      "pubDate": "Mon, 9 Nov 2026 11:19:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울배달+땡겨요, 상품권 결제하면 25% 혜택…쿠폰중복할인",
+      "link": "https://www.yna.co.kr/view/AKR20261109046700004",
+      "pubDate": "Mon, 9 Nov 2026 11:15:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스피, '5천피' 공방 후 1%대 상승세…코스닥도 상승전환",
+      "link": "https://www.yna.co.kr/view/AKR20261109066300008",
+      "pubDate": "Mon, 9 Nov 2026 11:13:21 +0900"
     },
     {
       "source": "한국경제",
-      "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
-      "link": "https://www.hankyung.com/article/2026110935497",
-      "pubDate": "Mon, 09 Nov 2026 06:23:19 +0900"
+      "title": "한국앤컴퍼니그룹, 연공서열 깨고 젊은 리더 발탁…부사장 5명 승진",
+      "link": "https://www.hankyung.com/article/202611094484g",
+      "pubDate": "Mon, 09 Nov 2026 11:05:32 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
-      "link": "https://www.hankyung.com/article/2026110935347",
-      "pubDate": "Mon, 09 Nov 2026 06:14:03 +0900"
+      "title": "\"반도체 호황 여기서 끝?\"…삼전닉스 운명 가를 결정적 변수 [인터뷰]",
+      "link": "https://www.hankyung.com/article/202611094445g",
+      "pubDate": "Mon, 09 Nov 2026 11:04:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-      "link": "https://www.yna.co.kr/view/AKR20261108042900003",
-      "pubDate": "Mon, 9 Nov 2026 06:09:00 +0900"
+      "title": "안산시 경제사절단, '우호도시' 독일 아헨특구 대표단과 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20261109063800061",
+      "pubDate": "Mon, 9 Nov 2026 11:00:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261108023200003",
-      "pubDate": "Mon, 9 Nov 2026 06:01:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611072250i",
-      "pubDate": "Mon, 09 Nov 2026 06:00:12 +0900"
+      "title": "해수부, 국내 기업 베트남 해양플랜트 서비스 시장 진출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261109018700051",
+      "pubDate": "Mon, 9 Nov 2026 11:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
-      "link": "https://www.yna.co.kr/view/AKR20261108039200004",
-      "pubDate": "Mon, 9 Nov 2026 06:00:06 +0900"
+      "title": "해수부, 중소선사 CEO 콘퍼런스…친환경·저탄소 전환 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261109023400051",
+      "pubDate": "Mon, 9 Nov 2026 11:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261108039800004",
-      "pubDate": "Mon, 9 Nov 2026 06:00:06 +0900"
+      "title": "해양 정보 디지털 전환 'IHO 인프라센터', 부산에 문 연다",
+      "link": "https://www.yna.co.kr/view/AKR20261109029100051",
+      "pubDate": "Mon, 9 Nov 2026 11:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20261108042500004",
-      "pubDate": "Mon, 9 Nov 2026 06:00:03 +0900"
+      "title": "[게시판] 재경부, 아시아 11개국 고위공무원 초청연수",
+      "link": "https://www.yna.co.kr/view/AKR20261109041800002",
+      "pubDate": "Mon, 9 Nov 2026 11:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
-      "link": "https://www.yna.co.kr/view/AKR20261108043400030",
-      "pubDate": "Mon, 9 Nov 2026 06:00:02 +0900"
+      "title": "해수부, '어촌뉴딜 3.0' 사업지 40곳 선정…사업 구조도 개편",
+      "link": "https://www.yna.co.kr/view/AKR20261109054800030",
+      "pubDate": "Mon, 9 Nov 2026 11:00:01 +0900"
     }
   ]
 }
