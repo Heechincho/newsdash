@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T18:48:43.469Z",
+  "updatedAt": "2026-11-10T23:46:48.060Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7491.82,
-      "changePercent": -0.77,
+      "price": 7520.93,
+      "changePercent": -0.384,
       "previousClose": 7568.92,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7353.72998046875,
         7376.85986328125,
         7549.93994140625,
-        7491.81982421875
+        7520.93017578125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 24926.947,
-      "changePercent": -1.292,
+      "price": 25065.875,
+      "changePercent": -0.742,
       "previousClose": 25372.01,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         24315,
         24579.4296875,
         25253.140625,
-        24926.947265625
+        25065.875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52102.78,
-      "changePercent": -0.548,
+      "price": 52231.89,
+      "changePercent": -0.301,
       "previousClose": 51786.72,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51523.05859375,
         51285.73046875,
         52389.75,
-        52102.78125
+        52231.890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 86.08,
-      "changePercent": -0.887,
+      "price": 86.34,
+      "changePercent": 0.349,
       "previousClose": 90.52,
       "currency": "USD",
       "history": [
         90.5199966430664,
         90.83000183105469,
         86.8499984741211,
-        86.08000183105469
+        86.33999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4037.4,
-      "changePercent": -1.874,
+      "price": 4043.2,
+      "changePercent": 0.323,
       "previousClose": 4113.5,
       "currency": "USD",
       "history": [
         4113.5,
         4074.89990234375,
         4114.5,
-        4037.39990234375
+        4043.199951171875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.275,
-      "changePercent": 0.612,
+      "price": 102.217,
+      "changePercent": 0.555,
       "previousClose": 101.55,
       "currency": "USD",
       "history": [
         101.55000305175781,
         102.30000305175781,
         101.6500015258789,
-        102.2750015258789
+        102.21700286865234
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 20.39,
-      "changePercent": 2.361,
+      "price": 19.46,
+      "changePercent": -2.309,
       "previousClose": 16.61,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         28.18000030517578,
         25.639999389648438,
         19.920000076293945,
-        20.389999389648438
+        19.459999084472656
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "[포토] 회전 점프하는 아틀라스",
-      "link": "https://www.hankyung.com/article/2026111085001",
-      "pubDate": "Wed, 11 Nov 2026 00:44:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "윌러가 누른 빅스텝 발작 버튼…중국이 美 데이터센터 중단시키나[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611118700i",
-      "pubDate": "Wed, 11 Nov 2026 00:23:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"2조달러 꿈꿨는데\"…앤스로픽 몸값 1조달러~1.45조달러까지",
-      "link": "https://www.hankyung.com/article/202611108686i",
-      "pubDate": "Tue, 10 Nov 2026 23:59:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"0.25%p 인상으로 안 끝날수도\"…예상넘은 물가에 시장 공포",
-      "link": "https://www.hankyung.com/article/202611108677i",
-      "pubDate": "Tue, 10 Nov 2026 23:37:14 +0900"
+      "source": "연합뉴스",
+      "title": "LS증권 \"LIG D&A, 방사청 제재 정지·수주 증가 확인 필요\"…목표가↓",
+      "link": "https://www.yna.co.kr/view/AKR20261111029300008",
+      "pubDate": "Wed, 11 Nov 2026 08:39:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융보안원도 해킹에 뚫려…금융사 직원 개인정보 300여건 유출(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261110174751002",
-      "pubDate": "Tue, 10 Nov 2026 23:07:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[속보] 美 10월 CPI 전월보다 0.4%↑…핵심 CPI는 0.3% 상승",
-      "link": "https://www.hankyung.com/article/202611108646i",
-      "pubDate": "Tue, 10 Nov 2026 22:36:44 +0900"
+      "title": "무신사, 맞춤형 유니폼 제작 서비스 개시…최대 30% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261111025900030",
+      "pubDate": "Wed, 11 Nov 2026 08:38:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'빚 갚아라' 독촉하며 성관계 강요…40대 남성 구속 송치",
-      "link": "https://www.yna.co.kr/view/AKR20261110176400004",
-      "pubDate": "Tue, 10 Nov 2026 21:32:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"中 수출금지된 엔비디아 블랙웰칩…中서 868억원어치 포착\" [블룸버그]",
-      "link": "https://www.hankyung.com/article/202611108605i",
-      "pubDate": "Tue, 10 Nov 2026 21:18:41 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "외국인도 맛보더니 감탄…명동에 뜬 '오렌지 초콜릿' 정체 [현장+]",
-      "link": "https://www.hankyung.com/article/202611106629g",
-      "pubDate": "Tue, 10 Nov 2026 21:00:02 +0900"
+      "title": "비만치료제 투여 뒤 시력 이상 땐?…식약처, 주의 당부",
+      "link": "https://www.yna.co.kr/view/AKR20261111027000017",
+      "pubDate": "Wed, 11 Nov 2026 08:35:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금융보안원도 해킹에 뚫려…금융사 보안평가 정보 일부 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261110174700002",
-      "pubDate": "Tue, 10 Nov 2026 20:34:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"살 쭉쭉 빼다가 하루아침에 시력 잃을 수도\"…섬뜩한 경고",
-      "link": "https://www.hankyung.com/article/202611108585i",
-      "pubDate": "Tue, 10 Nov 2026 20:27:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "참치캔은 주춤했는데…동원그룹 실적 끌어올린 숨은 효자",
-      "link": "https://www.hankyung.com/article/202611108573i",
-      "pubDate": "Tue, 10 Nov 2026 20:00:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"9900원부터 1498만원까지\"…연말 앞두고 또 '반값 전쟁'",
-      "link": "https://www.hankyung.com/article/202611106429g",
-      "pubDate": "Tue, 10 Nov 2026 20:00:04 +0900"
+      "title": "양천구, '2027년 상반기 동행일자리' 192명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261111027600004",
+      "pubDate": "Wed, 11 Nov 2026 08:33:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[2보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
-      "link": "https://www.yna.co.kr/view/AKR20261110173800002",
-      "pubDate": "Tue, 10 Nov 2026 19:51:36 +0900"
+      "title": "중진공, 구직자 위해 '직무 찾기' 서비스…채용정보 등 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261110156800030",
+      "pubDate": "Wed, 11 Nov 2026 08:33:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "신한증권 \"KT, 내년 통신3사 중 가장 높은 주주환원수익률 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111026900008",
+      "pubDate": "Wed, 11 Nov 2026 08:31:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권, 지역난방공사 목표가↓…\"수익성 감소 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111026400008",
+      "pubDate": "Wed, 11 Nov 2026 08:30:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "LG화학, 청년 실무역량 강화 'K-뉴딜 아카데미' 1기 수료식",
+      "link": "https://www.yna.co.kr/view/AKR20261111026000003",
+      "pubDate": "Wed, 11 Nov 2026 08:30:14 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "IBK증권, 크래프톤 목표가↓…\"내년도 주당순익 하향조정 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111025800008",
+      "pubDate": "Wed, 11 Nov 2026 08:24:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "9개월 이란전, 이제 끝 보이나…브렌트유 80달러대 진입",
-      "link": "https://www.hankyung.com/article/202611108550i",
-      "pubDate": "Tue, 10 Nov 2026 19:46:49 +0900"
+      "title": "아침미소목장 이성철 대표 \"방목한 소는 우유 맛이 달라요\"",
+      "link": "https://www.hankyung.com/article/202611119013i",
+      "pubDate": "Wed, 11 Nov 2026 08:20:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "민주당이 은행 규제 강화한다는데…월가는 AI 투자 둔화 더 걱정",
+      "link": "https://www.hankyung.com/article/202611118977i",
+      "pubDate": "Wed, 11 Nov 2026 08:19:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한투증권, 신세계 목표가↓…\"백화점 산업 모멘텀 일부 사라져\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111024200008",
+      "pubDate": "Wed, 11 Nov 2026 08:10:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중국 원유 수입 9.4% 증가…경유 수출은 급감",
+      "link": "https://www.hankyung.com/article/202611118916i",
+      "pubDate": "Wed, 11 Nov 2026 08:08:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
+      "link": "https://www.yna.co.kr/view/AKR20261111021500008",
+      "pubDate": "Wed, 11 Nov 2026 08:04:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "사장님은 웃고 라이더는 운다?…배달앱 수수료 '시끌' [이슈+]",
+      "link": "https://www.hankyung.com/article/202611107690g",
+      "pubDate": "Wed, 11 Nov 2026 08:04:11 +0900"
     }
   ]
 }
