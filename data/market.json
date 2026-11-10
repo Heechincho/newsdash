@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-09T20:58:03.751Z",
+  "updatedAt": "2026-11-10T03:23:41.280Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7555.17,
-      "changePercent": 2.417,
+      "price": 7549.94,
+      "changePercent": 2.346,
       "previousClose": 7541.4,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7688.6201171875,
         7353.72998046875,
         7376.85986328125,
-        7555.169921875
+        7549.93994140625
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25271.762,
-      "changePercent": 2.817,
+      "price": 25253.139,
+      "changePercent": 2.741,
       "previousClose": 25164.31,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25736.509765625,
         24315,
         24579.4296875,
-        25271.76171875
+        25253.138671875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52414,
-      "changePercent": 2.2,
+      "price": 52389.75,
+      "changePercent": 2.153,
       "previousClose": 51983.98,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         53356.12109375,
         51523.05859375,
         51285.73046875,
-        52414
+        52389.75
       ],
       "ok": true
     },
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 87,
-      "changePercent": -4.217,
+      "price": 85.91,
+      "changePercent": -1.082,
       "previousClose": 88.12,
       "currency": "USD",
       "history": [
         88.12000274658203,
         90.5199966430664,
         90.83000183105469,
-        87
+        86.8499984741211,
+        85.91000366210938
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4150.3,
-      "changePercent": 1.85,
+      "price": 4123.1,
+      "changePercent": 0.209,
       "previousClose": 4073,
       "currency": "USD",
       "history": [
         4073,
         4113.5,
         4074.89990234375,
-        4150.2998046875
+        4114.5,
+        4123.10009765625
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.688,
-      "changePercent": -0.596,
+      "price": 101.697,
+      "changePercent": 0.043,
       "previousClose": 101.51,
       "currency": "USD",
       "history": [
         101.51000213623047,
         101.55000305175781,
         102.30000305175781,
-        101.68800354003906
+        101.6500015258789,
+        101.6969985961914
       ],
       "ok": true
     },
@@ -104,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.9,
-      "changePercent": -22.387,
+      "price": 19.92,
+      "changePercent": -22.309,
       "previousClose": 20.83,
       "currency": "USD",
       "history": [
@@ -113,7 +116,7 @@
         16.610000610351562,
         28.18000030517578,
         25.639999389648438,
-        19.899999618530273
+        19.920000076293945
       ],
       "ok": true
     }
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "미래기금에 \"중복 투자 우려\" 등 반대 입법의견 다수 제기돼",
-      "link": "https://www.yna.co.kr/view/AKR20261109151800002",
-      "pubDate": "Tue, 10 Nov 2026 05:53:05 +0900"
+      "title": "\"'틈새라면 빨계떡' 캡사이신 최다…2위 '신라면 더 레드'\"",
+      "link": "https://www.yna.co.kr/view/AKR20261109103000030",
+      "pubDate": "Tue, 10 Nov 2026 12:00:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소상공인 대출 연체 3분기째 증가…매출·이익도 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261109142400002",
-      "pubDate": "Tue, 10 Nov 2026 05:51:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611106107i",
-      "pubDate": "Tue, 10 Nov 2026 00:16:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 흔들리는 사이…구글,차세대 AI칩 2종 출시",
-      "link": "https://www.hankyung.com/article/202611096081i",
-      "pubDate": "Mon, 09 Nov 2026 23:10:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 낙관론 커져",
-      "link": "https://www.hankyung.com/article/202611096082i",
-      "pubDate": "Mon, 09 Nov 2026 22:58:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "새 빈틈 파고든 해커…금융 플랫폼 통해 법카 부정결제 잇따라",
-      "link": "https://www.hankyung.com/article/2026110960607",
-      "pubDate": "Mon, 09 Nov 2026 22:04:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "출발부터 'X-마스 한정판'이었다는데…뜻밖의 '맥주 바'가 등장한 이유 [현장+]",
-      "link": "https://www.hankyung.com/article/202611094924g",
-      "pubDate": "Mon, 09 Nov 2026 22:00:01 +0900"
+      "title": "폴리텍대학 대전캠 클라우드보안과, 첫 졸업생 취업률 100% 달성",
+      "link": "https://www.yna.co.kr/view/AKR20261110025000530",
+      "pubDate": "Tue, 10 Nov 2026 12:00:21 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
-      "link": "https://www.yna.co.kr/view/AKR20261109157200002",
-      "pubDate": "Mon, 9 Nov 2026 21:35:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨 황, 엔비디아서 물러나나…'후계자' 얘기까지 나온 이유",
-      "link": "https://www.hankyung.com/article/202611096022i",
-      "pubDate": "Mon, 09 Nov 2026 21:25:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "예약 열자마자 '먹통'…150만명 몰린 '크리스마스 성지' 어디길래 [현장+]",
-      "link": "https://www.hankyung.com/article/202611094272g",
-      "pubDate": "Mon, 09 Nov 2026 21:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "빵값 이어 음료값도 오른다…파리바게뜨, 16일부터 가격 인상",
-      "link": "https://www.hankyung.com/article/2026110960317",
-      "pubDate": "Mon, 09 Nov 2026 20:59:13 +0900"
+      "title": "\"미 중간선거 후에도 통상압박 지속…추가 부담 최소화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261110032600003",
+      "pubDate": "Tue, 10 Nov 2026 12:00:17 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20261109156300030",
-      "pubDate": "Mon, 9 Nov 2026 20:49:34 +0900"
+      "title": "경총, 초광역특구법 제정·노조법 보완 등 19개 과제 국회 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261110061900003",
+      "pubDate": "Tue, 10 Nov 2026 12:00:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261109147051002",
-      "pubDate": "Mon, 9 Nov 2026 20:26:16 +0900"
+      "title": "'반도체 날개' 대기업 수출 2배로…'톱10' 기업 비중 60% 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20261110061100002",
+      "pubDate": "Tue, 10 Nov 2026 12:00:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"호두과자 팔러 일본 갑니다\"…명품 팔던 백화점들 '대변신' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202611094640g",
-      "pubDate": "Mon, 09 Nov 2026 20:00:04 +0900"
+      "title": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다",
+      "link": "https://www.hankyung.com/article/202611107161i",
+      "pubDate": "Tue, 10 Nov 2026 12:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯",
+      "link": "https://www.yna.co.kr/view/AKR20261110081800002",
+      "pubDate": "Tue, 10 Nov 2026 12:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KIC, 전략적 투자로 英 보험사 지분 인수…3억달러 규모",
+      "link": "https://www.yna.co.kr/view/AKR20261110089900002",
+      "pubDate": "Tue, 10 Nov 2026 11:53:47 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"온투업 신용대출 95%가 중금리대출…저신용자 비중도 45%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261110088600002",
+      "pubDate": "Tue, 10 Nov 2026 11:52:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "9월 건설수주 49% 증가에도 체감경기↓…건설고용 29개월째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261110088900003",
+      "pubDate": "Tue, 10 Nov 2026 11:47:50 +0900"
     },
     {
       "source": "한국경제",
-      "title": "中, 희토류 수출통제 면제 2개월 연장…美·中 무역휴전 이어가",
-      "link": "https://www.hankyung.com/article/202611095990i",
-      "pubDate": "Mon, 09 Nov 2026 19:56:45 +0900"
+      "title": "\"연말회식 점심에 하면 되죠\"…팝업에 대형트리까지 세웠다 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202611106291g",
+      "pubDate": "Tue, 10 Nov 2026 11:46:17 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "정년퇴직 후 연금까지 최대 5년…공무원 92% \"소득공백 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261110085500530",
+      "pubDate": "Tue, 10 Nov 2026 11:39:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "송파구, 13일 '취업성공 1·9데이'…50명 채용 예정",
+      "link": "https://www.yna.co.kr/view/AKR20261110085700004",
+      "pubDate": "Tue, 10 Nov 2026 11:37:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 현대엔지니어링, 샤워 솔루션으로 굿디자인 어워드 수상",
+      "link": "https://www.yna.co.kr/view/AKR20261110085600003",
+      "pubDate": "Tue, 10 Nov 2026 11:36:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한화 7개사, 장애 아동 치료비 지원 확대…내년 2억5000만원",
+      "link": "https://www.hankyung.com/article/202611107243g",
+      "pubDate": "Tue, 10 Nov 2026 11:35:01 +0900"
     }
   ]
 }
