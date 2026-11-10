@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:23:41.280Z",
+  "updatedAt": "2026-11-10T11:35:12.003Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25736.509765625,
         24315,
         24579.4296875,
-        25253.138671875
+        25253.140625
       ],
       "ok": true
     },
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 85.91,
-      "changePercent": -1.082,
-      "previousClose": 88.12,
+      "price": 85.85,
+      "changePercent": -1.151,
+      "previousClose": 90.52,
       "currency": "USD",
       "history": [
-        88.12000274658203,
         90.5199966430664,
         90.83000183105469,
         86.8499984741211,
-        85.91000366210938
+        85.8499984741211
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4123.1,
-      "changePercent": 0.209,
-      "previousClose": 4073,
+      "price": 4082.6,
+      "changePercent": -0.775,
+      "previousClose": 4113.5,
       "currency": "USD",
       "history": [
-        4073,
         4113.5,
         4074.89990234375,
         4114.5,
-        4123.10009765625
+        4082.60009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 101.697,
-      "changePercent": 0.043,
-      "previousClose": 101.51,
+      "price": 101.74,
+      "changePercent": 0.086,
+      "previousClose": 101.55,
       "currency": "USD",
       "history": [
-        101.51000213623047,
         101.55000305175781,
         102.30000305175781,
         101.6500015258789,
-        101.6969985961914
+        101.73999786376953
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.92,
-      "changePercent": -22.309,
-      "previousClose": 20.83,
+      "price": 20.05,
+      "changePercent": 0.653,
+      "previousClose": 16.61,
       "currency": "USD",
       "history": [
-        20.829999923706055,
         16.610000610351562,
         28.18000030517578,
         25.639999389648438,
-        19.920000076293945
+        19.920000076293945,
+        20.049999237060547
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "\"'틈새라면 빨계떡' 캡사이신 최다…2위 '신라면 더 레드'\"",
-      "link": "https://www.yna.co.kr/view/AKR20261109103000030",
-      "pubDate": "Tue, 10 Nov 2026 12:00:22 +0900"
+      "title": "[2보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
+      "link": "https://www.yna.co.kr/view/AKR20261110173800002",
+      "pubDate": "Tue, 10 Nov 2026 19:51:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "폴리텍대학 대전캠 클라우드보안과, 첫 졸업생 취업률 100% 달성",
-      "link": "https://www.yna.co.kr/view/AKR20261110025000530",
-      "pubDate": "Tue, 10 Nov 2026 12:00:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"미 중간선거 후에도 통상압박 지속…추가 부담 최소화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110032600003",
-      "pubDate": "Tue, 10 Nov 2026 12:00:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경총, 초광역특구법 제정·노조법 보완 등 19개 과제 국회 건의",
-      "link": "https://www.yna.co.kr/view/AKR20261110061900003",
-      "pubDate": "Tue, 10 Nov 2026 12:00:11 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'반도체 날개' 대기업 수출 2배로…'톱10' 기업 비중 60% 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20261110061100002",
-      "pubDate": "Tue, 10 Nov 2026 12:00:08 +0900"
+      "title": "[1보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
+      "link": "https://www.yna.co.kr/view/AKR20261110173700002",
+      "pubDate": "Tue, 10 Nov 2026 19:43:14 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다",
-      "link": "https://www.hankyung.com/article/202611107161i",
-      "pubDate": "Tue, 10 Nov 2026 12:00:05 +0900"
+      "title": "신현송, 디지털 지급결제 '룰 메이커'로 나선다",
+      "link": "https://www.hankyung.com/article/2026111085481",
+      "pubDate": "Tue, 10 Nov 2026 19:30:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯",
-      "link": "https://www.yna.co.kr/view/AKR20261110081800002",
-      "pubDate": "Tue, 10 Nov 2026 12:00:01 +0900"
+      "title": "신현송 한은 총재, BIS CPMI 의장 선임…지급결제 기준 제정",
+      "link": "https://www.yna.co.kr/view/AKR20261110119300002",
+      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KIC, 전략적 투자로 英 보험사 지분 인수…3억달러 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261110089900002",
-      "pubDate": "Tue, 10 Nov 2026 11:53:47 +0900"
+      "title": "교촌치킨, 내년 3월 찜닭 브랜드 '가마찜' 첫선…대구에 1호점",
+      "link": "https://www.yna.co.kr/view/AKR20261110170300030",
+      "pubDate": "Tue, 10 Nov 2026 18:47:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"온투업 신용대출 95%가 중금리대출…저신용자 비중도 45%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110088600002",
-      "pubDate": "Tue, 10 Nov 2026 11:52:24 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "9월 건설수주 49% 증가에도 체감경기↓…건설고용 29개월째 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261110088900003",
-      "pubDate": "Tue, 10 Nov 2026 11:47:50 +0900"
+      "title": "거주-비거주 차등원칙 견지한 정부…이형일 \"실거주 우대해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261110162851001",
+      "pubDate": "Tue, 10 Nov 2026 18:47:24 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"연말회식 점심에 하면 되죠\"…팝업에 대형트리까지 세웠다 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202611106291g",
-      "pubDate": "Tue, 10 Nov 2026 11:46:17 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정년퇴직 후 연금까지 최대 5년…공무원 92% \"소득공백 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110085500530",
-      "pubDate": "Tue, 10 Nov 2026 11:39:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "송파구, 13일 '취업성공 1·9데이'…50명 채용 예정",
-      "link": "https://www.yna.co.kr/view/AKR20261110085700004",
-      "pubDate": "Tue, 10 Nov 2026 11:37:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 현대엔지니어링, 샤워 솔루션으로 굿디자인 어워드 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261110085600003",
-      "pubDate": "Tue, 10 Nov 2026 11:36:01 +0900"
+      "title": "젠슨 황의 상징 '검은 재킷'…알고 보니 아내의 선물",
+      "link": "https://www.hankyung.com/article/202611108225H",
+      "pubDate": "Tue, 10 Nov 2026 18:44:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한화 7개사, 장애 아동 치료비 지원 확대…내년 2억5000만원",
-      "link": "https://www.hankyung.com/article/202611107243g",
-      "pubDate": "Tue, 10 Nov 2026 11:35:01 +0900"
+      "title": "순혈주의 깨고 실용·혁신…'삼성 왕조' 재건 이끈 비결",
+      "link": "https://www.hankyung.com/article/202611108278i",
+      "pubDate": "Tue, 10 Nov 2026 18:39:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] \"대출도 예금도 이상하다\"…뒤집힌 금리 공식",
+      "link": "https://www.hankyung.com/article/2026111084481",
+      "pubDate": "Tue, 10 Nov 2026 18:30:13 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[단독] 6개월 예금·대출에 '기준금리 인상' 선반영…1년짜리보다 높아져",
+      "link": "https://www.hankyung.com/article/2026111083071",
+      "pubDate": "Tue, 10 Nov 2026 18:30:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "배터리 이어 에너지…포스코, 영토확장 '가속'",
+      "link": "https://www.hankyung.com/article/2026111084101",
+      "pubDate": "Tue, 10 Nov 2026 18:25:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI·로봇·건강검진·치료까지…삼성전자 육성 스타트업 1000곳",
+      "link": "https://www.hankyung.com/article/2026111084161",
+      "pubDate": "Tue, 10 Nov 2026 18:23:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성 AI칩·LG TV…'CES 혁신상' 휩쓸어",
+      "link": "https://www.hankyung.com/article/2026111084171",
+      "pubDate": "Tue, 10 Nov 2026 18:23:32 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "제네시스 GV90 공식 출시…기본가격 1억3950만원",
+      "link": "https://www.hankyung.com/article/2026111084141",
+      "pubDate": "Tue, 10 Nov 2026 18:23:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "구자은 \"배터리소재가 LS MnM의 미래\"",
+      "link": "https://www.hankyung.com/article/2026111084151",
+      "pubDate": "Tue, 10 Nov 2026 18:22:32 +0900"
     }
   ]
 }
