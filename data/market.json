@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:46:48.060Z",
+  "updatedAt": "2026-11-11T03:10:27.985Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 86.34,
-      "changePercent": 0.349,
+      "price": 86.47,
+      "changePercent": 0.5,
       "previousClose": 90.52,
       "currency": "USD",
       "history": [
         90.5199966430664,
         90.83000183105469,
         86.8499984741211,
-        86.33999633789062
+        86.04000091552734,
+        86.47000122070312
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4043.2,
-      "changePercent": 0.323,
+      "price": 4051.4,
+      "changePercent": 0.526,
       "previousClose": 4113.5,
       "currency": "USD",
       "history": [
         4113.5,
         4074.89990234375,
         4114.5,
-        4043.199951171875
+        4030.199951171875,
+        4051.39990234375
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.217,
-      "changePercent": 0.555,
+      "price": 102.245,
+      "changePercent": 0.014,
       "previousClose": 101.55,
       "currency": "USD",
       "history": [
         101.55000305175781,
         102.30000305175781,
         101.6500015258789,
-        102.21700286865234
+        102.2300033569336,
+        102.24500274658203
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "LS증권 \"LIG D&A, 방사청 제재 정지·수주 증가 확인 필요\"…목표가↓",
-      "link": "https://www.yna.co.kr/view/AKR20261111029300008",
-      "pubDate": "Wed, 11 Nov 2026 08:39:52 +0900"
+      "title": "이용권 환불시 위약금 과다청구…미용서비스 소비자 피해 다발",
+      "link": "https://www.yna.co.kr/view/AKR20261110139000030",
+      "pubDate": "Wed, 11 Nov 2026 12:00:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "무신사, 맞춤형 유니폼 제작 서비스 개시…최대 30% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261111025900030",
-      "pubDate": "Wed, 11 Nov 2026 08:38:07 +0900"
+      "title": "국고채 입찰담합 15개 딜러사 과징금 역대 최대 1.6조…7곳 고발",
+      "link": "https://www.yna.co.kr/view/AKR20261111082500002",
+      "pubDate": "Wed, 11 Nov 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "비만치료제 투여 뒤 시력 이상 땐?…식약처, 주의 당부",
-      "link": "https://www.yna.co.kr/view/AKR20261111027000017",
-      "pubDate": "Wed, 11 Nov 2026 08:35:50 +0900"
+      "title": "재경부, 글로벌 투자자에 \"결제주기 단축 충분한 준비기간 부여\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111077100002",
+      "pubDate": "Wed, 11 Nov 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "양천구, '2027년 상반기 동행일자리' 192명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261111027600004",
-      "pubDate": "Wed, 11 Nov 2026 08:33:25 +0900"
+      "title": "10월 금융권 가계대출 6.4조↑…주담대 증가·빚투 재개",
+      "link": "https://www.yna.co.kr/view/AKR20261111077200002",
+      "pubDate": "Wed, 11 Nov 2026 12:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중진공, 구직자 위해 '직무 찾기' 서비스…채용정보 등 제공",
-      "link": "https://www.yna.co.kr/view/AKR20261110156800030",
-      "pubDate": "Wed, 11 Nov 2026 08:33:00 +0900"
+      "title": "\"법인보험 들면 현금줄게\"…법인대표에 732억원 리베이트 덜미",
+      "link": "https://www.yna.co.kr/view/AKR20261111087900004",
+      "pubDate": "Wed, 11 Nov 2026 12:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "신한증권 \"KT, 내년 통신3사 중 가장 높은 주주환원수익률 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20261111026900008",
-      "pubDate": "Wed, 11 Nov 2026 08:31:50 +0900"
+      "title": "野의원모임, '빚내서 집사라' 최경환 불러 與부동산정책 저격",
+      "link": "https://www.yna.co.kr/view/AKR20261111088200001",
+      "pubDate": "Wed, 11 Nov 2026 11:52:42 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "iM증권, 지역난방공사 목표가↓…\"수익성 감소 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20261111026400008",
-      "pubDate": "Wed, 11 Nov 2026 08:30:21 +0900"
+      "title": "[게시판] 한국거래소, 부산지역 체육꿈나무 장학금 5천만원 전달",
+      "link": "https://www.yna.co.kr/view/AKR20261111091400008",
+      "pubDate": "Wed, 11 Nov 2026 11:45:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LG화학, 청년 실무역량 강화 'K-뉴딜 아카데미' 1기 수료식",
-      "link": "https://www.yna.co.kr/view/AKR20261111026000003",
-      "pubDate": "Wed, 11 Nov 2026 08:30:14 +0900"
+      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.716%",
+      "link": "https://www.yna.co.kr/view/AKR20261111089900008",
+      "pubDate": "Wed, 11 Nov 2026 11:41:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "IBK증권, 크래프톤 목표가↓…\"내년도 주당순익 하향조정 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20261111025800008",
-      "pubDate": "Wed, 11 Nov 2026 08:24:02 +0900"
+      "title": "4~5%대 급등 코스닥, 이틀 연속 매수 사이드카 발동",
+      "link": "https://www.yna.co.kr/view/AKR20261111088900008",
+      "pubDate": "Wed, 11 Nov 2026 11:37:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아침미소목장 이성철 대표 \"방목한 소는 우유 맛이 달라요\"",
-      "link": "https://www.hankyung.com/article/202611119013i",
-      "pubDate": "Wed, 11 Nov 2026 08:20:40 +0900"
+      "title": "젠슨 황 中 스파이 연루 의혹…엔비디아, 4300억달러 증발",
+      "link": "https://www.hankyung.com/article/202611119920i",
+      "pubDate": "Wed, 11 Nov 2026 11:34:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "민주당이 은행 규제 강화한다는데…월가는 AI 투자 둔화 더 걱정",
-      "link": "https://www.hankyung.com/article/202611118977i",
-      "pubDate": "Wed, 11 Nov 2026 08:19:46 +0900"
+      "title": "하이트진로, 4년 만에 희망퇴직 단행",
+      "link": "https://www.hankyung.com/article/202611119884g",
+      "pubDate": "Wed, 11 Nov 2026 11:34:38 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한투증권, 신세계 목표가↓…\"백화점 산업 모멘텀 일부 사라져\"",
-      "link": "https://www.yna.co.kr/view/AKR20261111024200008",
-      "pubDate": "Wed, 11 Nov 2026 08:10:03 +0900"
+      "title": "[속보] 4%대 급등 코스닥, 매수 사이드카 발동",
+      "link": "https://www.yna.co.kr/view/AKR20261111086500008",
+      "pubDate": "Wed, 11 Nov 2026 11:29:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "중국 원유 수입 9.4% 증가…경유 수출은 급감",
-      "link": "https://www.hankyung.com/article/202611118916i",
-      "pubDate": "Wed, 11 Nov 2026 08:08:23 +0900"
+      "title": "[단독] '금융 문지기' 금융보안원, 금융감독원 사칭 공격에 뚫렸다",
+      "link": "https://www.hankyung.com/article/202611119610i",
+      "pubDate": "Wed, 11 Nov 2026 11:26:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
-      "link": "https://www.yna.co.kr/view/AKR20261111021500008",
-      "pubDate": "Wed, 11 Nov 2026 08:04:27 +0900"
+      "title": "LG이노텍, 10년 연속 동반성장 최우수 기업 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261111084900003",
+      "pubDate": "Wed, 11 Nov 2026 11:25:41 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "사장님은 웃고 라이더는 운다?…배달앱 수수료 '시끌' [이슈+]",
-      "link": "https://www.hankyung.com/article/202611107690g",
-      "pubDate": "Wed, 11 Nov 2026 08:04:11 +0900"
+      "source": "연합뉴스",
+      "title": "[임기범의 AI 혁신 스토리] 망분리 전면 해제, 무엇을 확인했나",
+      "link": "https://www.yna.co.kr/view/AKR20261111072500371",
+      "pubDate": "Wed, 11 Nov 2026 11:25:16 +0900"
     }
   ]
 }
