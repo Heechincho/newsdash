@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-11T11:11:38.636Z",
+  "updatedAt": "2026-11-11T18:44:44.811Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7520.93,
-      "changePercent": -0.384,
-      "previousClose": 7568.92,
+      "price": 7645.59,
+      "changePercent": 1.658,
+      "previousClose": 7688.62,
       "currency": "USD",
       "history": [
-        7688.6201171875,
         7353.72998046875,
         7376.85986328125,
         7549.93994140625,
-        7520.93017578125
+        7520.93017578125,
+        7645.58984375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25065.875,
-      "changePercent": -0.742,
-      "previousClose": 25372.01,
+      "price": 25641.74,
+      "changePercent": 2.297,
+      "previousClose": 25736.51,
       "currency": "USD",
       "history": [
-        25736.509765625,
         24315,
         24579.4296875,
         25253.140625,
-        25065.869140625
+        25065.869140625,
+        25641.740234375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52231.89,
-      "changePercent": -0.301,
-      "previousClose": 51786.72,
+      "price": 52495.46,
+      "changePercent": 0.505,
+      "previousClose": 53356.12,
       "currency": "USD",
       "history": [
-        53356.12109375,
         51523.05859375,
         51285.73046875,
         52389.75,
-        52231.890625
+        52231.890625,
+        52495.4609375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 86.83,
-      "changePercent": 0.918,
+      "price": 86.96,
+      "changePercent": 1.069,
       "previousClose": 90.83,
       "currency": "USD",
       "history": [
         90.83000183105469,
         86.8499984741211,
         86.04000091552734,
-        86.83000183105469
+        86.95999908447266
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4059.3,
-      "changePercent": 0.722,
+      "price": 4002,
+      "changePercent": -0.7,
       "previousClose": 4074.9,
       "currency": "USD",
       "history": [
         4074.89990234375,
         4114.5,
         4030.199951171875,
-        4059.300048828125
+        4002
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.488,
-      "changePercent": 0.251,
+      "price": 102.907,
+      "changePercent": 0.661,
       "previousClose": 102.3,
       "currency": "USD",
       "history": [
         102.30000305175781,
         101.6500015258789,
         102.2300033569336,
-        102.48799896240234
+        102.90699768066406
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.59,
-      "changePercent": -4.468,
+      "price": 17.39,
+      "changePercent": -10.643,
       "previousClose": 28.18,
       "currency": "USD",
       "history": [
@@ -113,12 +113,66 @@
         25.639999389648438,
         19.920000076293945,
         19.459999084472656,
-        18.59000015258789
+        17.389999389648438
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "AI주식 침체라더니…앤스로픽 IPO에 주문 폭주, 공모가 올리나?",
+      "link": "https://www.hankyung.com/article/202611111372i",
+      "pubDate": "Wed, 11 Nov 2026 23:12:05 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"불륜으로 끝날 줄 알았는데\"…젠슨 황 스캔들 '일파만파'",
+      "link": "https://www.hankyung.com/article/202611111347i",
+      "pubDate": "Wed, 11 Nov 2026 22:39:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "젠슨황 스캔들 후폭풍…칩보안법 통과확률 80%로 급등",
+      "link": "https://www.hankyung.com/article/202611111332i",
+      "pubDate": "Wed, 11 Nov 2026 22:00:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "韓총리, 수도권 교육감들 만나 \"학교용지 복합개발 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111180100001",
+      "pubDate": "Wed, 11 Nov 2026 21:56:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"이번엔 학력도 안 본대\"…SK 하이닉스 '킹산직' 채용 공고에 '관심'",
+      "link": "https://www.hankyung.com/article/2026111113277",
+      "pubDate": "Wed, 11 Nov 2026 21:45:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"빼빼로가 뭐길래\"…카카오톡 선물하기, 한때 35만명 대기",
+      "link": "https://www.hankyung.com/article/2026111112867",
+      "pubDate": "Wed, 11 Nov 2026 20:42:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "젠슨황 퇴진하면 엔비디아 누가 이끄나?…AMD 리사수까지 등장",
+      "link": "https://www.hankyung.com/article/202611111197i",
+      "pubDate": "Wed, 11 Nov 2026 20:36:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "마인드스파크, '제3회 대한민국 AI광고대상'…30일 접수 마감",
+      "link": "https://www.hankyung.com/article/202611111239i",
+      "pubDate": "Wed, 11 Nov 2026 19:53:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "메리츠금융지주, 3분기 역성장",
+      "link": "https://www.hankyung.com/article/2026111111771",
+      "pubDate": "Wed, 11 Nov 2026 19:45:44 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[게시판] 수입협회, 우즈베크 상원의장과 교역 확대 방안 논의",
@@ -130,6 +184,12 @@
       "title": "국토장관 \"궤도운송법령 개정, 남산 곤돌라용 아냐…오해 없길\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261111122851003",
       "pubDate": "Wed, 11 Nov 2026 19:38:40 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'불륜'에 흔들리는 젠슨 황에도…월가선 \"저가 매수하라\"",
+      "link": "https://www.hankyung.com/article/2026111111767",
+      "pubDate": "Wed, 11 Nov 2026 19:38:01 +0900"
     },
     {
       "source": "연합뉴스",
@@ -148,66 +208,6 @@
       "title": "전남광주시·곡성군, 곡성국제정원박람회 유치 협력",
       "link": "https://www.yna.co.kr/view/AKR20261111173400054",
       "pubDate": "Wed, 11 Nov 2026 19:13:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부, GS건설 아파트 시스템 침해사고에 직권조사한다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261111163101017",
-      "pubDate": "Wed, 11 Nov 2026 18:47:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "정부 이어 여야도 '가상자산 과세 2년 유예' 잠정 합의",
-      "link": "https://www.yna.co.kr/view/AKR20261111170100001",
-      "pubDate": "Wed, 11 Nov 2026 18:43:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'회계처리 위반' 셀바스헬스케어·대우산업개발에 감사인지정",
-      "link": "https://www.yna.co.kr/view/AKR20261111170800002",
-      "pubDate": "Wed, 11 Nov 2026 18:41:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"삼성서 쌓은 AI 역량으로 사람 돕는 개발자 될래요\"",
-      "link": "https://www.hankyung.com/article/2026111109261",
-      "pubDate": "Wed, 11 Nov 2026 18:41:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미공개정보 이용해 부당이득 취득…증선위, 중수청 고발·통보",
-      "link": "https://www.yna.co.kr/view/AKR20261111170000002",
-      "pubDate": "Wed, 11 Nov 2026 18:40:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "하나금융 '사랑의 김장' 1만1111포기 나눔",
-      "link": "https://www.hankyung.com/article/2026111109341",
-      "pubDate": "Wed, 11 Nov 2026 18:38:25 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "허영인 상미당 회장, 28년째 푸드뱅크 지원",
-      "link": "https://www.hankyung.com/article/2026111109221",
-      "pubDate": "Wed, 11 Nov 2026 18:37:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "제40회 섬유의 날 기념식…최재락 세왕 회장, 금탑훈장",
-      "link": "https://www.hankyung.com/article/2026111109271",
-      "pubDate": "Wed, 11 Nov 2026 18:36:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "에이스침대, 취약층 연탄 10만장 후원",
-      "link": "https://www.hankyung.com/article/2026111109311",
-      "pubDate": "Wed, 11 Nov 2026 18:35:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "암참, CEO 대상 장학기금 모금 행사",
-      "link": "https://www.hankyung.com/article/2026111109301",
-      "pubDate": "Wed, 11 Nov 2026 18:34:35 +0900"
     }
   ]
 }
