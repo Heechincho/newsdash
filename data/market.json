@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-12T16:52:40.546Z",
+  "updatedAt": "2026-11-12T22:37:36.643Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7634.65,
-      "changePercent": 0.2,
+      "price": 7592.4,
+      "changePercent": -0.354,
       "previousClose": 7353.73,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7549.93994140625,
         7520.93017578125,
         7619.3798828125,
-        7634.64990234375
+        7592.39990234375
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25502.32,
-      "changePercent": 0.142,
+      "price": 25366.094,
+      "changePercent": -0.393,
       "previousClose": 24315,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         25253.140625,
         25065.869140625,
         25466.189453125,
-        25502.3203125
+        25366.09375
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52649.36,
-      "changePercent": 0.31,
+      "price": 52297.09,
+      "changePercent": -0.361,
       "previousClose": 51523.06,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         52389.75,
         52231.890625,
         52486.48828125,
-        52649.359375
+        52297.08984375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 86.96,
-      "changePercent": 0.497,
+      "price": 88.7,
+      "changePercent": 2.508,
       "previousClose": 86.85,
       "currency": "USD",
       "history": [
         86.8499984741211,
         86.04000091552734,
         86.52999877929688,
-        86.95999908447266
+        88.69999694824219
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3872.4,
-      "changePercent": -3.202,
+      "price": 3881.7,
+      "changePercent": -2.97,
       "previousClose": 4114.5,
       "currency": "USD",
       "history": [
         4114.5,
         4030.199951171875,
         4000.5,
-        3872.39990234375
+        3881.699951171875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.193,
-      "changePercent": 0.277,
+      "price": 103.192,
+      "changePercent": 0.276,
       "previousClose": 101.65,
       "currency": "USD",
       "history": [
         101.6500015258789,
         102.2300033569336,
         102.91000366210938,
-        103.19300079345703
+        103.19200134277344
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.6,
-      "changePercent": 0.629,
+      "price": 18.7,
+      "changePercent": 6.918,
       "previousClose": 25.64,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         19.920000076293945,
         19.459999084472656,
         17.489999771118164,
-        17.600000381469727
+        18.700000762939453
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "AI가 쇼핑 대신 하는 시대…대한상의, 유통업계 대응 전략 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261112140700003",
+      "pubDate": "Fri, 13 Nov 2026 07:30:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261113017100011",
+      "pubDate": "Fri, 13 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
+      "link": "https://www.yna.co.kr/view/AKR20261112083200065",
+      "pubDate": "Fri, 13 Nov 2026 07:17:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"우리의 우상인데…\" 젠슨 황 퇴진에 직원들도 충격 빠졌다",
+      "link": "https://www.hankyung.com/article/2026111340337",
+      "pubDate": "Fri, 13 Nov 2026 06:40:49 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
+      "link": "https://www.yna.co.kr/view/AKR20261112142700030",
+      "pubDate": "Fri, 13 Nov 2026 06:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
+      "link": "https://www.hankyung.com/article/2026111340177",
+      "pubDate": "Fri, 13 Nov 2026 06:15:58 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"8500원 떡 사다주면 2만원\"…한국서 벌어진 '기막힌 풍경'",
+      "link": "https://www.hankyung.com/article/2026111235811",
+      "pubDate": "Fri, 13 Nov 2026 06:00:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "싼타페 사려다 흔들리겠네…공간 키우고 연비 잡은 '신형 투싼' [신차털기]",
+      "link": "https://www.hankyung.com/article/202611122737g",
+      "pubDate": "Fri, 13 Nov 2026 06:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
+      "link": "https://www.yna.co.kr/view/AKR20261112176200004",
+      "pubDate": "Fri, 13 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261112167900002",
+      "pubDate": "Fri, 13 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
+      "link": "https://www.yna.co.kr/view/AKR20261112172100002",
+      "pubDate": "Fri, 13 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "50대 남성들도 지갑 열었다…자취생 먹던 냉동식품 '대반전' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611123887i",
+      "pubDate": "Fri, 13 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
+      "link": "https://www.yna.co.kr/view/AKR20261112180600004",
+      "pubDate": "Fri, 13 Nov 2026 06:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261113010900072",
+      "pubDate": "Fri, 13 Nov 2026 05:50:52 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
       "link": "https://www.hankyung.com/article/202611123920i",
       "pubDate": "Thu, 12 Nov 2026 23:38:29 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, AI글라스 출격…\"실시간 통역·관광 가이드 가능\"",
-      "link": "https://www.hankyung.com/article/2026111238961",
-      "pubDate": "Thu, 12 Nov 2026 23:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"65만원이라 비싸다 했는데\"…삼성 'AI 안경' 써보고 '화들짝' [체험기]",
-      "link": "https://www.hankyung.com/article/202611122173i",
-      "pubDate": "Thu, 12 Nov 2026 23:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"너무 좋더라\" 한국 온 외국인 몰려든 곳이…'1.8조' 긁었다 [트래블톡]",
-      "link": "https://www.hankyung.com/article/202611110252g",
-      "pubDate": "Thu, 12 Nov 2026 22:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
-      "link": "https://www.yna.co.kr/view/AKR20261112181800030",
-      "pubDate": "Thu, 12 Nov 2026 21:40:26 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261112110051030",
-      "pubDate": "Thu, 12 Nov 2026 21:16:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한국이 해외보다 싸게 판다고?\"…와인 애호가들 몰리는 곳 [씬메이커]",
-      "link": "https://www.hankyung.com/article/202611110530g",
-      "pubDate": "Thu, 12 Nov 2026 21:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
-      "link": "https://www.hankyung.com/article/2026111238247",
-      "pubDate": "Thu, 12 Nov 2026 20:30:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"작년엔 없어서 못 팔았는데\"…명동 약사들 한숨 쉬는 이유",
-      "link": "https://www.hankyung.com/article/202611110221g",
-      "pubDate": "Thu, 12 Nov 2026 20:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261111175651002",
-      "pubDate": "Thu, 12 Nov 2026 19:38:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
-      "link": "https://www.yna.co.kr/view/AKR20261112172800530",
-      "pubDate": "Thu, 12 Nov 2026 19:15:43 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데百, 15년 만에 브랜드 디자인 개편",
-      "link": "https://www.hankyung.com/article/2026111235801",
-      "pubDate": "Thu, 12 Nov 2026 18:11:44 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "가방 밖으로 나온 '책 패션'",
-      "link": "https://www.hankyung.com/article/2026111235791",
-      "pubDate": "Thu, 12 Nov 2026 18:10:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "배민, 음식값·배달비 할인 수수료 면제",
-      "link": "https://www.hankyung.com/article/2026111235841",
-      "pubDate": "Thu, 12 Nov 2026 18:10:22 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"벌써 어그의 계절\"…신세계인터, 북촌서 팝업",
-      "link": "https://www.hankyung.com/article/2026111235831",
-      "pubDate": "Thu, 12 Nov 2026 18:10:02 +0900"
     }
   ]
 }
