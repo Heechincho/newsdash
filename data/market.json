@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T18:44:44.811Z",
+  "updatedAt": "2026-11-12T01:03:22.399Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7645.59,
-      "changePercent": 1.658,
+      "price": 7619.38,
+      "changePercent": 1.309,
       "previousClose": 7688.62,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7376.85986328125,
         7549.93994140625,
         7520.93017578125,
-        7645.58984375
+        7619.3798828125
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25641.74,
-      "changePercent": 2.297,
+      "price": 25466.19,
+      "changePercent": 1.597,
       "previousClose": 25736.51,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         24579.4296875,
         25253.140625,
         25065.869140625,
-        25641.740234375
+        25466.189453125
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52495.46,
-      "changePercent": 0.505,
+      "price": 52486.49,
+      "changePercent": 0.487,
       "previousClose": 53356.12,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         51285.73046875,
         52389.75,
         52231.890625,
-        52495.4609375
+        52486.48828125
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 86.96,
-      "changePercent": 1.069,
+      "price": 86.06,
+      "changePercent": -0.543,
       "previousClose": 90.83,
       "currency": "USD",
       "history": [
         90.83000183105469,
         86.8499984741211,
         86.04000091552734,
-        86.95999908447266
+        86.05999755859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 4002,
-      "changePercent": -0.7,
+      "price": 3994.5,
+      "changePercent": -0.15,
       "previousClose": 4074.9,
       "currency": "USD",
       "history": [
         4074.89990234375,
         4114.5,
         4030.199951171875,
-        4002
+        3994.5
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 102.907,
-      "changePercent": 0.661,
+      "price": 102.873,
+      "changePercent": -0.034,
       "previousClose": 102.3,
       "currency": "USD",
       "history": [
         102.30000305175781,
         101.6500015258789,
         102.2300033569336,
-        102.90699768066406
+        102.87300109863281
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 17.39,
-      "changePercent": -10.643,
+      "price": 17.49,
+      "changePercent": -10.123,
       "previousClose": 28.18,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         25.639999389648438,
         19.920000076293945,
         19.459999084472656,
-        17.389999389648438
+        17.489999771118164
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "AI주식 침체라더니…앤스로픽 IPO에 주문 폭주, 공모가 올리나?",
-      "link": "https://www.hankyung.com/article/202611111372i",
-      "pubDate": "Wed, 11 Nov 2026 23:12:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"불륜으로 끝날 줄 알았는데\"…젠슨 황 스캔들 '일파만파'",
-      "link": "https://www.hankyung.com/article/202611111347i",
-      "pubDate": "Wed, 11 Nov 2026 22:39:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨황 스캔들 후폭풍…칩보안법 통과확률 80%로 급등",
-      "link": "https://www.hankyung.com/article/202611111332i",
-      "pubDate": "Wed, 11 Nov 2026 22:00:36 +0900"
+      "source": "연합뉴스",
+      "title": "공정위 과징금·외인 선물 매도 겹친 채권시장…약세로 돌아설까",
+      "link": "https://www.yna.co.kr/view/AKR20261112045300008",
+      "pubDate": "Thu, 12 Nov 2026 09:52:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "韓총리, 수도권 교육감들 만나 \"학교용지 복합개발 활성화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261111180100001",
-      "pubDate": "Wed, 11 Nov 2026 21:56:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이번엔 학력도 안 본대\"…SK 하이닉스 '킹산직' 채용 공고에 '관심'",
-      "link": "https://www.hankyung.com/article/2026111113277",
-      "pubDate": "Wed, 11 Nov 2026 21:45:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"빼빼로가 뭐길래\"…카카오톡 선물하기, 한때 35만명 대기",
-      "link": "https://www.hankyung.com/article/2026111112867",
-      "pubDate": "Wed, 11 Nov 2026 20:42:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨황 퇴진하면 엔비디아 누가 이끄나?…AMD 리사수까지 등장",
-      "link": "https://www.hankyung.com/article/202611111197i",
-      "pubDate": "Wed, 11 Nov 2026 20:36:26 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "마인드스파크, '제3회 대한민국 AI광고대상'…30일 접수 마감",
-      "link": "https://www.hankyung.com/article/202611111239i",
-      "pubDate": "Wed, 11 Nov 2026 19:53:58 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "메리츠금융지주, 3분기 역성장",
-      "link": "https://www.hankyung.com/article/2026111111771",
-      "pubDate": "Wed, 11 Nov 2026 19:45:44 +0900"
+      "title": "맥도날드, 세종시에 첫 매장…북카페 갖춘 드라이브스루점 개점",
+      "link": "https://www.yna.co.kr/view/AKR20261112043300030",
+      "pubDate": "Thu, 12 Nov 2026 09:51:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 수입협회, 우즈베크 상원의장과 교역 확대 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261111166800003",
-      "pubDate": "Wed, 11 Nov 2026 19:39:10 +0900"
+      "title": "DL이앤씨, GTX-A 대심도 터널 기술로 최고 권위 ITA 정상 올라",
+      "link": "https://www.yna.co.kr/view/AKR20261112053300003",
+      "pubDate": "Thu, 12 Nov 2026 09:50:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국토장관 \"궤도운송법령 개정, 남산 곤돌라용 아냐…오해 없길\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261111122851003",
-      "pubDate": "Wed, 11 Nov 2026 19:38:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'불륜'에 흔들리는 젠슨 황에도…월가선 \"저가 매수하라\"",
-      "link": "https://www.hankyung.com/article/2026111111767",
-      "pubDate": "Wed, 11 Nov 2026 19:38:01 +0900"
+      "title": "프랜차이즈산업협회 \"대기업이 프랜차이즈 상표 무임승차\"",
+      "link": "https://www.yna.co.kr/view/AKR20261112037300030",
+      "pubDate": "Thu, 12 Nov 2026 09:46:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
-      "link": "https://www.yna.co.kr/view/AKR20261111175000061",
-      "pubDate": "Wed, 11 Nov 2026 19:34:56 +0900"
+      "title": "IBK운용, '현대차로보틱스채권혼합50 ETF' 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261112050100008",
+      "pubDate": "Thu, 12 Nov 2026 09:44:09 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "위고비·마운자로 들고 입국 가능…일본 원정 구매 늘어나나",
-      "link": "https://www.yna.co.kr/view/AKR20261111173800017",
-      "pubDate": "Wed, 11 Nov 2026 19:23:46 +0900"
+      "title": "포스코이앤씨, 고창 해상풍력 착공…서남권 재생에너지 공급",
+      "link": "https://www.yna.co.kr/view/AKR20261112046200003",
+      "pubDate": "Thu, 12 Nov 2026 09:40:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "전남광주시·곡성군, 곡성국제정원박람회 유치 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261111173400054",
-      "pubDate": "Wed, 11 Nov 2026 19:13:54 +0900"
+      "title": "[게시판] 현대캐피탈 '제네시스 파이낸스 THE 90' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261112049700002",
+      "pubDate": "Thu, 12 Nov 2026 09:40:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "이틀연속 오른 코스피, '젠슨황 해임 준비' 악재속 보합권 등락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261112038151008",
+      "pubDate": "Thu, 12 Nov 2026 09:39:55 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 신협 연 3.5% '무배당 신협통합상해보장공제' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261112049100002",
+      "pubDate": "Thu, 12 Nov 2026 09:38:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] NH농협은행, NH골드채움신탁 취급 영업점 21개로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261112049200002",
+      "pubDate": "Thu, 12 Nov 2026 09:38:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 하나은행, 퇴직연금 ETF 당일매매 서비스 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261112046300002",
+      "pubDate": "Thu, 12 Nov 2026 09:35:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[특징주] 美반도체 강세에 삼전, 2%대 상승…하이닉스 강보합",
+      "link": "https://www.yna.co.kr/view/AKR20261112046000008",
+      "pubDate": "Thu, 12 Nov 2026 09:34:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 카카오뱅크 '외국인통장', 출시 한 달 만에 2만좌",
+      "link": "https://www.yna.co.kr/view/AKR20261112045700002",
+      "pubDate": "Thu, 12 Nov 2026 09:33:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "KB금융 \"한국ESG기준원 평가서 통합 A+ 등급 획득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261112047600002",
+      "pubDate": "Thu, 12 Nov 2026 09:31:39 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "부산 59층 '롯데캐슬 드메르' 한국콘크리트학회 작품상 수상",
+      "link": "https://www.yna.co.kr/view/AKR20261112041500003",
+      "pubDate": "Thu, 12 Nov 2026 09:27:38 +0900"
     }
   ]
 }
