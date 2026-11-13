@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-13T10:41:25.574Z",
+  "updatedAt": "2026-11-13T18:08:43.890Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7592.4,
-      "changePercent": -0.354,
-      "previousClose": 7353.73,
+      "price": 7535.4,
+      "changePercent": -0.751,
+      "previousClose": 7376.86,
       "currency": "USD",
       "history": [
-        7376.85986328125,
         7549.93994140625,
         7520.93017578125,
         7619.3798828125,
-        7592.39990234375
+        7592.39990234375,
+        7535.39990234375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25366.094,
-      "changePercent": -0.393,
-      "previousClose": 24315,
+      "price": 25043.54,
+      "changePercent": -1.272,
+      "previousClose": 24579.43,
       "currency": "USD",
       "history": [
-        24579.4296875,
         25253.140625,
         25065.869140625,
         25466.189453125,
-        25366.08984375
+        25366.08984375,
+        25043.5390625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52297.09,
-      "changePercent": -0.361,
-      "previousClose": 51523.06,
+      "price": 52216.44,
+      "changePercent": -0.154,
+      "previousClose": 51285.73,
       "currency": "USD",
       "history": [
-        51285.73046875,
         52389.75,
         52231.890625,
         52486.48828125,
-        52297.08984375
+        52297.08984375,
+        52216.44140625
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 87.86,
-      "changePercent": -0.992,
+      "price": 88.57,
+      "changePercent": -0.192,
       "previousClose": 86.85,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         86.04000091552734,
         86.52999877929688,
         88.73999786376953,
-        87.86000061035156
+        88.56999969482422
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3902.3,
-      "changePercent": 0.438,
+      "price": 3889.3,
+      "changePercent": 0.103,
       "previousClose": 4114.5,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4030.199951171875,
         4000.5,
         3885.300048828125,
-        3902.300048828125
+        3889.300048828125
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.219,
-      "changePercent": 0.045,
+      "price": 103.404,
+      "changePercent": 0.224,
       "previousClose": 101.65,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         102.2300033569336,
         102.91000366210938,
         103.16999816894531,
-        103.21900177001953
+        103.40399932861328
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 18.43,
-      "changePercent": -1.445,
+      "price": 19.6,
+      "changePercent": 4.803,
       "previousClose": 19.92,
       "currency": "USD",
       "history": [
@@ -116,12 +116,66 @@
         19.459999084472656,
         17.489999771118164,
         18.700000762939453,
-        18.43000030517578
+        19.600000381469727
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611146106i",
+      "pubDate": "Sat, 14 Nov 2026 01:28:50 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "노사정, 초광역특구 '노동특례' 논의 물꼬…17일부터 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20261113177600530",
+      "pubDate": "Fri, 13 Nov 2026 21:39:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "2차 모두의창업 정보 유출, 1차 사고 판박이…'취약한 API' 타깃(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261113174151030",
+      "pubDate": "Fri, 13 Nov 2026 21:25:19 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한·중 외교수장 \"관계 복원 정상궤도\"…수교 35주년 앞두고 협력 확대",
+      "link": "https://www.hankyung.com/article/202611136045i",
+      "pubDate": "Fri, 13 Nov 2026 21:19:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"진짜 금이네\"…55만원 크리스마스 케이크에 '입이 떡' [박상경의 영수증 리뷰]",
+      "link": "https://www.hankyung.com/article/202611135298g",
+      "pubDate": "Fri, 13 Nov 2026 21:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경기도, 지방채 2천462억원 내년 또 발행…3년 누적 2조원 육박",
+      "link": "https://www.yna.co.kr/view/AKR20261113174700061",
+      "pubDate": "Fri, 13 Nov 2026 20:14:43 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "HL만도, 동반성장지수 2년 연속 '최우수'",
+      "link": "https://www.hankyung.com/article/202611135997i",
+      "pubDate": "Fri, 13 Nov 2026 20:02:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중기부 '모두의 창업' 5개월 만에 또 털렸다",
+      "link": "https://www.hankyung.com/article/2026111359671",
+      "pubDate": "Fri, 13 Nov 2026 19:49:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "검역본부, 고병원성 AI 위험주의보 발령…가금농장 방역 강화",
+      "link": "https://www.yna.co.kr/view/AKR20261113173200030",
+      "pubDate": "Fri, 13 Nov 2026 19:42:04 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "[동포의 창] 미주한상총연, 뉴욕 BDNY 첫 한국관…중소기업 美진출 지원",
@@ -136,13 +190,13 @@
     },
     {
       "source": "연합뉴스",
-      "title": "빌리프랩·쏘스뮤직, 민희진 상대 20억 손배소 1심서 패소(종합)",
+      "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261113166651004",
       "pubDate": "Fri, 13 Nov 2026 19:14:49 +0900"
     },
     {
       "source": "한국경제",
-      "title": "[단독] 특허법원도 '노모어피자' 손 들어줘…\"상표권 리스크 해소\"",
+      "title": "[단독] \"20억 물어내라니\"…간판 내릴 뻔한 노모어피자 '승소'",
       "link": "https://www.hankyung.com/article/202611135104g",
       "pubDate": "Fri, 13 Nov 2026 18:41:59 +0900"
     },
@@ -157,60 +211,6 @@
       "title": "KB손보, 60번째 아동 주거환경 개선",
       "link": "https://www.hankyung.com/article/2026111358311",
       "pubDate": "Fri, 13 Nov 2026 18:30:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "빌리프랩, '아일릿이 뉴진스 표절' 주장 민희진 상대 손배소 패소",
-      "link": "https://www.yna.co.kr/view/AKR20261113166600004",
-      "pubDate": "Fri, 13 Nov 2026 18:30:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대百 '발달장애인 사업장' 1억 지원",
-      "link": "https://www.hankyung.com/article/2026111358341",
-      "pubDate": "Fri, 13 Nov 2026 18:28:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'올해의 PR인' 이정원 효성그룹 전무",
-      "link": "https://www.hankyung.com/article/2026111358351",
-      "pubDate": "Fri, 13 Nov 2026 18:28:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "무인항공기 국제표준 총회, 17일 서울서 개막…수소·AI 표준 논의",
-      "link": "https://www.hankyung.com/article/202611135903i",
-      "pubDate": "Fri, 13 Nov 2026 18:03:43 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
-      "link": "https://www.yna.co.kr/view/AKR20261113102100003",
-      "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261113155100011",
-      "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "정부, 4주간 석유 최고가 다시 동결",
-      "link": "https://www.hankyung.com/article/2026111358851",
-      "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기부 2차 '모두의창업' 개인 정보 유출…1차 유출사고 5개월만(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261113154952030",
-      "pubDate": "Fri, 13 Nov 2026 17:57:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[인사] 미래에셋증권",
-      "link": "https://www.yna.co.kr/view/AKR20261113162400008",
-      "pubDate": "Fri, 13 Nov 2026 17:54:05 +0900"
     }
   ]
 }
