@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:54:25.084Z",
+  "updatedAt": "2026-11-14T16:52:59.522Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,24 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "\"방송 한 번에 한 달 치 벌었다\"…'이정재까지?' 대체 뭐길래 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202611134146g",
+      "pubDate": "Sat, 14 Nov 2026 21:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114046700030",
+      "pubDate": "Sat, 14 Nov 2026 20:42:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"요즘 누가 TV 보고 사요\"…홈쇼핑 3사에 벌어진 '뜻밖의 일' [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202611135485i",
+      "pubDate": "Sat, 14 Nov 2026 20:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
       "link": "https://www.hankyung.com/article/2026111465357",
       "pubDate": "Sat, 14 Nov 2026 18:53:31 +0900"
@@ -193,24 +211,6 @@
       "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
       "link": "https://www.yna.co.kr/view/AKR20261113134700061",
       "pubDate": "Sat, 14 Nov 2026 11:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261114025200011",
-      "pubDate": "Sat, 14 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"이쁘게 봐주세요\"…소주회사 회장님이 손편지 쓴 사연 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611134436i",
-      "pubDate": "Sat, 14 Nov 2026 10:00:09 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"로봇 팔던 회사 아냐?\" 화들짝…4000억 돈 보따리 푼 속내 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202611134552i",
-      "pubDate": "Sat, 14 Nov 2026 09:43:01 +0900"
     }
   ]
 }
