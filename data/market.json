@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:31:49.777Z",
+  "updatedAt": "2026-11-14T10:54:25.084Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25065.869140625,
         25466.189453125,
         25366.08984375,
-        25136.2734375
+        25136.26953125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.92,
-      "changePercent": 0.203,
+      "price": 88.56,
+      "changePercent": -0.203,
       "previousClose": 86.85,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         86.04000091552734,
         86.52999877929688,
         88.73999786376953,
-        88.91999816894531
+        88.55999755859375
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3887.6,
-      "changePercent": 0.059,
+      "price": 3886.3,
+      "changePercent": 0.026,
       "previousClose": 4114.5,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         4030.199951171875,
         4000.5,
         3885.300048828125,
-        3887.60009765625
+        3886.300048828125
       ],
       "ok": true
     },
@@ -99,7 +99,7 @@
         102.2300033569336,
         102.91000366210938,
         103.16999816894531,
-        103.41100311279297
+        103.41000366210938
       ],
       "ok": true
     },
@@ -109,7 +109,7 @@
       "symbol": "^VIX",
       "price": 19.3,
       "changePercent": 3.209,
-      "previousClose": 25.64,
+      "previousClose": 19.92,
       "currency": "USD",
       "history": [
         19.920000076293945,
@@ -122,6 +122,60 @@
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
+      "link": "https://www.hankyung.com/article/2026111465357",
+      "pubDate": "Sat, 14 Nov 2026 18:53:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "잎담배값 4년 새 60% 급등…11년 묶인 담뱃값, 인상론 부상 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202611134194i",
+      "pubDate": "Sat, 14 Nov 2026 18:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261114037551030",
+      "pubDate": "Sat, 14 Nov 2026 16:37:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114037500030",
+      "pubDate": "Sat, 14 Nov 2026 15:57:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
+      "link": "https://www.hankyung.com/article/2026111464727",
+      "pubDate": "Sat, 14 Nov 2026 15:00:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "20년 전 자식에게 준 돈도 토해낸다…무서운 상속법",
+      "link": "https://www.hankyung.com/article/202611107863i",
+      "pubDate": "Sat, 14 Nov 2026 15:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"저렴한 약값에 한국어 상담까지\"…日 비만약 원정처방 마케팅 활발",
+      "link": "https://www.hankyung.com/article/2026111464627",
+      "pubDate": "Sat, 14 Nov 2026 14:23:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
+      "link": "https://www.yna.co.kr/view/AKR20261113174400017",
+      "pubDate": "Sat, 14 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"사진 찍고 가세요\"…홍대 나란히 우뚝 선 '핑크 건물' 정체 [김소연의 얼굴전략]",
+      "link": "https://www.hankyung.com/article/202611135496g",
+      "pubDate": "Sat, 14 Nov 2026 13:00:01 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
@@ -148,69 +202,15 @@
     },
     {
       "source": "한국경제",
-      "title": "\"이쁘게 봐주세요\"…대기업 참전에 손편지 쓴 소주 회장 [권용훈의 트렌드워치]",
+      "title": "\"이쁘게 봐주세요\"…소주회사 회장님이 손편지 쓴 사연 [권용훈의 트렌드워치]",
       "link": "https://www.hankyung.com/article/202611134436i",
       "pubDate": "Sat, 14 Nov 2026 10:00:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "로봇 팔던 中 기업들이 벤처투자에 수천억원 쏟아붓는 이유 [차이나 워치]",
+      "title": "\"로봇 팔던 회사 아냐?\" 화들짝…4000억 돈 보따리 푼 속내 [차이나 워치]",
       "link": "https://www.hankyung.com/article/202611134552i",
       "pubDate": "Sat, 14 Nov 2026 09:43:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 무너뜨린 '불륜 스캔들'…테크 빅샷들의 흑역사 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026111354366",
-      "pubDate": "Sat, 14 Nov 2026 09:30:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[테크톡노트] KTX 예매에 전화까지…내 일 대신하는 AI 비서 '피클'",
-      "link": "https://www.yna.co.kr/view/AKR20261113158900017",
-      "pubDate": "Sat, 14 Nov 2026 09:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"전세사기 예방이 최선\"…전북도, 전월세 안심계약 상담서비스",
-      "link": "https://www.yna.co.kr/view/AKR20261114022100055",
-      "pubDate": "Sat, 14 Nov 2026 09:20:45 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20261114022000091",
-      "pubDate": "Sat, 14 Nov 2026 09:19:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'기금 만들고 보조금 주고'…경기 지자체, 기업 투자유치에 사활",
-      "link": "https://www.yna.co.kr/view/AKR20261113123700061",
-      "pubDate": "Sat, 14 Nov 2026 09:09:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"824만 싱글족 필수템\"…불티나게 팔린 '틈새 가구' 정체 [트렌드+]",
-      "link": "https://www.hankyung.com/article/202611134743g",
-      "pubDate": "Sat, 14 Nov 2026 09:03:07 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "로보택시 다음은 오토바이…中 자율주행 기업, 8000만대 시장 노린다",
-      "link": "https://www.hankyung.com/article/202610053827i",
-      "pubDate": "Sat, 14 Nov 2026 09:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
-      "link": "https://www.yna.co.kr/view/AKR20261113076800008",
-      "pubDate": "Sat, 14 Nov 2026 09:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
-      "link": "https://www.yna.co.kr/view/AKR20261114014500002",
-      "pubDate": "Sat, 14 Nov 2026 08:58:18 +0900"
     }
   ]
 }
