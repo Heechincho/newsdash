@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:32:59.206Z",
+  "updatedAt": "2026-11-14T03:31:49.777Z",
   "instruments": [
     {
       "key": "sp500",
@@ -91,7 +91,7 @@
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
       "price": 103.411,
-      "changePercent": 0.231,
+      "changePercent": -0.001,
       "previousClose": 101.65,
       "currency": "USD",
       "history": [
@@ -109,7 +109,7 @@
       "symbol": "^VIX",
       "price": 19.3,
       "changePercent": 3.209,
-      "previousClose": 19.92,
+      "previousClose": 25.64,
       "currency": "USD",
       "history": [
         19.920000076293945,
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "[해수분해] 통영 굴의 미국행…바다 위 공중화장실이 점검 대상",
-      "link": "https://www.yna.co.kr/view/AKR20261113067700051",
-      "pubDate": "Sat, 14 Nov 2026 08:00:08 +0900"
+      "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261114029100003",
+      "pubDate": "Sat, 14 Nov 2026 11:44:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "모두의창업 또 정보 유출에 참가자 '부글'…\"경위·보상 밝혀야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114026000030",
+      "pubDate": "Sat, 14 Nov 2026 11:14:56 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261113134700061",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261114025200011",
+      "pubDate": "Sat, 14 Nov 2026 10:30:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "“결제만 막으면 끝?”…튀르키예에 경고 나온 이유 [스테이블코인 레이더]",
-      "link": "https://www.hankyung.com/article/202611135830i",
-      "pubDate": "Sat, 14 Nov 2026 08:00:05 +0900"
+      "title": "\"이쁘게 봐주세요\"…대기업 참전에 손편지 쓴 소주 회장 [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611134436i",
+      "pubDate": "Sat, 14 Nov 2026 10:00:09 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한때 등골 빼먹더니 이젠 지켜주네…5만원대 경량 패딩 '돌풍' [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202611135612i",
-      "pubDate": "Sat, 14 Nov 2026 08:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한국, 중국 수입시장 6개월째 1위…미국선 9→6위",
-      "link": "https://www.yna.co.kr/view/AKR20261113170500003",
-      "pubDate": "Sat, 14 Nov 2026 07:01:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[신상잇슈] 사조푸디스트 '케어포유 가루쌀 치킨'·오뚜기 '슈퍼레드 케첩'",
-      "link": "https://www.yna.co.kr/view/AKR20261113076500030",
-      "pubDate": "Sat, 14 Nov 2026 07:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[금주핫템] 모나리자 '붕어빵 티슈'·아이더 '몽글릿 구스 다운'",
-      "link": "https://www.yna.co.kr/view/AKR20261112172200030",
-      "pubDate": "Sat, 14 Nov 2026 07:00:04 +0900"
+      "title": "로봇 팔던 中 기업들이 벤처투자에 수천억원 쏟아붓는 이유 [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611134552i",
+      "pubDate": "Sat, 14 Nov 2026 09:43:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"3시간 자며 7년\"…10억 빚에 휘청인 설렁탕집 사장의 반전 [권용훈의 직업불만족(族)]",
-      "link": "https://www.hankyung.com/article/202610278488i",
-      "pubDate": "Sat, 14 Nov 2026 07:00:04 +0900"
+      "title": "엔비디아 무너뜨린 '불륜 스캔들'…테크 빅샷들의 흑역사 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026111354366",
+      "pubDate": "Sat, 14 Nov 2026 09:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[이번주뭘살까] 백화점 겨울 정기세일 개막…마트선 알뜰 김장 행사",
-      "link": "https://www.yna.co.kr/view/AKR20261113081700030",
-      "pubDate": "Sat, 14 Nov 2026 07:00:03 +0900"
+      "title": "[테크톡노트] KTX 예매에 전화까지…내 일 대신하는 AI 비서 '피클'",
+      "link": "https://www.yna.co.kr/view/AKR20261113158900017",
+      "pubDate": "Sat, 14 Nov 2026 09:30:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[반려동물] 며느리 SNS로 대박 난 강아지 옷…20년 봉제공장 '역주행'",
-      "link": "https://www.yna.co.kr/view/AKR20261113149000030",
-      "pubDate": "Sat, 14 Nov 2026 06:55:01 +0900"
+      "title": "\"전세사기 예방이 최선\"…전북도, 전월세 안심계약 상담서비스",
+      "link": "https://www.yna.co.kr/view/AKR20261114022100055",
+      "pubDate": "Sat, 14 Nov 2026 09:20:45 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국제유가, 공급 과잉 전망 속 혼조 마감…WTI 0.2%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261114008200072",
-      "pubDate": "Sat, 14 Nov 2026 06:00:16 +0900"
+      "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20261114022000091",
+      "pubDate": "Sat, 14 Nov 2026 09:19:23 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'기금 만들고 보조금 주고'…경기 지자체, 기업 투자유치에 사활",
+      "link": "https://www.yna.co.kr/view/AKR20261113123700061",
+      "pubDate": "Sat, 14 Nov 2026 09:09:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"하룻밤 자는데 140만원?\"…서울 특급호텔값 치솟는 이유",
-      "link": "https://www.hankyung.com/article/2026111357921",
-      "pubDate": "Sat, 14 Nov 2026 06:00:06 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "주유소 기름값 26주째 내렸지만…두 달간 사실상 제자리",
-      "link": "https://www.yna.co.kr/view/AKR20261113084600003",
-      "pubDate": "Sat, 14 Nov 2026 06:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[부동산캘린더] 내주 전국 10곳서 1천681가구 공급…수도권 집중",
-      "link": "https://www.yna.co.kr/view/AKR20261113166700003",
-      "pubDate": "Sat, 14 Nov 2026 06:00:01 +0900"
+      "title": "\"824만 싱글족 필수템\"…불티나게 팔린 '틈새 가구' 정체 [트렌드+]",
+      "link": "https://www.hankyung.com/article/202611134743g",
+      "pubDate": "Sat, 14 Nov 2026 09:03:07 +0900"
     },
     {
       "source": "한국경제",
-      "title": "막내린 젠슨 시대…연말 랠리 트리거는 '이것'[월가 백브리핑]",
-      "link": "https://www.hankyung.com/article/202611146110i",
-      "pubDate": "Sat, 14 Nov 2026 05:17:29 +0900"
+      "title": "로보택시 다음은 오토바이…中 자율주행 기업, 8000만대 시장 노린다",
+      "link": "https://www.hankyung.com/article/202610053827i",
+      "pubDate": "Sat, 14 Nov 2026 09:00:06 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영의 개장전 요것만]",
-      "link": "https://www.hankyung.com/article/202611146106i",
-      "pubDate": "Sat, 14 Nov 2026 01:28:50 +0900"
+      "source": "연합뉴스",
+      "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+      "link": "https://www.yna.co.kr/view/AKR20261113076800008",
+      "pubDate": "Sat, 14 Nov 2026 09:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[다음주 경제] 2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
+      "link": "https://www.yna.co.kr/view/AKR20261114014500002",
+      "pubDate": "Sat, 14 Nov 2026 08:58:18 +0900"
     }
   ]
 }
