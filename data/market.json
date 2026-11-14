@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:52:59.522Z",
+  "updatedAt": "2026-11-14T21:10:18.620Z",
   "instruments": [
     {
       "key": "sp500",
@@ -123,6 +123,78 @@
   ],
   "news": [
     {
+      "source": "연합뉴스",
+      "title": "내년부터 산재 은폐·안전수칙 위반 신고에 최대 500만원",
+      "link": "https://www.yna.co.kr/view/AKR20261113146300530",
+      "pubDate": "Sun, 15 Nov 2026 06:06:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "뉴발란스 본사 직접 진출에 이랜드 손 떼나…직영점 잇달아 폐점",
+      "link": "https://www.yna.co.kr/view/AKR20261112036800030",
+      "pubDate": "Sun, 15 Nov 2026 06:03:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시",
+      "link": "https://www.yna.co.kr/view/AKR20261113177200008",
+      "pubDate": "Sun, 15 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[OK제보] \"민원 인증해야 홍보 허용\"…신도시 단톡방의 '이색 규칙'",
+      "link": "https://www.yna.co.kr/view/AKR20261113144800505",
+      "pubDate": "Sun, 15 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가상자산 법인 참여 지연에 거래소들 전담조직 축소",
+      "link": "https://www.yna.co.kr/view/AKR20261113169400002",
+      "pubDate": "Sun, 15 Nov 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "반도체 뜨거운데 소비 미지근…한은이 짚은 '낙수' 제약 요인",
+      "link": "https://www.yna.co.kr/view/AKR20261114030200002",
+      "pubDate": "Sun, 15 Nov 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "미래에셋 해킹점검서 일부 위반 확인…내주 全업권 보안 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20261114037900002",
+      "pubDate": "Sun, 15 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "저축은행 예금금리 4% 다시 눈 앞…상호금융은 주춤",
+      "link": "https://www.yna.co.kr/view/AKR20261114042800002",
+      "pubDate": "Sun, 15 Nov 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'빚투' 속 개미 여윳돈 말라가나…마통 4년 3개월 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20261114040800002",
+      "pubDate": "Sun, 15 Nov 2026 05:49:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "경력자 선호에 높아진 '문턱'…청년 임금근로자 46%는 비정규직",
+      "link": "https://www.yna.co.kr/view/AKR20261114040600002",
+      "pubDate": "Sun, 15 Nov 2026 05:47:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "작년 전세보증금 6년 전보다 35% 올라…보증금 대출은 53%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261114037100002",
+      "pubDate": "Sun, 15 Nov 2026 05:45:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "지난달 전월세 물가 1.4%↑…3년10개월 만에 최대폭",
+      "link": "https://www.yna.co.kr/view/AKR20261113132100002",
+      "pubDate": "Sun, 15 Nov 2026 05:45:02 +0900"
+    },
+    {
       "source": "한국경제",
       "title": "\"방송 한 번에 한 달 치 벌었다\"…'이정재까지?' 대체 뭐길래 [트렌드+]",
       "link": "https://www.hankyung.com/article/202611134146g",
@@ -139,78 +211,6 @@
       "title": "\"요즘 누가 TV 보고 사요\"…홈쇼핑 3사에 벌어진 '뜻밖의 일' [류은혁의 유통기한]",
       "link": "https://www.hankyung.com/article/202611135485i",
       "pubDate": "Sat, 14 Nov 2026 20:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"10년 모은 4억이 와르르\"…'SK하닉 몰빵' 30대 피눈물",
-      "link": "https://www.hankyung.com/article/2026111465357",
-      "pubDate": "Sat, 14 Nov 2026 18:53:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "잎담배값 4년 새 60% 급등…11년 묶인 담뱃값, 인상론 부상 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202611134194i",
-      "pubDate": "Sat, 14 Nov 2026 18:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261114037551030",
-      "pubDate": "Sat, 14 Nov 2026 16:37:21 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114037500030",
-      "pubDate": "Sat, 14 Nov 2026 15:57:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "주유소 기름값 26주 연속 하락…소비자 체감은 '글쎄'",
-      "link": "https://www.hankyung.com/article/2026111464727",
-      "pubDate": "Sat, 14 Nov 2026 15:00:44 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "20년 전 자식에게 준 돈도 토해낸다…무서운 상속법",
-      "link": "https://www.hankyung.com/article/202611107863i",
-      "pubDate": "Sat, 14 Nov 2026 15:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"저렴한 약값에 한국어 상담까지\"…日 비만약 원정처방 마케팅 활발",
-      "link": "https://www.hankyung.com/article/2026111464627",
-      "pubDate": "Sat, 14 Nov 2026 14:23:12 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
-      "link": "https://www.yna.co.kr/view/AKR20261113174400017",
-      "pubDate": "Sat, 14 Nov 2026 13:30:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"사진 찍고 가세요\"…홍대 나란히 우뚝 선 '핑크 건물' 정체 [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202611135496g",
-      "pubDate": "Sat, 14 Nov 2026 13:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261114029100003",
-      "pubDate": "Sat, 14 Nov 2026 11:44:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "모두의창업 또 정보 유출에 참가자 '부글'…\"경위·보상 밝혀야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114026000030",
-      "pubDate": "Sat, 14 Nov 2026 11:14:56 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261113134700061",
-      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0900"
     }
   ]
 }
