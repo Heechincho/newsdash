@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T20:22:04.293Z",
+  "updatedAt": "2026-11-16T00:12:13.121Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,15 +56,16 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.56,
-      "changePercent": -0.203,
+      "price": 88.46,
+      "changePercent": -0.113,
       "previousClose": 86.04,
       "currency": "USD",
       "history": [
         86.04000091552734,
         86.52999877929688,
         88.73999786376953,
-        88.55999755859375
+        88.55999755859375,
+        88.45999908447266
       ],
       "ok": true
     },
@@ -72,15 +73,16 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3886.3,
-      "changePercent": 0.026,
+      "price": 3900,
+      "changePercent": 0.353,
       "previousClose": 4030.2,
       "currency": "USD",
       "history": [
         4030.199951171875,
         4000.5,
         3885.300048828125,
-        3886.300048828125
+        3886.300048828125,
+        3900
       ],
       "ok": true
     },
@@ -88,15 +90,16 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.411,
-      "changePercent": -0.001,
+      "price": 103.397,
+      "changePercent": -0.015,
       "previousClose": 102.23,
       "currency": "USD",
       "history": [
         102.2300033569336,
         102.91000366210938,
         103.16999816894531,
-        103.41000366210938
+        103.41000366210938,
+        103.39700317382812
       ],
       "ok": true
     },
@@ -121,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261115054200002",
-      "pubDate": "Sun, 15 Nov 2026 21:54:18 +0900"
+      "title": "코스피, 상승 출발 후 보합권에서 등락",
+      "link": "https://www.yna.co.kr/view/AKR20261116029600008",
+      "pubDate": "Mon, 16 Nov 2026 09:08:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "굽네치킨 오너가 2세 회사, 부당 지원 의혹…공정위 현장 조사",
-      "link": "https://www.yna.co.kr/view/AKR20261115052700002",
-      "pubDate": "Sun, 15 Nov 2026 21:05:11 +0900"
+      "title": "수능 앞두고 '집중력약' 둔갑한 마약류…불법게시물 571건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20261116018900017",
+      "pubDate": "Mon, 16 Nov 2026 09:02:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정부, 올해 국가자격시험 전수조사…세무사 수석 합격취소 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261115050900530",
-      "pubDate": "Sun, 15 Nov 2026 20:21:11 +0900"
+      "title": "증권가, SK오션플랜트에 \"M&A 이후 불확실\"…목표가 줄하향",
+      "link": "https://www.yna.co.kr/view/AKR20261116025100008",
+      "pubDate": "Mon, 16 Nov 2026 09:02:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "박현주 미래에셋 회장, '젠슨 황 복귀' 온라인 청원 동참",
-      "link": "https://www.yna.co.kr/view/AKR20261115051500008",
-      "pubDate": "Sun, 15 Nov 2026 20:19:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "싼맛에 샀다가 \"이게 5000원?\"…요즘 난리 난 '다이소템' [트렌드+]",
-      "link": "https://www.hankyung.com/article/202611135789H",
-      "pubDate": "Sun, 15 Nov 2026 19:12:01 +0900"
+      "title": "[게시판] KB운용, 미국 대표지수 ETF 매수 인증 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20261116028200008",
+      "pubDate": "Mon, 16 Nov 2026 09:00:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261115046600002",
-      "pubDate": "Sun, 15 Nov 2026 18:58:23 +0900"
+      "title": "기업들, 경력 15년 이상 베테랑 찾는다…채용공고 30%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261116027300003",
+      "pubDate": "Mon, 16 Nov 2026 09:00:37 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부산포용금융] 예탁결제원, 증권교육·지역인재 채용·지역세수 증대",
+      "link": "https://www.yna.co.kr/view/AKR20261014033400051",
+      "pubDate": "Mon, 16 Nov 2026 09:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "노사정, 퇴직연금 기능강화 입법 협력…영세사업장 연착륙 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261113167000530",
+      "pubDate": "Mon, 16 Nov 2026 09:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "인천시, 수능 이후 청소년 유해환경 합동 현장점검",
+      "link": "https://www.yna.co.kr/view/AKR20261116027200065",
+      "pubDate": "Mon, 16 Nov 2026 08:58:21 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "iM증권 \"엔비디아·코스피, 불편한 차트…중요한건 펀더멘털\"",
+      "link": "https://www.yna.co.kr/view/AKR20261116022900008",
+      "pubDate": "Mon, 16 Nov 2026 08:43:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "SK증권 \"코스닥, 정책 모멘텀 남아있다…시점은 불분명\"",
+      "link": "https://www.yna.co.kr/view/AKR20261116022400008",
+      "pubDate": "Mon, 16 Nov 2026 08:42:55 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261116022600008",
+      "pubDate": "Mon, 16 Nov 2026 08:42:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "천안시, 실익 없는 압류재산 체납처분 중지…생계형 재기 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261116022100063",
+      "pubDate": "Mon, 16 Nov 2026 08:40:24 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "키움증권 \"롯데관광개발, 3분기 영업익 전망치 하회…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20261116021800008",
+      "pubDate": "Mon, 16 Nov 2026 08:39:15 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "갤러리아백화점, 22일까지 온라인몰 행사 '갤올라잇'",
+      "link": "https://www.yna.co.kr/view/AKR20261116021500030",
+      "pubDate": "Mon, 16 Nov 2026 08:33:33 +0900"
     },
     {
       "source": "한국경제",
-      "title": "김정관 \"석유 최고가격제 연장 불가피…종료 땐 국민 부담 우려\"",
-      "link": "https://www.hankyung.com/article/2026111575997",
-      "pubDate": "Sun, 15 Nov 2026 18:42:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "역대급 흑자의 역설…통상 압박 표적되나",
-      "link": "https://www.hankyung.com/article/2026111575151",
-      "pubDate": "Sun, 15 Nov 2026 18:29:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'대체불가' 삼전닉스 AI 반도체…세계 4위 수출대국 견인",
-      "link": "https://www.hankyung.com/article/2026111575141",
-      "pubDate": "Sun, 15 Nov 2026 18:29:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'면비디아' '검은 반도체'…K소비재도 승승장구",
-      "link": "https://www.hankyung.com/article/2026111575171",
-      "pubDate": "Sun, 15 Nov 2026 18:29:22 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "가입자 192만 노란우산, 개인 정보 유출 정황",
-      "link": "https://www.hankyung.com/article/2026111574771",
-      "pubDate": "Sun, 15 Nov 2026 18:25:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "시멘트 수요 향후 3년간 부진…건설 불황 장기화",
-      "link": "https://www.hankyung.com/article/2026111574761",
-      "pubDate": "Sun, 15 Nov 2026 18:25:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "전통시장 맛집도 온라인으로",
-      "link": "https://www.hankyung.com/article/2026111574741",
-      "pubDate": "Sun, 15 Nov 2026 18:24:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "비싼 돈 주고 쌓아놨는데 '날벼락'…기업들 비명 쏟아진 이유",
-      "link": "https://www.hankyung.com/article/2026111574941",
-      "pubDate": "Sun, 15 Nov 2026 18:21:13 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"동해에 참치가 떼로 몰려오더니\"…어민들 한숨 쉬는 까닭",
-      "link": "https://www.hankyung.com/article/2026111574901",
-      "pubDate": "Sun, 15 Nov 2026 18:20:40 +0900"
+      "title": "AI 투자는 55% 늘었는데 나머지는 3%…美 성장의 두 얼굴",
+      "link": "https://www.hankyung.com/article/202611168084i",
+      "pubDate": "Mon, 16 Nov 2026 08:31:35 +0900"
     }
   ]
 }
