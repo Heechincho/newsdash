@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-16T06:46:28.102Z",
+  "updatedAt": "2026-11-16T16:29:52.900Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7561.67,
-      "changePercent": -0.405,
-      "previousClose": 7376.86,
+      "price": 7485.44,
+      "changePercent": -1.008,
+      "previousClose": 7549.94,
       "currency": "USD",
       "history": [
-        7549.93994140625,
         7520.93017578125,
         7619.3798828125,
         7592.39990234375,
-        7561.669921875
+        7561.669921875,
+        7485.43994140625
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 25136.273,
-      "changePercent": -0.906,
-      "previousClose": 24579.43,
+      "price": 24780.15,
+      "changePercent": -1.417,
+      "previousClose": 25253.14,
       "currency": "USD",
       "history": [
-        25253.140625,
         25065.869140625,
         25466.189453125,
         25366.08984375,
-        25136.26953125
+        25136.26953125,
+        24780.150390625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 52347.55,
-      "changePercent": 0.096,
-      "previousClose": 51285.73,
+      "price": 52061.64,
+      "changePercent": -0.546,
+      "previousClose": 52389.75,
       "currency": "USD",
       "history": [
-        52389.75,
         52231.890625,
         52486.48828125,
         52297.08984375,
-        52347.55078125
+        52347.55078125,
+        52061.640625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 89.36,
-      "changePercent": 0.903,
+      "price": 86.64,
+      "changePercent": -2.168,
       "previousClose": 86.53,
       "currency": "USD",
       "history": [
         86.52999877929688,
         88.73999786376953,
         88.55999755859375,
-        89.36000061035156
+        86.63999938964844
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3849.6,
-      "changePercent": -0.944,
+      "price": 3862.2,
+      "changePercent": -0.62,
       "previousClose": 4000.5,
       "currency": "USD",
       "history": [
         4000.5,
         3885.300048828125,
         3886.300048828125,
-        3849.60009765625
+        3862.199951171875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.46,
-      "changePercent": 0.046,
+      "price": 103.545,
+      "changePercent": 0.129,
       "previousClose": 102.91,
       "currency": "USD",
       "history": [
         102.91000366210938,
         103.16999816894531,
         103.41000366210938,
-        103.45999908447266
+        103.54499816894531
       ],
       "ok": true
     },
@@ -104,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 19.3,
-      "changePercent": 3.209,
-      "previousClose": 19.92,
+      "price": 21.25,
+      "changePercent": 10.14,
+      "previousClose": 19.46,
       "currency": "USD",
       "history": [
-        19.920000076293945,
         19.459999084472656,
         17.489999771118164,
         18.700000762939453,
-        19.299999237060547
+        19.299999237060547,
+        21.25
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "코스피 3.59%↓ 5,100선으로 후퇴…코스닥도 4.8%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261116128700008",
-      "pubDate": "Mon, 16 Nov 2026 15:37:57 +0900"
+      "source": "한국경제",
+      "title": "소잃고 외양간 고친 美…中기업의 AI칩 우회사용도 차단",
+      "link": "https://www.hankyung.com/article/202611160536i",
+      "pubDate": "Tue, 17 Nov 2026 00:05:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 칩 中 수출 허용한 트럼프, 엔비디아 주식보유액 10배~100배 늘어",
+      "link": "https://www.hankyung.com/article/202611160497i",
+      "pubDate": "Mon, 16 Nov 2026 23:21:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\"",
+      "link": "https://www.hankyung.com/article/202611160492i",
+      "pubDate": "Mon, 16 Nov 2026 22:34:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "외국환시세(11월16일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20261116128400002",
-      "pubDate": "Mon, 16 Nov 2026 15:36:46 +0900"
+      "title": "고려아연, MS 투자한 미국 태양광 재활용 업체와 합작법인 설립",
+      "link": "https://www.yna.co.kr/view/AKR20261116138900003",
+      "pubDate": "Mon, 16 Nov 2026 22:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "젠슨 황 퇴진 3일만에 '복귀 작전'…베선트 재무는 '제동'",
+      "link": "https://www.hankyung.com/article/202611160434i",
+      "pubDate": "Mon, 16 Nov 2026 21:02:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
+      "link": "https://www.hankyung.com/article/202611169751g",
+      "pubDate": "Mon, 16 Nov 2026 21:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[외환] 원/달러 환율 1.0원 내린 1,335.7원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20261116126500002",
-      "pubDate": "Mon, 16 Nov 2026 15:34:24 +0900"
+      "title": "안덕수 국세청장 후보자, 재산 19억4천338만원 신고",
+      "link": "https://www.yna.co.kr/view/AKR20261116171900001",
+      "pubDate": "Mon, 16 Nov 2026 20:03:50 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"베테랑 한식 요리사 없어도 된다\"…백종원, 美서 꺼낸 승부수",
+      "link": "https://www.hankyung.com/article/202611168487g",
+      "pubDate": "Mon, 16 Nov 2026 20:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"악재 숨기고 230억달러 조달\"…인텔, 주주들로부터 피소",
+      "link": "https://www.hankyung.com/article/202611160368i",
+      "pubDate": "Mon, 16 Nov 2026 19:47:59 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "정부, 워싱턴DC 주미대사관 재건축 추진…3천억원 투입 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261116104851001",
-      "pubDate": "Mon, 16 Nov 2026 15:32:48 +0900"
+      "title": "금감원, '불법리베이트' 한국보험금융에 등록취소 사전통지",
+      "link": "https://www.yna.co.kr/view/AKR20261116171100002",
+      "pubDate": "Mon, 16 Nov 2026 19:40:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "SK하이닉스, 美 매출 1년 새 102조원 증가…엔비디아 추정 매출 35조",
+      "link": "https://www.hankyung.com/article/2026111603647",
+      "pubDate": "Mon, 16 Nov 2026 19:21:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기보, 중소벤처기업 대상 AX혁신지수 자가진단 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20261116125800051",
-      "pubDate": "Mon, 16 Nov 2026 15:28:50 +0900"
+      "title": "에이엘로봇, 오는 18일 코스닥 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261116168900008",
+      "pubDate": "Mon, 16 Nov 2026 19:01:04 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "중랑구, 내년 장애인일자리 360명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261116124600004",
-      "pubDate": "Mon, 16 Nov 2026 15:27:01 +0900"
+      "source": "한국경제",
+      "title": "롯데 신유열, 사장 승진…그룹 경영전략 총괄한다",
+      "link": "https://www.hankyung.com/article/2026111601581",
+      "pubDate": "Mon, 16 Nov 2026 18:24:55 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261116115851002",
-      "pubDate": "Mon, 16 Nov 2026 15:26:28 +0900"
+      "source": "한국경제",
+      "title": "하이닉스 공장 속 소부장 실험실…\"협력사 생산기간 30% 단축\"",
+      "link": "https://www.hankyung.com/article/2026111601531",
+      "pubDate": "Mon, 16 Nov 2026 18:24:23 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "오뚜기, 3분기 영업이익 363억원…작년 동기 대비 34.5% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261116124800030",
-      "pubDate": "Mon, 16 Nov 2026 15:25:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주교육청·직업계고·기업, 반도체 인재 양성 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261116122300054",
-      "pubDate": "Mon, 16 Nov 2026 15:20:18 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "미래에셋증권, 기업 실무자 대상 퇴직연금 세미나 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261116123600008",
-      "pubDate": "Mon, 16 Nov 2026 15:20:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대우건설, 2천749억원 규모 여의도 화랑아파트 재건축 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261116120000003",
-      "pubDate": "Mon, 16 Nov 2026 15:13:34 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국제선 유류할증료 2단계 내린다…뉴욕 왕복 6만600원 ↓",
-      "link": "https://www.yna.co.kr/view/AKR20261116121200003",
-      "pubDate": "Mon, 16 Nov 2026 15:12:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁",
-      "link": "https://www.yna.co.kr/view/AKR20261116113700008",
-      "pubDate": "Mon, 16 Nov 2026 15:05:55 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "광주은행, 창립 58주년 기념…역대 행장들 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20261116117400054",
-      "pubDate": "Mon, 16 Nov 2026 15:01:38 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다",
-      "link": "https://www.yna.co.kr/view/AKR20261116115800002",
-      "pubDate": "Mon, 16 Nov 2026 15:00:00 +0900"
+      "source": "한국경제",
+      "title": "삼성SDI, 美에 최대 4조 LFP 배터리 공급",
+      "link": "https://www.hankyung.com/article/2026111601571",
+      "pubDate": "Mon, 16 Nov 2026 18:23:22 +0900"
     }
   ]
 }
