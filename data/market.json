@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T00:12:13.121Z",
+  "updatedAt": "2026-11-16T06:46:28.102Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 88.46,
-      "changePercent": -0.113,
-      "previousClose": 86.04,
+      "price": 89.36,
+      "changePercent": 0.903,
+      "previousClose": 86.53,
       "currency": "USD",
       "history": [
-        86.04000091552734,
         86.52999877929688,
         88.73999786376953,
         88.55999755859375,
-        88.45999908447266
+        89.36000061035156
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3900,
-      "changePercent": 0.353,
-      "previousClose": 4030.2,
+      "price": 3849.6,
+      "changePercent": -0.944,
+      "previousClose": 4000.5,
       "currency": "USD",
       "history": [
-        4030.199951171875,
         4000.5,
         3885.300048828125,
         3886.300048828125,
-        3900
+        3849.60009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.397,
-      "changePercent": -0.015,
-      "previousClose": 102.23,
+      "price": 103.46,
+      "changePercent": 0.046,
+      "previousClose": 102.91,
       "currency": "USD",
       "history": [
-        102.2300033569336,
         102.91000366210938,
         103.16999816894531,
         103.41000366210938,
-        103.39700317382812
+        103.45999908447266
       ],
       "ok": true
     },
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "코스피, 상승 출발 후 보합권에서 등락",
-      "link": "https://www.yna.co.kr/view/AKR20261116029600008",
-      "pubDate": "Mon, 16 Nov 2026 09:08:20 +0900"
+      "title": "코스피 3.59%↓ 5,100선으로 후퇴…코스닥도 4.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261116128700008",
+      "pubDate": "Mon, 16 Nov 2026 15:37:57 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "수능 앞두고 '집중력약' 둔갑한 마약류…불법게시물 571건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261116018900017",
-      "pubDate": "Mon, 16 Nov 2026 09:02:18 +0900"
+      "title": "외국환시세(11월16일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20261116128400002",
+      "pubDate": "Mon, 16 Nov 2026 15:36:46 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "증권가, SK오션플랜트에 \"M&A 이후 불확실\"…목표가 줄하향",
-      "link": "https://www.yna.co.kr/view/AKR20261116025100008",
-      "pubDate": "Mon, 16 Nov 2026 09:02:14 +0900"
+      "title": "[외환] 원/달러 환율 1.0원 내린 1,335.7원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20261116126500002",
+      "pubDate": "Mon, 16 Nov 2026 15:34:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] KB운용, 미국 대표지수 ETF 매수 인증 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20261116028200008",
-      "pubDate": "Mon, 16 Nov 2026 09:00:57 +0900"
+      "title": "정부, 워싱턴DC 주미대사관 재건축 추진…3천억원 투입 검토(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261116104851001",
+      "pubDate": "Mon, 16 Nov 2026 15:32:48 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "기업들, 경력 15년 이상 베테랑 찾는다…채용공고 30%↑",
-      "link": "https://www.yna.co.kr/view/AKR20261116027300003",
-      "pubDate": "Mon, 16 Nov 2026 09:00:37 +0900"
+      "title": "기보, 중소벤처기업 대상 AX혁신지수 자가진단 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20261116125800051",
+      "pubDate": "Mon, 16 Nov 2026 15:28:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[부산포용금융] 예탁결제원, 증권교육·지역인재 채용·지역세수 증대",
-      "link": "https://www.yna.co.kr/view/AKR20261014033400051",
-      "pubDate": "Mon, 16 Nov 2026 09:00:04 +0900"
+      "title": "중랑구, 내년 장애인일자리 360명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261116124600004",
+      "pubDate": "Mon, 16 Nov 2026 15:27:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노사정, 퇴직연금 기능강화 입법 협력…영세사업장 연착륙 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261113167000530",
-      "pubDate": "Mon, 16 Nov 2026 09:00:04 +0900"
+      "title": "신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261116115851002",
+      "pubDate": "Mon, 16 Nov 2026 15:26:28 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "인천시, 수능 이후 청소년 유해환경 합동 현장점검",
-      "link": "https://www.yna.co.kr/view/AKR20261116027200065",
-      "pubDate": "Mon, 16 Nov 2026 08:58:21 +0900"
+      "title": "오뚜기, 3분기 영업이익 363억원…작년 동기 대비 34.5% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261116124800030",
+      "pubDate": "Mon, 16 Nov 2026 15:25:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "iM증권 \"엔비디아·코스피, 불편한 차트…중요한건 펀더멘털\"",
-      "link": "https://www.yna.co.kr/view/AKR20261116022900008",
-      "pubDate": "Mon, 16 Nov 2026 08:43:41 +0900"
+      "title": "전남광주교육청·직업계고·기업, 반도체 인재 양성 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261116122300054",
+      "pubDate": "Mon, 16 Nov 2026 15:20:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "SK증권 \"코스닥, 정책 모멘텀 남아있다…시점은 불분명\"",
-      "link": "https://www.yna.co.kr/view/AKR20261116022400008",
-      "pubDate": "Mon, 16 Nov 2026 08:42:55 +0900"
+      "title": "미래에셋증권, 기업 실무자 대상 퇴직연금 세미나 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261116123600008",
+      "pubDate": "Mon, 16 Nov 2026 15:20:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261116022600008",
-      "pubDate": "Mon, 16 Nov 2026 08:42:12 +0900"
+      "title": "대우건설, 2천749억원 규모 여의도 화랑아파트 재건축 수주",
+      "link": "https://www.yna.co.kr/view/AKR20261116120000003",
+      "pubDate": "Mon, 16 Nov 2026 15:13:34 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "천안시, 실익 없는 압류재산 체납처분 중지…생계형 재기 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261116022100063",
-      "pubDate": "Mon, 16 Nov 2026 08:40:24 +0900"
+      "title": "국제선 유류할증료 2단계 내린다…뉴욕 왕복 6만600원 ↓",
+      "link": "https://www.yna.co.kr/view/AKR20261116121200003",
+      "pubDate": "Mon, 16 Nov 2026 15:12:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권 \"롯데관광개발, 3분기 영업익 전망치 하회…목표가↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20261116021800008",
-      "pubDate": "Mon, 16 Nov 2026 08:39:15 +0900"
+      "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁",
+      "link": "https://www.yna.co.kr/view/AKR20261116113700008",
+      "pubDate": "Mon, 16 Nov 2026 15:05:55 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "갤러리아백화점, 22일까지 온라인몰 행사 '갤올라잇'",
-      "link": "https://www.yna.co.kr/view/AKR20261116021500030",
-      "pubDate": "Mon, 16 Nov 2026 08:33:33 +0900"
+      "title": "광주은행, 창립 58주년 기념…역대 행장들 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20261116117400054",
+      "pubDate": "Mon, 16 Nov 2026 15:01:38 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "AI 투자는 55% 늘었는데 나머지는 3%…美 성장의 두 얼굴",
-      "link": "https://www.hankyung.com/article/202611168084i",
-      "pubDate": "Mon, 16 Nov 2026 08:31:35 +0900"
+      "source": "연합뉴스",
+      "title": "신규 코픽스 2년 8개월 만에 최고…주담대 금리 더 오른다",
+      "link": "https://www.yna.co.kr/view/AKR20261116115800002",
+      "pubDate": "Mon, 16 Nov 2026 15:00:00 +0900"
     }
   ]
 }
