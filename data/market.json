@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T00:01:30.071Z",
+  "updatedAt": "2026-11-18T07:18:01.006Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25366.08984375,
         25136.26953125,
         24509.759765625,
-        24328.3828125
+        24328.380859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 85.81,
-      "changePercent": -0.233,
-      "previousClose": 88.74,
+      "price": 83.84,
+      "changePercent": -2.523,
+      "previousClose": 88.56,
       "currency": "USD",
       "history": [
-        88.73999786376953,
         88.55999755859375,
         85.72000122070312,
-        85.80999755859375
+        86.01000213623047,
+        83.83999633789062
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3852.5,
-      "changePercent": -0.303,
-      "previousClose": 3885.3,
+      "price": 3772.4,
+      "changePercent": -2.376,
+      "previousClose": 3886.3,
       "currency": "USD",
       "history": [
-        3885.300048828125,
         3886.300048828125,
         3853,
-        3852.5
+        3864.199951171875,
+        3772.39990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.598,
-      "changePercent": 0.047,
-      "previousClose": 103.17,
+      "price": 103.732,
+      "changePercent": 0.239,
+      "previousClose": 103.41,
       "currency": "USD",
       "history": [
-        103.16999816894531,
         103.41000366210938,
         103.55000305175781,
-        103.5979995727539
+        103.48999786376953,
+        103.73200225830078
       ],
       "ok": true
     },
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "ECB 차기 총재에 스페인 인사 유력…독일·프랑스 합의",
-      "link": "https://www.hankyung.com/article/202611183574i",
-      "pubDate": "Wed, 18 Nov 2026 08:52:05 +0900"
+      "source": "연합뉴스",
+      "title": "태백시, 원자력환경공단에 지하연구시설 지역상생 방안 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261118144900062",
+      "pubDate": "Wed, 18 Nov 2026 16:11:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "유진증권, SAMG엔터 목표가↓…\"해외사업 비용 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118034700008",
-      "pubDate": "Wed, 18 Nov 2026 08:50:16 +0900"
+      "title": "코스피, 2% 오른 5,067 마감…하루 만에 '5천피' 탈환(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118143200008",
+      "pubDate": "Wed, 18 Nov 2026 16:10:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "아산시, 멈춰선 도고 옛 명성 '부활' 시동…지역 활성화 총력",
-      "link": "https://www.yna.co.kr/view/AKR20261118034600063",
-      "pubDate": "Wed, 18 Nov 2026 08:50:11 +0900"
+      "title": "'결혼해야 한다' 55%, 12년 만에 최고…걸림돌은 돈·일자리(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118091651002",
+      "pubDate": "Wed, 18 Nov 2026 16:03:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성전자 더 프레임 프로, 오프라 윈프리 추천 연말선물로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261118033000003",
-      "pubDate": "Wed, 18 Nov 2026 08:48:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "도이체방크 6억달러 의심거래 파문…주가 6% 급락",
-      "link": "https://www.hankyung.com/article/202611183556i",
-      "pubDate": "Wed, 18 Nov 2026 08:47:38 +0900"
+      "title": "강원랜드·코트라, '청년·기업·스타트업 상생 콘서트' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261118142200062",
+      "pubDate": "Wed, 18 Nov 2026 15:55:54 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "양천구, 청년 행정인턴 모집…\"참여연령 34세까지 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118033400004",
-      "pubDate": "Wed, 18 Nov 2026 08:46:49 +0900"
+      "title": "공정률 35%에 예산도 미확보…전주 쑥고개로 확장 '준공 차질'",
+      "link": "https://www.yna.co.kr/view/AKR20261118141100055",
+      "pubDate": "Wed, 18 Nov 2026 15:55:35 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "하나증권, 아이에스동서 목표가↓…\"경산 아파트 분양률이 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118030800008",
-      "pubDate": "Wed, 18 Nov 2026 08:44:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "엔비디아 '돈줄 죄기' 시작…AI 시장서 500억달러 증발하나",
-      "link": "https://www.hankyung.com/article/202611183501i",
-      "pubDate": "Wed, 18 Nov 2026 08:42:14 +0900"
+      "title": "[게시판] 미래에셋, 과학기술인공제회와 '사랑의 김장김치 나눔' 봉사",
+      "link": "https://www.yna.co.kr/view/AKR20261118140700008",
+      "pubDate": "Wed, 18 Nov 2026 15:55:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼성증권, CJ 목표가↓…\"올리브영 기업가치 전망 하향 조정\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118031500008",
-      "pubDate": "Wed, 18 Nov 2026 08:39:23 +0900"
+      "title": "엔비디아 호실적에 젠슨황 충격 완화?…'집나간 투심' 돌아올까",
+      "link": "https://www.yna.co.kr/view/AKR20261118098100008",
+      "pubDate": "Wed, 18 Nov 2026 15:55:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소진공, 신한카드·KCB와 '소상공인 AI 경영지원 확대' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261118028000030",
-      "pubDate": "Wed, 18 Nov 2026 08:32:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "금값 1년 만에 최저…美 국채금리·달러 강세 직격",
-      "link": "https://www.hankyung.com/article/202611183493i",
-      "pubDate": "Wed, 18 Nov 2026 08:32:10 +0900"
+      "title": "'5천피' 탈환에 환율도 하락…5.2원 내린 1,333.0원",
+      "link": "https://www.yna.co.kr/view/AKR20261118140200002",
+      "pubDate": "Wed, 18 Nov 2026 15:51:44 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한투증권, 현대로템 목표가↓…\"신규 계약 불확실성 커\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118031000008",
-      "pubDate": "Wed, 18 Nov 2026 08:31:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\"",
-      "link": "https://www.hankyung.com/article/202611183482i",
-      "pubDate": "Wed, 18 Nov 2026 08:27:37 +0900"
+      "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118045151008",
+      "pubDate": "Wed, 18 Nov 2026 15:50:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "NH증권 \"에스엘, 원재료 가격 인상폭 확대…목표가↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118029800008",
-      "pubDate": "Wed, 18 Nov 2026 08:26:35 +0900"
+      "title": "삼전닉스 급락했지만…목표주가는 여전히 2배이상 수준(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118078051008",
+      "pubDate": "Wed, 18 Nov 2026 15:44:37 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "키움증권 \"원유 수급개선 기대에도 석유제품은 공급 차질 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20261118029300008",
-      "pubDate": "Wed, 18 Nov 2026 08:25:33 +0900"
+      "title": "[특징주] 삼성전기, 엔비디아와 협력 강화에 7%대 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118043251008",
+      "pubDate": "Wed, 18 Nov 2026 15:41:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대구 고액·상습 체납자 360명 공개…체납액 666억원",
+      "link": "https://www.yna.co.kr/view/AKR20261118137100053",
+      "pubDate": "Wed, 18 Nov 2026 15:41:36 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[속보] 韓中정상 \"FTA 서비스·투자협상 타결 계기로 협력 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261118136900001",
+      "pubDate": "Wed, 18 Nov 2026 15:41:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코스피, 2% 오른 5,067 마감…하루만에 '5천피' 탈환",
+      "link": "https://www.yna.co.kr/view/AKR20261118135700008",
+      "pubDate": "Wed, 18 Nov 2026 15:36:22 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "외국환시세(11월18일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20261118136000002",
+      "pubDate": "Wed, 18 Nov 2026 15:35:19 +0900"
     }
   ]
 }
