@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-19T13:10:29.872Z",
+  "updatedAt": "2026-11-19T21:39:43.419Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7323.63,
-      "changePercent": -0.23,
-      "previousClose": 7619.38,
+      "price": 7175.83,
+      "changePercent": -2.018,
+      "previousClose": 7592.4,
       "currency": "USD",
       "history": [
-        7592.39990234375,
         7561.669921875,
         7416.58984375,
         7340.52978515625,
-        7323.6298828125
+        7323.6298828125,
+        7175.830078125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 24429.885,
-      "changePercent": 0.417,
-      "previousClose": 25466.19,
+      "price": 23879.2,
+      "changePercent": -2.254,
+      "previousClose": 25366.09,
       "currency": "USD",
       "history": [
-        25366.08984375,
         25136.26953125,
         24509.759765625,
         24328.380859375,
-        24429.880859375
+        24429.880859375,
+        23879.19921875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 50198.17,
-      "changePercent": -1.106,
-      "previousClose": 52486.49,
+      "price": 49097.06,
+      "changePercent": -2.194,
+      "previousClose": 52297.09,
       "currency": "USD",
       "history": [
-        52297.08984375,
         52347.55078125,
         51608.171875,
         50759.421875,
-        50198.171875
+        50198.171875,
+        49097.05859375
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3723.6,
-      "changePercent": -0.489,
+      "price": 3636.9,
+      "changePercent": -2.806,
       "previousClose": 3853,
       "currency": "USD",
       "history": [
         3853,
         3864.199951171875,
         3741.89990234375,
-        3723.60009765625
+        3636.89990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.67,
-      "changePercent": -0.186,
+      "price": 103.956,
+      "changePercent": 0.09,
       "previousClose": 103.55,
       "currency": "USD",
       "history": [
         103.55000305175781,
         103.48999786376953,
         103.86000061035156,
-        103.66999816894531
+        103.95600128173828
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 22.3,
-      "changePercent": -9.202,
+      "price": 28.44,
+      "changePercent": 15.798,
       "previousClose": 19.3,
       "currency": "USD",
       "history": [
@@ -113,12 +113,72 @@
         22.90999984741211,
         25.459999084472656,
         24.559999465942383,
-        22.299999237060547
+        28.440000534057617
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"여보, 오늘 참치에 소고기 파티 할까\"…'역대급 세일' 열린다",
+      "link": "https://www.hankyung.com/article/2026112087807",
+      "pubDate": "Fri, 20 Nov 2026 06:17:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "중국에 기술 넘긴 사람, 얼마나 벌받았나…확인해보니 '황당' [털리는 대한민국]",
+      "link": "https://www.hankyung.com/article/202611197005H",
+      "pubDate": "Fri, 20 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261119157000002",
+      "pubDate": "Fri, 20 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "외국인 10월 국내 주식 26조원 팔았다…2개월째 순매도",
+      "link": "https://www.yna.co.kr/view/AKR20261119169500002",
+      "pubDate": "Fri, 20 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한복부터 아오자이까지…APEC 퍼스트레이디 패션 '눈길' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611198527i",
+      "pubDate": "Fri, 20 Nov 2026 05:53:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "앤트로픽 D-day…美 사이버 사고 급증 배경엔 중국? [박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611208688i",
+      "pubDate": "Fri, 20 Nov 2026 00:53:12 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"스마트 안경 쓰지 마라\"…전 세계서 규제 물결",
+      "link": "https://www.hankyung.com/article/202611208687i",
+      "pubDate": "Fri, 20 Nov 2026 00:21:57 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "3국 비핵화 강조, '北 핵보유 공식화' 피했다",
+      "link": "https://www.hankyung.com/article/2026111986461",
+      "pubDate": "Fri, 20 Nov 2026 00:07:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[재산공개] 권민수 한국은행 부총재 16억8천만원",
+      "link": "https://www.yna.co.kr/view/AKR20261119128900002",
+      "pubDate": "Fri, 20 Nov 2026 00:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "김이 땅에서 나온다고?…세계 70% 휩쓴 K푸드의 파격 변신",
+      "link": "https://www.hankyung.com/article/202611197192g",
+      "pubDate": "Thu, 19 Nov 2026 22:00:02 +0900"
+    },
     {
       "source": "한국경제",
       "title": "AI혁명 4년만에 뒤집힌 판도…앤스로픽,오픈AI 넘어섰다",
@@ -127,7 +187,7 @@
     },
     {
       "source": "한국경제",
-      "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
+      "title": "미·중·러, 핵무기 감축 대원칙 합의…유엔 개혁에도 뜻 모아",
       "link": "https://www.hankyung.com/article/2026111985011",
       "pubDate": "Thu, 19 Nov 2026 20:01:03 +0900"
     },
@@ -148,66 +208,6 @@
       "title": "서초구, 재초환 부과기한 국토부 해석에 유감…\"제도 폐지해야\"",
       "link": "https://www.yna.co.kr/view/AKR20261119168400004",
       "pubDate": "Thu, 19 Nov 2026 18:52:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "황종우 해수장관 \"해광호 수색에 가용 자원 최대한 동원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261119167700030",
-      "pubDate": "Thu, 19 Nov 2026 18:52:23 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "풀무원식품, 美법인에 532억원 출자…나소야 운영자금 지원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261119161151008",
-      "pubDate": "Thu, 19 Nov 2026 18:50:15 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'특수 정밀화학 소재 제조사' 피지티, 코스닥 상장예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20261119166100008",
-      "pubDate": "Thu, 19 Nov 2026 18:49:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "한양디지텍 \"싱가포르 종속회사 주식 319억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261119163600008",
-      "pubDate": "Thu, 19 Nov 2026 18:48:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "부산 천마산 전망대 정식 개관 연기…모노레일 공사 지연 탓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261119108251051",
-      "pubDate": "Thu, 19 Nov 2026 18:46:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "美·中·러 첫 3자 회담서 시진핑 4대 원칙 제시…\"핵무기 없는 세계 만들자\"",
-      "link": "https://www.hankyung.com/article/202611198418i",
-      "pubDate": "Thu, 19 Nov 2026 18:44:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, 호암미술관서 이병철 창업회장 추도식",
-      "link": "https://www.hankyung.com/article/2026111982371",
-      "pubDate": "Thu, 19 Nov 2026 18:32:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "중기중앙회, 도쿄서 해외진출 전략포럼",
-      "link": "https://www.hankyung.com/article/2026111982451",
-      "pubDate": "Thu, 19 Nov 2026 18:29:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"아이 낳고 버텼지만\"…육아로 퇴사하는 여성 비율 50% 넘어",
-      "link": "https://www.hankyung.com/article/2026111982581",
-      "pubDate": "Thu, 19 Nov 2026 18:18:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 조선·철강·전선업계 \"해상풍력 진출\"…'제조 클러스터' 구축이 관건",
-      "link": "https://www.hankyung.com/article/2026111982321",
-      "pubDate": "Thu, 19 Nov 2026 18:11:59 +0900"
     }
   ]
 }
