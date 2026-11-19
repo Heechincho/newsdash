@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:10:02.862Z",
+  "updatedAt": "2026-11-19T13:10:29.872Z",
   "instruments": [
     {
       "key": "sp500",
@@ -31,7 +31,7 @@
         25136.26953125,
         24509.759765625,
         24328.380859375,
-        24429.884765625
+        24429.880859375
       ],
       "ok": true
     },
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 81.98,
-      "changePercent": -0.401,
-      "previousClose": 88.56,
+      "price": 83.18,
+      "changePercent": 1.057,
+      "previousClose": 85.72,
       "currency": "USD",
       "history": [
-        88.55999755859375,
         85.72000122070312,
         86.01000213623047,
         83.26000213623047,
-        81.9800033569336
+        83.18000030517578
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3721.3,
-      "changePercent": -0.551,
-      "previousClose": 3886.3,
+      "price": 3723.6,
+      "changePercent": -0.489,
+      "previousClose": 3853,
       "currency": "USD",
       "history": [
-        3886.300048828125,
         3853,
         3864.199951171875,
         3741.89990234375,
-        3721.300048828125
+        3723.60009765625
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.959,
-      "changePercent": 0.092,
-      "previousClose": 103.41,
+      "price": 103.67,
+      "changePercent": -0.186,
+      "previousClose": 103.55,
       "currency": "USD",
       "history": [
-        103.41000366210938,
         103.55000305175781,
         103.48999786376953,
         103.86000061035156,
-        103.95899963378906
+        103.66999816894531
       ],
       "ok": true
     },
@@ -107,16 +104,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 24.56,
-      "changePercent": -3.535,
-      "previousClose": 18.7,
+      "price": 22.3,
+      "changePercent": -9.202,
+      "previousClose": 19.3,
       "currency": "USD",
       "history": [
-        18.700000762939453,
         19.299999237060547,
         22.90999984741211,
         25.459999084472656,
-        24.559999465942383
+        24.559999465942383,
+        22.299999237060547
       ],
       "ok": true
     }
@@ -124,93 +121,93 @@
   "news": [
     {
       "source": "한국경제",
-      "title": "내년 '3000조원' 쏟아진다…삼전닉스에 켜진 '청신호'",
-      "link": "https://www.hankyung.com/article/202611196526g",
-      "pubDate": "Thu, 19 Nov 2026 12:04:29 +0900"
+      "title": "AI혁명 4년만에 뒤집힌 판도…앤스로픽,오픈AI 넘어섰다",
+      "link": "https://www.hankyung.com/article/202611198587i",
+      "pubDate": "Thu, 19 Nov 2026 21:58:47 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
+      "link": "https://www.hankyung.com/article/2026111985011",
+      "pubDate": "Thu, 19 Nov 2026 20:01:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "앤스로픽, 143조원 역대급 IPO …첫 날 20% 뛸까",
+      "link": "https://www.hankyung.com/article/202611198484i",
+      "pubDate": "Thu, 19 Nov 2026 19:37:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "LGD, 3조 OLED 투자 계획 철회",
+      "link": "https://www.hankyung.com/article/2026111984811",
+      "pubDate": "Thu, 19 Nov 2026 19:20:32 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'AI 주치의' 믿었다가 치료 차질…처방약 임의변경 절반 부작용",
-      "link": "https://www.yna.co.kr/view/AKR20261118125000030",
-      "pubDate": "Thu, 19 Nov 2026 12:00:12 +0900"
+      "title": "서초구, 재초환 부과기한 국토부 해석에 유감…\"제도 폐지해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119168400004",
+      "pubDate": "Thu, 19 Nov 2026 18:52:49 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "얽히고설킨 전선 정비한다…중소도시 10곳에 200억원",
-      "link": "https://www.yna.co.kr/view/AKR20261119047800017",
-      "pubDate": "Thu, 19 Nov 2026 12:00:07 +0900"
+      "title": "황종우 해수장관 \"해광호 수색에 가용 자원 최대한 동원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119167700030",
+      "pubDate": "Thu, 19 Nov 2026 18:52:23 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "금감원, 8기 옴부즈맨 위촉…불합리한 금융 관행 개선",
-      "link": "https://www.yna.co.kr/view/AKR20261119060300002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:04 +0900"
+      "title": "풀무원식품, 美법인에 532억원 출자…나소야 운영자금 지원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261119161151008",
+      "pubDate": "Thu, 19 Nov 2026 18:50:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "작년 10대 그룹 내부거래 185조…쿠팡, 금액 기준 '톱5' 진입",
-      "link": "https://www.yna.co.kr/view/AKR20261119074000002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:02 +0900"
+      "title": "'특수 정밀화학 소재 제조사' 피지티, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261119166100008",
+      "pubDate": "Thu, 19 Nov 2026 18:49:10 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "3분기 주가 하락에 순대외금융자산 2천807억달러↑…역대 최대폭",
-      "link": "https://www.yna.co.kr/view/AKR20261119075100002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:02 +0900"
+      "title": "한양디지텍 \"싱가포르 종속회사 주식 319억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119163600008",
+      "pubDate": "Thu, 19 Nov 2026 18:48:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "저축성보험 만기 후 3년까지 연금 전환된다…1년 전 사전예약도",
-      "link": "https://www.yna.co.kr/view/AKR20261119078700002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:01 +0900"
+      "title": "부산 천마산 전망대 정식 개관 연기…모노레일 공사 지연 탓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261119108251051",
+      "pubDate": "Thu, 19 Nov 2026 18:46:21 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "워킹맘 고용률 66% 역대 최고…영유아 엄마 28%는 경력단절 겪어",
-      "link": "https://www.yna.co.kr/view/AKR20261119079100002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:01 +0900"
+      "source": "한국경제",
+      "title": "美·中·러 첫 3자 회담서 시진핑 4대 원칙 제시…\"핵무기 없는 세계 만들자\"",
+      "link": "https://www.hankyung.com/article/202611198418i",
+      "pubDate": "Thu, 19 Nov 2026 18:44:53 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "850여개 핀테크 지원사업 한눈에…AI가 맞춤사업 추천도",
-      "link": "https://www.yna.co.kr/view/AKR20261119079400002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:01 +0900"
+      "source": "한국경제",
+      "title": "삼성, 호암미술관서 이병철 창업회장 추도식",
+      "link": "https://www.hankyung.com/article/2026111982371",
+      "pubDate": "Thu, 19 Nov 2026 18:32:57 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "한은 \"환율 10% 하락하면 가구당 생활비 연 16만5천원 절감\"",
-      "link": "https://www.yna.co.kr/view/AKR20261119080000002",
-      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0900"
+      "source": "한국경제",
+      "title": "중기중앙회, 도쿄서 해외진출 전략포럼",
+      "link": "https://www.hankyung.com/article/2026111982451",
+      "pubDate": "Thu, 19 Nov 2026 18:29:14 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[게시판] 우리은행, 베트남 현지 맞춤형 모바일뱅킹 '뉴 원'",
-      "link": "https://www.yna.co.kr/view/AKR20261119083600002",
-      "pubDate": "Thu, 19 Nov 2026 11:48:27 +0900"
+      "source": "한국경제",
+      "title": "\"아이 낳고 버텼지만\"…육아로 퇴사하는 여성 비율 50% 넘어",
+      "link": "https://www.hankyung.com/article/2026111982581",
+      "pubDate": "Thu, 19 Nov 2026 18:18:24 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "\"기관 유입 촉진·부실기업 퇴출로 코스닥 활성화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261119079700002",
-      "pubDate": "Thu, 19 Nov 2026 11:46:42 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "벤처기업 10곳 중 7곳 \"최근 1년간 특정시기 업무집중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261119083300030",
-      "pubDate": "Thu, 19 Nov 2026 11:45:07 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "창원시, 흉물 논란 '빅트리' 손본다…실내 전망시설로 전환 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261119082200052",
-      "pubDate": "Thu, 19 Nov 2026 11:44:10 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.731%",
-      "link": "https://www.yna.co.kr/view/AKR20261119083000008",
-      "pubDate": "Thu, 19 Nov 2026 11:41:23 +0900"
+      "source": "한국경제",
+      "title": "[단독] 조선·철강·전선업계 \"해상풍력 진출\"…'제조 클러스터' 구축이 관건",
+      "link": "https://www.hankyung.com/article/2026111982321",
+      "pubDate": "Thu, 19 Nov 2026 18:11:59 +0900"
     }
   ]
 }
