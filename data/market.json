@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-20T10:30:19.502Z",
+  "updatedAt": "2026-11-20T18:48:32.970Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7175.83,
-      "changePercent": -2.018,
-      "previousClose": 7592.4,
+      "price": 7011.63,
+      "changePercent": -2.288,
+      "previousClose": 7561.67,
       "currency": "USD",
       "history": [
-        7561.669921875,
         7416.58984375,
         7340.52978515625,
         7323.6298828125,
-        7175.830078125
+        7175.830078125,
+        7011.6298828125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 23879.2,
-      "changePercent": -2.254,
-      "previousClose": 25366.09,
+      "price": 22995.004,
+      "changePercent": -3.703,
+      "previousClose": 25136.27,
       "currency": "USD",
       "history": [
-        25136.26953125,
         24509.759765625,
         24328.380859375,
         24429.880859375,
-        23879.19921875
+        23879.19921875,
+        22995.00390625
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 49097.06,
-      "changePercent": -2.194,
-      "previousClose": 52297.09,
+      "price": 48732.09,
+      "changePercent": -0.743,
+      "previousClose": 52347.55,
       "currency": "USD",
       "history": [
-        52347.55078125,
         51608.171875,
         50759.421875,
         50198.171875,
-        49097.05859375
+        49097.05859375,
+        48732.08984375
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 81.05,
-      "changePercent": -1.686,
+      "price": 82.95,
+      "changePercent": 0.619,
       "previousClose": 85.72,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         86.01000213623047,
         83.26000213623047,
         83.20999908447266,
-        81.05000305175781
+        82.94999694824219
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3579.3,
-      "changePercent": -2.882,
+      "price": 3518.8,
+      "changePercent": -4.523,
       "previousClose": 3853,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3864.199951171875,
         3741.89990234375,
         3685.5,
-        3579.300048828125
+        3518.800048828125
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.868,
-      "changePercent": -0.026,
+      "price": 103.843,
+      "changePercent": -0.05,
       "previousClose": 103.55,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         103.48999786376953,
         103.86000061035156,
         103.9000015258789,
-        103.86799621582031
+        103.84300231933594
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 29.49,
-      "changePercent": 3.693,
+      "price": 31.93,
+      "changePercent": 12.228,
       "previousClose": 22.91,
       "currency": "USD",
       "history": [
@@ -116,17 +116,41 @@
         25.459999084472656,
         24.559999465942383,
         28.440000534057617,
-        29.489999771118164
+        31.93000030517578
       ],
       "ok": true
     }
   ],
   "news": [
     {
+      "source": "한국경제",
+      "title": "\"술에서 바다 맛이?\"…한국서 유독 잘 팔린다는 '이 술' [현장+]",
+      "link": "https://www.hankyung.com/article/202611209728g",
+      "pubDate": "Fri, 20 Nov 2026 22:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"재고 언제 풀리나\" 대기만 무려…난리 난 다이소 '5000원템'",
+      "link": "https://www.hankyung.com/article/2026112009177",
+      "pubDate": "Fri, 20 Nov 2026 21:35:42 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "[부고] 이병상(삼성중공업 커뮤니케이션미디어그룹 프로)씨 별세",
+      "link": "https://www.hankyung.com/article/202611200873i",
+      "pubDate": "Fri, 20 Nov 2026 20:14:46 +0900"
+    },
+    {
       "source": "연합뉴스",
       "title": "[게시판] 대한주택관리사협회 신임 회장에 박병남 서울시회장",
       "link": "https://www.yna.co.kr/view/AKR20261120169500003",
       "pubDate": "Fri, 20 Nov 2026 19:13:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "한국소비자중심기업協, 제20회 임원협의회 개최",
+      "link": "https://www.hankyung.com/article/202611200618i",
+      "pubDate": "Fri, 20 Nov 2026 18:54:50 +0900"
     },
     {
       "source": "한국경제",
@@ -142,7 +166,7 @@
     },
     {
       "source": "한국경제",
-      "title": "\"팔아도 남는 게 없다\" 유럽車는 공멸 위기",
+      "title": "손대는 곳마다 '초토화'…中 '필승 공식' 또 통했다",
       "link": "https://www.hankyung.com/article/2026112007501",
       "pubDate": "Fri, 20 Nov 2026 18:06:54 +0900"
     },
@@ -187,30 +211,6 @@
       "title": "강원도, 글로벌 웰니스데이와 관광 협력…7개 기관 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20261120158000062",
       "pubDate": "Fri, 20 Nov 2026 17:55:52 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120159800017",
-      "pubDate": "Fri, 20 Nov 2026 17:51:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성 메모리 수장 황상준…모바일은 최원준",
-      "link": "https://www.hankyung.com/article/2026112007261",
-      "pubDate": "Fri, 20 Nov 2026 17:51:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 한국 안방 노리는 中…정부 '250만원 카드' 꺼냈다",
-      "link": "https://www.hankyung.com/article/2026112007481",
-      "pubDate": "Fri, 20 Nov 2026 17:48:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "약 1조8000억 쏟아부었다…현대모비스, '미래차' 혁신 이끈다",
-      "link": "https://www.hankyung.com/article/202611200678g",
-      "pubDate": "Fri, 20 Nov 2026 17:42:35 +0900"
     }
   ]
 }
