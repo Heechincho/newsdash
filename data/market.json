@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:37:43.178Z",
+  "updatedAt": "2026-11-20T10:30:19.502Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 82.89,
-      "changePercent": 0.546,
+      "price": 81.05,
+      "changePercent": -1.686,
       "previousClose": 85.72,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         86.01000213623047,
         83.26000213623047,
         83.20999908447266,
-        82.88999938964844
+        81.05000305175781
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3537.6,
-      "changePercent": -4.013,
+      "price": 3579.3,
+      "changePercent": -2.882,
       "previousClose": 3853,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3864.199951171875,
         3741.89990234375,
         3685.5,
-        3537.60009765625
+        3579.300048828125
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.897,
-      "changePercent": 0.002,
+      "price": 103.868,
+      "changePercent": -0.026,
       "previousClose": 103.55,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         103.48999786376953,
         103.86000061035156,
         103.9000015258789,
-        103.89700317382812
+        103.86799621582031
       ],
       "ok": true
     },
@@ -107,16 +107,16 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 28.44,
-      "changePercent": 15.798,
-      "previousClose": 19.3,
+      "price": 29.49,
+      "changePercent": 3.693,
+      "previousClose": 22.91,
       "currency": "USD",
       "history": [
-        19.299999237060547,
         22.90999984741211,
         25.459999084472656,
         24.559999465942383,
-        28.440000534057617
+        28.440000534057617,
+        29.489999771118164
       ],
       "ok": true
     }
@@ -124,93 +124,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "원주 미용의료기기 기업 5곳, 홍콩서 165만 달러 수출 상담",
-      "link": "https://www.yna.co.kr/view/AKR20261120076200062",
-      "pubDate": "Fri, 20 Nov 2026 11:22:38 +0900"
+      "title": "[게시판] 대한주택관리사협회 신임 회장에 박병남 서울시회장",
+      "link": "https://www.yna.co.kr/view/AKR20261120169500003",
+      "pubDate": "Fri, 20 Nov 2026 19:13:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "삼성, 역대급 실적 반도체서만 사장 3명 승진",
+      "link": "https://www.hankyung.com/article/2026112006631",
+      "pubDate": "Fri, 20 Nov 2026 18:27:33 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "주민번호·계좌까지 유출…컬리도 뚫린 유통업계",
+      "link": "https://www.hankyung.com/article/2026112007877",
+      "pubDate": "Fri, 20 Nov 2026 18:07:37 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"팔아도 남는 게 없다\" 유럽車는 공멸 위기",
+      "link": "https://www.hankyung.com/article/2026112007501",
+      "pubDate": "Fri, 20 Nov 2026 18:06:54 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"안주하면 바로 적자…포드·닛산 실패에서 배워라\"",
+      "link": "https://www.hankyung.com/article/2026112007491",
+      "pubDate": "Fri, 20 Nov 2026 18:06:27 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코스피, 4%대 급락에 5,000선 밑으로…삼전닉스, 5~6%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261120075600008",
-      "pubDate": "Fri, 20 Nov 2026 11:22:10 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261120153100011",
+      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "배홍용 HL만도 수석부사장, 한국자동차공학회 '기술상'",
+      "link": "https://www.hankyung.com/article/2026112006921",
+      "pubDate": "Fri, 20 Nov 2026 17:58:25 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "무안 국가산단 지정 연내 신청…앵커기업 확보가 '관건'",
-      "link": "https://www.yna.co.kr/view/AKR20261120071000054",
-      "pubDate": "Fri, 20 Nov 2026 11:13:58 +0900"
+      "title": "지난달 카드론 잔액 42조6천701억원…4개월 만에 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261120158200002",
+      "pubDate": "Fri, 20 Nov 2026 17:58:24 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "현대百, 한부모가족 생활시설 개선 지원",
+      "link": "https://www.hankyung.com/article/2026112006931",
+      "pubDate": "Fri, 20 Nov 2026 17:57:51 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "송동춘 풍전비철 회장, 금탑산업훈장…갈바륨 국산화",
+      "link": "https://www.hankyung.com/article/2026112006871",
+      "pubDate": "Fri, 20 Nov 2026 17:57:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행",
-      "link": "https://www.yna.co.kr/view/AKR20261120075100008",
-      "pubDate": "Fri, 20 Nov 2026 11:13:24 +0900"
+      "title": "강원도, 글로벌 웰니스데이와 관광 협력…7개 기관 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20261120158000062",
+      "pubDate": "Fri, 20 Nov 2026 17:55:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "유럽 스마트폰 시장 13년 만에 최악…삼성 점유율 1위",
-      "link": "https://www.yna.co.kr/view/AKR20261120073500017",
-      "pubDate": "Fri, 20 Nov 2026 11:11:16 +0900"
+      "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120159800017",
+      "pubDate": "Fri, 20 Nov 2026 17:51:31 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "[동포의 창] 동포청, 한상 네트워크 활용해 AI 스타트업 美 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261120069600371",
-      "pubDate": "Fri, 20 Nov 2026 11:02:21 +0900"
+      "source": "한국경제",
+      "title": "삼성 메모리 수장 황상준…모바일은 최원준",
+      "link": "https://www.hankyung.com/article/2026112007261",
+      "pubDate": "Fri, 20 Nov 2026 17:51:04 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "아모레퍼시픽, 산업부 '2026 굿디자인 어워드'서 4건 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261120070200030",
-      "pubDate": "Fri, 20 Nov 2026 11:00:02 +0900"
+      "source": "한국경제",
+      "title": "[단독] 한국 안방 노리는 中…정부 '250만원 카드' 꺼냈다",
+      "link": "https://www.hankyung.com/article/2026112007481",
+      "pubDate": "Fri, 20 Nov 2026 17:48:42 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "노동부, 청주·전주서 '고용정책 팝업스토어'…청년에 직접 소개",
-      "link": "https://www.yna.co.kr/view/AKR20261120034400530",
-      "pubDate": "Fri, 20 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "통상본부장, 우루과이와 메르코수르 무역협정 재개 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261120031100003",
-      "pubDate": "Fri, 20 Nov 2026 11:00:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "광주-일본 시코쿠 세무사회, 30년간 우호 교류",
-      "link": "https://www.yna.co.kr/view/AKR20261120068200054",
-      "pubDate": "Fri, 20 Nov 2026 10:55:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] NH농협은행, 기후금융·포용금융 강화 위한 ESG추진위원회",
-      "link": "https://www.yna.co.kr/view/AKR20261120064700002",
-      "pubDate": "Fri, 20 Nov 2026 10:45:29 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 신협, '신협자산관리회사' 창립…부실자산 관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261120063600002",
-      "pubDate": "Fri, 20 Nov 2026 10:45:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "HUG, 하나자산신탁과 전월세 안심신탁 양해각서…850가구 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261120060500003",
-      "pubDate": "Fri, 20 Nov 2026 10:44:47 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "고양시, 내달 14일 투자설명회…개발 현장도 방문",
-      "link": "https://www.yna.co.kr/view/AKR20261120063400060",
-      "pubDate": "Fri, 20 Nov 2026 10:43:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "불법 고액알바 꼬임에 대마초 5천명분 밀수입…20대들 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261120059600002",
-      "pubDate": "Fri, 20 Nov 2026 10:42:05 +0900"
+      "source": "한국경제",
+      "title": "약 1조8000억 쏟아부었다…현대모비스, '미래차' 혁신 이끈다",
+      "link": "https://www.hankyung.com/article/202611200678g",
+      "pubDate": "Fri, 20 Nov 2026 17:42:35 +0900"
     }
   ]
 }
