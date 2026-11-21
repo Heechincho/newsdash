@@ -1,56 +1,26 @@
 {
-  "updatedAt": "2026-11-21T15:36:06.996Z",
+  "updatedAt": "2026-11-21T21:08:14.872Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 6910.39,
-      "changePercent": -3.699,
-      "previousClose": 7561.67,
-      "currency": "USD",
-      "history": [
-        7416.58984375,
-        7340.52978515625,
-        7323.6298828125,
-        7175.830078125,
-        6910.39013671875
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?interval=1d&range=5d"
     },
     {
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 22617.732,
-      "changePercent": -5.283,
-      "previousClose": 25136.27,
-      "currency": "USD",
-      "history": [
-        24509.759765625,
-        24328.380859375,
-        24429.880859375,
-        23879.19921875,
-        22617.73046875
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?interval=1d&range=5d"
     },
     {
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 48147.33,
-      "changePercent": -1.934,
-      "previousClose": 52347.55,
-      "currency": "USD",
-      "history": [
-        51608.171875,
-        50759.421875,
-        50198.171875,
-        49097.05859375,
-        48147.328125
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?interval=1d&range=5d"
     },
     {
       "key": "wti",
@@ -73,35 +43,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3515.4,
-      "changePercent": -4.615,
-      "previousClose": 3853,
-      "currency": "USD",
-      "history": [
-        3853,
-        3864.199951171875,
-        3741.89990234375,
-        3685.5,
-        3515.39990234375
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?interval=1d&range=5d"
     },
     {
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.84,
-      "changePercent": 0.032,
-      "previousClose": 103.55,
-      "currency": "USD",
-      "history": [
-        103.55000305175781,
-        103.48999786376953,
-        103.86000061035156,
-        103.9000015258789,
-        103.80999755859375
-      ],
-      "ok": true
+      "ok": false,
+      "error": "HTTP 429 for https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?interval=1d&range=5d"
     },
     {
       "key": "vix",
@@ -123,94 +73,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "카지노에 외국인 몰려오는데…혼자 웃은 파라다이스 [류은혁의 유통기한]",
-      "link": "https://www.hankyung.com/article/202611200512i",
-      "pubDate": "Sat, 21 Nov 2026 20:00:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"주말마다 먹어요\"…백종원 '홍콩반점' 제친 '뜻밖의 식당' [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611200868i",
-      "pubDate": "Sat, 21 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
-      "link": "https://www.hankyung.com/article/2026112114457",
-      "pubDate": "Sat, 21 Nov 2026 16:26:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"SK하닉 통째로 산다\"…AI 노린 손정의 '1350조 계획' 폭로",
-      "link": "https://www.hankyung.com/article/2026112113827",
-      "pubDate": "Sat, 21 Nov 2026 14:58:05 +0900"
+      "source": "연합뉴스",
+      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
+      "link": "https://www.yna.co.kr/view/AKR20261121000200008",
+      "pubDate": "Sun, 22 Nov 2026 06:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
-      "link": "https://www.yna.co.kr/view/AKR20261121035200030",
-      "pubDate": "Sat, 21 Nov 2026 14:10:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "꽁치값 30% 뛰어도…'겨울 별미' 과메기 대박 이유 있었다 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202611200765i",
-      "pubDate": "Sat, 21 Nov 2026 14:00:05 +0900"
+      "title": "\"빚 갚아\" 지인 협박…가족 공무원연금 통장서 1억6천만원 뜯어",
+      "link": "https://www.yna.co.kr/view/AKR20261121036700062",
+      "pubDate": "Sun, 22 Nov 2026 06:00:06 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "BNK금융 임직원, 부울경서 해양생태계 보전 '사회공헌의 날'",
-      "link": "https://www.yna.co.kr/view/AKR20261121033200051",
-      "pubDate": "Sat, 21 Nov 2026 13:01:40 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"20억 스타보다 5000만원 인플루언서\"…모델이 달라진다 [김소연의 얼굴전략]",
-      "link": "https://www.hankyung.com/article/202611200053g",
-      "pubDate": "Sat, 21 Nov 2026 13:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "젠슨 황 사임 뒤 잇단 폭로…이사회엔 거짓 해명, 직원들엔 폭언",
-      "link": "https://www.hankyung.com/article/2026112113257",
-      "pubDate": "Sat, 21 Nov 2026 12:19:42 +0900"
+      "title": "[소셜＋] \"여전히 4개에 1천원?\"…SNS 타고 입소문 난 '초저가' 붕어빵집",
+      "link": "https://www.yna.co.kr/view/AKR20261119119600505",
+      "pubDate": "Sun, 22 Nov 2026 06:00:03 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[부고] 이창봉(삼성증권 이사)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20261121029200008",
-      "pubDate": "Sat, 21 Nov 2026 11:13:19 +0900"
+      "title": "'해킹 피해' 디센트, 가상자산 앱 지갑 서비스 종료 수순",
+      "link": "https://www.yna.co.kr/view/AKR20261121047900002",
+      "pubDate": "Sun, 22 Nov 2026 05:59:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261121024500011",
-      "pubDate": "Sat, 21 Nov 2026 10:30:00 +0900"
+      "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
+      "link": "https://www.yna.co.kr/view/AKR20261121044700002",
+      "pubDate": "Sun, 22 Nov 2026 05:57:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261121023800530",
-      "pubDate": "Sat, 21 Nov 2026 10:12:05 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"설악산 호텔 손님 절반이 외국인\"…한국 여행 지도가 바뀐다 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611209535i",
-      "pubDate": "Sat, 21 Nov 2026 10:00:04 +0900"
+      "title": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
+      "link": "https://www.yna.co.kr/view/AKR20261121050500003",
+      "pubDate": "Sun, 22 Nov 2026 05:55:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[바이오사이언스] 바이오의약품 임상 승인 203건…분기마다 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261120156900017",
-      "pubDate": "Sat, 21 Nov 2026 10:00:03 +0900"
+      "title": "내달 강남권 첫 재초환 부담금…서울 52개 단지 1억1천만원씩",
+      "link": "https://www.yna.co.kr/view/AKR20261121036800003",
+      "pubDate": "Sun, 22 Nov 2026 05:55:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
-      "link": "https://www.yna.co.kr/view/AKR20261120113700062",
-      "pubDate": "Sat, 21 Nov 2026 09:35:00 +0900"
+      "title": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261121042700002",
+      "pubDate": "Sun, 22 Nov 2026 05:55:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "배보다 큰 배꼽…계열사 상표권 없으면 사실상 적자 회사 13곳",
+      "link": "https://www.yna.co.kr/view/AKR20261120166700002",
+      "pubDate": "Sun, 22 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "우대금리 축소 이달까지 자체점검…10년 고정금리 논의 곧 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261121044800002",
+      "pubDate": "Sun, 22 Nov 2026 05:51:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "작년 '시세 17억원' 주택자산 보유 30대 1만8천명…1년새 70%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261121036000002",
+      "pubDate": "Sun, 22 Nov 2026 05:49:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "1인가구 주택소유비중 역대 최고…5집 중 1집 '나 혼자 산다'",
+      "link": "https://www.yna.co.kr/view/AKR20261121043200002",
+      "pubDate": "Sun, 22 Nov 2026 05:49:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261121040600002",
+      "pubDate": "Sun, 22 Nov 2026 05:47:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20261121026100002",
+      "pubDate": "Sun, 22 Nov 2026 05:45:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+      "link": "https://www.yna.co.kr/view/AKR20261121021600002",
+      "pubDate": "Sun, 22 Nov 2026 05:45:01 +0900"
     }
   ]
 }
