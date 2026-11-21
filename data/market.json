@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:35:46.608Z",
+  "updatedAt": "2026-11-21T15:36:06.996Z",
   "instruments": [
     {
       "key": "sp500",
@@ -124,6 +124,24 @@
   "news": [
     {
       "source": "한국경제",
+      "title": "카지노에 외국인 몰려오는데…혼자 웃은 파라다이스 [류은혁의 유통기한]",
+      "link": "https://www.hankyung.com/article/202611200512i",
+      "pubDate": "Sat, 21 Nov 2026 20:00:02 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"주말마다 먹어요\"…백종원 '홍콩반점' 제친 '뜻밖의 식당' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611200868i",
+      "pubDate": "Sat, 21 Nov 2026 18:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
+      "link": "https://www.hankyung.com/article/2026112114457",
+      "pubDate": "Sat, 21 Nov 2026 16:26:00 +0900"
+    },
+    {
+      "source": "한국경제",
       "title": "\"SK하닉 통째로 산다\"…AI 노린 손정의 '1350조 계획' 폭로",
       "link": "https://www.hankyung.com/article/2026112113827",
       "pubDate": "Sat, 21 Nov 2026 14:58:05 +0900"
@@ -193,24 +211,6 @@
       "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
       "link": "https://www.yna.co.kr/view/AKR20261120113700062",
       "pubDate": "Sat, 21 Nov 2026 09:35:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026112004536",
-      "pubDate": "Sat, 21 Nov 2026 09:30:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "마오타이 안 팔리자 위스키에 꽂힌 中…칭다오맥주까지 가세한 '위스키 전쟁'",
-      "link": "https://www.hankyung.com/article/202610080252i",
-      "pubDate": "Sat, 21 Nov 2026 09:00:18 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "앤트로픽 상장 열풍, 코인 시장으로…공모주도 토큰으로 산다",
-      "link": "https://www.hankyung.com/article/202611209908i",
-      "pubDate": "Sat, 21 Nov 2026 09:00:16 +0900"
     }
   ]
 }
