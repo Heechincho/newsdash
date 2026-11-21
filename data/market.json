@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-20T18:48:32.970Z",
+  "updatedAt": "2026-11-21T00:21:59.566Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7011.63,
-      "changePercent": -2.288,
+      "price": 6910.39,
+      "changePercent": -3.699,
       "previousClose": 7561.67,
       "currency": "USD",
       "history": [
@@ -14,7 +14,7 @@
         7340.52978515625,
         7323.6298828125,
         7175.830078125,
-        7011.6298828125
+        6910.39013671875
       ],
       "ok": true
     },
@@ -22,8 +22,8 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 22995.004,
-      "changePercent": -3.703,
+      "price": 22617.732,
+      "changePercent": -5.283,
       "previousClose": 25136.27,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         24328.380859375,
         24429.880859375,
         23879.19921875,
-        22995.00390625
+        22617.732421875
       ],
       "ok": true
     },
@@ -39,8 +39,8 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 48732.09,
-      "changePercent": -0.743,
+      "price": 48147.33,
+      "changePercent": -1.934,
       "previousClose": 52347.55,
       "currency": "USD",
       "history": [
@@ -48,7 +48,7 @@
         50759.421875,
         50198.171875,
         49097.05859375,
-        48732.08984375
+        48147.328125
       ],
       "ok": true
     },
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 82.95,
-      "changePercent": 0.619,
+      "price": 83.62,
+      "changePercent": 1.431,
       "previousClose": 85.72,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         86.01000213623047,
         83.26000213623047,
         83.20999908447266,
-        82.94999694824219
+        83.62000274658203
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3518.8,
-      "changePercent": -4.523,
+      "price": 3539,
+      "changePercent": -3.975,
       "previousClose": 3853,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3864.199951171875,
         3741.89990234375,
         3685.5,
-        3518.800048828125
+        3539
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.843,
-      "changePercent": -0.05,
+      "price": 103.84,
+      "changePercent": -0.053,
       "previousClose": 103.55,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         103.48999786376953,
         103.86000061035156,
         103.9000015258789,
-        103.84300231933594
+        103.83999633789062
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 31.93,
-      "changePercent": 12.228,
+      "price": 35.89,
+      "changePercent": 26.195,
       "previousClose": 22.91,
       "currency": "USD",
       "history": [
@@ -116,101 +116,101 @@
         25.459999084472656,
         24.559999465942383,
         28.440000534057617,
-        31.93000030517578
+        35.88999938964844
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"술에서 바다 맛이?\"…한국서 유독 잘 팔린다는 '이 술' [현장+]",
-      "link": "https://www.hankyung.com/article/202611209728g",
-      "pubDate": "Fri, 20 Nov 2026 22:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"재고 언제 풀리나\" 대기만 무려…난리 난 다이소 '5000원템'",
-      "link": "https://www.hankyung.com/article/2026112009177",
-      "pubDate": "Fri, 20 Nov 2026 21:35:42 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[부고] 이병상(삼성중공업 커뮤니케이션미디어그룹 프로)씨 별세",
-      "link": "https://www.hankyung.com/article/202611200873i",
-      "pubDate": "Fri, 20 Nov 2026 20:14:46 +0900"
+      "source": "연합뉴스",
+      "title": "[민선9기 서울] 서준오 노원구청장 \"베드타운 벗고 기업집중 경제도시로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120135700004",
+      "pubDate": "Sat, 21 Nov 2026 09:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[게시판] 대한주택관리사협회 신임 회장에 박병남 서울시회장",
-      "link": "https://www.yna.co.kr/view/AKR20261120169500003",
-      "pubDate": "Fri, 20 Nov 2026 19:13:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "한국소비자중심기업協, 제20회 임원협의회 개최",
-      "link": "https://www.hankyung.com/article/202611200618i",
-      "pubDate": "Fri, 20 Nov 2026 18:54:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성, 역대급 실적 반도체서만 사장 3명 승진",
-      "link": "https://www.hankyung.com/article/2026112006631",
-      "pubDate": "Fri, 20 Nov 2026 18:27:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "주민번호·계좌까지 유출…컬리도 뚫린 유통업계",
-      "link": "https://www.hankyung.com/article/2026112007877",
-      "pubDate": "Fri, 20 Nov 2026 18:07:37 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "손대는 곳마다 '초토화'…中 '필승 공식' 또 통했다",
-      "link": "https://www.hankyung.com/article/2026112007501",
-      "pubDate": "Fri, 20 Nov 2026 18:06:54 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"안주하면 바로 적자…포드·닛산 실패에서 배워라\"",
-      "link": "https://www.hankyung.com/article/2026112007491",
-      "pubDate": "Fri, 20 Nov 2026 18:06:27 +0900"
+      "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120167400002",
+      "pubDate": "Sat, 21 Nov 2026 09:00:00 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261120153100011",
-      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0900"
+      "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+      "link": "https://www.yna.co.kr/view/AKR20261121014700002",
+      "pubDate": "Sat, 21 Nov 2026 08:36:08 +0900"
     },
     {
       "source": "한국경제",
-      "title": "배홍용 HL만도 수석부사장, 한국자동차공학회 '기술상'",
-      "link": "https://www.hankyung.com/article/2026112006921",
-      "pubDate": "Fri, 20 Nov 2026 17:58:25 +0900"
+      "title": "\"돈 싸 들고 줄 서더니\"…4개월 만에 75% 증발 '줄도산 공포' [차이나 워치]",
+      "link": "https://www.hankyung.com/article/202611157144i",
+      "pubDate": "Sat, 21 Nov 2026 08:01:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"배보다 배꼽이 더 클 판\"…서학개미 200만원 벌고 '날벼락' [고정삼의 절세GPT]",
+      "link": "https://www.hankyung.com/article/2026112004036",
+      "pubDate": "Sat, 21 Nov 2026 07:30:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 투자 공포 확산…연말 랠리 가능할까 [월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202611211106i",
+      "pubDate": "Sat, 21 Nov 2026 07:22:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "지난달 카드론 잔액 42조6천701억원…4개월 만에 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261120158200002",
-      "pubDate": "Fri, 20 Nov 2026 17:58:24 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "현대百, 한부모가족 생활시설 개선 지원",
-      "link": "https://www.hankyung.com/article/2026112006931",
-      "pubDate": "Fri, 20 Nov 2026 17:57:51 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "송동춘 풍전비철 회장, 금탑산업훈장…갈바륨 국산화",
-      "link": "https://www.hankyung.com/article/2026112006871",
-      "pubDate": "Fri, 20 Nov 2026 17:57:19 +0900"
+      "title": "[금주핫템] 일리윤 '멀티베리어 페이셜'·템퍼 '어고 프로 스마트 베이스'",
+      "link": "https://www.yna.co.kr/view/AKR20261120109100030",
+      "pubDate": "Sat, 21 Nov 2026 07:00:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강원도, 글로벌 웰니스데이와 관광 협력…7개 기관 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20261120158000062",
-      "pubDate": "Fri, 20 Nov 2026 17:55:52 +0900"
+      "title": "[신상잇슈] 동서식품 '겨울한정 카누캡슐'·팔도 '팔도비빔면 윈터에디션'",
+      "link": "https://www.yna.co.kr/view/AKR20261120116000030",
+      "pubDate": "Sat, 21 Nov 2026 07:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "1분 만에 마감…'여기서도 뛴다고?' 러너 2200명 몰렸다",
+      "link": "https://www.hankyung.com/article/2026112006271",
+      "pubDate": "Sat, 21 Nov 2026 07:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261120164900003",
+      "pubDate": "Sat, 21 Nov 2026 07:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[AI돋보기] 해킹에 커닝까지…AI의 역습에 한국 사회 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261119149900017",
+      "pubDate": "Sat, 21 Nov 2026 06:33:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"4인 가족 모임에 100만원\"…연말 앞두고 초고가 뷔페 '불티' [권용훈의 트렌드워치]",
+      "link": "https://www.hankyung.com/article/202611196552i",
+      "pubDate": "Sat, 21 Nov 2026 06:00:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"믿을 건 金뿐이라더니\" 와르르…최악의 상황에 '비명'",
+      "link": "https://www.hankyung.com/article/2026112007131",
+      "pubDate": "Sat, 21 Nov 2026 06:00:09 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261120124100003",
+      "pubDate": "Sat, 21 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 27주째 하락…서울 휘발유 평균도 1천800원대로",
+      "link": "https://www.yna.co.kr/view/AKR20261120163100003",
+      "pubDate": "Sat, 21 Nov 2026 06:00:00 +0900"
     }
   ]
 }
