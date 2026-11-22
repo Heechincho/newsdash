@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:12:21.841Z",
+  "updatedAt": "2026-11-22T16:24:57.071Z",
   "instruments": [
     {
       "key": "sp500",
@@ -120,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "외국인 겨냥 '한국 여행 슈퍼앱' 뜬다",
-      "link": "https://www.hankyung.com/article/2026112223651",
-      "pubDate": "Sun, 22 Nov 2026 17:03:58 +0900"
+      "source": "연합뉴스",
+      "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261122044351002",
+      "pubDate": "Sun, 22 Nov 2026 21:51:42 +0900"
     },
     {
       "source": "한국경제",
-      "title": "GS리테일, 중소 협력사 베트남 판로 개척 지원",
-      "link": "https://www.hankyung.com/article/2026112223641",
-      "pubDate": "Sun, 22 Nov 2026 17:03:18 +0900"
+      "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
+      "link": "https://www.hankyung.com/article/2026112226427",
+      "pubDate": "Sun, 22 Nov 2026 21:41:59 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱",
-      "link": "https://www.hankyung.com/article/2026112223621",
-      "pubDate": "Sun, 22 Nov 2026 17:03:13 +0900"
+      "title": "한전도 뚫렸다…152만명 개인정보 유출",
+      "link": "https://www.hankyung.com/article/2026112225971",
+      "pubDate": "Sun, 22 Nov 2026 20:23:47 +0900"
     },
     {
       "source": "한국경제",
-      "title": "한국코카콜라는 왜 해방촌에 빠졌나",
-      "link": "https://www.hankyung.com/article/2026112223611",
-      "pubDate": "Sun, 22 Nov 2026 17:02:33 +0900"
+      "title": "도로 위 진동·소음 지웠다…르노 플래그십 '필랑트'",
+      "link": "https://www.hankyung.com/article/202611222632i",
+      "pubDate": "Sun, 22 Nov 2026 20:15:44 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'검은 월요일' 공포 덮치자…18년 만에 '증안펀드' 투입 준비",
+      "link": "https://www.hankyung.com/article/2026112226011",
+      "pubDate": "Sun, 22 Nov 2026 19:40:30 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'서울중수청 1호 강제수사' 명륜당 회장 추가 압수수색영장 기각",
-      "link": "https://www.yna.co.kr/view/AKR20261122036400004",
-      "pubDate": "Sun, 22 Nov 2026 16:29:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"더 떨어질까 봐 못 사겠어요\"…전문가들은 오히려 여길 봤다 [투자톡]",
-      "link": "https://www.hankyung.com/article/2026112000066",
-      "pubDate": "Sun, 22 Nov 2026 16:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"한국선 술안주인데\"…美서 '슈퍼푸드'로 뜨더니 1조원 '잭팟'",
-      "link": "https://www.hankyung.com/article/2026112222987",
-      "pubDate": "Sun, 22 Nov 2026 15:58:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "류재철 LG전자 사장 \"협력사와 제조혁신으로 미래 기회 만들자\"",
-      "link": "https://www.hankyung.com/article/202611222299i",
-      "pubDate": "Sun, 22 Nov 2026 15:36:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"K할매 패션인데\"…카리나도 입더니 외국인까지 푹 빠졌다",
-      "link": "https://www.hankyung.com/article/2026112222777",
-      "pubDate": "Sun, 22 Nov 2026 15:24:24 +0900"
+      "title": "토스, 캐나다 현지 법인 설립…인허가·금융사 제휴 준비",
+      "link": "https://www.yna.co.kr/view/AKR20261122044700017",
+      "pubDate": "Sun, 22 Nov 2026 19:02:40 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "국힘, 2030 공략 고삐…張 \"청년약탈 李정권 맞서 정책전쟁\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122032000001",
-      "pubDate": "Sun, 22 Nov 2026 15:20:36 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20261122029300011",
-      "pubDate": "Sun, 22 Nov 2026 15:00:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "노동장관 \"정년연장, 27일 與특위 합의 안 되면 정부 나설 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261122019051530",
-      "pubDate": "Sun, 22 Nov 2026 14:39:44 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "서울 핀테크 기업 10곳, 싱가포르서 투자유치 활동",
-      "link": "https://www.yna.co.kr/view/AKR20261122028300004",
-      "pubDate": "Sun, 22 Nov 2026 14:33:08 +0900"
+      "title": "F4 \"시장 상황 따라 증안펀드 바로 가동할 수 있게 준비 착수\"",
+      "link": "https://www.yna.co.kr/view/AKR20261122044300002",
+      "pubDate": "Sun, 22 Nov 2026 18:42:20 +0900"
     },
     {
       "source": "한국경제",
-      "title": "아태 100대 카페 韓 1위는 부산 모모스…2위는 '이곳'",
-      "link": "https://www.hankyung.com/article/2026112222087",
-      "pubDate": "Sun, 22 Nov 2026 14:21:16 +0900"
+      "title": "앤트로픽 '1일 천하'…상장 이튿날 8% 곤두박질",
+      "link": "https://www.hankyung.com/article/2026112225131",
+      "pubDate": "Sun, 22 Nov 2026 18:13:02 +0900"
     },
     {
       "source": "한국경제",
-      "title": "말레이시아 쇼피에서 미국 아마존까지…K뷰티와 동행하는 한국 광고대행사",
-      "link": "https://www.hankyung.com/article/202611222198i",
-      "pubDate": "Sun, 22 Nov 2026 14:04:57 +0900"
+      "title": "'겹악재' 삼전닉스, 위기 극복 시험대 올랐다",
+      "link": "https://www.hankyung.com/article/2026112224991",
+      "pubDate": "Sun, 22 Nov 2026 18:12:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "지방은행 깡통대출 2조 넘어",
+      "link": "https://www.hankyung.com/article/2026112224721",
+      "pubDate": "Sun, 22 Nov 2026 18:10:49 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"美데이터센터 건립 지연될 것\"…철강 경기 전망 4년來 최악",
+      "link": "https://www.hankyung.com/article/2026112224761",
+      "pubDate": "Sun, 22 Nov 2026 18:10:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "中企 96% \"신입 1년 내 퇴사\"",
+      "link": "https://www.hankyung.com/article/2026112224741",
+      "pubDate": "Sun, 22 Nov 2026 18:10:28 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 전력망 호황에 대형 변압기 수출 31% 증가…소형은 39% 급감",
+      "link": "https://www.hankyung.com/article/2026112224611",
+      "pubDate": "Sun, 22 Nov 2026 18:10:15 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"AI 기반 디지털트윈 기술로 잠수함 예측 정비…韓기업과 협력 확대할 것\"",
+      "link": "https://www.hankyung.com/article/2026112224661",
+      "pubDate": "Sun, 22 Nov 2026 18:05:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "시진핑 사정 칼바람에…中 'VIP 교도소' 만실",
+      "link": "https://www.hankyung.com/article/2026112224551",
+      "pubDate": "Sun, 22 Nov 2026 18:01:37 +0900"
     }
   ]
 }
