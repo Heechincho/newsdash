@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:24:57.071Z",
+  "updatedAt": "2026-11-22T21:56:33.612Z",
   "instruments": [
     {
       "key": "sp500",
@@ -121,6 +121,78 @@
   "news": [
     {
       "source": "연합뉴스",
+      "title": "미래기금 이관 '청년 주거급여 분리지급' 내년 예산 38%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261123006300003",
+      "pubDate": "Mon, 23 Nov 2026 06:34:46 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "빗썸, 기타소득세 취소 소송 일부 승소…\"218억 취소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120167700002",
+      "pubDate": "Mon, 23 Nov 2026 06:01:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울시 '중장년 경제교육' 7천명 참여…경제이해도 24점↑",
+      "link": "https://www.yna.co.kr/view/AKR20261122028400004",
+      "pubDate": "Mon, 23 Nov 2026 06:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "통상본부장, 굴 수출기업·딸기 농가 찾아 K-푸드 수출지원 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261122033000003",
+      "pubDate": "Mon, 23 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "코트라 등 팀코리아, 인도 비샤카파트남서 경협 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20261122033400003",
+      "pubDate": "Mon, 23 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"분양가 너무 높아\"…남양주 수분양자들 소송 내 46억원 받아",
+      "link": "https://www.yna.co.kr/view/AKR20261122038400004",
+      "pubDate": "Mon, 23 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "세무서 전화상담 절반 이상 AI가 처리…OECD, 한국 사례 소개",
+      "link": "https://www.yna.co.kr/view/AKR20261121023100002",
+      "pubDate": "Mon, 23 Nov 2026 05:59:12 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "농협-온투업 연계대출 내달 초 출시…상호금융 확대 기대",
+      "link": "https://www.yna.co.kr/view/AKR20261122039100002",
+      "pubDate": "Mon, 23 Nov 2026 05:58:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "5대은행 올해 부실채권 5.8조 정리…中企 연체율은 대기업의 3배",
+      "link": "https://www.yna.co.kr/view/AKR20261122031400002",
+      "pubDate": "Mon, 23 Nov 2026 05:57:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 4성급 이상 호텔 교통유발부담금 29억 줄었다…77곳 37%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261120145600004",
+      "pubDate": "Mon, 23 Nov 2026 05:55:02 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "내년 공시가 현실화율 동결…비강남·경기남부 상승률 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261122049700003",
+      "pubDate": "Mon, 23 Nov 2026 05:55:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "네파·두나무, 공정위 이후엔…지분규제·대주주변경 '당국관문'",
+      "link": "https://www.yna.co.kr/view/AKR20261121045900002",
+      "pubDate": "Mon, 23 Nov 2026 05:51:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
       "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261122044351002",
       "pubDate": "Sun, 22 Nov 2026 21:51:42 +0900"
@@ -136,78 +208,6 @@
       "title": "한전도 뚫렸다…152만명 개인정보 유출",
       "link": "https://www.hankyung.com/article/2026112225971",
       "pubDate": "Sun, 22 Nov 2026 20:23:47 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "도로 위 진동·소음 지웠다…르노 플래그십 '필랑트'",
-      "link": "https://www.hankyung.com/article/202611222632i",
-      "pubDate": "Sun, 22 Nov 2026 20:15:44 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'검은 월요일' 공포 덮치자…18년 만에 '증안펀드' 투입 준비",
-      "link": "https://www.hankyung.com/article/2026112226011",
-      "pubDate": "Sun, 22 Nov 2026 19:40:30 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "토스, 캐나다 현지 법인 설립…인허가·금융사 제휴 준비",
-      "link": "https://www.yna.co.kr/view/AKR20261122044700017",
-      "pubDate": "Sun, 22 Nov 2026 19:02:40 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "F4 \"시장 상황 따라 증안펀드 바로 가동할 수 있게 준비 착수\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122044300002",
-      "pubDate": "Sun, 22 Nov 2026 18:42:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "앤트로픽 '1일 천하'…상장 이튿날 8% 곤두박질",
-      "link": "https://www.hankyung.com/article/2026112225131",
-      "pubDate": "Sun, 22 Nov 2026 18:13:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'겹악재' 삼전닉스, 위기 극복 시험대 올랐다",
-      "link": "https://www.hankyung.com/article/2026112224991",
-      "pubDate": "Sun, 22 Nov 2026 18:12:45 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "지방은행 깡통대출 2조 넘어",
-      "link": "https://www.hankyung.com/article/2026112224721",
-      "pubDate": "Sun, 22 Nov 2026 18:10:49 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美데이터센터 건립 지연될 것\"…철강 경기 전망 4년來 최악",
-      "link": "https://www.hankyung.com/article/2026112224761",
-      "pubDate": "Sun, 22 Nov 2026 18:10:35 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "中企 96% \"신입 1년 내 퇴사\"",
-      "link": "https://www.hankyung.com/article/2026112224741",
-      "pubDate": "Sun, 22 Nov 2026 18:10:28 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI 전력망 호황에 대형 변압기 수출 31% 증가…소형은 39% 급감",
-      "link": "https://www.hankyung.com/article/2026112224611",
-      "pubDate": "Sun, 22 Nov 2026 18:10:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"AI 기반 디지털트윈 기술로 잠수함 예측 정비…韓기업과 협력 확대할 것\"",
-      "link": "https://www.hankyung.com/article/2026112224661",
-      "pubDate": "Sun, 22 Nov 2026 18:05:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "시진핑 사정 칼바람에…中 'VIP 교도소' 만실",
-      "link": "https://www.hankyung.com/article/2026112224551",
-      "pubDate": "Sun, 22 Nov 2026 18:01:37 +0900"
     }
   ]
 }
