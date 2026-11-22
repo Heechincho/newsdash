@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:17:01.739Z",
+  "updatedAt": "2026-11-22T08:12:21.841Z",
   "instruments": [
     {
       "key": "sp500",
@@ -58,14 +58,13 @@
       "symbol": "CL=F",
       "price": 83.41,
       "changePercent": 1.177,
-      "previousClose": 85.72,
+      "previousClose": 86.01,
       "currency": "USD",
       "history": [
-        85.72000122070312,
         86.01000213623047,
         83.26000213623047,
         83.20999908447266,
-        83.9800033569336
+        83.41000366210938
       ],
       "ok": true
     },
@@ -75,10 +74,9 @@
       "symbol": "GC=F",
       "price": 3515.4,
       "changePercent": -4.615,
-      "previousClose": 3853,
+      "previousClose": 3864.2,
       "currency": "USD",
       "history": [
-        3853,
         3864.199951171875,
         3741.89990234375,
         3685.5,
@@ -92,10 +90,9 @@
       "symbol": "DX-Y.NYB",
       "price": 103.84,
       "changePercent": 0.032,
-      "previousClose": 103.55,
+      "previousClose": 103.49,
       "currency": "USD",
       "history": [
-        103.55000305175781,
         103.48999786376953,
         103.86000061035156,
         103.9000015258789,
@@ -123,94 +120,94 @@
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "대구시, 내년부터 미취업 청년 시험 응시료 연 최대 12만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261122015400053",
-      "pubDate": "Sun, 22 Nov 2026 09:53:44 +0900"
+      "source": "한국경제",
+      "title": "외국인 겨냥 '한국 여행 슈퍼앱' 뜬다",
+      "link": "https://www.hankyung.com/article/2026112223651",
+      "pubDate": "Sun, 22 Nov 2026 17:03:58 +0900"
     },
     {
       "source": "한국경제",
-      "title": "세액공제 한도만 채우면 끝? IRP, 운용이 더 중요",
-      "link": "https://www.hankyung.com/article/202611198373i",
-      "pubDate": "Sun, 22 Nov 2026 09:19:02 +0900"
+      "title": "GS리테일, 중소 협력사 베트남 판로 개척 지원",
+      "link": "https://www.hankyung.com/article/2026112223641",
+      "pubDate": "Sun, 22 Nov 2026 17:03:18 +0900"
     },
     {
       "source": "한국경제",
-      "title": "가입 즉시 받을까, 매달 받을까…정기예금 이자도 입맛대로",
-      "link": "https://www.hankyung.com/article/202611209530i",
-      "pubDate": "Sun, 22 Nov 2026 09:17:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "GS리테일 \"베트남서 중소 협력사 26억원 규모 수출상담 성과\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122012000030",
-      "pubDate": "Sun, 22 Nov 2026 09:07:26 +0900"
+      "title": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱",
+      "link": "https://www.hankyung.com/article/2026112223621",
+      "pubDate": "Sun, 22 Nov 2026 17:03:13 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"호황이어도 한푼이 아쉽네\"…대기업 절반 이상 기부금 삭감",
-      "link": "https://www.hankyung.com/article/2026112218757",
-      "pubDate": "Sun, 22 Nov 2026 09:04:41 +0900"
+      "title": "한국코카콜라는 왜 해방촌에 빠졌나",
+      "link": "https://www.hankyung.com/article/2026112223611",
+      "pubDate": "Sun, 22 Nov 2026 17:02:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "경기도, 지역상생발전기금 4천억 미편성…시도 배분 차질 우려",
-      "link": "https://www.yna.co.kr/view/AKR20261120136900061",
-      "pubDate": "Sun, 22 Nov 2026 09:01:03 +0900"
+      "title": "'서울중수청 1호 강제수사' 명륜당 회장 추가 압수수색영장 기각",
+      "link": "https://www.yna.co.kr/view/AKR20261122036400004",
+      "pubDate": "Sun, 22 Nov 2026 16:29:11 +0900"
     },
     {
       "source": "한국경제",
-      "title": "노후자금 몰빵했는데 어쩌나…25% 추락한 ETF 정체 [김연지의 연금빌드업]",
-      "link": "https://www.hankyung.com/article/2026112099766",
-      "pubDate": "Sun, 22 Nov 2026 09:00:05 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "아파트 옆동 실거래가로 증여세 부과…법원 \"문제 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261121025900004",
-      "pubDate": "Sun, 22 Nov 2026 09:00:04 +0900"
+      "title": "\"더 떨어질까 봐 못 사겠어요\"…전문가들은 오히려 여길 봤다 [투자톡]",
+      "link": "https://www.hankyung.com/article/2026112000066",
+      "pubDate": "Sun, 22 Nov 2026 16:00:01 +0900"
     },
     {
       "source": "한국경제",
-      "title": "뿌링클도 제친 옛날 맛?…3주 만에 30만개 팔린 치킨 [권용훈의 트렌드워치]",
-      "link": "https://www.hankyung.com/article/202611211284i",
-      "pubDate": "Sun, 22 Nov 2026 08:59:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "CU, 프리미엄 쌀 '수향미' 적용 간편식 130만개 판매",
-      "link": "https://www.yna.co.kr/view/AKR20261122009300030",
-      "pubDate": "Sun, 22 Nov 2026 08:52:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경남신용보증재단 이사장 후보 재공모 끝 선정…인사청문 예정",
-      "link": "https://www.yna.co.kr/view/AKR20261122010400052",
-      "pubDate": "Sun, 22 Nov 2026 08:37:50 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 하나금융, 취약계층 어르신 1천명에 안전용품·보행기",
-      "link": "https://www.yna.co.kr/view/AKR20261121027700002",
-      "pubDate": "Sun, 22 Nov 2026 08:30:01 +0900"
+      "title": "\"한국선 술안주인데\"…美서 '슈퍼푸드'로 뜨더니 1조원 '잭팟'",
+      "link": "https://www.hankyung.com/article/2026112222987",
+      "pubDate": "Sun, 22 Nov 2026 15:58:00 +0900"
     },
     {
       "source": "한국경제",
-      "title": "학원도 아닌데 초등생들 우르르…방학 풍경 확 달라졌다 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202611169279i",
-      "pubDate": "Sun, 22 Nov 2026 08:21:01 +0900"
+      "title": "류재철 LG전자 사장 \"협력사와 제조혁신으로 미래 기회 만들자\"",
+      "link": "https://www.hankyung.com/article/202611222299i",
+      "pubDate": "Sun, 22 Nov 2026 15:36:35 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"K할매 패션인데\"…카리나도 입더니 외국인까지 푹 빠졌다",
+      "link": "https://www.hankyung.com/article/2026112222777",
+      "pubDate": "Sun, 22 Nov 2026 15:24:24 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "광주도시공사, 도심융합특구 예비사업시행자 지정",
-      "link": "https://www.yna.co.kr/view/AKR20261120158600054",
-      "pubDate": "Sun, 22 Nov 2026 08:20:02 +0900"
+      "title": "국힘, 2030 공략 고삐…張 \"청년약탈 李정권 맞서 정책전쟁\"",
+      "link": "https://www.yna.co.kr/view/AKR20261122032000001",
+      "pubDate": "Sun, 22 Nov 2026 15:20:36 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[팩트체크] 지점에서 현금 취급 안한다고?…'현금 없는 은행' 현황은",
-      "link": "https://www.yna.co.kr/view/AKR20261118167300518",
-      "pubDate": "Sun, 22 Nov 2026 08:00:09 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261122029300011",
+      "pubDate": "Sun, 22 Nov 2026 15:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "노동장관 \"정년연장, 27일 與특위 합의 안 되면 정부 나설 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261122019051530",
+      "pubDate": "Sun, 22 Nov 2026 14:39:44 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 핀테크 기업 10곳, 싱가포르서 투자유치 활동",
+      "link": "https://www.yna.co.kr/view/AKR20261122028300004",
+      "pubDate": "Sun, 22 Nov 2026 14:33:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "아태 100대 카페 韓 1위는 부산 모모스…2위는 '이곳'",
+      "link": "https://www.hankyung.com/article/2026112222087",
+      "pubDate": "Sun, 22 Nov 2026 14:21:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "말레이시아 쇼피에서 미국 아마존까지…K뷰티와 동행하는 한국 광고대행사",
+      "link": "https://www.hankyung.com/article/202611222198i",
+      "pubDate": "Sun, 22 Nov 2026 14:04:57 +0900"
     }
   ]
 }
