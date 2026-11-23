@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-23T11:05:21.973Z",
+  "updatedAt": "2026-11-23T22:36:18.414Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 6910.39,
-      "changePercent": -3.699,
-      "previousClose": 7561.67,
+      "price": 7237.17,
+      "changePercent": 4.729,
+      "previousClose": 7416.59,
       "currency": "USD",
       "history": [
-        7416.58984375,
         7340.52978515625,
         7323.6298828125,
         7175.830078125,
-        6910.39013671875
+        6910.39013671875,
+        7237.169921875
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 22617.732,
-      "changePercent": -5.283,
-      "previousClose": 25136.27,
+      "price": 24089.559,
+      "changePercent": 6.507,
+      "previousClose": 24509.76,
       "currency": "USD",
       "history": [
-        24509.759765625,
         24328.380859375,
         24429.880859375,
         23879.19921875,
-        22617.73046875
+        22617.73046875,
+        24089.55859375
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 48147.33,
-      "changePercent": -1.934,
-      "previousClose": 52347.55,
+      "price": 49595.31,
+      "changePercent": 3.007,
+      "previousClose": 51608.17,
       "currency": "USD",
       "history": [
-        51608.171875,
         50759.421875,
         50198.171875,
         49097.05859375,
-        48147.328125
+        48147.328125,
+        49595.30859375
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 82.52,
-      "changePercent": -1.067,
+      "price": 80.25,
+      "changePercent": -3.789,
       "previousClose": 83.26,
       "currency": "USD",
       "history": [
         83.26000213623047,
         83.20999908447266,
         83.9800033569336,
-        82.5199966430664
+        80.25
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3626.4,
-      "changePercent": 3.158,
+      "price": 3634.4,
+      "changePercent": 3.385,
       "previousClose": 3741.9,
       "currency": "USD",
       "history": [
         3741.89990234375,
         3685.5,
         3515.39990234375,
-        3626.39990234375
+        3634.39990234375
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.857,
-      "changePercent": 0.048,
+      "price": 104.34,
+      "changePercent": 0.513,
       "previousClose": 103.86,
       "currency": "USD",
       "history": [
         103.86000061035156,
         103.9000015258789,
         103.80999755859375,
-        103.85700225830078
+        104.33999633789062
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 29.83,
-      "changePercent": -16.88,
+      "price": 26.62,
+      "changePercent": -25.829,
       "previousClose": 25.46,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         24.559999465942383,
         28.440000534057617,
         35.88999938964844,
-        29.829999923706055
+        26.6200008392334
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "中, 무역흑자 적어보이기 전략…금값 하락에 281조원 사재기",
-      "link": "https://www.hankyung.com/article/202611235200i",
-      "pubDate": "Mon, 23 Nov 2026 19:22:51 +0900"
+      "source": "연합뉴스",
+      "title": "\"美 관세 달라지기 어려워…한국, 대미투자 편익 알려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261123157700003",
+      "pubDate": "Tue, 24 Nov 2026 07:30:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
-      "link": "https://www.yna.co.kr/view/AKR20261123163400008",
-      "pubDate": "Mon, 23 Nov 2026 19:00:26 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261124014700011",
+      "pubDate": "Tue, 24 Nov 2026 07:30:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
-      "link": "https://www.yna.co.kr/view/AKR20261123157200003",
-      "pubDate": "Mon, 23 Nov 2026 18:59:20 +0900"
+      "title": "강남구, 내달 정비사업아카데미서 조합원 지위 양도기준 강의",
+      "link": "https://www.yna.co.kr/view/AKR20261124016500004",
+      "pubDate": "Tue, 24 Nov 2026 07:18:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261123162100008",
-      "pubDate": "Mon, 23 Nov 2026 18:40:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이민자가 일자리에 미치는 영향…경제학의 결론은?",
-      "link": "https://www.hankyung.com/article/2026112348951",
-      "pubDate": "Mon, 23 Nov 2026 18:40:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "유주원 \"학벌도 인맥도 없지만 기술력 하나로 美 시장 뚫었죠\"",
-      "link": "https://www.hankyung.com/article/2026112351121",
-      "pubDate": "Mon, 23 Nov 2026 18:20:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "두산, 다문화 가정 등에 장학금 5억 원 지원",
-      "link": "https://www.hankyung.com/article/2026112351101",
-      "pubDate": "Mon, 23 Nov 2026 18:17:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "농협銀, 농어촌 학교에 학습공간 개선",
-      "link": "https://www.hankyung.com/article/2026112351051",
-      "pubDate": "Mon, 23 Nov 2026 18:16:36 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신한銀, 소아암 환아 응원 달리기 개최",
-      "link": "https://www.hankyung.com/article/2026112351041",
-      "pubDate": "Mon, 23 Nov 2026 18:15:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "신협중앙회, 국가유산청과 전국 사찰 등에 난연복 후원",
-      "link": "https://www.hankyung.com/article/2026112350991",
-      "pubDate": "Mon, 23 Nov 2026 18:11:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "반도체 고점론 공방 확산…삼전닉스 \"빅테크 장기계약 변동없다\"",
-      "link": "https://www.hankyung.com/article/2026112350891",
-      "pubDate": "Mon, 23 Nov 2026 18:04:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "포스코퓨처엠 \"차세대 음극재, 매달 수백건 테스트\"",
-      "link": "https://www.hankyung.com/article/2026112350921",
-      "pubDate": "Mon, 23 Nov 2026 18:01:52 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "롯데타워 2년만에 담보 해제…'그룹의 심장' 되찾은 신동빈",
-      "link": "https://www.hankyung.com/article/2026112350901",
-      "pubDate": "Mon, 23 Nov 2026 18:01:07 +0900"
+      "title": "[우분투칼럼] 막힌 중동 바닷길과 아프리카 희망봉의 재부상",
+      "link": "https://www.yna.co.kr/view/AKR20261119089000898",
+      "pubDate": "Tue, 24 Nov 2026 07:00:05 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261123150300011",
-      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0900"
+      "title": "\"벤처투자 비수도권 1위 대전, 실제 창업의향은 가장 낮아\"…왜?",
+      "link": "https://www.yna.co.kr/view/AKR20261123148000063",
+      "pubDate": "Tue, 24 Nov 2026 07:00:04 +0900"
     },
     {
       "source": "한국경제",
-      "title": "삼성물산 건설부문장에 최영재 사장",
-      "link": "https://www.hankyung.com/article/2026112350911",
-      "pubDate": "Mon, 23 Nov 2026 17:57:11 +0900"
+      "title": "\"4시간에 20만원, 술 안 마시고 여기 간다\"…2030 바글바글",
+      "link": "https://www.hankyung.com/article/2026112349681",
+      "pubDate": "Tue, 24 Nov 2026 07:00:01 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "내년부터 주택조합도 공사비 검증 의무…조합원 5분의 1 요구 시",
+      "link": "https://www.yna.co.kr/view/AKR20261123124600003",
+      "pubDate": "Tue, 24 Nov 2026 06:07:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "한중 FTA 후속타결에 K-뷰티·여행업 '화색'…중국 재공략 시동",
+      "link": "https://www.yna.co.kr/view/AKR20261123159500030",
+      "pubDate": "Tue, 24 Nov 2026 06:03:03 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "계절적 수요 증가 기대에…기업 경기전망 3개월만에 '긍정적'",
+      "link": "https://www.yna.co.kr/view/AKR20261123129900003",
+      "pubDate": "Tue, 24 Nov 2026 06:00:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "AI·로봇이 바꾸는 건설현장…25일부터 스마트건설 엑스포",
+      "link": "https://www.yna.co.kr/view/AKR20261123133500003",
+      "pubDate": "Tue, 24 Nov 2026 06:00:10 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"일본서 주문 몰려드는데\"…생굴값 뚝 떨어진 이유 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202611235313i",
+      "pubDate": "Tue, 24 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "중기부, 초격차 스타트업 유럽 진출 지원…베를린서 투자유치전",
+      "link": "https://www.yna.co.kr/view/AKR20261123146100030",
+      "pubDate": "Tue, 24 Nov 2026 06:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "소비심리 두달째 위축…집값 상승 기대도 8개월만에 최대폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20261123156700002",
+      "pubDate": "Tue, 24 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "가상자산사업자 28곳 모두 신고…당국, 대주주까지 심사",
+      "link": "https://www.yna.co.kr/view/AKR20261123158800002",
+      "pubDate": "Tue, 24 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]",
+      "link": "https://www.hankyung.com/article/202611234507g",
+      "pubDate": "Tue, 24 Nov 2026 06:00:03 +0900"
     }
   ]
 }
