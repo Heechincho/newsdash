@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:25:50.268Z",
+  "updatedAt": "2026-11-23T11:05:21.973Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 83.26,
-      "changePercent": -0.18,
-      "previousClose": 86.01,
+      "price": 82.52,
+      "changePercent": -1.067,
+      "previousClose": 83.26,
       "currency": "USD",
       "history": [
-        86.01000213623047,
         83.26000213623047,
         83.20999908447266,
         83.9800033569336,
-        83.26000213623047
+        82.5199966430664
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3584.2,
-      "changePercent": 1.957,
-      "previousClose": 3864.2,
+      "price": 3626.4,
+      "changePercent": 3.158,
+      "previousClose": 3741.9,
       "currency": "USD",
       "history": [
-        3864.199951171875,
         3741.89990234375,
         3685.5,
         3515.39990234375,
-        3584.199951171875
+        3626.39990234375
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.769,
-      "changePercent": -0.037,
-      "previousClose": 103.49,
+      "price": 103.857,
+      "changePercent": 0.048,
+      "previousClose": 103.86,
       "currency": "USD",
       "history": [
-        103.48999786376953,
         103.86000061035156,
         103.9000015258789,
         103.80999755859375,
-        103.76899719238281
+        103.85700225830078
       ],
       "ok": true
     },
@@ -107,110 +104,110 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 35.89,
-      "changePercent": 26.195,
-      "previousClose": 19.3,
+      "price": 29.83,
+      "changePercent": -16.88,
+      "previousClose": 25.46,
       "currency": "USD",
       "history": [
-        22.90999984741211,
         25.459999084472656,
         24.559999465942383,
         28.440000534057617,
-        35.88999938964844
+        35.88999938964844,
+        29.829999923706055
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "연합뉴스",
-      "title": "서울도서관, 건립 100년 맞아 리모델링…2029년 6월 완공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20261123045700004",
-      "pubDate": "Mon, 23 Nov 2026 11:15:01 +0900"
+      "source": "한국경제",
+      "title": "中, 무역흑자 적어보이기 전략…금값 하락에 281조원 사재기",
+      "link": "https://www.hankyung.com/article/202611235200i",
+      "pubDate": "Mon, 23 Nov 2026 19:22:51 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울먹거리창업센터→서울그린바이오허브 개편…지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261123045900004",
-      "pubDate": "Mon, 23 Nov 2026 11:15:00 +0900"
+      "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
+      "link": "https://www.yna.co.kr/view/AKR20261123163400008",
+      "pubDate": "Mon, 23 Nov 2026 19:00:26 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울미래인재재단, 현직 인사담당자와 장학생 취업 멘토링",
-      "link": "https://www.yna.co.kr/view/AKR20261123046000004",
-      "pubDate": "Mon, 23 Nov 2026 11:15:00 +0900"
+      "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
+      "link": "https://www.yna.co.kr/view/AKR20261123157200003",
+      "pubDate": "Mon, 23 Nov 2026 18:59:20 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "코웨이, '핀업디자인어워드'서 5관왕…디자인 경영상도 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261123074700030",
-      "pubDate": "Mon, 23 Nov 2026 11:11:10 +0900"
+      "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261123162100008",
+      "pubDate": "Mon, 23 Nov 2026 18:40:31 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "이민자가 일자리에 미치는 영향…경제학의 결론은?",
+      "link": "https://www.hankyung.com/article/2026112348951",
+      "pubDate": "Mon, 23 Nov 2026 18:40:17 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "유주원 \"학벌도 인맥도 없지만 기술력 하나로 美 시장 뚫었죠\"",
+      "link": "https://www.hankyung.com/article/2026112351121",
+      "pubDate": "Mon, 23 Nov 2026 18:20:53 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "두산, 다문화 가정 등에 장학금 5억 원 지원",
+      "link": "https://www.hankyung.com/article/2026112351101",
+      "pubDate": "Mon, 23 Nov 2026 18:17:34 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농협銀, 농어촌 학교에 학습공간 개선",
+      "link": "https://www.hankyung.com/article/2026112351051",
+      "pubDate": "Mon, 23 Nov 2026 18:16:36 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "신한銀, 소아암 환아 응원 달리기 개최",
+      "link": "https://www.hankyung.com/article/2026112351041",
+      "pubDate": "Mon, 23 Nov 2026 18:15:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "신협중앙회, 국가유산청과 전국 사찰 등에 난연복 후원",
+      "link": "https://www.hankyung.com/article/2026112350991",
+      "pubDate": "Mon, 23 Nov 2026 18:11:14 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "반도체 고점론 공방 확산…삼전닉스 \"빅테크 장기계약 변동없다\"",
+      "link": "https://www.hankyung.com/article/2026112350891",
+      "pubDate": "Mon, 23 Nov 2026 18:04:21 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "포스코퓨처엠 \"차세대 음극재, 매달 수백건 테스트\"",
+      "link": "https://www.hankyung.com/article/2026112350921",
+      "pubDate": "Mon, 23 Nov 2026 18:01:52 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "롯데타워 2년만에 담보 해제…'그룹의 심장' 되찾은 신동빈",
+      "link": "https://www.hankyung.com/article/2026112350901",
+      "pubDate": "Mon, 23 Nov 2026 18:01:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[정읍소식] 정읍수성1 영구임대주택 예비입주자 200가구 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261123073200055",
-      "pubDate": "Mon, 23 Nov 2026 11:10:13 +0900"
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261123150300011",
+      "pubDate": "Mon, 23 Nov 2026 18:00:00 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "국제유가, 중동 긴장 악화에도 원유 수출 회복에 하락세",
-      "link": "https://www.yna.co.kr/view/AKR20261123074500009",
-      "pubDate": "Mon, 23 Nov 2026 11:06:01 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국회서 동남권투자공사 설립 입법 토론회…법안 처리 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20261123070700051",
-      "pubDate": "Mon, 23 Nov 2026 11:04:47 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "순천향대, 충남 북부권 창업거점 선정…창업 교육·투자 연계",
-      "link": "https://www.yna.co.kr/view/AKR20261123071400063",
-      "pubDate": "Mon, 23 Nov 2026 11:03:16 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 해양수산부, 내달 1일까지 '우리 바닷장어 연말 보양 특별전'",
-      "link": "https://www.yna.co.kr/view/AKR20261123043600030",
-      "pubDate": "Mon, 23 Nov 2026 11:00:04 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농식품부, 튀르키예 농산업박람회 참가…농기자재 수출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261123052000030",
-      "pubDate": "Mon, 23 Nov 2026 11:00:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "경남 우주항공·방산 거점 육성…1.5조 투자·8천200억 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20261123051100003",
-      "pubDate": "Mon, 23 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[게시판] 신한은행, 캐릭터 키우며 혜택받는 게임형 금융서비스 '키워요'",
-      "link": "https://www.yna.co.kr/view/AKR20261123072100002",
-      "pubDate": "Mon, 23 Nov 2026 10:59:48 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "CJ웰케어, 일본 음료 '키레토 레몬' 국내 공식 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261123070600030",
-      "pubDate": "Mon, 23 Nov 2026 10:57:46 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "NOL, 글로벌 또래 여행객과 떠나는 소규모 그룹여행 선보인다",
-      "link": "https://www.yna.co.kr/view/AKR20261123069300030",
-      "pubDate": "Mon, 23 Nov 2026 10:54:33 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "野의원모임 \"부동산 세법개정안 수정해야…총선 연계 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20261123064700001",
-      "pubDate": "Mon, 23 Nov 2026 10:54:25 +0900"
+      "source": "한국경제",
+      "title": "삼성물산 건설부문장에 최영재 사장",
+      "link": "https://www.hankyung.com/article/2026112350911",
+      "pubDate": "Mon, 23 Nov 2026 17:57:11 +0900"
     }
   ]
 }
