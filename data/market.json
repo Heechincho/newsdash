@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:36:18.414Z",
+  "updatedAt": "2026-11-24T06:23:45.099Z",
   "instruments": [
     {
       "key": "sp500",
@@ -23,7 +23,7 @@
       "label": "나스닥",
       "symbol": "^IXIC",
       "price": 24089.559,
-      "changePercent": 6.507,
+      "changePercent": 6.508,
       "previousClose": 24509.76,
       "currency": "USD",
       "history": [
@@ -31,7 +31,7 @@
         24429.880859375,
         23879.19921875,
         22617.73046875,
-        24089.55859375
+        24089.560546875
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 80.25,
-      "changePercent": -3.789,
-      "previousClose": 83.26,
+      "price": 79.68,
+      "changePercent": -0.611,
+      "previousClose": 83.21,
       "currency": "USD",
       "history": [
-        83.26000213623047,
         83.20999908447266,
         83.9800033569336,
-        80.25
+        80.16999816894531,
+        79.68000030517578
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3634.4,
-      "changePercent": 3.385,
-      "previousClose": 3741.9,
+      "price": 3627.7,
+      "changePercent": -0.649,
+      "previousClose": 3685.5,
       "currency": "USD",
       "history": [
-        3741.89990234375,
         3685.5,
         3515.39990234375,
-        3634.39990234375
+        3651.39990234375,
+        3627.699951171875
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 104.34,
-      "changePercent": 0.513,
-      "previousClose": 103.86,
+      "price": 104.287,
+      "changePercent": -0.03,
+      "previousClose": 103.9,
       "currency": "USD",
       "history": [
-        103.86000061035156,
         103.9000015258789,
         103.80999755859375,
-        104.33999633789062
+        104.31999969482422,
+        104.28700256347656
       ],
       "ok": true
     },
@@ -121,93 +121,93 @@
   "news": [
     {
       "source": "연합뉴스",
-      "title": "\"美 관세 달라지기 어려워…한국, 대미투자 편익 알려야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261123157700003",
-      "pubDate": "Tue, 24 Nov 2026 07:30:02 +0900"
+      "title": "금감원 \"랩어카운트 과도한 투자손실…내부통제 강화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261124131600002",
+      "pubDate": "Tue, 24 Nov 2026 15:10:13 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20261124014700011",
-      "pubDate": "Tue, 24 Nov 2026 07:30:01 +0900"
+      "title": "'월세살이' 5년새 104만 가구 늘어…'비혼 동거' 17만 가구(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261124092351002",
+      "pubDate": "Tue, 24 Nov 2026 15:07:08 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "강남구, 내달 정비사업아카데미서 조합원 지위 양도기준 강의",
-      "link": "https://www.yna.co.kr/view/AKR20261124016500004",
-      "pubDate": "Tue, 24 Nov 2026 07:18:13 +0900"
+      "title": "은평구, '주민자치회 사무국장' 16명 공개 채용",
+      "link": "https://www.yna.co.kr/view/AKR20261124131300004",
+      "pubDate": "Tue, 24 Nov 2026 15:05:50 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "[우분투칼럼] 막힌 중동 바닷길과 아프리카 희망봉의 재부상",
-      "link": "https://www.yna.co.kr/view/AKR20261119089000898",
-      "pubDate": "Tue, 24 Nov 2026 07:00:05 +0900"
+      "title": "벡스코, 마케팅본부장에 정영수 코트라 실장 선임",
+      "link": "https://www.yna.co.kr/view/AKR20261124130800051",
+      "pubDate": "Tue, 24 Nov 2026 15:04:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "\"벤처투자 비수도권 1위 대전, 실제 창업의향은 가장 낮아\"…왜?",
-      "link": "https://www.yna.co.kr/view/AKR20261123148000063",
-      "pubDate": "Tue, 24 Nov 2026 07:00:04 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"4시간에 20만원, 술 안 마시고 여기 간다\"…2030 바글바글",
-      "link": "https://www.hankyung.com/article/2026112349681",
-      "pubDate": "Tue, 24 Nov 2026 07:00:01 +0900"
+      "title": "박홍배 의원, 공공기관 지역인재 의무채용 회피 방지법 발의",
+      "link": "https://www.yna.co.kr/view/AKR20261124129000051",
+      "pubDate": "Tue, 24 Nov 2026 15:01:53 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "내년부터 주택조합도 공사비 검증 의무…조합원 5분의 1 요구 시",
-      "link": "https://www.yna.co.kr/view/AKR20261123124600003",
-      "pubDate": "Tue, 24 Nov 2026 06:07:00 +0900"
+      "title": "이창용 \"금융산업, 정책수단으로만 보면 안돼…제약 줄여야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261124122600017",
+      "pubDate": "Tue, 24 Nov 2026 15:00:11 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한중 FTA 후속타결에 K-뷰티·여행업 '화색'…중국 재공략 시동",
-      "link": "https://www.yna.co.kr/view/AKR20261123159500030",
-      "pubDate": "Tue, 24 Nov 2026 06:03:03 +0900"
+      "title": "디지털자산법에 업계 기대감…스테이블코인·ICO 길 열리나",
+      "link": "https://www.yna.co.kr/view/AKR20261124102100002",
+      "pubDate": "Tue, 24 Nov 2026 15:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "계절적 수요 증가 기대에…기업 경기전망 3개월만에 '긍정적'",
-      "link": "https://www.yna.co.kr/view/AKR20261123129900003",
-      "pubDate": "Tue, 24 Nov 2026 06:00:11 +0900"
+      "title": "코인거래소 대주주 지분 20% 제한…스테이블코인 은행 주도",
+      "link": "https://www.yna.co.kr/view/AKR20261124124400002",
+      "pubDate": "Tue, 24 Nov 2026 15:00:07 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "AI·로봇이 바꾸는 건설현장…25일부터 스마트건설 엑스포",
-      "link": "https://www.yna.co.kr/view/AKR20261123133500003",
-      "pubDate": "Tue, 24 Nov 2026 06:00:10 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"일본서 주문 몰려드는데\"…생굴값 뚝 떨어진 이유 [프라이스&]",
-      "link": "https://www.hankyung.com/article/202611235313i",
-      "pubDate": "Tue, 24 Nov 2026 06:00:08 +0900"
+      "title": "공정위, AI시대 플랫폼 시장지배력 대응 방안 모색",
+      "link": "https://www.yna.co.kr/view/AKR20261124109800002",
+      "pubDate": "Tue, 24 Nov 2026 15:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "중기부, 초격차 스타트업 유럽 진출 지원…베를린서 투자유치전",
-      "link": "https://www.yna.co.kr/view/AKR20261123146100030",
-      "pubDate": "Tue, 24 Nov 2026 06:00:06 +0900"
+      "title": "부산상의, 루마니아·튀르키예 경제사절단…교역 활성화 모색",
+      "link": "https://www.yna.co.kr/view/AKR20261124108800051",
+      "pubDate": "Tue, 24 Nov 2026 15:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "소비심리 두달째 위축…집값 상승 기대도 8개월만에 최대폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261123156700002",
-      "pubDate": "Tue, 24 Nov 2026 06:00:05 +0900"
+      "title": "중기부, 'K-브랜드 글로우 위크' 개막…95개 기업 제품 전시",
+      "link": "https://www.yna.co.kr/view/AKR20261124115200030",
+      "pubDate": "Tue, 24 Nov 2026 15:00:01 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "가상자산사업자 28곳 모두 신고…당국, 대주주까지 심사",
-      "link": "https://www.yna.co.kr/view/AKR20261123158800002",
-      "pubDate": "Tue, 24 Nov 2026 06:00:04 +0900"
+      "title": "삼성 안내견·현대차 소방관 지원…국민이 뽑은 사회공헌 맛집",
+      "link": "https://www.yna.co.kr/view/AKR20261124124300003",
+      "pubDate": "Tue, 24 Nov 2026 15:00:01 +0900"
     },
     {
-      "source": "한국경제",
-      "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]",
-      "link": "https://www.hankyung.com/article/202611234507g",
-      "pubDate": "Tue, 24 Nov 2026 06:00:03 +0900"
+      "source": "연합뉴스",
+      "title": "디지털자산업자, 해킹 피해 과실 없어도 배상…금융사 수준 규제",
+      "link": "https://www.yna.co.kr/view/AKR20261124124200002",
+      "pubDate": "Tue, 24 Nov 2026 15:00:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "원주의료기기산업진흥원·K-헬스미래추진단, 연구개발 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261124127900062",
+      "pubDate": "Tue, 24 Nov 2026 14:59:41 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "화천군, 농촌유학 가구에 주택 공급 추진…10가구 조성 목표",
+      "link": "https://www.yna.co.kr/view/AKR20261124127300062",
+      "pubDate": "Tue, 24 Nov 2026 14:56:31 +0900"
     }
   ]
 }
