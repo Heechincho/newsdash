@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-25T11:36:14.448Z",
+  "updatedAt": "2026-11-25T20:38:33.417Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7201.09,
-      "changePercent": -0.499,
-      "previousClose": 7340.53,
+      "price": 7152.33,
+      "changePercent": -0.677,
+      "previousClose": 7323.63,
       "currency": "USD",
       "history": [
-        7323.6298828125,
         7175.830078125,
         6910.39013671875,
         7237.169921875,
-        7201.08984375
+        7201.08984375,
+        7152.330078125
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 23733.535,
-      "changePercent": -1.478,
-      "previousClose": 24328.38,
+      "price": 23435.623,
+      "changePercent": -1.255,
+      "previousClose": 24429.88,
       "currency": "USD",
       "history": [
-        24429.880859375,
         23879.19921875,
         22617.73046875,
         24089.560546875,
-        23733.5390625
+        23733.5390625,
+        23435.623046875
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 50018.7,
-      "changePercent": 0.854,
-      "previousClose": 50759.42,
+      "price": 50103.88,
+      "changePercent": 0.17,
+      "previousClose": 50198.17,
       "currency": "USD",
       "history": [
-        50198.171875,
         49097.05859375,
         48147.328125,
         49595.30859375,
-        50018.69921875
+        50018.69921875,
+        50103.87890625
       ],
       "ok": true
     },
@@ -56,15 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 81.41,
-      "changePercent": -0.78,
+      "price": 83.99,
+      "changePercent": 2.364,
       "previousClose": 83.98,
       "currency": "USD",
       "history": [
         83.9800033569336,
         80.16999816894531,
         82.05000305175781,
-        81.41000366210938
+        83.98999786376953
       ],
       "ok": true
     },
@@ -72,15 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3551.2,
-      "changePercent": -1.111,
+      "price": 3607,
+      "changePercent": 0.443,
       "previousClose": 3515.4,
       "currency": "USD",
       "history": [
         3515.39990234375,
         3651.39990234375,
         3561.89990234375,
-        3551.199951171875
+        3607
       ],
       "ok": true
     },
@@ -88,15 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 104.02,
-      "changePercent": 0.198,
+      "price": 103.665,
+      "changePercent": -0.144,
       "previousClose": 103.81,
       "currency": "USD",
       "history": [
         103.80999755859375,
         104.31999969482422,
         103.80999755859375,
-        104.0199966430664
+        103.66500091552734
       ],
       "ok": true
     },
@@ -104,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 29.47,
-      "changePercent": 11.812,
+      "price": 27.9,
+      "changePercent": 5.838,
       "previousClose": 28.44,
       "currency": "USD",
       "history": [
@@ -113,101 +113,101 @@
         35.88999938964844,
         26.6200008392334,
         26.360000610351562,
-        29.469999313354492
+        27.899999618530273
       ],
       "ok": true
     }
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "한국투자저축은행 8.6만명 개인정보 유출",
-      "link": "https://www.hankyung.com/article/2026112505211",
-      "pubDate": "Wed, 25 Nov 2026 19:47:38 +0900"
+      "source": "연합뉴스",
+      "title": "국세청장 후보자 인사청문회…비거주 1주택 등 공방 예상",
+      "link": "https://www.yna.co.kr/view/AKR20261125150200001",
+      "pubDate": "Thu, 26 Nov 2026 05:00:03 +0900"
     },
     {
       "source": "한국경제",
-      "title": "\"여기 짬뽕 순두부 주세요\"…전기차 충전하러 갔다가 '깜짝' [현장+]",
-      "link": "https://www.hankyung.com/article/202611259359H",
-      "pubDate": "Wed, 25 Nov 2026 19:30:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AI發 부채폭탄 공포…코어위브 부도보험료 13%, 소프트뱅크 5% 돌파",
-      "link": "https://www.hankyung.com/article/202611250492i",
-      "pubDate": "Wed, 25 Nov 2026 19:21:02 +0900"
+      "title": "美 10월 PCE 3.8%↑…12월 금리인상 힘실려",
+      "link": "https://www.hankyung.com/article/2026112506871",
+      "pubDate": "Thu, 26 Nov 2026 01:51:52 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125168600001",
-      "pubDate": "Wed, 25 Nov 2026 19:11:27 +0900"
+      "title": "민주노총 위원장 선거 결선으로…양경수·엄길용 2파전",
+      "link": "https://www.yna.co.kr/view/AKR20261126001900530",
+      "pubDate": "Thu, 26 Nov 2026 01:28:22 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한경협 류진 연임 가능성 시사…\"현장 고생하는데 놀 순 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125170600003",
-      "pubDate": "Wed, 25 Nov 2026 19:06:44 +0900"
+      "title": "역대급 대미흑자 관세 부메랑 피했다…15% 사수에 일단 안도",
+      "link": "https://www.yna.co.kr/view/AKR20261126002000003",
+      "pubDate": "Thu, 26 Nov 2026 01:26:29 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "트럼프가 젠슨황 복귀원한 또다른 이유…美AI업계 두갈래 전쟁",
+      "link": "https://www.hankyung.com/article/202611260716i",
+      "pubDate": "Thu, 26 Nov 2026 01:06:45 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 새 관세 발표…한국·일본 15% 유지,중국은 최대 40%",
+      "link": "https://www.hankyung.com/article/202611250639i",
+      "pubDate": "Wed, 25 Nov 2026 23:20:55 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 '과잉생산 관세' 발표 예고…\"한국엔 15% 상한 유지\"",
+      "link": "https://www.hankyung.com/article/2026112506641",
+      "pubDate": "Wed, 25 Nov 2026 23:14:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "OSB저축은행, 장찬 대표 연임 수순",
+      "link": "https://www.hankyung.com/article/202611250422i",
+      "pubDate": "Wed, 25 Nov 2026 23:08:16 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美 10월 PCE는 연 3.8% 상승에 3분기 GDP는 연 4.3% 성장",
+      "link": "https://www.hankyung.com/article/202611250630i",
+      "pubDate": "Wed, 25 Nov 2026 22:44:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "삼일·안진·한영 회계사 3명 제재…감사 정보 외부 누설",
-      "link": "https://www.yna.co.kr/view/AKR20261125171000002",
-      "pubDate": "Wed, 25 Nov 2026 19:06:15 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'남자들도 신는다고?'…사흘 만에 80억 잭팟 터진 '장원영 신발' [장서우의 하입:hype]",
-      "link": "https://www.hankyung.com/article/202611250273i",
-      "pubDate": "Wed, 25 Nov 2026 19:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[단독] 수천원 내고 200만원?…9배 폭증한 '이 보험' 뭐길래",
-      "link": "https://www.hankyung.com/article/2026112502461",
-      "pubDate": "Wed, 25 Nov 2026 18:48:34 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "등록만 하고 활동 보고는 '깜깜'…창업기획자 42곳 무더기 퇴출",
-      "link": "https://www.hankyung.com/article/202611250462i",
-      "pubDate": "Wed, 25 Nov 2026 18:33:12 +0900"
+      "title": "10조원대 증안펀드 확대되나…산은, 금융사 추가 출자 타진",
+      "link": "https://www.yna.co.kr/view/AKR20261125183800002",
+      "pubDate": "Wed, 25 Nov 2026 22:10:15 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "미공개중요정보로 1.8억 부당이득…코스닥社 임직원 중수청 통보",
-      "link": "https://www.yna.co.kr/view/AKR20261125167400002",
-      "pubDate": "Wed, 25 Nov 2026 18:25:23 +0900"
+      "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
+      "link": "https://www.yna.co.kr/view/AKR20261125182700530",
+      "pubDate": "Wed, 25 Nov 2026 21:49:18 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "'국내 와인 수입사 첫 상장' 나라셀라, 소주 시장 진출",
-      "link": "https://www.yna.co.kr/view/AKR20261125166800030",
-      "pubDate": "Wed, 25 Nov 2026 18:25:02 +0900"
+      "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261125168651001",
+      "pubDate": "Wed, 25 Nov 2026 21:33:27 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "美, 中 AI칩 우회로 차단…동남아 데이터센터 '고객 쟁탈전'",
+      "link": "https://www.hankyung.com/article/202611250573i",
+      "pubDate": "Wed, 25 Nov 2026 21:20:16 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "한국투자저축은행 8만6천여명 개인정보 유출…업권 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261125165600002",
-      "pubDate": "Wed, 25 Nov 2026 18:11:32 +0900"
+      "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261125122851003",
+      "pubDate": "Wed, 25 Nov 2026 21:02:34 +0900"
     },
     {
       "source": "한국경제",
-      "title": "김정관 “중국 R&D에 가장 밀리는 건 시간…주 52시간도 못 풀면 미래 없다”",
-      "link": "https://www.hankyung.com/article/202611250417i",
-      "pubDate": "Wed, 25 Nov 2026 18:10:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "공론화에 발목잡힌 국가 전력…'하남 변전소' 주민투표로",
-      "link": "https://www.hankyung.com/article/2026112503361",
-      "pubDate": "Wed, 25 Nov 2026 18:08:39 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "MZ 부모들이 해냈다…출생아 증가율 '역대 최고'",
-      "link": "https://www.hankyung.com/article/2026112502901",
-      "pubDate": "Wed, 25 Nov 2026 18:07:24 +0900"
+      "title": "\"가운 믿고 바릅니다\"…외국인 몰리는 뜻밖의 'K뷰티 성지'",
+      "link": "https://www.hankyung.com/article/202611250203g",
+      "pubDate": "Wed, 25 Nov 2026 21:01:28 +0900"
     }
   ]
 }
