@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:28:03.479Z",
+  "updatedAt": "2026-11-26T21:51:21.940Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 84.41,
-      "changePercent": 0.872,
+      "price": 84.91,
+      "changePercent": 1.47,
       "previousClose": 83.98,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         80.16999816894531,
         82.05000305175781,
         83.68000030517578,
-        84.41000366210938
+        84.91000366210938
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3594.7,
-      "changePercent": 0.844,
+      "price": 3593.4,
+      "changePercent": 0.808,
       "previousClose": 3515.4,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3651.39990234375,
         3561.89990234375,
         3535.800048828125,
-        3594.699951171875
+        3593.39990234375
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.771,
-      "changePercent": 0.102,
+      "price": 103.785,
+      "changePercent": 0.116,
       "previousClose": 103.81,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         104.31999969482422,
         103.80999755859375,
         103.66999816894531,
-        103.77100372314453
+        103.78500366210938
       ],
       "ok": true
     },
@@ -107,8 +107,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 26.96,
-      "changePercent": -4.706,
+      "price": 26.8,
+      "changePercent": -5.267,
       "previousClose": 35.89,
       "currency": "USD",
       "history": [
@@ -116,12 +116,78 @@
         26.6200008392334,
         26.360000610351562,
         28.290000915527344,
-        26.959999084472656
+        26.799999237060547
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "한국경제",
+      "title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+      "link": "https://www.hankyung.com/article/2026112735457",
+      "pubDate": "Fri, 27 Nov 2026 06:23:11 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"中에 1%라도 임대하면 칩 공급 안 해\"…엔비디아 판매상 강경방침",
+      "link": "https://www.hankyung.com/article/2026112735397",
+      "pubDate": "Fri, 27 Nov 2026 06:13:00 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "서울 다산콜센터 해외서도 벤치마킹…이란에 '128콜센터' 설립",
+      "link": "https://www.yna.co.kr/view/AKR20261126165300004",
+      "pubDate": "Fri, 27 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "SNS 인증샷 늘더니…60만원까지 치솟은 '크리스마스 핫템' [프라이스&]",
+      "link": "https://www.hankyung.com/article/202611261253i",
+      "pubDate": "Fri, 27 Nov 2026 06:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "롯데멤버스, 세븐일레븐 결제 엘포인트 토스앱서 사후적립 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20261126176200030",
+      "pubDate": "Fri, 27 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "대출 늘고 금리 오르며…은행 3분기까지 이자이익 48조원 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20261126177900002",
+      "pubDate": "Fri, 27 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "3분기 보험사 대출잔액 2.1조원 줄어…연체율·부실채권비율↑",
+      "link": "https://www.yna.co.kr/view/AKR20261126188100002",
+      "pubDate": "Fri, 27 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"美서 역대급 실적\" 현대차, 내년 '쌍두마차 출격' 박차 가한다",
+      "link": "https://www.hankyung.com/article/202611262646g",
+      "pubDate": "Fri, 27 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "농협 조합장 1104명 \"농협 본사 지방이전 대상서 제외해야\"",
+      "link": "https://www.hankyung.com/article/202611273485i",
+      "pubDate": "Fri, 27 Nov 2026 00:07:59 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'이 시나리오면 2028년 먹구름'…한국은행이 보낸 경고 [분석+]",
+      "link": "https://www.hankyung.com/article/2026112625776",
+      "pubDate": "Thu, 26 Nov 2026 22:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"머스크마저 이런 제안을\"…삼성전자 몸값 치솟자 벌어진 일",
+      "link": "https://www.hankyung.com/article/2026112634217",
+      "pubDate": "Thu, 26 Nov 2026 21:21:03 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "KS인더스트리, 50억원 유상증자…프라임라이트투자조합1호에 제3자배정",
@@ -145,72 +211,6 @@
       "title": "오세훈·김은혜, 부동산 정책 공조…내달 1일 세미나 공동 개최(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261126122651001",
       "pubDate": "Thu, 26 Nov 2026 18:49:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "'국세外 걷으면 간판 바꿔야' 지적에 안덕수 \"고민해보겠다\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261126091352002",
-      "pubDate": "Thu, 26 Nov 2026 18:49:46 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"화웨이, 차세대 HBM 기술 공개 눈앞\"",
-      "link": "https://www.hankyung.com/article/2026112631791",
-      "pubDate": "Thu, 26 Nov 2026 18:45:30 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "무뇨스·송호성 유임…모비스 사장에 백철승",
-      "link": "https://www.hankyung.com/article/2026112630911",
-      "pubDate": "Thu, 26 Nov 2026 18:43:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "통합 LCC '부산'에 둥지…\"김해공항 제2허브 도약 시동\" [종합]",
-      "link": "https://www.hankyung.com/article/202611262531g",
-      "pubDate": "Thu, 26 Nov 2026 18:41:57 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "초대형 LCC '통합 진에어'…부산 본사 시대 연다",
-      "link": "https://www.hankyung.com/article/2026112630901",
-      "pubDate": "Thu, 26 Nov 2026 18:41:50 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼성전자, 대대적 조직 개편…\"메모리 개발체제 일원화\"",
-      "link": "https://www.hankyung.com/article/2026112630891",
-      "pubDate": "Thu, 26 Nov 2026 18:40:33 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "HS효성, 안성훈·성낙양 사장 승진",
-      "link": "https://www.hankyung.com/article/2026112630881",
-      "pubDate": "Thu, 26 Nov 2026 18:40:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "두산, 셋방살이 끝내고 을지로에 신사옥",
-      "link": "https://www.hankyung.com/article/2026112630851",
-      "pubDate": "Thu, 26 Nov 2026 18:39:31 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "삼천리그룹, 길형도·서광영 사장 승진",
-      "link": "https://www.hankyung.com/article/2026112630871",
-      "pubDate": "Thu, 26 Nov 2026 18:39:17 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "[포토] 수출 1조달러 달성 기념 우표 발행",
-      "link": "https://www.hankyung.com/article/2026112630821",
-      "pubDate": "Thu, 26 Nov 2026 18:38:49 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "李대통령 \"정부지원으로 성공한 기업, 이익 독차지 말고 재투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20261126176100001",
-      "pubDate": "Thu, 26 Nov 2026 18:37:36 +0900"
     }
   ]
 }
