@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T21:51:21.940Z",
+  "updatedAt": "2026-11-27T03:58:27.142Z",
   "instruments": [
     {
       "key": "sp500",
@@ -56,8 +56,8 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 84.91,
-      "changePercent": 1.47,
+      "price": 85.71,
+      "changePercent": 2.426,
       "previousClose": 83.98,
       "currency": "USD",
       "history": [
@@ -65,7 +65,7 @@
         80.16999816894531,
         82.05000305175781,
         83.68000030517578,
-        84.91000366210938
+        85.70999908447266
       ],
       "ok": true
     },
@@ -73,8 +73,8 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3593.4,
-      "changePercent": 0.808,
+      "price": 3658.7,
+      "changePercent": 2.64,
       "previousClose": 3515.4,
       "currency": "USD",
       "history": [
@@ -82,7 +82,7 @@
         3651.39990234375,
         3561.89990234375,
         3535.800048828125,
-        3593.39990234375
+        3658.699951171875
       ],
       "ok": true
     },
@@ -90,8 +90,8 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.785,
-      "changePercent": 0.116,
+      "price": 103.695,
+      "changePercent": 0.029,
       "previousClose": 103.81,
       "currency": "USD",
       "history": [
@@ -99,7 +99,7 @@
         104.31999969482422,
         103.80999755859375,
         103.66999816894531,
-        103.78500366210938
+        103.69499969482422
       ],
       "ok": true
     },
@@ -123,94 +123,94 @@
   ],
   "news": [
     {
-      "source": "한국경제",
-      "title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
-      "link": "https://www.hankyung.com/article/2026112735457",
-      "pubDate": "Fri, 27 Nov 2026 06:23:11 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"中에 1%라도 임대하면 칩 공급 안 해\"…엔비디아 판매상 강경방침",
-      "link": "https://www.hankyung.com/article/2026112735397",
-      "pubDate": "Fri, 27 Nov 2026 06:13:00 +0900"
+      "source": "연합뉴스",
+      "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등",
+      "link": "https://www.yna.co.kr/view/AKR20261127078300008",
+      "pubDate": "Fri, 27 Nov 2026 12:39:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "서울 다산콜센터 해외서도 벤치마킹…이란에 '128콜센터' 설립",
-      "link": "https://www.yna.co.kr/view/AKR20261126165300004",
-      "pubDate": "Fri, 27 Nov 2026 06:00:08 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "SNS 인증샷 늘더니…60만원까지 치솟은 '크리스마스 핫템' [프라이스&]",
-      "link": "https://www.hankyung.com/article/202611261253i",
-      "pubDate": "Fri, 27 Nov 2026 06:00:06 +0900"
+      "title": "與정년연장특위 노사합의 불발…10개월만 회동에도 접점 못찾아(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261127069251001",
+      "pubDate": "Fri, 27 Nov 2026 12:18:14 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "롯데멤버스, 세븐일레븐 결제 엘포인트 토스앱서 사후적립 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20261126176200030",
-      "pubDate": "Fri, 27 Nov 2026 06:00:05 +0900"
+      "title": "한국창업학회·중기중앙회, AI 시대 중기·벤처 성장 전략 모색",
+      "link": "https://www.yna.co.kr/view/AKR20261127074200030",
+      "pubDate": "Fri, 27 Nov 2026 12:01:33 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "대출 늘고 금리 오르며…은행 3분기까지 이자이익 48조원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20261126177900002",
-      "pubDate": "Fri, 27 Nov 2026 06:00:04 +0900"
+      "title": "\"OTT 공유 계정 단속에 이용 중단 속출…소비자 상담 급증\"",
+      "link": "https://www.yna.co.kr/view/AKR20261126142100030",
+      "pubDate": "Fri, 27 Nov 2026 12:00:04 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "3분기 보험사 대출잔액 2.1조원 줄어…연체율·부실채권비율↑",
-      "link": "https://www.yna.co.kr/view/AKR20261126188100002",
-      "pubDate": "Fri, 27 Nov 2026 06:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"美서 역대급 실적\" 현대차, 내년 '쌍두마차 출격' 박차 가한다",
-      "link": "https://www.hankyung.com/article/202611262646g",
-      "pubDate": "Fri, 27 Nov 2026 06:00:01 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "농협 조합장 1104명 \"농협 본사 지방이전 대상서 제외해야\"",
-      "link": "https://www.hankyung.com/article/202611273485i",
-      "pubDate": "Fri, 27 Nov 2026 00:07:59 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'이 시나리오면 2028년 먹구름'…한국은행이 보낸 경고 [분석+]",
-      "link": "https://www.hankyung.com/article/2026112625776",
-      "pubDate": "Thu, 26 Nov 2026 22:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"머스크마저 이런 제안을\"…삼성전자 몸값 치솟자 벌어진 일",
-      "link": "https://www.hankyung.com/article/2026112634217",
-      "pubDate": "Thu, 26 Nov 2026 21:21:03 +0900"
+      "title": "3분기 카드 해외사용액 66억달러 역대 최대…여행 지출 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261127064200002",
+      "pubDate": "Fri, 27 Nov 2026 12:00:02 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "KS인더스트리, 50억원 유상증자…프라임라이트투자조합1호에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20261126185200008",
-      "pubDate": "Thu, 26 Nov 2026 19:49:41 +0900"
+      "title": "소비자연맹 \"배달 매장 68.9% 이중가격…포장에도 배달가 적용\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127072000030",
+      "pubDate": "Fri, 27 Nov 2026 11:58:57 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 상상인증권 주원 대표이사, '사람 살리는 금융' 캠페인 동참",
+      "link": "https://www.yna.co.kr/view/AKR20261127075500008",
+      "pubDate": "Fri, 27 Nov 2026 11:49:11 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "국고채 금리 혼조세…3년물 장중 연 3.645%",
+      "link": "https://www.yna.co.kr/view/AKR20261127077500008",
+      "pubDate": "Fri, 27 Nov 2026 11:42:42 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "산업장관 \"노동특례, 첨단 연구개발 인력 한정…오해 없어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127076100003",
+      "pubDate": "Fri, 27 Nov 2026 11:32:18 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[게시판] 현대건설, '스마트건설 챌린지' 3개 분야 혁신상",
+      "link": "https://www.yna.co.kr/view/AKR20261127075400003",
+      "pubDate": "Fri, 27 Nov 2026 11:29:48 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "벤처기업협회 회원사 2만개 돌파…기업 교류·맞춤형 지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261127075300030",
+      "pubDate": "Fri, 27 Nov 2026 11:29:40 +0900"
     },
     {
       "source": "한국경제",
-      "title": "박종복 前 SC제일은행장, 은행연합회장 선출",
-      "link": "https://www.hankyung.com/article/202611263347i",
-      "pubDate": "Thu, 26 Nov 2026 19:21:25 +0900"
+      "title": "中 막히자 \"미국 고객에 팔자\"…AI 초유의 사태 벌어진 곳 [이슈+]",
+      "link": "https://www.hankyung.com/article/202611274333g",
+      "pubDate": "Fri, 27 Nov 2026 11:28:19 +0900"
     },
     {
       "source": "연합뉴스",
-      "title": "자본시장개혁기구 수장에 메리츠 김용범…민간에 전권 부여(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126171651002",
-      "pubDate": "Thu, 26 Nov 2026 18:54:07 +0900"
+      "title": "[게시판] KCGI자산운용, 아시아 투자자 대상 한국 자본시장 세미나 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261127073300008",
+      "pubDate": "Fri, 27 Nov 2026 11:23:33 +0900"
     },
     {
-      "source": "연합뉴스",
-      "title": "오세훈·김은혜, 부동산 정책 공조…내달 1일 세미나 공동 개최(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126122651001",
-      "pubDate": "Thu, 26 Nov 2026 18:49:49 +0900"
+      "source": "한국경제",
+      "title": "\"24종 쏟아붓는다\"…현대차, 중국 시장 뒤집을 콘셉트카 공개",
+      "link": "https://www.hankyung.com/article/202611273967g",
+      "pubDate": "Fri, 27 Nov 2026 11:20:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "무신사 영업익 전년비 67% 증가…\"오프라인 확대, 뷰티 강화 효과\"",
+      "link": "https://www.hankyung.com/article/202611273840g",
+      "pubDate": "Fri, 27 Nov 2026 11:19:57 +0900"
     }
   ]
 }
