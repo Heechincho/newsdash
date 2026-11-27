@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-27T13:42:38.944Z",
+  "updatedAt": "2026-11-27T22:22:51.847Z",
   "instruments": [
     {
       "key": "sp500",
       "label": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7182.78,
-      "changePercent": -0.254,
-      "previousClose": 7323.63,
+      "price": 7297.49,
+      "changePercent": 1.597,
+      "previousClose": 7175.83,
       "currency": "USD",
       "history": [
-        7175.830078125,
         6910.39013671875,
         7237.169921875,
         7201.08984375,
-        7182.77978515625
+        7182.77978515625,
+        7297.490234375
       ],
       "ok": true
     },
@@ -22,16 +22,16 @@
       "key": "nasdaq",
       "label": "나스닥",
       "symbol": "^IXIC",
-      "price": 23585.803,
-      "changePercent": -0.622,
-      "previousClose": 24429.88,
+      "price": 24129.5,
+      "changePercent": 2.305,
+      "previousClose": 23879.2,
       "currency": "USD",
       "history": [
-        23879.19921875,
         22617.73046875,
         24089.560546875,
         23733.5390625,
-        23585.80078125
+        23585.80078125,
+        24129.5
       ],
       "ok": true
     },
@@ -39,16 +39,16 @@
       "key": "dow",
       "label": "다우존스",
       "symbol": "^DJI",
-      "price": 50182.95,
-      "changePercent": 0.328,
-      "previousClose": 50198.17,
+      "price": 50774.94,
+      "changePercent": 1.18,
+      "previousClose": 49097.06,
       "currency": "USD",
       "history": [
-        49097.05859375,
         48147.328125,
         49595.30859375,
         50018.69921875,
-        50182.94921875
+        50182.94921875,
+        50774.94140625
       ],
       "ok": true
     },
@@ -56,16 +56,15 @@
       "key": "wti",
       "label": "WTI유가",
       "symbol": "CL=F",
-      "price": 84.52,
-      "changePercent": 1.004,
-      "previousClose": 83.98,
+      "price": 83.08,
+      "changePercent": -0.717,
+      "previousClose": 80.17,
       "currency": "USD",
       "history": [
-        83.9800033569336,
         80.16999816894531,
         82.05000305175781,
         83.68000030517578,
-        84.5199966430664
+        83.08000183105469
       ],
       "ok": true
     },
@@ -73,16 +72,15 @@
       "key": "gold",
       "label": "금",
       "symbol": "GC=F",
-      "price": 3674.7,
-      "changePercent": 3.089,
-      "previousClose": 3515.4,
+      "price": 3668.5,
+      "changePercent": 2.915,
+      "previousClose": 3651.4,
       "currency": "USD",
       "history": [
-        3515.39990234375,
         3651.39990234375,
         3561.89990234375,
         3535.800048828125,
-        3674.699951171875
+        3668.5
       ],
       "ok": true
     },
@@ -90,16 +88,15 @@
       "key": "dollarIndex",
       "label": "달러인덱스",
       "symbol": "DX-Y.NYB",
-      "price": 103.958,
-      "changePercent": 0.283,
-      "previousClose": 103.81,
+      "price": 104.014,
+      "changePercent": 0.337,
+      "previousClose": 104.32,
       "currency": "USD",
       "history": [
-        103.80999755859375,
         104.31999969482422,
         103.80999755859375,
         103.66999816894531,
-        103.95800018310547
+        104.01399993896484
       ],
       "ok": true
     },
@@ -107,8 +104,8 @@
       "key": "vix",
       "label": "VIX(변동성지수)",
       "symbol": "^VIX",
-      "price": 25.37,
-      "changePercent": -5.338,
+      "price": 23.81,
+      "changePercent": -11.157,
       "previousClose": 26.62,
       "currency": "USD",
       "history": [
@@ -116,12 +113,72 @@
         26.360000610351562,
         28.290000915527344,
         26.799999237060547,
-        25.3700008392334
+        23.809999465942383
       ],
       "ok": true
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "[이집트 미라전] 개관 1주년 이집트 대박물관…사막 위 5천년 문명",
+      "link": "https://www.yna.co.kr/view/AKR20261126181900079",
+      "pubDate": "Sat, 28 Nov 2026 07:00:08 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[금주핫템] K2 'G900 트리니티 퀸'·브랜든 '세이프 데이즈 숄더백'",
+      "link": "https://www.yna.co.kr/view/AKR20261127113800030",
+      "pubDate": "Sat, 28 Nov 2026 07:00:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[신상잇슈] 농심 '불오징어집'·매일유업 '따옴 유기농 아기상어'",
+      "link": "https://www.yna.co.kr/view/AKR20261127104500030",
+      "pubDate": "Sat, 28 Nov 2026 07:00:06 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "\"땅값 10배 뛴다\"며 200억 사기…기획부동산 회장 1심 징역 12년",
+      "link": "https://www.yna.co.kr/view/AKR20261127166700004",
+      "pubDate": "Sat, 28 Nov 2026 07:00:01 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "2018년 말보다 더 나쁘다?...안심하기 힘든 월가의 낙관[월가 백브리핑]",
+      "link": "https://www.hankyung.com/article/202611285731i",
+      "pubDate": "Sat, 28 Nov 2026 06:02:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "[부동산캘린더] 내주 남양주 3기 신도시 등 4천215가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261127116200003",
+      "pubDate": "Sat, 28 Nov 2026 06:01:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"한 알에 커피 한잔 값인데\"…편의점서 인기 폭발한 과일 [프라이스&]",
+      "link": "https://www.hankyung.com/article/202611275556i",
+      "pubDate": "Sat, 28 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
+      "link": "https://www.yna.co.kr/view/AKR20261127166200003",
+      "pubDate": "Sat, 28 Nov 2026 06:00:00 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "AI 셀오프 끝?...\"안심하긴 일러\"[박신영의 개장전 요것만]",
+      "link": "https://www.hankyung.com/article/202611285700i",
+      "pubDate": "Sat, 28 Nov 2026 01:30:10 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "'AI 시대' 미래준비 최고 도시는 샌프란시스코…서울 8위로 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261127169800371",
+      "pubDate": "Sat, 28 Nov 2026 00:26:17 +0900"
+    },
     {
       "source": "한국경제",
       "title": "한국 오면 통째로 퍼먹는다…1469만뷰 터진 '이 케이크' 정체",
@@ -151,66 +208,6 @@
       "title": "노사정, 초광역특구 기간제 논의 매듭…다음 의제 '노사관계'",
       "link": "https://www.yna.co.kr/view/AKR20261127161700530",
       "pubDate": "Fri, 27 Nov 2026 19:22:53 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "공장을 로봇 학습장으로…3D 데이터 용량 98% 줄인 그리네타",
-      "link": "https://www.hankyung.com/article/202611275169i",
-      "pubDate": "Fri, 27 Nov 2026 19:19:14 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이란 전쟁에 기름값 치솟더니…유럽 항공사들 줄줄이 문 닫는다",
-      "link": "https://www.hankyung.com/article/2026112755087",
-      "pubDate": "Fri, 27 Nov 2026 18:54:37 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "AI 보안기업 에임인텔리전스, K-디지털 챔피언십 대상",
-      "link": "https://www.yna.co.kr/view/AKR20261127156800017",
-      "pubDate": "Fri, 27 Nov 2026 18:48:58 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "김범수 'SM시세조종 혐의' 무죄 확정…공소청 상고 포기",
-      "link": "https://www.yna.co.kr/view/AKR20261127156300004",
-      "pubDate": "Fri, 27 Nov 2026 18:25:55 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "이연재 \"미술품 고르던 안목, 주얼리 창업 무기 됐죠\"",
-      "link": "https://www.hankyung.com/article/2026112754111",
-      "pubDate": "Fri, 27 Nov 2026 18:15:21 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "LIG, 네덜란드 참전용사에 감사 기념품",
-      "link": "https://www.hankyung.com/article/2026112754231",
-      "pubDate": "Fri, 27 Nov 2026 18:13:35 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "대동, 550억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20261127146900008",
-      "pubDate": "Fri, 27 Nov 2026 18:11:20 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "AX융합硏 초대 원장에 조주완 前 LG전자 사장",
-      "link": "https://www.hankyung.com/article/2026112754131",
-      "pubDate": "Fri, 27 Nov 2026 18:11:03 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
-      "link": "https://www.yna.co.kr/view/AKR20261127153400530",
-      "pubDate": "Fri, 27 Nov 2026 18:02:54 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261127144700011",
-      "pubDate": "Fri, 27 Nov 2026 18:00:00 +0900"
     }
   ]
 }
