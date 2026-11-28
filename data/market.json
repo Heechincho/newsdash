@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T04:06:49.130Z",
+  "updatedAt": "2026-11-28T12:56:45.265Z",
   "instruments": [
     {
       "key": "sp500",
@@ -80,7 +80,7 @@
         3651.39990234375,
         3561.89990234375,
         3535.800048828125,
-        3668.5
+        3639.60009765625
       ],
       "ok": true
     },
@@ -96,7 +96,7 @@
         104.31999969482422,
         103.80999755859375,
         103.66999816894531,
-        104.01399993896484
+        104.01000213623047
       ],
       "ok": true
     },
@@ -119,6 +119,60 @@
     }
   ],
   "news": [
+    {
+      "source": "연합뉴스",
+      "title": "판교신도시 개발 추진한 김윤기 전 건교부 장관 별세",
+      "link": "https://www.yna.co.kr/view/AKR20261128046500505",
+      "pubDate": "Sat, 28 Nov 2026 18:46:07 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "상파울루 국제관계국장 \"기술, 고립 아닌 연결·성장 위한 도구\"",
+      "link": "https://www.yna.co.kr/view/AKR20261128043800371",
+      "pubDate": "Sat, 28 Nov 2026 18:08:05 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "韓총리, 삼전·하이닉스에 \"채용 많이 해달라\"…청년간담회도",
+      "link": "https://www.yna.co.kr/view/AKR20261128043500001",
+      "pubDate": "Sat, 28 Nov 2026 17:37:33 +0900"
+    },
+    {
+      "source": "연합뉴스",
+      "title": "분당 재건축 선도지구 8곳 \"재초환 조속 폐지\" 공동성명",
+      "link": "https://www.yna.co.kr/view/AKR20261128042900003",
+      "pubDate": "Sat, 28 Nov 2026 17:34:23 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "금요일 퇴근하고 바로 상하이 간다…강원도민에 '희소식'",
+      "link": "https://www.hankyung.com/article/202611274274g",
+      "pubDate": "Sat, 28 Nov 2026 17:00:03 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "\"은퇴 후 어디서 살까\"…세계 실버타운에서 찾는 노후의 답",
+      "link": "https://www.hankyung.com/article/202611262546i",
+      "pubDate": "Sat, 28 Nov 2026 15:00:06 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "비만약 지원에 세금 2800억…도마 위 오른 지자체 정책 [이슈+]",
+      "link": "https://www.hankyung.com/article/202611274184H",
+      "pubDate": "Sat, 28 Nov 2026 14:18:26 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
+      "link": "https://www.hankyung.com/article/202611285956i",
+      "pubDate": "Sat, 28 Nov 2026 13:34:46 +0900"
+    },
+    {
+      "source": "한국경제",
+      "title": "'안전자산' 금의 배신…금리 인상 공포에 고점 대비 33% 급락",
+      "link": "https://www.hankyung.com/article/202611262188i",
+      "pubDate": "Sat, 28 Nov 2026 13:00:05 +0900"
+    },
     {
       "source": "연합뉴스",
       "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
@@ -145,7 +199,7 @@
     },
     {
       "source": "한국경제",
-      "title": "수능 끝나자 3만명 넘게 '우르르'…수험생 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
+      "title": "수능 끝나자 3만명 '우르르'…수험생들 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
       "link": "https://www.hankyung.com/article/202611275090i",
       "pubDate": "Sat, 28 Nov 2026 11:00:06 +0900"
     },
@@ -154,60 +208,6 @@
       "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
       "link": "https://www.yna.co.kr/view/AKR20261127066700980",
       "pubDate": "Sat, 28 Nov 2026 10:30:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261128024500011",
-      "pubDate": "Sat, 28 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261127148900054",
-      "pubDate": "Sat, 28 Nov 2026 10:04:00 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "\"코딩은 클로드, 일상 업무는 딥시크\"…美 기업들의 반전 [차이나 워치]",
-      "link": "https://www.hankyung.com/article/202611263467i",
-      "pubDate": "Sat, 28 Nov 2026 09:34:02 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "韓 반도체 '성과급 잔치'에 들썩일 때…中·日은 칼 갈았다 [강경주의 테크X]",
-      "link": "https://www.hankyung.com/article/2026112750696",
-      "pubDate": "Sat, 28 Nov 2026 09:30:06 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "거래소 지분 '34% 예외'는 누가?...업비트·빗썸 셈법 복잡[디지털자산법 대해부③]",
-      "link": "https://www.hankyung.com/article/202611274076i",
-      "pubDate": "Sat, 28 Nov 2026 09:00:09 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
-      "link": "https://www.yna.co.kr/view/AKR20261127118000056",
-      "pubDate": "Sat, 28 Nov 2026 09:00:03 +0900"
-    },
-    {
-      "source": "한국경제",
-      "title": "'SF 영화 같네'…공장 대신 놀이공원으로 간 로봇들",
-      "link": "https://www.hankyung.com/article/202610103510i",
-      "pubDate": "Sat, 28 Nov 2026 09:00:02 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
-      "link": "https://www.yna.co.kr/view/AKR20261128017000002",
-      "pubDate": "Sat, 28 Nov 2026 08:24:32 +0900"
-    },
-    {
-      "source": "연합뉴스",
-      "title": "[시간들] '공대 가라' 대신 '공대 나오면…' 약속을",
-      "link": "https://www.yna.co.kr/view/AKR20261127106400546",
-      "pubDate": "Sat, 28 Nov 2026 08:00:57 +0900"
     }
   ]
 }
